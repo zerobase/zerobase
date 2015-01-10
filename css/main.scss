@@ -1,11 +1,12 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
 
+// Basic settings
 
-// Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
@@ -25,7 +26,6 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
-
 // Using media queries with like this:
 // @include media-query($palm) {
 //     .wrapper {
@@ -43,14 +43,13 @@ $on-laptop:        800px;
 // Use Bourbon and Neat
 
 @import "bourbon/bourbon"; // http://bourbon.io/
+@import "grid-settings";
 @import "neat/neat"; // http://neat.bourbon.io/
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
-@import
-        "base",
-        "layout",
-        "components/external_link",
-        "syntax-highlighting"
-;
+@import "base";
+@import "layout";
+@import "components/external_link";
+@import "syntax-highlighting";
