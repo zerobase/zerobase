@@ -40,16 +40,17 @@ $on-laptop:        800px;
 }
 
 
-// Use Bourbon and Neat
+// CSS framework: Bourbon, Neat and Bitters
 
 @import "bourbon/bourbon"; // http://bourbon.io/
 @import "grid-settings";
 @import "neat/neat"; // http://neat.bourbon.io/
+@import "base/base"; // http://bitters.bourbon.io/
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
 @import "base";
 @import "layout";
-@import "components/external_link";
 @import "syntax-highlighting";
+@import "components/external_link";
