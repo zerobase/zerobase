@@ -1,0 +1,9 @@
+ul.external.link.component {
+  list-style-type: none;
+  
+  > li {
+    display: inline;
+    width: 10%;
+    min-width: 50px;
+  }
+}
