@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 人物紹介
+title: 人物
 permalink: /about/
 ---
 
