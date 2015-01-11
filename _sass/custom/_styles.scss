@@ -1,3 +1,4 @@
+
 article {
   ul {
     @extend %default-ul
@@ -21,11 +22,5 @@ footer {
 .writing.list {
   li {
     @extend %border-top;
-  }
-}
-
-ul.external.link.component {
-  li {
-    display: inline;
   }
 }

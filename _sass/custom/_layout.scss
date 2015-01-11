@@ -1,14 +1,30 @@
 .container {
   @include outer-container;
   
-  nav {
+  .site.header {
     margin: 0;
     padding: 0;
     
+    .site.title {
+      line-height: 1.2;
+    }
+    
+    .site.subtitle {
+      margin-bottom: 0;
+    }
+  }
+
+  nav {
     ul {
       li {
-       display: inline;
+        display: inline;
       }
+    }
+  }
+  
+  ul.external.link.component {
+    li {
+      display: inline;
     }
   }
 
