@@ -14,10 +14,6 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
+@import "custom/reusable";
 @import "custom/layout";
-@import "custom/header";
-@import "custom/article";
-@import "custom/external_link";
-@import "custom/footer";
-
-@import "custom/index";
+@import "custom/styles";

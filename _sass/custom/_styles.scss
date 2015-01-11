@@ -1,0 +1,30 @@
+article {
+  ul {
+    @extend %default-ul
+  }
+  
+  ol {
+    @extend %default-ol
+  }
+  
+  .footnotes {
+    @extend %border-top;
+  }
+}
+
+footer {
+  @extend %border-top;
+}
+
+.post.list,
+.speech.list {
+  li {
+    @extend %border-top;
+  }
+}
+
+ul.external.link.component {
+  li {
+    display: inline;
+  }
+}
