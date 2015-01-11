@@ -1,13 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
   {% include head.html %}
   <body>
     <div class="container">
       {% include header.html %}
-      <div class="page-content">
-        {{ content }}
-      </div>
+      {{ content }}
       {% include footer.html %}
     </div>
+    {% include custom/script/facebook.html %}
+    {% include custom/script/google_plus.html %}
+    {% include custom/script/twitter.html %}
   </body>
 </html>

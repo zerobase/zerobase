@@ -1,14 +1,33 @@
 # Site settings
 title: 石橋秀仁
+author: 石橋秀仁
+author_link: https://plus.google.com/+IshibashiHideto/
+ogp_image: http://ja.ishibashihideto.net/images/ogp.png
 email: hidetoi@gmail.com
 description: 石橋秀仁は情報建築家です。ソフトウェアを自分で作ったり、ソフトウェアを作っているチームを手伝ったりしています。ウェブとイノベーションが好きです。モットーは「思想を実装する」です。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ja.ishibashihideto.net/" # the base hostname & protocol for your site
+url: "http://ja.ishibashihideto.net" # the base hostname & protocol for your site
 twitter_username: zerobase
 github_username:  zerobase
+subscribe_rss: /atom.xml
 
 # Build settings
 markdown: kramdown
 
 # Blog
 permalink: /blog/:categories/:title/
+
+# Twitter
+twitter_user: zerobase
+twitter_tweet_button: true
+
+# Google +1
+google_plus_one: true
+google_plus_one_size: medium
+
+# Facebook
+facebook_app_id: 212934732101925
+facebook_locale: ja_JP
+
+# Google Analytics
+google_analytics_tracking_id: UA-41591703-2

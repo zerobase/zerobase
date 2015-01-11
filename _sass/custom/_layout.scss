@@ -1,3 +1,19 @@
 .container {
   @include outer-container;
 }
+
+.sharing {
+  margin-top: $base-spacing;
+  border-top: $base-border;
+  padding-top: $base-spacing;
+  
+  .fb-comments {
+    display: block;
+    margin-top: $base-spacing;
+    
+    iframe[style],
+    > span {
+        width: 100% !important;
+    }
+  }
+}

@@ -1,11 +1,21 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  
+  <meta name="author" content="{{ site.author }}">
+  <link rel="author" href="{{ site.author_link }}">
+  
+  {% if page.description %}<meta name="description" content="{{ page.description | strip_html | condense_spaces | truncate:150 }}">{% endif %}
+  {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
 
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link href="{{ root_url }}/favicon.png" type="image/png" rel="icon">
+  <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
+  
+  {% include custom/head/facebook_ogp.html %}
+  {% include custom/head/google_analytics.html %}
 </head>

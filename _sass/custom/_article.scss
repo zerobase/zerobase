@@ -2,7 +2,14 @@ article {
   ul {
     @extend %default-ul
   }
+  
   ol {
     @extend %default-ol
+  }
+  
+  .footnotes {
+    margin-top: $base-spacing;
+    border-top: $base-border;
+    padding-top: $base-spacing;
   }
 }
