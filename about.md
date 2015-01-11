@@ -6,7 +6,7 @@ permalink: /about/
 
 <h1><img alt="Hideto ISHIBASHI, Information Architect" src="/images/top/eyecatcher.png" class="no-border"></h1>
 
-石橋秀仁は[情報建築家](/blog/future-of-information-architect/)／情報デザイナー／プログラマーです。ウェブとイノベーションが好きで、モットーは「[思想を実装する](/philosophy/)」です。機会があれば[講演](/speech/)や[執筆](/writing/)にも積極的に取り組んでいます。
+石橋秀仁は[情報建築家](/blog/future-of-information-architect/)／デザイナー／プログラマーです。ウェブとイノベーションが好きで、モットーは「[思想を実装する](/philosophy/)」です。機会があれば[講演](/speech/)や[執筆](/writing/)にも積極的に取り組んでいます。
 
 
 ## 略歴
