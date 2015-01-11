@@ -2,13 +2,5 @@
   <h2>
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
   </h2>
-  <ul>
-    {% for page in site.pages %}
-      {% if page.title and page.url != "/404.html" %}
-      <li>
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-      </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+  {% include custom/page_link.html %}
 </nav>
