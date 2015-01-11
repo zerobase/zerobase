@@ -9,3 +9,6 @@ github_username:  zerobase
 
 # Build settings
 markdown: kramdown
+
+# Blog
+permalink: /blog/:categories/:title/
