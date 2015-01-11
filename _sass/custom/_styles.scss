@@ -17,7 +17,8 @@ footer {
 }
 
 .post.list,
-.speech.list {
+.speech.list,
+.writing.list {
   li {
     @extend %border-top;
   }
