@@ -9,11 +9,11 @@ permalink: /writing/
 <ul class="writing list">
   {% for writing in site.data.writings %}
     <li>
+      <span class="writing meta time"><time>{{ writing.date }}</time></span>
+      <span class="writing meta place">{{ writing.place }}</span>
       <h2>
         <a class="writing link" href="{{ writing.url | prepend: site.baseurl }}">{{ writing.name }}</a>
       </h2>
-      <span class="writing meta time"><time>{{ writing.date }}</time></span>
-      <span class="writing meta place">{{ writing.place }}</span>
     </li>
   {% endfor %}
 </ul>

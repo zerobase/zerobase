@@ -1,11 +1,13 @@
 ---
 layout: default
+title: 活動
+permalink: /activities/
 ---
 
-<h1>新着情報</h1>
+<h1>活動</h1>
 
 <ul class="post list">
-  {% for post in site.posts %}
+  {% for post in site.categories.activities %}
     <li>
       <span class="post meta"><time>{{ post.date | date: "%Y-%m-%d" }}</time></span>
       <h2>
