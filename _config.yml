@@ -15,7 +15,18 @@ subscribe_rss: /atom.xml
 markdown: kramdown
 
 # Blog
-permalink: /blog/:categories/:title/
+permalink: date # previously: /blog/:categories/:title/
+
+# Default variables
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      categories: "blog"
 
 # Twitter
 twitter_user: zerobase

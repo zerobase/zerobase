@@ -1,0 +1,85 @@
+s3_id: <%= ENV['S3_ID'] %>
+s3_secret: <%= ENV['S3_SECRET'] %>
+s3_bucket: jekyll-ja.ishibashihideto.net # -> jekyll-ja.ishibashihideto.net.s3-website-us-east-1.amazonaws.com
+
+# Below are examples of all the available configurations.
+# See README for more detailed info on each of them.
+
+# max_age:
+#   "assets/*": 6000
+#   "*": 300
+
+# gzip:
+#   - .html
+#   - .css
+#   - .md
+# gzip_zopfli: true
+
+# See http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region for valid endpoints
+# s3_endpoint: ap-northeast-1
+
+# ignore_on_server: that_folder_of_stuff_i_dont_keep_locally
+
+# exclude_from_upload:
+#   - those_folders_of_stuff
+#   - i_wouldnt_want_to_upload
+
+# s3_reduced_redundancy: true
+
+# cloudfront_distribution_id: your-dist-id
+
+# cloudfront_distribution_config:
+#   default_cache_behavior:
+#     min_TTL: <%= 60 * 60 * 24 %>
+#   aliases:
+#     quantity: 1
+#     items:
+#       CNAME: your.website.com
+
+# cloudfront_invalidate_root: true
+
+# concurrency_level: 5
+
+redirects:
+  blog/cto/index.html: /blog/2008/08/31/cto.html
+  blog/black-hat-design/index.html: /blog/2010/06/09/black-hat-design.html
+  blog/entrepreneur/index.html: /blog/2011/12/15/entrepreneur.html
+  blog/usability/index.html: /blog/2012/01/01/usability.html
+  blog/social/index.html: /blog/2012/02/11/social.html
+  blog/agile-development/index.html: /blog/2012/07/09/agile-development.html
+  blog/interface-evolution/index.html: /blog/2012/10/31/interface-evolution.html
+  blog/architecture-criticism/index.html: /blog/2013/03/18/architecture-criticism.html
+  blog/in_browser/index.html: /blog/2013/04/18/in_browser.html
+  blog/blog-writing/index.html: /blog/2013/04/19/blog-writing.html
+  blog/cyber-criminal-vs-technology-defence/index.html: /blog/2013/07/31/cyber-criminal-vs-technology-defence.html
+  blog/ethical-question-on-disruptive-technologies/index.html: /blog/2013/08/13/ethical-question-on-disruptive-technologies.html
+  blog/why-almighty-apps-are-shit/index.html: /blog/2013/08/14/why-almighty-apps-are-shit.html
+  blog/due-process-of-law/index.html: /blog/2013/08/15/due-process-of-law.html
+  blog/luciano-floridi-study-2013-08-20/index.html: /blog/2013/08/22/luciano-floridi-study-2013-08-20.html
+  blog/japanese-markdown-user-group/index.html: /blog/2013/09/03/japanese-markdown-user-group.html
+  blog/japanese-intelligence-atmosphere/index.html: /blog/2013/09/29/japanese-intelligence-atmosphere.html
+  blog/workshop-symposium-seminar-lecture/index.html: /blog/2013/09/29/workshop-symposium-seminar-lecture.html
+  blog/podcast-launched/index.html: /blog/2013/10/02/podcast-launched.html
+  blog/why-society-needs-ia/index.html: /blog/2013/11/17/why-society-needs-ia.html
+  blog/redesign-conference-event/index.html: /blog/2013/11/18/redesign-conference-event.html
+  blog/semantic-turn/index.html: /blog/2013/12/03/semantic-turn.html
+  blog/defeat-of-japan/index.html: /blog/2013/12/08/defeat-of-japan.html
+  blog/business-name-for-your-privacy/index.html: /blog/2013/12/16/business-name-for-your-privacy.html
+  blog/markdown-is-plaintext/index.html: /blog/2013/12/24/markdown-is-plaintext.html
+  blog/copernican-turn-on-information-architecture/index.html: /blog/2014/04/25/copernican-turn-on-information-architecture.html
+  blog/future-of-information-architect/index.html: /blog/2014/04/25/future-of-information-architect.html
+  blog/fumya/index.html: /blog/2014/06/24/fumya.html
+  blog/web-designer-survival/index.html: /blog/2014/08/25/web-designer-survival.html
+  blog/design-fellow-at-venture-capital/index.html: /blog/2014/12/01/design-fellow-at-venture-capital.html
+
+#   index.php: /
+#   about.php: about.html
+#   music-files/promo.mp4: http://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+# routing_rules:
+#   - condition:
+#       key_prefix_equals: blog/some_path
+#     redirect:
+#       host_name: blog.example.com
+#       replace_key_prefix_with: some_new_path/
+#       http_redirect_code: 301
