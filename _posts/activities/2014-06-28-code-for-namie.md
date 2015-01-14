@@ -1,6 +1,6 @@
 ---
 title: 「浪江町住民のタブレット活用を考えるハッカソン」のメンターを務めました
-ogp_image: http://ja.ishibashihideto.net/images/posts/2014-06-28-code-for-namie/tumblr_inline_n80vbkwghX1sov6an.jpg
+thumbnail: http://ja.ishibashihideto.net/images/posts/2014-06-28-code-for-namie/tumblr_inline_n80vbkwghX1sov6an.jpg
 ---
 
 ![](/images/posts/2014-06-28-code-for-namie/tumblr_inline_n80vbkwghX1sov6an.jpg)  

@@ -1,9 +1,7 @@
 ---
-selection: true
-layout: post
 title: 情報建築を設計するアプローチのコペルニクス的転回
 subtitle: エコシステムとユーザー・エクスペリエンスの重視へ
-ogp_image: http://ja.ishibashihideto.net/images/posts/ia-the-lost-decade.jpg
+thumbnail: http://ja.ishibashihideto.net/images/posts/ia-the-lost-decade.jpg
 ---
 
 <div class="eye-catch"><img src="/images/posts/ia-the-lost-decade.jpg"></div>

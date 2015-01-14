@@ -1,6 +1,6 @@
 ---
 title: GMOベンチャーパートナーズのデザインフェローとしてサポートしているVASILY金山社長のインタビュー記事が公開されました
-ogp_image: http://ja.ishibashihideto.net/images/posts/2014-08-02-gmo-vp-vasily-interview/pic_interview-01.jpg
+thumbnail: http://ja.ishibashihideto.net/images/posts/2014-08-02-gmo-vp-vasily-interview/pic_interview-01.jpg
 ---
 
 ![](/images/posts/2014-08-02-gmo-vp-vasily-interview/pic_interview-01.jpg)  

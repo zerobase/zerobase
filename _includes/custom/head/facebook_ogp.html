@@ -1,6 +1,6 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:image" content="{% if page.ogp_image %}{{ page.ogp_image }}{% else %}{{ site.ogp_image }}{% endif %}">
+  <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ site.thumbnail }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:locale" content="{{ site.facebook_locale }}">
   <meta property="og:type" content="article">

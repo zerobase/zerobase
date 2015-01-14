@@ -1,8 +1,6 @@
 ---
-selection: true
-layout: post
 title: ベンチャーキャピタルのデザインフェローという素晴らしい仕事
-ogp_image: http://ja.ishibashihideto.net/images/posts/2014-12-01-design-fellow-at-venture-capital/gmo-vp-and-ishibashi.png
+thumbnail: http://ja.ishibashihideto.net/images/posts/2014-12-01-design-fellow-at-venture-capital/gmo-vp-and-ishibashi.png
 ---
 
 ![GMO VenturePartners × Hideto Ishibashi][0]

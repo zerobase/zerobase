@@ -1,8 +1,6 @@
 ---
-selection: true
-layout: post
 title: "建築家の歴史と情報建築家の未来"
-ogp_image: http://ja.ishibashihideto.net/images/posts/ia-revisited.jpg
+thumbnail: http://ja.ishibashihideto.net/images/posts/ia-revisited.jpg
 ---
 
 <div class="eye-catch"><a title="By Rswurman (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3ARichard_Saul_Wurman_by_Melissa_Mahoney.png"><img alt="Richard Saul Wurman by Melissa Mahoney" src="/images/posts/ia-revisited.jpg"/></a></div>

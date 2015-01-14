@@ -1,6 +1,6 @@
 ---
 title: 第5回ピクタソンに協賛し、ハイパーピクトグラムの宣伝をさせて頂きました
-ogp_image: http://ja.ishibashihideto.net/images/posts/2014-09-21-pictathon-5th/event-pictogram-pictathon-03.png
+thumbnail: http://ja.ishibashihideto.net/images/posts/2014-09-21-pictathon-5th/event-pictogram-pictathon-03.png
 ---
 
 ![](/images/posts/2014-09-21-pictathon-5th/event-pictogram-pictathon-03.png)  

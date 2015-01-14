@@ -2,7 +2,7 @@
 layout: post
 title: プレインテキストは時代を超えてあなたの知的生産を支援する
 subtitle: Markdownの話
-ogp_image: http://ja.ishibashihideto.net/images/posts/markdown-is-plaintext.jpg
+thumbnail: http://ja.ishibashihideto.net/images/posts/markdown-is-plaintext.jpg
 ---
 
 <div class="eye-catch"><img src="/images/posts/markdown-is-plaintext.jpg" title="nvALTの画面"></div>
