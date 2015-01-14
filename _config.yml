@@ -29,8 +29,15 @@ defaults:
       categories: "blog"
   -
     scope:
-      path: "activities" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
+      path: "blog"
+      type: "posts"
+    values:
+      layout: "post"
+      categories: "blog"
+  -
+    scope:
+      path: "activities"
+      type: "posts"
     values:
       layout: "post"
       categories: "activities"
