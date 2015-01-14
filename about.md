@@ -35,4 +35,15 @@ permalink: /about/
 
 ## リンク
 
-{% include custom/external_link.html %}
+<ul class="external link">
+  <li><a href="http://medium.com/@zerobase/"><img alt="Medium" src="/images/links/Medium-logo-dark100.png"></a></li>
+  <li><a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/links/Twitter_logo_blue.png"></a></li>
+  <li><a href="https://www.facebook.com/ishibashi.hideto"><img alt="Facebook" src="/images/links/FB-f-Logo__blue_100.png"></a></li>
+  <li><a href="http://ishibashi.tumblr.com/"><img alt="Tumblr" src="/images/links/tumblr_logo_white_blue.png"></a></li>
+  <li><a href="http://jp.linkedin.com/in/ishibashihideto"><img alt="LinkedIn" src="/images/links/LinkedIn-InBug-2CRev.png"></a></li>
+  <li><a href="https://plus.google.com/+IshibashiHideto"><img alt="Google+" src="/images/links/g+icon.png"></a></li>
+  <li><a href="https://github.com/zerobase"><img alt="GitHub" src="/images/links/GitHub-Mark.png"></a></li>
+  <li><a href="http://qiita.com/zerobase"><img alt="Qiita" src="/images/links/Qiita.png"></a></li>
+  <li><a href="http://talk.ishibashihideto.net/"><img alt="podcast" src="/images/links/podcast_icon.png"></a></li>
+  <li><a href="mailto:hidetoi@gmail.com"><img alt="email" src="/images/links/mail_icon.png"></a></li>
+</ul>
