@@ -1,6 +1,4 @@
 ---
-selection: true
-layout: post
 title:  なぜインブラウザー・デザインへの移行が必要なのか？
 ---
 

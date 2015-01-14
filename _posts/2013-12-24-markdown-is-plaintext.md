@@ -1,5 +1,4 @@
 ---
-layout: post
 title: プレインテキストは時代を超えてあなたの知的生産を支援する
 subtitle: Markdownの話
 thumbnail: http://ja.ishibashihideto.net/images/posts/markdown-is-plaintext.jpg

@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  ブログの作文について
 subtitle: 短く書けばいいというものではない
 description: "むかしは「みんな忙しいから、なるべく文字数を減らして、圧縮して書くほうが、読んでもらいやすいはずだ」と思っていました。しかし、それでは「スラスラ」と読めない文章になってしまうことに気付きました。"
-og_image: /images/posts/blog-writing.jpg
+thumbnail: /images/posts/blog-writing.jpg
 ---
 
 <div class="eye-catch"><img src="/images/posts/blog-writing.jpg"></div>

@@ -1,8 +1,7 @@
 ---
-layout: post
 title:  "インフォメーション・アーキテクトのポッドキャストを始めました"
 description: "いろいろな分野との〈共通言語〉を増やすために、いろいろな分野のゲストを迎えてトークするポッドキャストです。"
-og_image: /images/posts/podcast-launched.jpg
+thumbnail: /images/posts/podcast-launched.jpg
 ---
 
 <div class="eye-catch"><img src="/images/posts/podcast-launched.jpg"></div>

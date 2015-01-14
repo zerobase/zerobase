@@ -1,6 +1,4 @@
 ---
-selection: true
-layout: post
 title: ゼロベース流アジャイルウェブ開発術2010年版
 ---
 

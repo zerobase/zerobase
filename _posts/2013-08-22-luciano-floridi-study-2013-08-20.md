@@ -1,9 +1,7 @@
 ---
-selection: true
-layout: post
 title:  "情報／ITアーキテクトのための「使える！フロリディ情報哲学」（2013年8月20日）"
 description: "ルチアーノ・フロリディの情報哲学や情報倫理学を使って、「情報革命」「インフォスフィア」「インフォーグ」「エントロピー」「オブジェクト指向」などについて語りました。"
-og_image: /images/posts/luciano-floridi-study-2013-08-20.jpg
+thumbnail: /images/posts/luciano-floridi-study-2013-08-20.jpg
 ---
 
 <div class="eye-catch"><img src="/images/posts/luciano-floridi-study-2013-08-20.jpg"></div>

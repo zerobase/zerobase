@@ -1,9 +1,7 @@
 ---
-selection: true
-layout: post
 title:  "なぜ社会には情報建築家が必要なのか？"
 description: "DevLOVE現場甲子園というイベントで講演しました。情報建築家はそもそも「建築家」だと考えています。アーキテクトは環境を担う仕事であり、社会に奉仕する仕事であり、生き方です。"
-og_image: /images/posts/why-society-needs-ia.jpg
+thumbnail: /images/posts/why-society-needs-ia.jpg
 ---
 
 <div class="eye-catch"><a href="http://www.slideshare.net/HidetoIshibashi/ss-28329439"><img src="/images/posts/why-society-needs-ia.jpg"></a></div>

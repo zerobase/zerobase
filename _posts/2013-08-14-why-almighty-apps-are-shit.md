@@ -1,9 +1,7 @@
 ---
-selection: true
-layout: post
 title:  "「設定次第で何でもできる万能アプリ」がクソアプリである理由"
 description: "デザイン学的理由付け：人が初めて見るアプリを「何のために使う物だろうか」と想像・理解する過程の観点／経営学的理由付け：市場競争の観点"
-og_image: /images/posts/why-almighty-apps-are-shit.jpg
+thumbnail: /images/posts/why-almighty-apps-are-shit.jpg
 ---
 
 <div class="eye-catch"><img src="/images/posts/why-almighty-apps-are-shit.jpg"></div>

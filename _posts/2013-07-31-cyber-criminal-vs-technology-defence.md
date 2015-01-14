@@ -1,8 +1,7 @@
 ---
-layout: post
 title:  "サイバー犯罪とテクノロジー防御"
 description: "こんにち、誰もがソフトウェア化されたサイバー犯罪の標的です。詐欺の手順は自動化されており、大量の被害者に接触します。この新たな犯罪類型は旧来型の捜査で検挙できません。テクノロジーなら可能です。"
-og_image: /images/posts/cyber-criminal-vs-technology-defence.jpg
+thumbnail: /images/posts/cyber-criminal-vs-technology-defence.jpg
 ---
 
 <div class="eye-catch"><img src="/images/posts/cyber-criminal-vs-technology-defence.jpg"></div>

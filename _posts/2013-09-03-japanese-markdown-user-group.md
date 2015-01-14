@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  日本語Markdownユーザー会
 subtitle: Japanese Markdown User Group
 description: "日本語でMarkdown（マークダウン）を利用している人のコミュニティを作ります。Markdownの普及を通じて情報アクセシビリティの向上を実現します。"
-og_image: /images/posts/japan-markdown-user-group.jpg
+thumbnail: /images/posts/japan-markdown-user-group.jpg
 ---
 
 <div class="eye-catch"><img src="/images/posts/japan-markdown-user-group.jpg"></div>

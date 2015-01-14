@@ -1,8 +1,7 @@
 ---
-layout: post
 title:  "日本の知的風土では概念が脆くなる"
 description: "日本では概念が脆い。この知的伝統は、日本の国土条件から決定された「知的風土」とも呼べます。万年単位の環境から日本人が影響を受け続けてきているわけですから、遺伝子にも影響しているでしょう。もはや変えられません。"
-og_image: /images/posts/japanese-intelligence-atmosphere.jpg
+thumbnail: /images/posts/japanese-intelligence-atmosphere.jpg
 ---
 
 <div class="eye-catch"><img src="/images/posts/japanese-intelligence-atmosphere.jpg"></div>

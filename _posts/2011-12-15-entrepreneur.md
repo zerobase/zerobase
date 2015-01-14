@@ -1,6 +1,4 @@
 ---
-selection: true
-layout: post
 title: 弱者としての起業家を知ってください
 ---
 

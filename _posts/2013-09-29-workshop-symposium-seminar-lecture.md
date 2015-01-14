@@ -1,8 +1,7 @@
 ---
-layout: post
 title:  "ワークショップ、シンポジウム、セミナー、レクチャーという言葉の意味もすっかり日本化"
 description: "ただの講演イベントに「ワークショップ」と名付ける人が少なくないので、日本の「ワークショップ」概念は十分に日本化されたと見ていいでしょう。「ワークショップ」という言葉は、すっかり独自の意味を喪失しました。感慨深いですね。"
-og_image: /images/posts/workshop-symposium-seminar-lecture.jpg
+thumbnail: /images/posts/workshop-symposium-seminar-lecture.jpg
 ---
 
 <div class="eye-catch"><img src="/images/posts/workshop-symposium-seminar-lecture.jpg"></div>

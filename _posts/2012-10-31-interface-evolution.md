@@ -1,6 +1,4 @@
 ---
-selection: true
-layout: post
 title: ユーザー・インターフェイスの進化の本質
 ---
 

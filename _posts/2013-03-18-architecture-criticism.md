@@ -1,8 +1,7 @@
 ---
-layout: post
 title:  "社会の情報化についてインフォメーション・アーキテクトと一緒に考えて頂けませんか？"
 description: "私はインフォメーション・アーキテクト（情報建築家）です。情報化時代（２１世紀）のアーキテクト（建築家）です。このブログを通じて、みなさんと一緒に情報空間の開発について考えたいと思います。"
-og_image: /images/posts/architecture-criticism.jpg
+thumbnail: /images/posts/architecture-criticism.jpg
 ---
 
 <div class="eye-catch"><img src="/images/posts/architecture-criticism.jpg"></div>

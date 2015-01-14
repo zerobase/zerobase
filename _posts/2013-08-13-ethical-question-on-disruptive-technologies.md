@@ -1,8 +1,7 @@
 ---
-layout: post
 title:  "「既存市場を破壊する破壊的イノベーションは倫理的ではない」のか？"
 description: "「破壊的イノベーション」そのものが「悪い」という立場は、日本経済の恒常的な「過剰品質化」を肯定し、既得権保護と、階級格差の固定化を肯定する立場です。"
-og_image: /images/posts/ethical-question-on-disruptive-technologies.jpg
+thumbnail: /images/posts/ethical-question-on-disruptive-technologies.jpg
 ---
 
 <div class="eye-catch"><a href="http://en.wikipedia.org/wiki/Disruptive_innovation"><img src="/images/posts/ethical-question-on-disruptive-technologies.jpg" alt="How low-end disruption occurs over time"></a></div>
