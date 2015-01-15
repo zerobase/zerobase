@@ -1,6 +1,5 @@
 ---
 title: ウェブサービス開発の現場におけるデザイナー不要論と5〜10年後の生存戦略
-thumbnail: http://ja.ishibashihideto.net/images/posts/web-designer-survival/kicking-out.jpg
 ---
 
 ![エンジニアがUX、IA、UI、HTML、CSS、jQueryなどを抱え、残されたグラフィクスのみ手にしたデザイナーを蹴り出している図。](/images/posts/web-designer-survival/kicking-out.jpg)
