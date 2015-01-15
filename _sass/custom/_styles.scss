@@ -36,7 +36,11 @@ footer {
 .post.list,
 .speech.list,
 .writing.list {
-  li {
+  .item {
     @extend %border-top;
+
+    .meta.subtitle {
+      font-size: 75%;
+    }
   }
 }

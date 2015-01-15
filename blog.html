@@ -1,0 +1,22 @@
+---
+layout: default
+title: ブログ
+permalink: /blog/
+---
+
+<h1>ブログ</h1>
+
+<ul class="post list">
+  {% for post in site.categories.blog %}
+    <li class="post item">
+      <img src="{{ post.thumbnail }}" alt=""><!-- expecting 300x300 -->
+      <span class="meta time"><time>{{ post.date | date: "%Y年%m月%-d日" }}</time></span>
+      <h2 class="title">
+        <a class="link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <span class="meta subtitle">{{ post.subtitle }}</span></a>
+      </h2>
+      <span class="meta description">{{ post.description }}</span>
+    </li>
+  {% endfor %}
+</ul>
+
+<p class="rss-subscribe">subscribe <a href="{{ site.subscribe_rss }}">via RSS</a></p>
