@@ -1,20 +1,15 @@
 ---
 title: "建築家の歴史と情報建築家の未来"
-thumbnail: http://ja.ishibashihideto.net/images/posts/ia-revisited.jpg
+description: 情報建築家（インフォメーション・アーキテクト）は、どこから来て、どこへ向かうのか。建築家の歴史を辿りつつ考えました。
 ---
 
-<div class="eye-catch"><a title="By Rswurman (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3ARichard_Saul_Wurman_by_Melissa_Mahoney.png"><img alt="Richard Saul Wurman by Melissa Mahoney" src="/images/posts/ia-revisited.jpg"/></a></div>
+![](/images/posts/2014-04-25-future-of-information-architect/ia-revisited.jpg)  
+<small>リチャード・S・ワーマンのポートレイト　撮影：Melissa Mahoney　出典：[ウィキメディア・コモンズ](http://commons.wikimedia.org/wiki/File%3ARichard_Saul_Wurman_by_Melissa_Mahoney.png)</small>
 
 概要
 -------
 
-情報建築家 (information architect) は、どこから来たのか。どこへ向かうのか。それについて考えるため、まず建築家の歴史を辿りました。その延長に情報建築家を位置づけたのち、未来社会において情報建築家が占めるべき位置を考えてみました。
-
-
-「情報建築家」という表記
---------------------
-
-ほとんど同じ意味ですが「インフォメーション・アーキテクト」「information architecture」「IA」「情報建築家」などの表記があり、微妙にニュアンスが違いますが、本稿では「情報建築家」と表記します。
+情報建築家（インフォメーション・アーキテクト）は、どこから来て、どこへ向かうのか。建築家の歴史を辿りつつ考えました。
 
 
 建築家は、デザインの総合に取り組む、社会的に重要な職業と見なされてきた
@@ -166,11 +161,4 @@ thumbnail: http://ja.ishibashihideto.net/images/posts/ia-revisited.jpg
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4395100368" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4798115002" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
-
-変更履歴
--------------
-
-- 初版 2014年3月14日
-- 第2版 2014年3月21日
-- 第3版 2014年4月2日
-- 第4版 2014年4月25日
+最終更新日：2015年1月16日
