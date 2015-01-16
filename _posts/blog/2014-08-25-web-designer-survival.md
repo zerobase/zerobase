@@ -1,8 +1,9 @@
 ---
 title: ウェブサービス開発の現場におけるデザイナー不要論と5〜10年後の生存戦略
+description: デザイナーの仕事がエンジニアに侵食されつつある現状を示し、生存戦略として「ウェブサービスのアートディレクター」と「フルスタックウェブデザイナー」を例示する。
 ---
 
-![エンジニアがUX、IA、UI、HTML、CSS、jQueryなどを抱え、残されたグラフィクスのみ手にしたデザイナーを蹴り出している図。](/images/posts/web-designer-survival/kicking-out.jpg)
+![エンジニアがUX、IA、UI、HTML、CSS、jQueryなどを抱え、残されたグラフィクスのみ手にしたデザイナーを蹴り出している図。](/images/posts/2014-08-25-web-designer-survival/kicking-out.jpg)
 
 本稿では、まず「ウェブサービス開発の現場で、ウェブデザイナーの仕事はエンジニアに奪われつつある」という**脅威**を語る。次に、**生存戦略**を考えるヒントとして「分かりやすい生存戦略」を2つ提示する。「アートディレクター」と「フルスタックウェブデザイナー」という2つの生存戦略だ。
 
@@ -44,7 +45,7 @@ title: ウェブサービス開発の現場におけるデザイナー不要論�
 
 分かりやすく例えると、[佐藤可士和](http://kashiwasato.com/)的な立ち位置でプロダクトデザインにもコミットしていくイメージ。[飲料パッケージ](http://kashiwasato.com/#kirin_chibilemon)や[携帯電話](http://kashiwasato.com/#docomo_n-07a)の事例を参照すべし。「出来上がったプロダクトのプロモーションを請け負うだけの仕事」から「プロモートされるべきプロダクト自体もデザインする仕事」へのシフトは、[マーケティング・ミックス論](http://www.weblio.jp/content/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9)的にも正当化される。プロダクトとプロモーションがバラバラにデザインされるよりも、統合的にデザインされているほうがいい。その二つを統合できるロール（役割）としての「アートディレクター」なのだ。
 
-![4P: Product, Price, Place and Promotion](/images/posts/web-designer-survival/4p-marketing-mix.jpg)
+![4P: Product, Price, Place and Promotion](/images/posts/2014-08-25-web-designer-survival/4p-marketing-mix.jpg)
 
 すでにお分かりのように、本稿では「アートディレクション」という言葉に「クリエイティブディレクション」の領域も含んでいる。有り体に言えば、佐藤可士和的な「アートディレクター」を想定している。つまり、事業責任者（あるいはクライアント）と普通に「ビジネスの話」が出来なければならないということだ。そのためには[ビジネス一般常識](http://www.shukatsu-kami.jp/common-sense/method/)や[社会人基礎力](http://www.meti.go.jp/policy/kisoryoku/)が必要だ。残念ながらウェブデザイナーには、ビジネス上の一般常識や、いわゆる「社会人基礎力」の弱い人が少なくないので、念のため指摘しておく。デザイナーとしてのスキルを磨く前に、まず「社会人として一人前」になって欲しい。
 
@@ -84,7 +85,7 @@ title: ウェブサービス開発の現場におけるデザイナー不要論�
 
 「フルスタックウェブデザイナー」とは、IAからフロントエンド実装まで一人でこなせる人のこと。つまり、UXリサーチやデザインワークショップのファシリテーションから、プロトタイプ制作、jQuery、マークアップ、スタイルガイドまで、全部一人でやれるということ。HamlやSassをマスターして、GitでRuby on Railsのviewを触るのも当たり前。[ミニマムなTodoリスト](http://todomvc.com/)を作れるくらいのプログラミングもできたほうがいい。
 
-![Strategy, Design and Implementation](/images/posts/web-designer-survival/full-stack.jpg)
+![Strategy, Design and Implementation](/images/posts/2014-08-25-web-designer-survival/full-stack.jpg)
 
 参考： [デザイナーもコードを書こう！デザイナーとエンジニアの役割分担（Webサービス編） –　THE CLIP, Inc.](http://theclip.jp/news/124/)
 
