@@ -9,12 +9,14 @@ permalink: /blog/
 <ul class="post list">
   {% for post in site.categories.blog %}
     <li class="post item">
-      <img src="{{ post.path | replace: '_posts/blog/', '/images/posts/' | replace: '.md', '/thumbnail.png' }}" alt="" width="300" height="300">
-      <span class="meta time"><time>{{ post.date | date: "%Y年%m月%-d日" }}</time></span>
-      <h2 class="title">
-        <a class="link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <span class="meta subtitle">{{ post.subtitle }}</span></a>
-      </h2>
-      <span class="meta description">{{ post.description }}</span>
+      <a class="link" href="{{ post.url | prepend: site.baseurl }}">
+        <img class="thumbnail" src="{{ post.path | replace: '_posts/blog/', '/images/posts/' | replace: '.md', '/thumbnail.png' }}" alt="" width="300" height="300">
+        <span class="meta time"><time>{{ post.date | date: "%Y-%m-%d" }}</time></span>
+        <h2 class="title">
+          {{ post.title }} <span class="meta subtitle">{{ post.subtitle }}</span>
+        </h2>
+        <span class="meta description">{{ post.description }}</span>
+      </a>
     </li>
   {% endfor %}
 </ul>

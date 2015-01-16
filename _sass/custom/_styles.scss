@@ -31,13 +31,17 @@ footer {
     @extend %border-top;
     @include clearfix;
 
-    img {
-      float: left;
-      margin-right: $base-spacing;
-    }
+    .link {
+      display: block;
 
-    .meta.subtitle {
-      font-size: 75%;
+      .thumbnail {
+        float: left;
+        margin-right: $base-spacing;
+      }
+
+      .meta.subtitle {
+        font-size: 75%;
+      }
     }
   }
 }
