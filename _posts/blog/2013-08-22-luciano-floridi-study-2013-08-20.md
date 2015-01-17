@@ -1,12 +1,21 @@
 ---
-title:  "情報／ITアーキテクトのための「使える！フロリディ情報哲学」（2013年8月20日）"
-description: "ルチアーノ・フロリディの情報哲学や情報倫理学を使って、「情報革命」「インフォスフィア」「インフォーグ」「エントロピー」「オブジェクト指向」などについて語りました。"
-thumbnail: /images/posts/luciano-floridi-study-2013-08-20.jpg
+title: 情報／ITアーキテクトのための「使える！フロリディ情報哲学」
+description: ルチアーノ・フロリディの情報哲学・情報倫理学の研究会を2013年8月20日に行いました。
 ---
 
-<div class="eye-catch"><img src="/images/posts/luciano-floridi-study-2013-08-20.jpg"></div>
+![](/images/posts/2013-08-22-luciano-floridi-study-2013-08-20/luciano-floridi.jpg)  
+<small>ルチアーノ・フロリディのポートレイト　出典：<https://twitter.com/floridi></small>
 
 ルチアーノ・フロリディの情報の哲学や倫理学を使って「情報革命」「インフォスフィア」「インフォーグ」「エントロピー」「オブジェクト指向」などについて議論しました。
+
+- [イベント開催情報](https://www.evernote.com/shard/s7/sh/30db21d4-0528-4960-b578-d5cef4eceba0/3494cea6e8e6de26c71f678400f8eca4)
+- [レジュメ](https://www.evernote.com/shard/s7/sh/1f68afa5-1b57-4cac-8fc6-819236307fe8/59fddf7d317c04badbab089bfaef12d4)
+
+<div class="responsive embed aspect16x9">
+  <iframe src="//player.vimeo.com/video/72827047" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<small><a href="http://vimeo.com/72827047">情報／ITアーキテクトのための「使える！フロリディ情報哲学」 (2013-08-20)</a> from <a href="http://vimeo.com/zerobase">Ishibashi Hideto</a> on <a href="https://vimeo.com">Vimeo</a>.</small>
 
 フロリディの思想はSF的です。『GHOST IN THE SHELL / 攻殻機動隊』のようなサイバーパンクの世界観に通じます。
 
@@ -21,12 +30,6 @@ thumbnail: /images/posts/luciano-floridi-study-2013-08-20.jpg
 - **すべては情報である。**
 
 といった世界観です。ふつうは「非物質的存在」のみを「情報」と呼ぶかと思いますが、フロリディは「（人間の認識上は）すべてが情報として存在している」と言うわけです。
-
-- [イベント開催情報](https://www.evernote.com/shard/s7/sh/30db21d4-0528-4960-b578-d5cef4eceba0/3494cea6e8e6de26c71f678400f8eca4)
-- [レジュメ](https://www.evernote.com/shard/s7/sh/1f68afa5-1b57-4cac-8fc6-819236307fe8/59fddf7d317c04badbab089bfaef12d4)
-- [研究会の様子（動画）](http://vimeo.com/72827047)
-
-<iframe src="//player.vimeo.com/video/72827047" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="margin: 3em 0;"></iframe>
 
 ## 情報革命のインパクトは農業革命・産業革命に匹敵する ##
 
