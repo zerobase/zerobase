@@ -1,21 +1,18 @@
 ---
-title:  "なぜ社会には情報建築家が必要なのか？"
-description: "DevLOVE現場甲子園というイベントで講演しました。情報建築家はそもそも「建築家」だと考えています。アーキテクトは環境を担う仕事であり、社会に奉仕する仕事であり、生き方です。"
-thumbnail: /images/posts/why-society-needs-ia.jpg
+title: なぜ社会には情報建築家が必要なのか？
+description: DevLOVE現場甲子園というイベントでの講演です。
 ---
-
-<div class="eye-catch"><a href="http://www.slideshare.net/HidetoIshibashi/ss-28329439"><img src="/images/posts/why-society-needs-ia.jpg"></a></div>
-
-〔註：筆者の自称は現在「情報建築家」に統一していますが、本稿では発表当時の「情報アーキテクト」という表記を使います〕
 
 『なぜ社会には情報アーキテクトが必要なのか？』という講演を2013年11月9日の[DevLOVE現場甲子園2013](http://devlove.doorkeeper.jp/events/5464)でさせて頂きました。ありがとうございます。
 
 - [スライド（音声付き）](http://www.slideshare.net/HidetoIshibashi/ss-28329439) [^slideCopyright]
 - [Podcast（音声のみ）](http://talk.ishibashihideto.net/post/67230091887/iap-21)
 
-<div style="margin: 3em 0;">
-  <iframe src="http://www.slideshare.net/slideshow/embed_code/28329439" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/HidetoIshibashi/ss-28329439" title="なぜ社会には情報アーキテクトが必要なのか？" target="_blank">なぜ社会には情報アーキテクトが必要なのか？</a> </strong> from <strong><a href="http://www.slideshare.net/HidetoIshibashi" target="_blank">Hideto Ishibashi</a></strong> </div>
+<div class="responsive embed aspect4x3">
+  <iframe src="http://www.slideshare.net/slideshow/embed_code/28329439" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 </div>
+
+<small><a href="https://www.slideshare.net/HidetoIshibashi/ss-28329439" title="なぜ社会には情報アーキテクトが必要なのか？" target="_blank">なぜ社会には情報アーキテクトが必要なのか？</a> from <a href="http://www.slideshare.net/HidetoIshibashi" target="_blank">Hideto Ishibashi</a></small>
 
 [^slideCopyright]: 講演時のスライドに含まれていた写真は削除しました。著作権上の配慮です。各スライドの最下部に小さな文字でURLを記載し、リンクしています。
 
