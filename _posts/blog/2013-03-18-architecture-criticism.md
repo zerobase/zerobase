@@ -1,10 +1,9 @@
 ---
-title:  "社会の情報化についてインフォメーション・アーキテクトと一緒に考えて頂けませんか？"
-description: "私はインフォメーション・アーキテクト（情報建築家）です。情報化時代（２１世紀）のアーキテクト（建築家）です。このブログを通じて、みなさんと一緒に情報空間の開発について考えたいと思います。"
-thumbnail: /images/posts/architecture-criticism.jpg
+title: 社会の情報化についてインフォメーション・アーキテクトと一緒に考えて頂けませんか？
+description: 社会の情報化について議論していく必要があります。
 ---
 
-<div class="eye-catch"><img src="/images/posts/architecture-criticism.jpg"></div>
+![](/images/posts/2013-03-18-architecture-criticism/architecture-criticism.jpg)
 
 はじめまして。石橋秀仁（いしばしひでと）と申します。私の職業は「インフォメーション・アーキテクト」（情報建築家）です。ウェブ・サービスやアプリを開発しています。
 
