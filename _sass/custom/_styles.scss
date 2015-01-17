@@ -15,6 +15,32 @@ article {
     @extend %default-ol
   }
   
+  pre {
+    overflow-x: scroll;
+  }
+  
+  .responsive.embed {
+    height: 0;
+    overflow: hidden;
+    position: relative;
+
+    embed,
+    object,
+    iframe {
+      @include position(absolute, 0px null null 0px);
+      @include size(100%);
+    }
+  }
+
+  .responsive.embed.aspect16x9 {
+    
+    padding-bottom: 56.25%;
+  }
+
+  .responsive.embed.aspect4x3 {
+    padding-bottom: 75%;
+  }
+  
   .footnotes {
     @extend %border-top;
   }

@@ -119,7 +119,11 @@ HTMLのタグを覚えるのも書くのも大変ですが、これならラク�
 
 nvALTの爆速っぷりをご覧あれ：
 
-<iframe src="//player.vimeo.com/video/82571826" width="500" height="482" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/82571826">ノートアプリnvALTは1753件のノートも一瞬で検索する</a> from <a href="http://vimeo.com/zerobase">Ishibashi Hideto</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="responsive embed aspect16x9">
+  <iframe src="//player.vimeo.com/video/82571826" width="500" height="482" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<small><a href="http://vimeo.com/82571826">ノートアプリnvALTは1753件のノートも一瞬で検索する</a> from <a href="http://vimeo.com/zerobase">Ishibashi Hideto</a> on <a href="https://vimeo.com">Vimeo</a>.</small>
 
 データの保存方法（ストレージ）としては、当初Dropboxにテキストファイル(.md)を置いていたのですが、いまは[Simplenote]を使っています。Dropboxよりも同期が速くて素晴らしいです。ぜひいちど使ってみてください。
 
@@ -137,7 +141,11 @@ nvALTの爆速っぷりをご覧あれ：
 
 [Markdownの知られざる重要性と可能性]というスピーチをさせて頂いたこともあります：
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/26457400" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/HidetoIshibashi/markdown-26457400" title="Markdownの知られざる重要性と可能性" target="_blank">Markdownの知られざる重要性と可能性</a> </strong> from <strong><a href="http://www.slideshare.net/HidetoIshibashi" target="_blank">Hideto Ishibashi</a></strong> </div>
+<div class="responsive embed aspect4x3">
+<iframe src="http://www.slideshare.net/slideshow/embed_code/26457400" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
+</div>
+
+<small><a href="https://www.slideshare.net/HidetoIshibashi/markdown-26457400" title="Markdownの知られざる重要性と可能性">Markdownの知られざる重要性と可能性</a> from <a href="http://www.slideshare.net/HidetoIshibashi">Hideto Ishibashi</a></small>
 
 そんな次第で、Markdown好きが講じて[日本語Markdownユーザー会(Japanese Markdown User Group)] を作りました。ぜひ[Googleグループ](https://groups.google.com/d/forum/markdown-ja)にご参加ください。
 
