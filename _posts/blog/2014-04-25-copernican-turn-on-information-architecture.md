@@ -1,21 +1,19 @@
 ---
-title: 情報建築を設計するアプローチのコペルニクス的転回
+title: インフォメーション・アーキテクチャを設計するアプローチのコペルニクス的転回
 subtitle: エコシステムとユーザー・エクスペリエンスの重視へ
-thumbnail: http://ja.ishibashihideto.net/images/posts/ia-the-lost-decade.jpg
+description: インフォメーション・アーキテクチャの設計パラダイムが変わりつつあります。この変化は、サービスデザインというパラダイムとも深く関係しています。
 ---
 
-<div class="eye-catch"><img src="/images/posts/ia-the-lost-decade.jpg"></div>
+![インフォメーション・アーキテクチャ関連書籍](/images/posts/2014-04-25-copernican-turn-on-information-architecture/ia-books.jpg)
+
+
+インフォメーション・アーキテクチャの設計パラダイムが変わりつつあります。この変化は、**サービスデザイン**というパライダムとも深く関係しています。
+
 
 対象読者
 -----------------
 
-「インフォメーション・アーキテクチャ」 (IA) という言葉を知っている人を対象とした文章です。
-
-
-「情報建築」という表記
--------------------
-
-同じ意味ですが「インフォメーション・アーキテクチャ」「information architecture」「IA」「情報建築」などの表記があります。本稿では「情報建築」と表記します。
+情報建築（インフォメーション・アーキテクチャ／IA）という言葉を知っている人を対象とした文章です。
 
 
 客観的情報を扱う古典的アプローチから、主観的経験を扱う現代的アプローチへ
@@ -146,9 +144,4 @@ thumbnail: http://ja.ishibashihideto.net/images/posts/ia-the-lost-decade.jpg
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4492522050" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4492521828" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
-
-変更履歴
---------
-
-- 初版 2014年3月5日
-- 第2版 2014年4月25日
+最終更新日：2014年4月25日
