@@ -1,9 +1,10 @@
 ---
-title:  "近未来のカンファレンス・イベントのかたち"
-description: "近未来のカンファレンス・イベントは、講演などの受動的に享受するコンテンツから、能動的に参加するワークショップなどのアクティビティへと、その中心を移していくでしょう。情報環境がそれを可能にします。"
+title: 近未来のカンファレンス・イベントのかたち
+description: カンファレンスのあり方は、受動的に享受するコンテンツから、能動的に参加するアクティビティへとシフトしていくでしょう。
 ---
 
-<div class="eye-catch"><a href="http://www.flickr.com/photos/vousnousdesign/9101419458/" title="Workshop du 19 juin 2013 au Domaine de Graux-95.jpg by Vousnous Design, on Flickr"><img src="http://farm6.staticflickr.com/5531/9101419458_02d7d2da81.jpg" width="500" height="333" alt="Workshop du 19 juin 2013 au Domaine de Graux-95.jpg" title="Workshop photo by Vousnous Design"></a></div>
+![](/images/posts/2013-11-18-redesign-conference-event/9101419458_02d7d2da81.jpg)  
+<small>[Workshop du 19 juin 2013 au Domaine de Graux-95.jpg by Vousnous Design, on Flickr](http://www.flickr.com/photos/vousnousdesign/9101419458/)</small>
 
 近未来のカンファレンス・イベントは、講演などの受動的に享受する**コンテンツ**から、能動的に参加するワークショップなどの**アクティビティ**へと、その中心を移していくでしょう。
 
