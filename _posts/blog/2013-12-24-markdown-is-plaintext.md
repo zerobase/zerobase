@@ -1,10 +1,9 @@
 ---
 title: プレインテキストは時代を超えてあなたの知的生産を支援する
-subtitle: Markdownの話
-thumbnail: http://ja.ishibashihideto.net/images/posts/markdown-is-plaintext.jpg
+description: 文書データ形式としてのプレインテキストと、Markdownというフォーマットのメリットについて。
 ---
 
-<div class="eye-catch"><img src="/images/posts/markdown-is-plaintext.jpg" title="nvALTの画面"></div>
+![nvALTの画面](/images/posts/2013-12-24-markdown-is-plaintext/nvALT.jpg)
 
 〔[ドキュメンテーション Advent Calendar 2013] のための文章です〕
 
