@@ -1,10 +1,9 @@
 ---
-title:  "インフォメーション・アーキテクトのポッドキャストを始めました"
-description: "いろいろな分野との〈共通言語〉を増やすために、いろいろな分野のゲストを迎えてトークするポッドキャストです。"
-thumbnail: /images/posts/podcast-launched.jpg
+title: インフォメーション・アーキテクトのポッドキャストを始めました
+description: いろいろな分野との〈共通言語〉を増やすために、いろいろな分野のゲストを迎えてトークするポッドキャストです。
 ---
 
-<div class="eye-catch"><img src="/images/posts/podcast-launched.jpg"></div>
+![](/images/posts/2013-10-02-podcast-launched/podcast-launched.jpg)
 
 [Information Architect's Podcast](http://talk.ishibashihideto.net/) をはじめました。いろいろな分野との〈共通言語〉を増やすために、いろいろな分野のゲストを迎えてトークするポッドキャストです。
 
