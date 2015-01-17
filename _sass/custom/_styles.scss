@@ -72,6 +72,10 @@ footer {
   }
 }
 
+.post .meta.subtitle {
+  font-size: 75%;
+}
+
 .commands.list {
   @extend %border-top;
 
