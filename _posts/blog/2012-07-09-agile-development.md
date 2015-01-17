@@ -1,6 +1,9 @@
 ---
 title: ゼロベース流アジャイルウェブ開発術2010年版
+description: 2010年12月22日発売の WEB+DB PRESS Vol.60 へ寄稿した文章を公開します。
 ---
+
+![](/images/posts/2012-07-09-agile-development/9784774144603.jpg)
 
 2010年12月22日発売の [WEB+DB PRESS Vol.60](http://gihyo.jp/magazine/wdpress/archive/2011/vol60) へ寄稿した文章を（技術評論社さんの好意もあり）少し訂正して公開します。ブログエントリとしては長大な3万字なので、[電子書籍BCCKS版](http://bccks.jp/bcck/107527/info)（無料）もご利用ください。iPad版は読みやすかったです。
 
