@@ -88,7 +88,8 @@ GHQは、ソ連による日本における共産主義革命を防ぐことに�
 
 日本は、いまや緊密な関係にある友好国アメリカと、かつては血で血を洗う戦争をしました。これは**忘れてはならないこと**です。
 
-<div class="eye-catch"><a href="http://www.mod.go.jp/gsdf/central/gallery_iou.html"><img src="/images/posts/blog/iwo-jima-memorial.jpg" alt="日米硫黄島戦没者合同慰霊追悼顕彰式の風景" title="日米硫黄島戦没者合同慰霊追悼顕彰式"></a></div>
+![日米硫黄島戦没者合同慰霊追悼顕彰式の写真](/images/posts/blog/2013-12-08-defeat-of-japan/iwo-jima-memorial.jpg)  
+<small>出典：[陸上自衛隊中央音楽隊ウェブサイト](http://www.mod.go.jp/gsdf/central/gallery_iou.html)</small>
 
 この写真は、日米硫黄島戦没者合同慰霊追悼顕彰式の様子です。まさに血で血を洗う激戦の地となった硫黄島で、日本人とアメリカ人が共に戦没者を慰霊追悼しています。現在の日本とアメリカの関係には、このような礎があります。
 
