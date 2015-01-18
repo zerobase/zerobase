@@ -3,10 +3,10 @@ title: Code for Namieのハッカソンでメンターを務めました
 description: 浪江町住民のタブレット活用を考えるハッカソンのメンターとして、デザイン面のお手伝いをしました。
 ---
 
-![](/images/posts/activities/2014-06-28-code-for-namie/tumblr_static_aty2xk9lmlko0ks888ccg48sw.jpg)  
+![](/images/posts/activity/2014-06-28-code-for-namie/tumblr_static_aty2xk9lmlko0ks888ccg48sw.jpg)  
 <small>Code for Namieのロゴ © Code for Namie</small>
 
-![](/images/posts/activities/2014-06-28-code-for-namie/tumblr_inline_n80vbkwghX1sov6an.jpg)  
+![](/images/posts/activity/2014-06-28-code-for-namie/tumblr_inline_n80vbkwghX1sov6an.jpg)  
 <small>「浪江町住民のタブレット活用を考えるハッカソン」閉幕後の集合写真 © Code for Namie</small>
 
 「[浪江町住民のタブレット活用を考えるハッカソン](http://codefornamie.org/post/90508290725/6-28-2)」のメンターとして、デザイン面のお手伝いをしました。

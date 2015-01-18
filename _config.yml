@@ -36,11 +36,25 @@ defaults:
       categories: "blog"
   -
     scope:
-      path: "activities"
+      path: "activity"
       type: "posts"
     values:
       layout: "post"
-      categories: "activities"
+      categories: "activity"
+  -
+    scope:
+      path: "speech"
+      type: "posts"
+    values:
+      layout: "post"
+      categories: "speech"
+  -
+    scope:
+      path: "writing"
+      type: "posts"
+    values:
+      layout: "post"
+      categories: "writing"
 
 # Twitter
 twitter_user: zerobase
