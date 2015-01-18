@@ -3,7 +3,7 @@ title: プレインテキストは時代を超えてあなたの知的生産を�
 description: 文書データ形式としてのプレインテキストと、Markdownというフォーマットのメリットについて。
 ---
 
-![nvALTの画面](/images/posts/2013-12-24-markdown-is-plaintext/nvALT.jpg)
+![nvALTの画面](/images/posts/blog/2013-12-24-markdown-is-plaintext/nvALT.jpg)
 
 〔[ドキュメンテーション Advent Calendar 2013] のための文章です〕
 

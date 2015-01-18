@@ -3,7 +3,7 @@ title: 日本の知的風土では概念が脆くなる
 description: 日本では概念が脆い。この知的伝統は、日本の国土条件から決定された「知的風土」とも呼べます。
 ---
 
-![三種の神器](/images/posts/2013-09-29-japanese-intelligence-atmosphere/the-imperial-regalia-of-japan.jpg)
+![三種の神器](/images/posts/blog/2013-09-29-japanese-intelligence-atmosphere/the-imperial-regalia-of-japan.jpg)
 
 日本にやってきた概念は、本来の意味を喪失し、ほかの言葉と区別がつかなくなりがちです。例えば、ウェブ業界では「UX」と「UI」の混同が代表的です。
 

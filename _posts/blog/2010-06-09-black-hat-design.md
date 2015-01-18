@@ -3,7 +3,7 @@ title: 「自分の意思で決めている」と思い込ませつつ意思決�
 description: 「ユーザーの利益になる体験を作り上げるための技術」である「ユーザーエクスペリエンスデザイン」は、「ユーザーに不利益を与えながら、不利益だと感じさせないための技術」に悪用することができる。デザイナの職業倫理が問われなければならない。
 ---
 
-![](/images/posts/2010-06-09-black-hat-design/marionette.jpg)  
+![](/images/posts/blog/2010-06-09-black-hat-design/marionette.jpg)  
 <small>操り人形風の人物写真　出典：[Day 137 by Bastian, on Flickr](https://www.flickr.com/photos/bneumann/3196904749)</small>
 
 〔初出：2010年6月9日、更新：2014年1月14日〕
@@ -22,7 +22,7 @@ NYTimes誌によると、Facebook上で自分のプライバシーを適切に�
 
 下図を見ると、「ユーザーによる細かい制御を可能にするため」という説明は悪い冗談に思えてきます。
 
-[![Facebook Privacy: A Bewildering Tangle of Options - Graphic - NYTimes.com](/images/posts/2010-06-09-black-hat-design/dark-ux-1.jpg)](http://www.nytimes.com/interactive/2010/05/12/business/facebook-privacy.html)
+[![Facebook Privacy: A Bewildering Tangle of Options - Graphic - NYTimes.com](/images/posts/blog/2010-06-09-black-hat-design/dark-ux-1.jpg)](http://www.nytimes.com/interactive/2010/05/12/business/facebook-privacy.html)
 
 凡例の
 
@@ -38,7 +38,7 @@ NYTimes誌によると、Facebook上で自分のプライバシーを適切に�
 
 また、下図左はFacebookのプライバシーポリシー記述の量が年々増えてきた様子を示しています。下図右は他のソーシャルネットワークとFacebookのプライバシーポリシーを語数で比較したものです。合衆国憲法（修正条項を除く）より多い語数です。
 
-!["The ever-expanding privacy policy" and "Longer than the Constitution"](/images/posts/2010-06-09-black-hat-design/dark-ux-2.gif)
+!["The ever-expanding privacy policy" and "Longer than the Constitution"](/images/posts/blog/2010-06-09-black-hat-design/dark-ux-2.gif)
 
 この図で暗示されているのはプライバシー設定の過剰な複雑さであり、情報アーキテクチャ上の問題だとGarrett氏は言います。
 

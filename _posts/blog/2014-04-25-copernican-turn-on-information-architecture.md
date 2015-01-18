@@ -4,7 +4,7 @@ subtitle: エコシステムとユーザー・エクスペリエンスの重視�
 description: インフォメーション・アーキテクチャの設計パラダイムが変わりつつあります。この変化は、サービスデザインというパラダイムとも深く関係しています。
 ---
 
-![インフォメーション・アーキテクチャ関連書籍](/images/posts/2014-04-25-copernican-turn-on-information-architecture/ia-books.jpg)
+![インフォメーション・アーキテクチャ関連書籍](/images/posts/blog/2014-04-25-copernican-turn-on-information-architecture/ia-books.jpg)
 
 
 インフォメーション・アーキテクチャの設計パラダイムが変わりつつあります。この変化は、**サービスデザイン**というパライダムとも深く関係しています。

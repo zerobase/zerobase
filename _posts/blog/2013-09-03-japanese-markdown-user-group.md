@@ -4,7 +4,7 @@ subtitle: Japanese Markdown User Group
 description: 日本語でMarkdown（マークダウン）を利用している人のコミュニティを作ります。Markdownの普及を通じて情報アクセシビリティの向上を実現します。
 ---
 
-![](/images/posts/japan-markdown-user-group.jpg)
+![](/images/posts/blog/japan-markdown-user-group.jpg)
 
 日本語でMarkdown（マークダウン）を利用している人のコミュニティを作ります。Markdownの普及を通じて情報アクセシビリティの向上を実現します。
 

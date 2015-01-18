@@ -3,7 +3,7 @@ title: 社会の情報化についてインフォメーション・アーキテ�
 description: 社会の情報化について議論していく必要があります。
 ---
 
-![](/images/posts/2013-03-18-architecture-criticism/architecture-criticism.jpg)
+![](/images/posts/blog/2013-03-18-architecture-criticism/architecture-criticism.jpg)
 
 はじめまして。石橋秀仁（いしばしひでと）と申します。私の職業は「インフォメーション・アーキテクト」（情報建築家）です。ウェブ・サービスやアプリを開発しています。
 

@@ -117,11 +117,11 @@ description: 「ベンチャーキャピタルのデザインフェロー」と�
 
 [^skillup]: スキルアップの例として、[産業技術大学院大学履修証明プログラム「人間中心デザイン」][2]を受講したり、[人間中心設計専門家][3]の資格取得のための勉強をするといったことが考えられます。しかし、スタートアップで働いている人にとって、そのような余裕があるケースは稀でしょう。
 
-[0]: /images/posts/2014-12-01-design-fellow-at-venture-capital/gmo-vp-and-ishibashi.png
+[0]: /images/posts/blog/2014-12-01-design-fellow-at-venture-capital/gmo-vp-and-ishibashi.png
 [1]: http://www.gmo-vp.com/
 [2]: http://aiit.ac.jp/certification_program/hcd/
 [3]: http://www.hcdnet.org/certified/
-[4]: /images/posts/2014-12-01-design-fellow-at-venture-capital/startup-design-consulting-scheme.png
+[4]: /images/posts/blog/2014-12-01-design-fellow-at-venture-capital/startup-design-consulting-scheme.png
 [5]: http://www.adventar.org/calendars/343
 [6]: http://ja.ishibashihideto.net/blog/semantic-turn/
 [7]: http://ja.ishibashihideto.net/

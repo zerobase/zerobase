@@ -3,7 +3,7 @@ title: インフォメーション・アーキテクトのポッドキャスト�
 description: いろいろな分野との〈共通言語〉を増やすために、いろいろな分野のゲストを迎えてトークするポッドキャストです。
 ---
 
-![](/images/posts/2013-10-02-podcast-launched/podcast-launched.jpg)
+![](/images/posts/blog/2013-10-02-podcast-launched/podcast-launched.jpg)
 
 [Information Architect's Podcast](http://talk.ishibashihideto.net/) をはじめました。いろいろな分野との〈共通言語〉を増やすために、いろいろな分野のゲストを迎えてトークするポッドキャストです。
 

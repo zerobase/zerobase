@@ -3,7 +3,7 @@ title: 「既存市場を破壊する破壊的イノベーションは倫理的�
 description: 破壊的イノベーションそのものが「悪い」という立場は、既得権の保護と、階級格差の固定化を肯定する立場であり、そちらのほうがよほど非倫理的です。
 ---
 
-![](/images/posts/2013-08-13-ethical-question-on-disruptive-technologies/disruptive-innovation-curve.jpg)  
+![](/images/posts/blog/2013-08-13-ethical-question-on-disruptive-technologies/disruptive-innovation-curve.jpg)  
 <small>破壊的イノベーションを説明するチャート　出典：[Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Disruptivetechnology.png)</small>
 
 「既存市場を破壊する破壊的イノベーションは痛い。痛くてもいいのか？」という議論[^jane-summit]があると知りました。ここで反論を試みます。市場の「破壊」は、決して「悪いこと」などではないのだと主張します。

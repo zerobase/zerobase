@@ -3,7 +3,7 @@ title: サイバー犯罪とテクノロジー防御
 description: ソフトウェア化されたサイバー犯罪は、万人を標的とします。詐欺の手続きは自動化されています。この新たな犯罪は、旧来型の捜査による検挙がこんなんですが、テクノロジーにはそれが可能です。
 ---
 
-![](/images/posts/2013-07-31-cyber-criminal-vs-technology-defence/betrayal.jpg)
+![](/images/posts/blog/2013-07-31-cyber-criminal-vs-technology-defence/betrayal.jpg)
 
 Facebookで詐欺メッセージが届きました。なんで「あなたの遠い親戚が、石油を掘っているときに事故死して、遺産相続が云々」という内容で、あまりにも典型的な詐欺メッセージで笑えました。
 
