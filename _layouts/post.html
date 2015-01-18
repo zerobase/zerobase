@@ -3,16 +3,20 @@ layout: default
 ---
 
 <main class="{{ page.categories }} post">
+  
+  <article>
 
-  <header>
-    <h1 class="title">{{ page.title }}  <span class="meta subtitle">{{ page.subtitle }}</span></h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+    <header>
+      <h1 class="title">{{ page.title }}  <span class="meta subtitle">{{ page.subtitle }}</span></h1>
+      <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    </header>
 
-  {{ content }}
+    {{ content }}
 
-  <footer>
-    {% include custom/share.html %}
-  </footer>
+    <footer>
+      {% include custom/share.html %}
+    </footer>
+  
+  </article>
 
 </main>
