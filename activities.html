@@ -2,19 +2,12 @@
 layout: default
 title: 活動
 permalink: /activities/
+category: activities
 ---
 
-<h1>活動</h1>
+<main class="{{ page.category }} posts list">
 
-<ul class="post list">
-  {% for post in site.categories.activities %}
-    <li>
-      <span class="post meta"><time>{{ post.date | date: "%Y-%m-%d" }}</time></span>
-      <h2>
-        <a class="post link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-    </li>
-  {% endfor %}
-</ul>
+  {% assign posts = site.categories[page.category] %}
+  {% include custom/posts.html %}
 
-<p class="rss-subscribe">subscribe <a href="{{ site.subscribe_rss }}">via RSS</a></p>
+</main>

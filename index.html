@@ -1,18 +1,13 @@
 ---
 layout: default
+title: 新着情報
+permalink: /
+category: all
 ---
 
-<h1>新着情報</h1>
+<main class="posts list">
 
-<ul class="post list">
-  {% for post in site.posts %}
-    <li>
-      <span class="post meta"><time>{{ post.date | date: "%Y-%m-%d" }}</time></span>
-      <h2>
-        <a class="post link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-    </li>
-  {% endfor %}
-</ul>
+  {% assign posts = site.posts %}
+  {% include custom/posts.html %}
 
-<p class="rss-subscribe">subscribe <a href="{{ site.subscribe_rss }}">via RSS</a></p>
+</main>

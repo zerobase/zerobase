@@ -2,9 +2,17 @@
 layout: default
 title: 講演
 permalink: /speech/
+category: speech
 ---
 
 <h1>講演</h1>
+
+<main class="{{ page.category }} posts list">
+
+  {% assign posts = site.categories[page.category] %}
+  {% include custom/posts.html %}
+
+</main>
 
 <ul class="speech list">
   {% for speech in site.data.speeches %}

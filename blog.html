@@ -2,25 +2,12 @@
 layout: default
 title: ブログ
 permalink: /blog/
+category: blog
 ---
 
-<h1>ブログ</h1>
+<main class="{{ page.category }} posts list">
 
-<ul class="post list">
-  {% for post in site.categories.blog %}
-    <li class="post item">
-      <a class="link" href="{{ post.url | prepend: site.baseurl }}">
-        <img class="thumbnail" src="{{ post.path | replace: '_posts/blog/', '/images/posts/' | replace: '.md', '/thumbnail.png' }}" alt="" width="300" height="300">
-        <span class="meta time"><time>{{ post.date | date: "%Y-%m-%d" }}</time></span>
-        <h2 class="title">
-          {{ post.title }} <span class="meta subtitle">{{ post.subtitle }}</span>
-        </h2>
-        <span class="meta description">{{ post.description }}</span>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+  {% assign posts = site.categories[page.category] %}
+  {% include custom/posts.html %}
 
-<ul class="commands list">
-  <li class="command item"><a href="{{ site.subscribe_rss }}">フィードを購読</a></li>
-</ul>
+</main>

@@ -1,0 +1,31 @@
+<main class="{{ page.categories }} posts">
+  
+  <header>
+    <h1 class="title">{{ page.title }}</h1>
+    <div class="lead">
+      {{ content }}
+    </div>
+  </header>
+
+  <ul class="post list">
+    {% for post in posts %}
+      <li class="post item">
+        <article>
+          <a class="link" href="{{ post.url | prepend: site.baseurl }}">
+            <img class="thumbnail" src="{{ post.path | replace: '_posts/', '/images/posts/' | replace: '.md', '/thumbnail.png' }}" alt="" width="300" height="300">
+            <span class="meta time"><time>{{ post.date | date: "%Y-%m-%d" }}</time></span>
+            <h2 class="title">
+              {{ post.title }} <span class="meta subtitle">{{ post.subtitle }}</span>
+            </h2>
+            <span class="meta description">{{ post.description }}</span>
+          </a>
+        </article>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <ul class="commands list">
+    <li class="command item"><a href="{{ site.subscribe_rss }}">フィードを購読</a></li>
+  </ul>
+
+</main>
