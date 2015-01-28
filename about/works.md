@@ -1,8 +1,6 @@
 ---
-layout: about
-category: about
-title: 自己紹介
 subtitle: 仕事
+order: 3
 ---
 
 ## 仕事

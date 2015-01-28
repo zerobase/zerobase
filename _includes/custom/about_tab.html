@@ -1,16 +1,12 @@
 <nav>
   <ul class="accordion-tabs-minimal">
-    <li>
-      {% include custom/about_tab_item.html target_url='/about/' label='プロフィール' %}
-    </li>
-    <li>
-      {% include custom/about_tab_item.html target_url='/about/philosophy.html' label='思想' %}
-    </li>
-    <li>
-      {% include custom/about_tab_item.html target_url='/about/works.html' label='仕事' %}
-    </li>
-    <li>
-      {% include custom/about_tab_item.html target_url='/about/advice.html' label='顧問サービス' %}
-    </li>
+    {% assign sorted_pages = site.pages | sort: 'order' %}
+    {% for p in sorted_pages %}
+      {% if p.category == 'about' %}
+        <li>
+          {% include custom/about_tab_item.html url=p.url label=p.subtitle %}
+        </li>
+      {% endif %}
+    {% endfor %}
   </ul>
 </nav>

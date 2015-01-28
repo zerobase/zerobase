@@ -1,8 +1,6 @@
 ---
-layout: about
-category: about
-title: 自己紹介
 subtitle: 思想
+order: 2
 ---
 
 ## 思想

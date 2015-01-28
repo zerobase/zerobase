@@ -1,8 +1,6 @@
 ---
-layout: about
-category: about
-title: 自己紹介
 subtitle: 顧問サービス
+order: 4
 ---
 
 ## 顧問サービス

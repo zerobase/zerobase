@@ -1,8 +1,6 @@
 ---
-layout: about
-category: about
-title: 自己紹介
 subtitle: プロフィール
+order: 1
 permalink: /about/
 ---
 

@@ -1,5 +1,5 @@
-{% if page.url == include.target_url %}
-  <a href="{{ include.target_url }}" class="is-active"><h2>{{ include.label }}</h2></a>
+{% if page.url == include.url %}
+  <a href="{{ include.url }}" class="is-active"><h2>{{ include.label }}</h2></a>
 {% else %}
-  <a href="{{ include.target_url }}">{{ include.label }}</a>
+  <a href="{{ include.url }}">{{ include.label }}</a>
 {% endif %}
