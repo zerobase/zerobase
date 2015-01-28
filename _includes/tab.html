@@ -2,9 +2,9 @@
   <ul class="accordion-tabs-minimal">
     {% assign sorted_pages = site.pages | sort: 'order' %}
     {% for p in sorted_pages %}
-      {% if p.category == 'about' %}
+      {% if p.category == include.category %}
         <li>
-          {% include about_tab_item.html url=p.url label=p.subtitle %}
+          {% include tab_item.html url=p.url label=p.subtitle %}
         </li>
       {% endif %}
     {% endfor %}
