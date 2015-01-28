@@ -5,16 +5,14 @@ description: DevLOVE現場甲子園というイベントでの講演です。
 
 『なぜ社会には情報アーキテクトが必要なのか？』という講演を2013年11月9日の[DevLOVE現場甲子園2013](http://devlove.doorkeeper.jp/events/5464)でさせて頂きました。ありがとうございます。
 
-- [スライド（音声付き）](http://www.slideshare.net/HidetoIshibashi/ss-28329439) [^slideCopyright]
-- [Podcast（音声のみ）](http://talk.ishibashihideto.net/post/67230091887/iap-21)
-
 <div class="responsive embed aspect4x3">
   <iframe src="http://www.slideshare.net/slideshow/embed_code/28329439" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 </div>
 
-<small><a href="https://www.slideshare.net/HidetoIshibashi/ss-28329439" title="なぜ社会には情報アーキテクトが必要なのか？" target="_blank">なぜ社会には情報アーキテクトが必要なのか？</a> from <a href="http://www.slideshare.net/HidetoIshibashi" target="_blank">Hideto Ishibashi</a></small>
+<small><a href="https://www.slideshare.net/HidetoIshibashi/ss-28329439" title="なぜ社会には情報アーキテクトが必要なのか？" target="_blank">なぜ社会には情報アーキテクトが必要なのか？</a> from <a href="http://www.slideshare.net/HidetoIshibashi" target="_blank">Hideto Ishibashi</a><br>
+講演時のスライドに含まれていた写真は削除しました。著作権上の配慮です。各スライドの最下部に小さな文字でURLを記載し、リンクしています。</small>
 
-[^slideCopyright]: 講演時のスライドに含まれていた写真は削除しました。著作権上の配慮です。各スライドの最下部に小さな文字でURLを記載し、リンクしています。
+[Podcast（音声のみ）](http://talk.ishibashihideto.net/post/67230091887/iap-21)
 
 以下、講演の骨子です。
 
@@ -91,5 +89,5 @@ description: DevLOVE現場甲子園というイベントでの講演です。
 
 ## リンク
 
-- [建築家の歴史と情報建築家の未来](/blog/future-of-information-architect/)
-- [情報建築を設計するアプローチのコペルニクス的転回（エコシステムとユーザー・エクスペリエンスの重視へ）](/blog/copernican-turn-on-information-architecture/)
+- [建築家の歴史と情報建築家の未来](/blog/2014/04/25/future-of-information-architect.html)
+- [インフォメーション・アーキテクチャを設計するアプローチのコペルニクス的転回](/blog/2014/04/25/copernican-turn-on-information-architecture.html)
