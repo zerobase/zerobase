@@ -4,7 +4,7 @@
     {% for p in sorted_pages %}
       {% if p.category == 'about' %}
         <li>
-          {% include custom/about_tab_item.html url=p.url label=p.subtitle %}
+          {% include about_tab_item.html url=p.url label=p.subtitle %}
         </li>
       {% endif %}
     {% endfor %}

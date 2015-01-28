@@ -16,6 +16,11 @@
   <link href="{{ root_url }}/favicon.png" type="image/png" rel="icon">
   <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
   
-  {% include custom/head/facebook_ogp.html %}
-  {% include custom/head/google_analytics.html %}
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail }}{% else %}{{ site.thumbnail }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:locale" content="{{ site.facebook_locale }}">
+  <meta property="og:type" content="article">
+  <meta property="fb:app_id" content="{{ site.facebook_app_id }}">
 </head>
