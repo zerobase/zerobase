@@ -1,11 +1,3 @@
-nav.page.list {
-  ul {
-    li {
-      @extend %inline-button-list;
-    }
-  }
-}
-
 article {
   ul {
     @extend %default-ul

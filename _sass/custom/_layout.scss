@@ -2,14 +2,23 @@
   @include outer-container;
   
   .site.header {
-    margin: 0 0 $base-spacing 0;
+    margin: 0;
     padding: 0;
     
     .site.title {
-      line-height: 1.2;
+      margin-bottom: 0.2em;
     }
-    
-    .site.subtitle {
+
+    .site.description {
+      margin-bottom: 0.2em;
+    }
+  }
+
+  main {
+    header {
+      h1 {
+        line-height: 2;
+      }
     }
   }
 

@@ -1,27 +1,27 @@
 ---
-layout: page
-title: 人物
-permalink: /about/
+layout: about
+title: 自己紹介 プロフィール
 ---
 
-<img alt="Hideto ISHIBASHI, Information Architect" src="/images/top/eyecatcher.png">
+## プロフィール
+
+![Hideto ISHIBASHI, Information Architect](title_portrait.png)
 
 石橋秀仁は[情報建築家](/blog/future-of-information-architect/)／デザイナー／プログラマーです。ウェブとイノベーションが好きで、モットーは「[思想を実装する](/philosophy/)」です。機会があれば[講演](/speech/)や[執筆](/writing/)にも積極的に取り組んでいます。
 
-
-## 略歴
+### 略歴
 
 国立久留米工業高等専門学校（高専）卒業。2000年、オンラインコミュニティ運営企業にプログラマーとして入社。独立後は、ユーザーインターフェイスデザイン、ウェブディレクション、サービス企画、ワークショップファシリテーションなどを経験。数多くのオンラインサービスの立ち上げに携わる。情報建築家として、社会の情報化に関心を持ちつつ、批評と実践に取り組んでいる。
 
 
-## 役職
+### 役職
 
 1. [ゼロベース株式会社](http://zerobase.jp)というウェブ開発会社の創業者で代表取締役です。
 2. [GMO VenturePartners株式会社](http://www.gmo-vp.com)というベンチャーキャピタルの[デザインフェローという仕事](/blog/design-fellow-at-venture-capital/)をしています。ベンチャー企業のサービス開発を手伝っています。
 3. いくつかの事業の[顧問](/advice/)をしています。
 
 
-## プロジェクト
+### プロジェクト
 
 ハイパーピクトグラム
 : 非営利活動として[ハイパーピクトグラムというアクセシビリティプロジェクト](https://medium.com/@zerobase/-c239b5b80f8e)を始めました。交通案内などで使われているピクトグラム（図記号）を「機械によって認識でき、処理できる」ようにします。詳しくは[pictogram.tokyo](http://pictogram.tokyo/)をご覧ください。
@@ -33,7 +33,7 @@ permalink: /about/
 : 経営（マネジメント）におけるイノベーションに取り組んでいます。私が経営するゼロベース株式会社では、2008年から[従業員の自立と自律に立脚した独自の経営システム](http://zerobase.jp/blog/2010/01/post_76.html)を運用してきました。その経営システムを、社会に広めます。
 
 
-## リンク
+### リンク
 
 <ul class="external link">
   <li><a href="http://medium.com/@zerobase/"><img alt="Medium" src="/images/links/Medium-logo-dark100.png" width="100" height="100"></a></li>
