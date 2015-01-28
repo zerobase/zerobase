@@ -1,6 +1,8 @@
 ---
 layout: about
-title: 自己紹介 仕事
+category: about
+title: 自己紹介
+subtitle: 仕事
 ---
 
 ## 仕事

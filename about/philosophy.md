@@ -1,6 +1,8 @@
 ---
 layout: about
-title: 自己紹介 思想
+category: about
+title: 自己紹介
+subtitle: 思想
 ---
 
 ## 思想

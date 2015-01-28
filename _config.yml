@@ -55,6 +55,13 @@ defaults:
     values:
       layout: "post"
       categories: "writing"
+  -
+    scope:
+      path: "about"
+      type: "pages"
+    values:
+      layout: "about"
+      categories: "about"
 
 # Twitter
 twitter_user: zerobase

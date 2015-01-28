@@ -1,6 +1,9 @@
 ---
 layout: about
-title: 自己紹介 プロフィール
+category: about
+title: 自己紹介
+subtitle: プロフィール
+permalink: /about/
 ---
 
 ## プロフィール

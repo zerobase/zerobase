@@ -1,6 +1,8 @@
 ---
 layout: about
-title: 自己紹介 顧問サービス
+category: about
+title: 自己紹介
+subtitle: 顧問サービス
 ---
 
 ## 顧問サービス
@@ -77,12 +79,6 @@ title: 自己紹介 顧問サービス
 - Skype
 - Google Hangouts
 - appear.in
-
-### 関連情報
-
-- [アドバイザリー・サービスの報酬規程](https://docs.google.com/document/d/1JOUZC2QSdFgtVfEHZisuGLLTq8xdZf0gd7n-JMlOap8/edit?usp=sharing)（※要認証）
-- [石橋秀仁のプロフィール](/)
-- [石橋秀仁の実績](/works/)
 
 ### お問い合わせ
 
