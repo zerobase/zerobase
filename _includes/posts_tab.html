@@ -1,0 +1,17 @@
+<nav class="tab navigation">
+  <ul>
+    {% assign sorted_pages = site.pages | sort: 'order' %}
+    {% for p in sorted_pages %}
+      {% if p.category == include.category %}
+        <li>
+          {% if p.subcategory %}
+            {% assign posts_count = site.categories[p.subcategory].size %}
+          {% else %}
+            {% assign posts_count = site.posts.size %}
+          {% endif %}
+          {% include posts_tab_item.html url=p.url label=p.subtitle count=posts_count %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>

@@ -5,6 +5,7 @@ subtitle: スピーチ
 order: 5
 permalink: /speech/
 category: posts
+subcategory: speech
 ---
 
 {% assign posts = site.categories.speech %}

@@ -1,3 +1,9 @@
+header {
+  .meta.posts.count {
+    font-size: 75%;
+  }
+}
+
 .post.item {
   @include clearfix;
   margin: 2em 0;

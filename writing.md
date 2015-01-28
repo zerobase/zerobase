@@ -5,6 +5,7 @@ subtitle: 寄稿
 order: 4
 permalink: /writing/
 category: posts
+subcategory: writing
 ---
 
 {% assign posts = site.categories.writing %}
