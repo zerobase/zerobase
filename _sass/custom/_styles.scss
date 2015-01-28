@@ -68,8 +68,8 @@ footer {
       display: block;
 
       .thumbnail {
-        float: left;
-        margin-right: $base-spacing;
+        float: right;
+        margin: 0 0 1em 1em;
       }
 
       .meta.subtitle {
