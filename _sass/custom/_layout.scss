@@ -1,8 +1,10 @@
+$mobile: new-breakpoint(max-width 480px 4);
+
 .container {
   @include outer-container;
   
   .site.header {
-    margin: 0;
+    margin: 0 0 $base-spacing 0;
     padding: 0;
     
     .site.title {
@@ -17,8 +19,12 @@
   main {
     header {
       h1 {
-        line-height: 2;
+        line-height: 1.5;
       }
+    }
+
+    .accordion-tabs-minimal {
+      margin-top: 1em;
     }
   }
 
