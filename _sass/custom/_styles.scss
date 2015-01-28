@@ -1,18 +1,3 @@
-@include media($mobile) {
-  h1 {
-    font-size: 2em;
-  }
-  h2 {
-    font-size: 1.7em;
-  }
-  h3 {
-    font-size: 1.5em;
-  }
-  h4 {
-    font-size: 1.3em;
-  }
-}
-
 article {
   ul {
     @extend %default-ul
@@ -70,6 +55,8 @@ footer {
       .thumbnail {
         float: right;
         margin: 0 0 1em 1em;
+        width: 10em;
+        height: 10em;
       }
 
       .meta.subtitle {
@@ -101,10 +88,6 @@ footer {
       }
     }
   }
-}
-
-.post .meta.subtitle {
-  font-size: 75%;
 }
 
 .commands.list {

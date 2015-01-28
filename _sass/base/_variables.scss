@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+// Device
+$mobile: new-breakpoint(max-width 480px 4);
+$max-width: em(760);
+
 // Typography
 $sans-serif: $helvetica;
 $serif: $georgia;
@@ -7,17 +11,17 @@ $base-font-family: Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic P
 $header-font-family: $base-font-family;
 
 // Font Sizes
-$base-font-size: 1em;
-$h1-font-size: $base-font-size * 2.25;
-$h2-font-size: $base-font-size * 2;
-$h3-font-size: $base-font-size * 1.75;
-$h4-font-size: $base-font-size * 1.5;
-$h5-font-size: $base-font-size * 1.25;
+$base-font-size: 1.2em;
+$h1-font-size: $base-font-size * 2.0;
+$h2-font-size: $base-font-size * 1.7;
+$h3-font-size: $base-font-size * 1.5;
+$h4-font-size: $base-font-size * 1.3;
+$h5-font-size: $base-font-size * 1.1;
 $h6-font-size: $base-font-size;
 
 // Line height
 $base-line-height: 2.0;
-$header-line-height: 2.0;
+$header-line-height: 1.3;
 
 // Other Sizes
 $base-border-radius: 3px;
