@@ -8,7 +8,7 @@ layout: default
 
     <header>
       <h1 class="title">{{ page.title }}  <span class="meta subtitle">{{ page.subtitle }}</span></h1>
-      <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+      <p class="meta">{{ page.date | date: "%Y-%m-%d" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     </header>
 
     {{ content }}
