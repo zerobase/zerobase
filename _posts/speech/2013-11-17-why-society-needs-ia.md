@@ -5,10 +5,7 @@ description: DevLOVE現場甲子園というイベントでの講演です。
 
 『なぜ社会には情報アーキテクトが必要なのか？』という講演を2013年11月9日の[DevLOVE現場甲子園2013](http://devlove.doorkeeper.jp/events/5464)でさせて頂きました。ありがとうございます。
 
-<div class="responsive embed aspect4x3">
-  <iframe src="http://www.slideshare.net/slideshow/embed_code/28329439" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
-</div>
-
+{% include slideshare_link.html slide=28329439 %}
 <small><a href="https://www.slideshare.net/HidetoIshibashi/ss-28329439" title="なぜ社会には情報アーキテクトが必要なのか？" target="_blank">なぜ社会には情報アーキテクトが必要なのか？</a> from <a href="http://www.slideshare.net/HidetoIshibashi" target="_blank">Hideto Ishibashi</a><br>
 講演時のスライドに含まれていた写真は削除しました。著作権上の配慮です。各スライドの最下部に小さな文字でURLを記載し、リンクしています。</small>
 

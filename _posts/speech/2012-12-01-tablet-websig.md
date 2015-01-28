@@ -5,17 +5,11 @@ description: 第31回WebSig会議
 
 第31回WebSig会議にて「タブレットが与える影響について考える」というタイトルでスピーチさせて頂きました。
 
-<section>
-  
-  <h2>スライド</h2>
+## スライド
 
-  <div class="responsive embed aspect4x3">
-    <iframe src="//www.slideshare.net/slideshow/embed_code/15449195" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-</div>
+{% include slideshare_link.html slide=15449195 %}
 
-  <small><a href="//www.slideshare.net/HidetoIshibashi/websig-31st-zerobase-v07-final-note" title="第31回WebSig会議【セッション2】 タブレットが与える影響について考える" target="_blank">第31回WebSig会議【セッション2】 タブレットが与える影響について考える</a> from <a href="//www.slideshare.net/HidetoIshibashi" target="_blank">Hideto Ishibashi</a></small>
-
-</section>
+<small><a href="//www.slideshare.net/HidetoIshibashi/websig-31st-zerobase-v07-final-note" title="第31回WebSig会議【セッション2】 タブレットが与える影響について考える" target="_blank">第31回WebSig会議【セッション2】 タブレットが与える影響について考える</a> from <a href="//www.slideshare.net/HidetoIshibashi" target="_blank">Hideto Ishibashi</a></small>
 
 ## 概要
 

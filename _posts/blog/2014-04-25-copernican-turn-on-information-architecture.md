@@ -138,10 +138,10 @@ description: インフォメーション・アーキテクチャの設計パラ�
 [Tabelog]: http://tabelog.com/
 [Towards a New Information Architecture]: https://medium.com/user-experience-design-1/f38b5cc904c0
 
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=487311134X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4873112834" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0123820944" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4492522050" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4492521828" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+{% include amazon_link.html asin="487311134X" %}
+{% include amazon_link.html asin="4873112834" %}
+{% include amazon_link.html asin="0123820944" %}
+{% include amazon_link.html asin="4492522050" %}
+{% include amazon_link.html asin="4492521828" %}
 
 最終更新日：2014年4月25日

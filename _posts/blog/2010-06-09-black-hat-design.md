@@ -99,4 +99,5 @@ Garrett氏は、ユーザーエクスペリエンスの専門家達がプロフ�
 - <a href="http://www.hajou.org/infoliberalism/">波状言論&gt;情報自由論</a>
 - <a href="http://zerobase.jp/blog/2010/06/twitterdm.html">Twitterの連携アプリを「許可する」ボタンのリスク</a>
 
-<iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=hidetoi-22&amp;o=9&amp;p=8&amp;l=as1&amp;m=amazon&amp;f=ifr&amp;md=1X69VDGQCMF7Z30FM082&amp;asins=4861005779" style="width: 120px; height: 240px;" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=hidetoi-22&amp;o=9&amp;p=8&amp;l=as1&amp;m=amazon&amp;f=ifr&amp;md=1X69VDGQCMF7Z30FM082&amp;asins=4140093447" style="width: 120px; height: 240px;" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+{% include amazon_link.html asin="4861005779" %}
+{% include amazon_link.html asin="4140093447" %}

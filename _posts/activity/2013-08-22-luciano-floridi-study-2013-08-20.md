@@ -11,9 +11,7 @@ description: ルチアーノ・フロリディの情報哲学・情報倫理学�
 - [イベント開催情報](https://www.evernote.com/shard/s7/sh/30db21d4-0528-4960-b578-d5cef4eceba0/3494cea6e8e6de26c71f678400f8eca4)
 - [レジュメ](https://www.evernote.com/shard/s7/sh/1f68afa5-1b57-4cac-8fc6-819236307fe8/59fddf7d317c04badbab089bfaef12d4)
 
-<div class="responsive embed aspect16x9">
-  <iframe src="//player.vimeo.com/video/72827047" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+{% include vimeo_link.html video="72827047" %}
 
 <small><a href="http://vimeo.com/72827047">情報／ITアーキテクトのための「使える！フロリディ情報哲学」 (2013-08-20)</a> from <a href="http://vimeo.com/zerobase">Ishibashi Hideto</a> on <a href="https://vimeo.com">Vimeo</a>.</small>
 

@@ -129,6 +129,6 @@ description: 『意味論的転回』は、「デザインとは、そもそも�
 
 追記（2014-07-16）：気軽に質問や議論をするための学び合いの場として、[クリッペンドルフの『意味論的転回』Facebookグループ](https://www.facebook.com/groups/356487327832359/)を作りました。
 
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4434130331" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0415322200" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4480837167" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+{% include amazon_link.html asin="4434130331" %}
+{% include amazon_link.html asin="0415322200" %}
+{% include amazon_link.html asin="4480837167" %}

@@ -40,9 +40,9 @@ description: 「対米戦争」と「敗戦」は、20世紀的なイデオロ�
 
 村上龍著『愛と幻想のファシズム（下）』（講談社文庫）p.18-19：
 
-> 「オレは時々、日本人であることがいやになるよ」
+> 「オレは時々、日本人であることかがいやになるよ」
 > 
-> そんなことを言うのは洞木だ。
+> そんなことを言うのは洞木だ。
 > 
 > 「要するに誰でもいいんだ、保護してくれるんだったらどの国でもいいと思ってる、考えるのは金のことだけだ、価値観の違いなど気にとめない、そもそも価値観などないのかも知れない、そういう意味で言えば守るべきものを何一つ持たない国なのかも知れない、どうしてそんなことになったのだろう、やはり占領、侵略の経験がないからかな、目の前で親兄弟を殺されたことがないんだ、オレはいつも不思議だったよ、大東亜戦争で無条件降伏をしたのが今でも不思議でしようがない、戦争の原因は常に経済だと思うが、戦争を続けるためには価値観の相違が条件だよな、宗教が一番いい例だけど、あいつの考えてることはわからない、あいつは嫌いだ、あいつをやっつけてしまえ、大東亜戦争はまさにそういう価値観の戦いだったわけだ、グラマンと零戦にしたってその価値観が反映されて典型的に違うタイプの戦闘機だからね、そういう価値観に基づく戦争をやっておきながら、つまり宗教戦争と同じなくせに、無条件降服とは何だ？ それも、本土決戦もせずに……ナチスドイツはしようがないよ、ベルリンが落ちたんだから、もう戦いようがない、しかし日本は違う、オレは今でもプライドを持てないね
 
@@ -128,10 +128,10 @@ GHQは、ソ連による日本における共産主義革命を防ぐことに�
 - [日本の知的風土では概念が脆くなる - 石橋秀仁](/blog/japanese-intelligence-atmosphere/)
 - [アメリカン・ヒーローと司法の適正手続：バットマンは悪人を殺さず、ダーティーハリーは警察を辞める - 石橋秀仁](/blog/due-process-of-law/)
 
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4122018331" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4309411142" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4061847392" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4061495755" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4797671459" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4167306034" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=400412039X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+{% include amazon_link.html asin="4122018331" %}
+{% include amazon_link.html asin="4309411142" %}
+{% include amazon_link.html asin="4061847392" %}
+{% include amazon_link.html asin="4061495755" %}
+{% include amazon_link.html asin="4797671459" %}
+{% include amazon_link.html asin="4167306034" %}
+{% include amazon_link.html asin="400412039X" %}

@@ -151,4 +151,4 @@ _「弱者」とでも呼ぶべき危うい立場にいる数百万人の「起�
 - [起業の〈大きな物語〉が信じられない時代の起業・働き方](http://togetter.com/li/18010) 2010年5月2日
 - [起業してほぼ確実に成功する方法｜堀江貴文オフィシャルブログ「六本木で働いていた元社長のアメブロ」](http://ameblo.jp/takapon-jp/entry-10500476221.html) ※「そのようにしか生きられない」という個性を「強み」にした企業家の典型例かと。
 
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hidetoi-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4062810530" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+{% include amazon_link.html asin="4062810530" %}
