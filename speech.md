@@ -1,13 +1,11 @@
 ---
 layout: default
-title: 講演
+title: 新着情報
+subtitle: スピーチ
+order: 5
 permalink: /speech/
-category: speech
+category: posts
 ---
 
-<main class="{{ page.category }} posts list">
-
-  {% assign posts = site.categories[page.category] %}
-  {% include posts.html %}
-
-</main>
+{% assign posts = site.categories.speech %}
+{% include posts.html %}

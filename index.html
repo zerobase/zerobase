@@ -1,13 +1,11 @@
 ---
 layout: default
 title: 新着情報
+subtitle: すべて
+order: 1
 permalink: /
-category: all
+category: posts
 ---
 
-<main class="posts list">
-
-  {% assign posts = site.posts %}
-  {% include posts.html %}
-
-</main>
+{% assign posts = site.posts %}
+{% include posts.html %}

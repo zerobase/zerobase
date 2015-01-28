@@ -1,4 +1,4 @@
-.tab.navigation {
+.tab.navigation > ul {
   ///////////////////////////////////////////////////////////////////////////////////
   $base-border-color: gainsboro !default;
   $base-background-color: white !default;
@@ -64,7 +64,8 @@
       }
 
       > h2 {
-        font-size: 1.4em;
+        display: inline;
+        font-size: 1em;
       }
     }
   }

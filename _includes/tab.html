@@ -1,5 +1,5 @@
-<nav>
-  <ul class="tab navigation">
+<nav class="tab navigation">
+  <ul>
     {% assign sorted_pages = site.pages | sort: 'order' %}
     {% for p in sorted_pages %}
       {% if p.category == include.category %}

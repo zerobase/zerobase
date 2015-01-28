@@ -1,6 +1,6 @@
 .post.item {
-  @extend %border-top;
   @include clearfix;
+  margin: 2em 0;
 
   .link {
     display: block;
@@ -43,8 +43,6 @@
 }
 
 .commands.list {
-  @extend %border-top;
-
   .command.item {
     @extend %inline-button-list;
   }

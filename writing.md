@@ -1,13 +1,11 @@
 ---
 layout: default
-title: 執筆
+title: 新着情報
+subtitle: 寄稿
+order: 4
 permalink: /writing/
-category: writing
+category: posts
 ---
 
-<main class="{{ page.category }} posts list">
-
-  {% assign posts = site.categories[page.category] %}
-  {% include posts.html %}
-
-</main>
+{% assign posts = site.categories.writing %}
+{% include posts.html %}

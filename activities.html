@@ -1,13 +1,11 @@
 ---
 layout: default
-title: 活動
+title: 新着情報
+subtitle: 活動
+order: 3
 permalink: /activity/
-category: activity
+category: posts
 ---
 
-<main class="{{ page.category }} posts list">
-
-  {% assign posts = site.categories[page.category] %}
-  {% include posts.html %}
-
-</main>
+{% assign posts = site.categories.activity %}
+{% include posts.html %}
