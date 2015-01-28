@@ -1,0 +1,51 @@
+.post.item {
+  @extend %border-top;
+  @include clearfix;
+
+  .link {
+    display: block;
+
+    .thumbnail {
+      float: right;
+      margin: 0 0 1em 1em;
+      width: 10em;
+      height: 10em;
+    }
+
+    .meta.subtitle {
+      font-size: 80%;
+    }
+
+    @include media($mobile) {
+      .meta.time {
+        font-size: 80%;
+      }
+
+      .title {
+        font-size: 120%;
+        line-height: 1.4;
+        margin-bottom: 0.5em;
+      }
+
+      .meta.description {
+        font-size: 90%;
+        line-height: 1.2;
+      }
+
+      .thumbnail {
+        float: right;
+        margin: 0 0 0.4em 0.4em;
+        width: 5em;
+        height: 5em;
+      }
+    }
+  }
+}
+
+.commands.list {
+  @extend %border-top;
+
+  .command.item {
+    @extend %inline-button-list;
+  }
+}

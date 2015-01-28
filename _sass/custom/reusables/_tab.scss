@@ -1,4 +1,4 @@
-.accordion-tabs-minimal {
+.tab.navigation {
   ///////////////////////////////////////////////////////////////////////////////////
   $base-border-color: gainsboro !default;
   $base-background-color: white !default;
@@ -64,7 +64,7 @@
       }
 
       > h2 {
-        font-size: 1em;
+        font-size: 1.4em;
       }
     }
   }

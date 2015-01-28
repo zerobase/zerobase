@@ -1,179 +1,32 @@
-@import "custom/reusable";
-@import "custom/tab";
+// This is the root of custom stylesheets imported by css/main.scss
 
-article {
-  ul {
-    @extend %default-ul
-  }
-  
-  ol {
-    @extend %default-ol
-  }
-  
-  pre {
-    overflow-x: scroll;
-  }
-  
-  .responsive.embed {
-    height: 0;
-    overflow: hidden;
-    position: relative;
-
-    embed,
-    object,
-    iframe {
-      @include position(absolute, 0px null null 0px);
-      @include size(100%);
-    }
-  }
-
-  .responsive.embed.aspect16x9 {
-    
-    padding-bottom: 56.25%;
-  }
-
-  .responsive.embed.aspect4x3 {
-    padding-bottom: 75%;
-  }
-  
-  .footnotes {
-    @extend %border-top;
-  }
-}
-
-footer {
-  @extend %border-top;
-}
-
-.post.list,
-.speech.list,
-.writing.list {
-  .item {
-    @extend %border-top;
-    @include clearfix;
-
-    .link {
-      display: block;
-
-      .thumbnail {
-        float: right;
-        margin: 0 0 1em 1em;
-        width: 10em;
-        height: 10em;
-      }
-
-      .meta.subtitle {
-        font-size: 80%;
-      }
-
-      @include media($mobile) {
-        .meta.time {
-          font-size: 80%;
-        }
-
-        .title {
-          font-size: 120%;
-          line-height: 1.4;
-          margin-bottom: 0.5em;
-        }
-
-        .meta.description {
-          font-size: 90%;
-          line-height: 1.2;
-        }
-
-        .thumbnail {
-          float: right;
-          margin: 0 0 0.4em 0.4em;
-          width: 5em;
-          height: 5em;
-        }
-      }
-    }
-  }
-}
-
-.commands.list {
-  @extend %border-top;
-
-  .command.item {
-    @extend %inline-button-list;
-  }
-}
+@import "reusables/reusables";
 
 .container {
   @include outer-container;
-  
-  .site.header {
-    margin: 0;
-    padding: 0;
-    
-    .site.title {
-      margin-bottom: 0.2em;
-    }
 
-    .site.description {
-      margin-bottom: 0.2em;
-      font-size: 0.8em;
-    }
+  .site.header {
+    @import "_site_header";
   }
 
   main {
     @extend %border-top;
 
     header {
-      .title {
-        line-height: 1.5;
-      }
+      @import "_main_header";
+    }
 
-      .meta.subtitle {
-        font-size: 75%;
-      }
-
-      .meta.time {
-        font-size: 80%;
-      }
-
-      .accordion-tabs-minimal {
-        margin-top: 1em;
-      }
+    &.posts.list {
+      @import "_posts_list"
     }
 
     article {
-      @include media($mobile) {
-        h1 { font-size: 1.6em; }
-        h2 { font-size: 1.5em; }
-        h3 { font-size: 1.3em; }
-        h4 { font-size: 1.2em; }
-        h5 { font-size: 1.1em; }
-        h6 { font-size: 1.0em; }
-      }
-
-      .main.content.body {
-        h1, h2, h3, h4, h5, h6 {
-          margin-bottom: 0.5em;
-        }
-      }
+      @import "_main_article";
     }
   }
 
-  .external.link {
-    li {
-      display: inline;
-    }
-  }
-
-  .sharing {
+  footer {
     @extend %border-top;
-    
-    .fb-comments {
-      display: block;
-      margin-top: $base-spacing;
-      
-      iframe[style],
-      > span {
-          width: 100% !important;
-      }
-    }
   }
-}
+
+} // container

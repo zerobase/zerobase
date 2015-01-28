@@ -1,5 +1,5 @@
 <nav>
-  <ul class="accordion-tabs-minimal">
+  <ul class="tab navigation">
     {% assign sorted_pages = site.pages | sort: 'order' %}
     {% for p in sorted_pages %}
       {% if p.category == include.category %}
