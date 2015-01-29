@@ -1,6 +1,7 @@
 ---
 title: 情報／ITアーキテクトのための「使える！フロリディ情報哲学」
 description: ルチアーノ・フロリディの情報哲学・情報倫理学の研究会を2013年8月20日に行いました。
+redirect_from: "/blog/luciano-floridi-study-2013-08-20/"
 ---
 
 ![](/images/posts/activity/2013-08-22-luciano-floridi-study-2013-08-20/luciano-floridi.jpg)  

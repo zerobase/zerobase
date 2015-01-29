@@ -1,6 +1,7 @@
 ---
 title: ベンチャーキャピタルのデザインフェローという素晴らしい仕事
 description: 「ベンチャーキャピタルのデザインフェロー」という仕事が認知され、「職業」として成立し、日本の起業家生態系が一層発展することを期待します。
+redirect_from: "/blog/design-fellow-at-venture-capital/"
 ---
 
 ![GMO VenturePartners × Hideto Ishibashi][0]

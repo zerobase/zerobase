@@ -1,6 +1,7 @@
 ---
 title: サイバー犯罪とテクノロジー防御
 description: ソフトウェア化されたサイバー犯罪は、万人を標的とします。詐欺の手続きは自動化されています。この新たな犯罪は、旧来型の捜査による検挙がこんなんですが、テクノロジーにはそれが可能です。
+redirect_from: "/blog/cyber-criminal-vs-technology-defence/"
 ---
 
 ![](/images/posts/blog/2013-07-31-cyber-criminal-vs-technology-defence/betrayal.jpg)

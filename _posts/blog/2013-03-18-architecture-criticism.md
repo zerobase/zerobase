@@ -1,6 +1,7 @@
 ---
 title: 社会の情報化についてインフォメーション・アーキテクトと一緒に考えて頂けませんか？
 description: 社会の情報化について議論していく必要があります。
+redirect_from: "/blog/architecture-criticism/"
 ---
 
 ![](/images/posts/blog/2013-03-18-architecture-criticism/architecture-criticism.jpg)

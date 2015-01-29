@@ -2,6 +2,7 @@
 title: アメリカン・ヒーローと司法の適正手続
 subtitle: 日本の警察・検察を疑いの目で監視すべき理由
 description: バットマンは悪人を殺しません。一方、犯人に私刑を与えたダーティーハリーは警察を辞めます。
+redirect_from: "/blog/due-process-of-law/"
 ---
 
 ![](/images/posts/blog/2013-08-15-due-process-of-law/batman-and-harry.jpg)

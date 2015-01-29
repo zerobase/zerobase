@@ -1,6 +1,7 @@
 ---
 title:  12月8日、真珠湾攻撃の日、アメリカと敗戦について未来志向で考える
 description: 「対米戦争」と「敗戦」は、20世紀的なイデオロギー論争とは切り離しつつ、未来志向で考えることができるテーマですし、考え続けていかなければなりません。
+redirect_from: "/blog/defeat-of-japan/"
 ---
 
 ![日米硫黄島戦没者合同慰霊追悼顕彰式の写真](/images/posts/blog/2013-12-08-defeat-of-japan/iwo-jima-memorial.jpg)  

@@ -1,6 +1,7 @@
 ---
 title: なぜ社会には情報建築家が必要なのか？
 description: DevLOVE現場甲子園というイベントでの講演です。
+redirect_from: "/blog/why-society-needs-ia/"
 ---
 
 『なぜ社会には情報アーキテクトが必要なのか？』という講演を2013年11月9日の[DevLOVE現場甲子園2013](http://devlove.doorkeeper.jp/events/5464)でさせて頂きました。ありがとうございます。

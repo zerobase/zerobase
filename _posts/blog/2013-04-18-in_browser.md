@@ -1,7 +1,7 @@
 ---
 title: なぜインブラウザー・デザインへの移行が必要なのか？
 description: ウェブというメディアの技術的側面を理解し、その特性を活かすことで、より良いデザインができます。
-
+redirect_from: "/blog/in_browser/"
 ---
 
 ![](/images/posts/blog/2013-04-18-in_browser/screenshot.png)
