@@ -20,9 +20,7 @@
   line-height: 1.5;
   padding: 0;
 
-  @include media($tab-mode) {
-    border-bottom: $tab-border;
-  }
+  border-bottom: $tab-border;
 
   > li {
     list-style: none;
@@ -37,7 +35,7 @@
       color: $tab-link-color;
       display: block;
       font-weight: 400;
-      padding: ($base-spacing / 2) $gutter;
+      padding: 0.6em;
       text-decoration: none;
 
       @include media($tab-mode) {
@@ -63,9 +61,9 @@
         }
       }
 
-      > h2 {
+      > .title {
         display: inline;
-        font-size: 1em;
+        font-size: 1.1em;
       }
     }
   }

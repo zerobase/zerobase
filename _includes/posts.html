@@ -1,7 +1,12 @@
+{% if page.categories %}
+  {% assign posts = site.categories[page.categories] %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
 <main class="posts list page">
   <header>
-    <h1 class="title">{{ page.title }}</h1>
-    {% include posts_tab.html category='posts' %}
+    {% include posts_tab.html %}
   </header>
 
   <ul class="post list">

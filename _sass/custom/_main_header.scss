@@ -1,15 +1,21 @@
-.title {
-  line-height: 1.5;
-}
+main header {
+  .page.title {
+    line-height: 1.5;
 
-.meta.subtitle {
-  font-size: 75%;
-}
+    &.about {
+      margin: 1em 0;
+    }
+  }
 
-.meta.time {
-  font-size: 80%;
-}
+  .meta.subtitle {
+    font-size: 75%;
+  }
 
-.tab.navigation {
-  margin: 1em 0 1em 0;
+  .meta.time {
+    font-size: 80%;
+  }
+
+  .tab.navigation {
+    margin: 1em 0 1em 0;
+  }
 }

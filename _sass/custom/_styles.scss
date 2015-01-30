@@ -2,29 +2,24 @@
 
 @import "reusables/reusables";
 
+body {
+  @import "_mobile_typography";
+}
+
 .container {
   @include outer-container;
 
-  .site.header {
-    @import "_site_header";
-  }
+  @import "_site_header";
 
-  main {
+  // main
+  @import "_main_header";
+  @import "_posts_list";
+  @import "_main_article";
+  @import "_commands";
+  @import "_about";
+
+  main.post {
     @extend %border-top;
-
-    header {
-      @import "_main_header";
-    }
-
-    &.posts.list {
-      @import "_posts_list"
-    }
-
-    article {
-      @import "_main_article";
-    }
-
-    @import "_commands";
   }
 
   .site.footer {

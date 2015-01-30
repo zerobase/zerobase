@@ -1,7 +1,7 @@
-<nav>
+<nav class="pagination">
   {% assign next_post_key = page.categories[0] | append: "_next" %}
   {% if page[next_post_key] %}
     {% assign next_post = page[next_post_key] %}
-    Next {{ page.categories[0] }}: <a href="{{ next_post.url }}" rel="next">{{ next_post.title }}</a>
+    Next: <a href="{{ next_post.url }}" rel="next">{{ next_post.title }}</a>
   {% endif %}
 </nav>

@@ -1,13 +1,54 @@
 .site.header {
   margin: 0;
   padding: 0;
-  
+
+  @include media($medium-screen-up) {
+    .site.title,
+    .breadcrumbs {
+      font-size: 2.0em;
+    }
+  }
+
+  @include media($mobile) {
+    .site.title,
+    .breadcrumbs {
+      font-size: 1.2em;
+    }
+  }
+
+
   .site.title {
     margin-bottom: 0.2em;
+    display: inline;
+  }
+
+  nav {
+    display: inline;
+
+    ul.breadcrumbs {
+      display: inline;
+
+      li {
+        display: inline;
+      }
+
+      li:before {
+        content: " / ";
+      }
+    }
   }
 
   .site.description {
+    position: absolute;
+    right: 0.1em;
+    top: 0;
     margin-bottom: 0.2em;
-    font-size: 0.8em;
+
+    a {
+      margin: 0.5em 0.5em 0.5em 0;
+      padding: 0.4em;
+      border: $base-border;
+      border-radius: $base-border-radius;
+    }
   }
 }

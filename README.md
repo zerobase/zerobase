@@ -19,7 +19,7 @@ Optional Tool Chain
 -------------------
 
 ```console
-browser-sync start --port 4040 --proxy localhost:4000 --files _site/css/*
+browser-sync start --port 4040 --no-notify --proxy localhost:4000 --files _site/css/main.css
 ngrok 4040
 ```
 

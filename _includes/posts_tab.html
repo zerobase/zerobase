@@ -2,14 +2,16 @@
   <ul>
     {% assign sorted_pages = site.pages | sort: 'order' %}
     {% for p in sorted_pages %}
-      {% if p.category == include.category %}
+      {% if p.posts %}
         <li>
-          {% if p.subcategory %}
-            {% assign posts_count = site.categories[p.subcategory].size %}
+          {% if p.categories %}
+            {% assign posts_count = site.categories[p.categories].size %}
+            {% assign label = p.categories | capitalize %}
           {% else %}
             {% assign posts_count = site.posts.size %}
+            {% assign label = p.title %}
           {% endif %}
-          {% include posts_tab_item.html url=p.url label=p.subtitle count=posts_count %}
+          {% include posts_tab_item.html url=p.url label=label count=posts_count %}
         </li>
       {% endif %}
     {% endfor %}

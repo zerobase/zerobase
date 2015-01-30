@@ -1,6 +1,13 @@
 <header class="site header">
+  <p class="site description"><a href="/about/">About</a></p>
   <h2 class="site title">
     <a href="{{ site.baseurl }}/">{{ site.title }}</a>
   </h2>
-  <p class="site description">情報建築家（<a href="/about/">自己紹介</a>）</p>
+  <nav>
+    <ul class="breadcrumbs">
+      {% for category in page.categories %}
+        <li><a href="/{{ category }}">{{ category | capitalize }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
 </header>

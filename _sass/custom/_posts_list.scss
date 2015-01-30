@@ -1,48 +1,50 @@
-header {
-  .meta.posts.count {
-    font-size: 75%;
+main.posts.list {
+  header {
+    .meta.posts.count {
+      font-size: 75%;
+    }
   }
-}
 
-.post.item {
-  @include clearfix;
-  margin: 2em 0;
+  .post.item {
+    @include clearfix;
+    margin: 2em 0;
 
-  .link {
-    display: block;
-
-    .thumbnail {
-      float: right;
-      margin: 0 0 1em 1em;
-      width: 10em;
-      height: 10em;
-    }
-
-    .meta.subtitle {
-      font-size: 80%;
-    }
-
-    @include media($mobile) {
-      .meta.time {
-        font-size: 80%;
-      }
-
-      .title {
-        font-size: 120%;
-        line-height: 1.4;
-        margin-bottom: 0.5em;
-      }
-
-      .meta.description {
-        font-size: 90%;
-        line-height: 1.2;
-      }
+    .link {
+      display: block;
 
       .thumbnail {
         float: right;
-        margin: 0 0 0.4em 0.4em;
-        width: 5em;
-        height: 5em;
+        margin: 0 0 1em 1em;
+        width: 10em;
+        height: 10em;
+      }
+
+      .meta.subtitle {
+        font-size: 80%;
+      }
+
+      @include media($mobile) {
+        .meta.time {
+          font-size: 80%;
+        }
+
+        .title {
+          font-size: 120%;
+          line-height: 1.4;
+          margin-bottom: 0.5em;
+        }
+
+        .meta.description {
+          font-size: 90%;
+          line-height: 1.2;
+        }
+
+        .thumbnail {
+          float: right;
+          margin: 0 0 0.4em 0.4em;
+          width: 5em;
+          height: 5em;
+        }
       }
     }
   }

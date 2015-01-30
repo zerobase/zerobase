@@ -51,8 +51,8 @@ defaults:
       type: "pages"
     values:
       layout: "about"
-      category: "about"
-      title: "自己紹介"
+      categories: "about"
+      title: "About"
 
 # Twitter
 twitter_user: zerobase
