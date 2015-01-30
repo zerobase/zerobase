@@ -12,7 +12,7 @@
       <li class="post item">
         <article>
           <a class="link" href="{{ post.url | prepend: site.baseurl }}">
-            <img class="thumbnail" src="{{ post.path | replace: '_posts/', '/images/posts/' | replace: '.md', '/thumbnail.png' }}" alt="" width="300" height="300">
+            <img class="thumbnail" src="{% if post.thumbnail %}{{ post.thumbnail }}{% else %}{{ post.path | replace: '_posts/', '/images/posts/' | replace: '.md', '/thumbnail.png' }}{% endif %}" alt="" width="300" height="300">
             <h2 class="title">
               {{ post.title }} <span class="meta subtitle">{{ post.subtitle }}</span>
             </h2>

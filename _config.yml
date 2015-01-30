@@ -32,13 +32,6 @@ defaults:
       categories: "blog"
   -
     scope:
-      path: "blog"
-      type: "posts"
-    values:
-      layout: "post"
-      categories: "blog"
-  -
-    scope:
       path: "activity"
       type: "posts"
     values:
@@ -51,7 +44,6 @@ defaults:
     values:
       layout: "podcast"
       categories: "podcast"
-      thumbnail: 
   -
     scope:
       path: "about"
