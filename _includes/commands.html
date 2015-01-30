@@ -1,0 +1,9 @@
+<nav>
+  <ul class="commands list">
+    {% if page.subcategory == "podcast" %}
+      <li class="command item"><a href="{{ site.podcast_rss }}">Podcastを購読</a></li>
+    {% else %}
+      <li class="command item"><a href="{{ site.subscribe_rss }}">フィードを購読</a></li>
+    {% endif %}
+  </ul>
+</nav>

@@ -1,0 +1,7 @@
+.commands.list {
+  padding-left: 0;
+  
+  .command.item {
+    @extend %inline-button-list;
+  }
+}

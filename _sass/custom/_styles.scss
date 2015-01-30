@@ -23,9 +23,11 @@
     article {
       @import "_main_article";
     }
+
+    @import "_commands";
   }
 
-  footer {
+  .site.footer {
     @extend %border-top;
   }
 

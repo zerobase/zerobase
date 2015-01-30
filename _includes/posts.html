@@ -1,9 +1,6 @@
 <main class="posts list page">
   <header>
     <h1 class="title">{{ page.title }}</h1>
-    <div class="lead">
-      {{ content }}
-    </div>
     {% include posts_tab.html category='posts' %}
   </header>
 
@@ -23,7 +20,5 @@
     {% endfor %}
   </ul>
   
-  <ul class="commands list">
-    <li class="command item"><a href="{% if page.subcategory == "podcast" %}{{ site.podcast_rss }}{% else %}{{ site.subscribe_rss }}{% endif %}">フィードを購読</a></li>
-  </ul>
+  {% include commands.html %}
 </main>

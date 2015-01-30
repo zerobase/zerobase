@@ -47,9 +47,3 @@ header {
     }
   }
 }
-
-.commands.list {
-  .command.item {
-    @extend %inline-button-list;
-  }
-}

@@ -22,6 +22,4 @@ redirect_from: "/blog/podcast-launched/"
 
 今後も、いろいろな分野のゲストとトークして、〈共通言語〉を模索していきたいと思います。
 
-ぜひご購読ください。
-
-[RSS](http://talk.ishibashihideto.net/rss) / [iTunes](http://www.itunes.com/podcast?id=718081940)
+ぜひ[ポッドキャストのフィード](/podcast/rss.xml)をご購読ください。
