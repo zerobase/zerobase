@@ -1,6 +1,7 @@
 ---
 subtitle: 仕事
 order: 3
+redirect_from: /works/
 ---
 
 ## 仕事

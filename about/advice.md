@@ -1,6 +1,7 @@
 ---
 subtitle: 顧問サービス
 order: 4
+redirect_from: /advice/
 ---
 
 ## 顧問サービス

@@ -1,6 +1,7 @@
 ---
 subtitle: 思想
 order: 2
+redirect_from: /philosophy/
 ---
 
 ## 思想
