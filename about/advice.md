@@ -34,7 +34,7 @@ redirect_from: /advice/
 - 自社中心主義的ではない、ユーザーをとりまくエコシステムの観点 [^ecosystem]
 - 技術やデザインのトレンドと事業機会
 
-[^ecosystem]: [情報建築を設計するアプローチのコペルニクス的転回: エコシステムとユーザー・エクスペリエンスの重視へ](/blog/copernican-turn-on-information-architecture/)
+[^ecosystem]: [情報建築を設計するアプローチのコペルニクス的転回: エコシステムとユーザー・エクスペリエンスの重視へ](/blog/2014/04/25/copernican-turn-on-information-architecture.html)
 
 ## 仮説検証
 
@@ -45,10 +45,10 @@ redirect_from: /advice/
 - 開発投資計画・リソース配分 [^cto]
 - 組織づくり・能力開発 [^designer-survival]
 
-[^lean]: [ゼロベース流アジャイルウェブ開発術2010年版](/blog/agile-development/)
-[^cto]: [チーフ・テクノロジ・オフィサ（CTO）ってチーフ・エンジニアと違うの？](/blog/cto/)
-[^designer-survival]: [ウェブサービス開発の現場におけるデザイナー不要論と5〜10年後の生存戦略](/blog/web-designer-survival/)
-[^prototyping]: [なぜ「イン・ブラウザー・デザイン」ワークフローへの移行が必要なのか？](/blog/in_browser/)
+[^lean]: [ゼロベース流アジャイルウェブ開発術2010年版](/activity/2012/07/09/agile-development.html)
+[^cto]: [チーフ・テクノロジ・オフィサ（CTO）ってチーフ・エンジニアと違うの？](/blog/2008/08/31/cto.html)
+[^designer-survival]: [ウェブサービス開発の現場におけるデザイナー不要論と5〜10年後の生存戦略](/blog/2014/08/25/web-designer-survival.html)
+[^prototyping]: [なぜ「イン・ブラウザー・デザイン」ワークフローへの移行が必要なのか？](/blog/2013/04/18/in_browser.html)
 
 ## 情報アーキテクチャとユーザー・エクスペリエンス
 
@@ -57,7 +57,7 @@ redirect_from: /advice/
 - 専門知識にもとづく改善提案（ウォークスルー評価）
 - ユーザビリティ・テスト
 
-[^ui]: [「設定次第で何でもできる万能アプリ」がクソアプリである理由](/blog/why-almighty-apps-are-shit/)
+[^ui]: [「設定次第で何でもできる万能アプリ」がクソアプリである理由](/blog/2013/08/14/why-almighty-apps-are-shit.html)
 
 ## 情報エコシステムと情報アクセシビリティ
 

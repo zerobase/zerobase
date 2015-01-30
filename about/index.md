@@ -4,7 +4,7 @@ order: 1
 permalink: /about/
 ---
 
-石橋秀仁は[情報建築家](/blog/future-of-information-architect/)／デザイナー／プログラマーです。ウェブとイノベーションが好きで、モットーは「[思想を実装する](/philosophy/)」です。機会があれば[講演](/speech/)や[執筆](/writing/)にも積極的に取り組んでいます。
+石橋秀仁は[情報建築家](/blog/2014/04/25/future-of-information-architect.html)／デザイナー／プログラマーです。ウェブとイノベーションが好きで、モットーは「[思想を実装する](/about/philosophy.html)」です。
 
 ![Hideto ISHIBASHI, Information Architect](title_portrait.png)
 
@@ -16,8 +16,8 @@ permalink: /about/
 ## 役職
 
 1. [ゼロベース株式会社](http://zerobase.jp)というウェブ開発会社の創業者で代表取締役です。
-2. [GMO VenturePartners株式会社](http://www.gmo-vp.com)というベンチャーキャピタルの[デザインフェローという仕事](/blog/design-fellow-at-venture-capital/)をしています。ベンチャー企業のサービス開発を手伝っています。
-3. いくつかの事業の[顧問](/advice/)をしています。
+2. [GMO VenturePartners株式会社](http://www.gmo-vp.com)というベンチャーキャピタルの[デザインフェローという仕事](/blog/2014/12/01/design-fellow-at-venture-capital.html)をしています。ベンチャー企業のサービス開発を手伝っています。
+3. いくつかの事業の[顧問](/about/advice.html)をしています。
 
 
 ## プロジェクト
