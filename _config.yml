@@ -15,6 +15,7 @@ subscribe_rss: /atom.xml
 markdown: kramdown
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 # Blog
 permalink: date # previously: /blog/:categories/:title/
