@@ -41,7 +41,7 @@
       text-decoration: none;
 
       @include media($tab-mode) {
-        @include inline-block;
+        display: inline-block;
         border-top: 0;
       }
 
