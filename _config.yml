@@ -10,6 +10,7 @@ url: "http://ja.ishibashihideto.net" # the base hostname & protocol for your sit
 twitter_username: zerobase
 github_username:  zerobase
 subscribe_rss: /atom.xml
+podcast_rss: /podcast/rss.xml
 
 # Build settings
 markdown: kramdown

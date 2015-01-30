@@ -24,6 +24,6 @@
   </ul>
   
   <ul class="commands list">
-    <li class="command item"><a href="{{ site.subscribe_rss }}">フィードを購読</a></li>
+    <li class="command item"><a href="{% if page.subcategory == "podcast" %}{{ site.podcast_rss }}{% else %}{{ site.subscribe_rss }}{% endif %}">フィードを購読</a></li>
   </ul>
 </main>
