@@ -20,7 +20,7 @@
     {% for post in site.categories.podcast %}
     <item>
       <title>{{ post.title }}</title>
-      <itunes:subtitle>{{ post.subtitle }}</itunes:subtitle>
+      <itunes:subtitle>{{ post.description }}</itunes:subtitle>
       <author>石橋秀仁</author>
       <itunes:image href="http://ja.ishibashihideto.net/images/podcast/ia_podcast_cover.png" />
       <enclosure url="{{ post.mp3 }}" type="audio/mpeg" />
