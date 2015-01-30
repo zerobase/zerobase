@@ -8,9 +8,8 @@ description: ビッグデータ・オープンデータ活用推進協議会 公
 
 ## 動画
 
-{% include youtube_link.html video=EsQ2vHwFVTQ %}
+{% include youtube_link.html video="EsQ2vHwFVTQ" %}
 <small><a href="https://www.youtube.com/watch?v=EsQ2vHwFVTQ">ビッグデータ・オープンデータ活用推進協議会 公開シンポジウム - YouTube</a></small>
-</section>
 
 ## スライド
 
