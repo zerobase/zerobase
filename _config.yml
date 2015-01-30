@@ -46,18 +46,12 @@ defaults:
       categories: "activity"
   -
     scope:
-      path: "speech"
+      path: "podcast"
       type: "posts"
     values:
-      layout: "post"
-      categories: "speech"
-  -
-    scope:
-      path: "writing"
-      type: "posts"
-    values:
-      layout: "post"
-      categories: "writing"
+      layout: "podcast"
+      categories: "podcast"
+      thumbnail: 
   -
     scope:
       path: "about"

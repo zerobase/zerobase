@@ -4,7 +4,7 @@ description: 2010年12月22日発売の WEB+DB PRESS Vol.60 へ寄稿した文�
 redirect_from: "/blog/agile-development/"
 ---
 
-![](/images/posts/writing/2012-07-09-agile-development/9784774144603.jpg)  
+![](/images/posts/activity/2012-07-09-agile-development/9784774144603.jpg)  
 <small>掲載媒体 [WEB+DB PRESS Vol.60](http://gihyo.jp/magazine/wdpress/archive/2011/vol60)</small>
 
 2010年12月22日発売の [WEB+DB PRESS Vol.60](http://gihyo.jp/magazine/wdpress/archive/2011/vol60) へ寄稿した文章を（技術評論社さんの好意もあり）少し訂正して公開します。ブログエントリとしては長大な3万字なので、[電子書籍BCCKS版](http://bccks.jp/bcck/107527/info)（無料）もご利用ください。iPad版は読みやすかったです。
@@ -173,15 +173,15 @@ redirect_from: "/blog/agile-development/"
 
 図1 ウォーターフォールUXD：
 
-![図1 ウォーターフォールUXD](/images/posts/writing/2012-07-09-agile-development/agile_01.jpg)
+![図1 ウォーターフォールUXD](/images/posts/activity/2012-07-09-agile-development/agile_01.jpg)
 
 図2 ウェブならではのアジャイルUXD：
 
-![図2 ウェブならではのアジャイルUXD](/images/posts/writing/2012-07-09-agile-development/agile_02.jpg)
+![図2 ウェブならではのアジャイルUXD](/images/posts/activity/2012-07-09-agile-development/agile_02.jpg)
 
 図3 ユーザーエクスペリエンスの構造：
 
-![図3 ユーザーエクスペリエンスの構造](/images/posts/writing/2012-07-09-agile-development/agile_03.jpg)
+![図3 ユーザーエクスペリエンスの構造](/images/posts/activity/2012-07-09-agile-development/agile_03.jpg)
 
 （出典 Jesse James Garret, 『ウェブ戦略としての「ユーザーエクスペリエンス」』, 毎日コミュニケーションズ, 2005, pp.38）
 
@@ -199,15 +199,15 @@ redirect_from: "/blog/agile-development/"
 
 図4 UIフロー図（一例）：
 
-![図4 UIフロー図（一例）](/images/posts/writing/2012-07-09-agile-development/agile_04.jpg)
+![図4 UIフロー図（一例）](/images/posts/activity/2012-07-09-agile-development/agile_04.jpg)
 
 図5 HTMLモック（画面表示）：
 
-![図5 HTMLモック（画面表示）](/images/posts/writing/2012-07-09-agile-development/agile_05.jpg)
+![図5 HTMLモック（画面表示）](/images/posts/activity/2012-07-09-agile-development/agile_05.jpg)
 
 図6 HTMLモック（ソース）：
 
-![図6 HTMLモック（ソース）](/images/posts/writing/2012-07-09-agile-development/agile_06.jpg)
+![図6 HTMLモック（ソース）](/images/posts/activity/2012-07-09-agile-development/agile_06.jpg)
 
 ### 表層(surface)
 
