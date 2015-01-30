@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 新着情報
-subtitle: スピーチ
+title: 新着
+subtitle: 講演
 order: 5
 permalink: /speech/
 category: posts

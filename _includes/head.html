@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>{% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %} - {% endif %}{{ site.title }}</title>
+  <title>{% if page.url != "/" %}{% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %} - {% endif %}{% endif %}{{ site.title }}</title>
   
   <meta name="author" content="{{ site.author }}">
   <link rel="author" href="{{ site.author_link }}">

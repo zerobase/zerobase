@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 新着情報
+title: 新着
 subtitle: 寄稿
 order: 4
 permalink: /writing/
