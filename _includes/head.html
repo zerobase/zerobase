@@ -15,6 +15,12 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link href="/favicon.png" type="image/png" rel="icon">
   <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
+
+  {% assign next_post_key = page.categories[0] | append: "_next" %}
+  {% if page[next_post_key] %}
+    {% assign next_post = page[next_post_key] %}
+    <link rel="next" href="{{ next_post.url }}">
+  {% endif %}
   
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
