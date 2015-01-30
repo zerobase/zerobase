@@ -43,6 +43,5 @@ permalink: /about/
   <li><a href="https://plus.google.com/+IshibashiHideto"><img alt="Google+" src="/images/links/g+icon.png" width="100" height="100"></a></li>
   <li><a href="https://github.com/zerobase"><img alt="GitHub" src="/images/links/GitHub-Mark.png" width="100" height="100"></a></li>
   <li><a href="http://qiita.com/zerobase"><img alt="Qiita" src="/images/links/Qiita.png" width="100" height="100"></a></li>
-  <li><a href="http://talk.ishibashihideto.net/"><img alt="podcast" src="/images/links/podcast_icon.png" width="100" height="100"></a></li>
   <li><a href="mailto:hidetoi@gmail.com"><img alt="email" src="/images/links/mail_icon.png" width="100" height="100"></a></li>
 </ul>
