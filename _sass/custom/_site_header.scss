@@ -1,25 +1,12 @@
 .site.header {
   margin: 0;
   padding: 0;
-
-  @include media($medium-screen-up) {
-    .site.title,
-    .breadcrumbs {
-      font-size: 2.0em;
-    }
-  }
-
-  @include media($mobile) {
-    .site.title,
-    .breadcrumbs {
-      font-size: 1.2em;
-    }
-  }
-
+  font-size: em(20px);
 
   .site.title {
     margin-bottom: 0.2em;
     display: inline;
+    font-size: em(18px);
   }
 
   nav {
@@ -43,6 +30,7 @@
     float: right;
     right: 0;
     top: 0;
+    font-size: em(12px);
 
     a {
       margin: 0;
