@@ -16,7 +16,7 @@
           <a class="link" href="{{ post.url | prepend: site.baseurl }}">
             <img class="thumbnail" src="{% if post.thumbnail %}{{ post.thumbnail }}{% else %}{{ post.path | replace: '_posts/', '/images/posts/' | replace: '.md', '/thumbnail.png' }}{% endif %}" alt="" width="300" height="300">
             <h2 class="title">
-              {{ post.title }} <span class="meta subtitle">{{ post.subtitle }}</span>
+              {{ post.title }} {% if post.subtitle %}<span class="meta subtitle">{{ post.subtitle }}</span>{% endif %}
             </h2>
             <p class="meta description">{{ post.description }} <span class="meta time">(<time>{{ post.date | date: "%Y-%m-%d" }}</time>)</span></p>
           </a>
