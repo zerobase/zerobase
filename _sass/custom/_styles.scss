@@ -1,5 +1,6 @@
 // This is the root of custom stylesheets imported by css/main.scss
 
+@import "syntax"; // for Pygments syntax highlighter
 @import "reusables/reusables";
 
 body {
