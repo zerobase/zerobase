@@ -17,7 +17,6 @@ body {
   @import "_posts_list";
   @import "_main_article";
   @import "_commands";
-  @import "_about";
 
   main.post {
     @extend %border-top;
