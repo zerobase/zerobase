@@ -1,6 +1,12 @@
 main {
   article {
     .main.content.body {
+      line-height: 2.3em;
+      
+      @include media($medium-screen-up) {
+        font-size: em(18px);
+      }
+      
       h1, h2, h3, h4, h5, h6 {
         margin-bottom: 0.5em;
       }
