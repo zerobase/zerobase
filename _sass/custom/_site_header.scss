@@ -7,6 +7,10 @@
     margin-bottom: 0.2em;
     display: inline;
     font-size: em(18px);
+    
+    a {
+      color: $base-font-color;
+    }
   }
 
   nav {
@@ -17,6 +21,10 @@
 
       li {
         display: inline;
+        
+        a {
+          color: $base-font-color;
+        }
       }
 
       li:before {
@@ -25,7 +33,7 @@
     }
   }
 
-  .site.description {
+  .about.page.link {
     position: relative;
     float: right;
     right: 0;
@@ -33,9 +41,10 @@
     font-size: em(12px);
 
     a {
+      color: $base-font-color;
       margin: 0;
       padding: 0.4em;
-      border: $base-border;
+      border: 2px solid $dark-gray;
       border-radius: $base-border-radius;
     }
   }
