@@ -46,3 +46,8 @@ permalink: /about/
   <li><a href="https://appear.in/zerobase"><img alt="appear.in" src="/images/links/logo-appear.in.png" width="100" height="100"></a></li>
   <li><a href="mailto:hidetoi@gmail.com"><img alt="email" src="/images/links/mail_icon.png" width="100" height="100"></a></li>
 </ul>
+
+
+## サイトのソース
+
+このサイトのソースは[GitHub](https://github.com/zerobase/zerobase.github.io)で公開されています。
