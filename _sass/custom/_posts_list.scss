@@ -11,6 +11,7 @@ main.posts.list {
 
     .link {
       display: block;
+      color: $base-font-color;
 
       .thumbnail {
         float: right;
@@ -19,24 +20,33 @@ main.posts.list {
         height: 10em;
       }
 
+      .title {
+        font-size: 140%;
+        margin-bottom: 0.7em;
+        line-height: 1.5;
+      }
+      
       .meta.subtitle {
+        font-size: 70%;
+        margin-left: 0.5em;
+      }
+      
+      .meta.description {
+        font-size: 95%;
+        line-height: 1.2;
+        margin-bottom: 0.6em;
+      }
+
+      .meta.time {
         font-size: 80%;
+        color: $medium-gray;
       }
 
       @include media($mobile) {
-        .meta.time {
-          font-size: 80%;
-        }
-
         .title {
-          font-size: 120%;
+          font-size: 110%;
           line-height: 1.4;
           margin-bottom: 0.5em;
-        }
-
-        .meta.description {
-          font-size: 90%;
-          line-height: 1.2;
         }
 
         .thumbnail {

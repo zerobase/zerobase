@@ -18,7 +18,8 @@
             <h2 class="title">
               {{ post.title }} {% if post.subtitle %}<span class="meta subtitle">{{ post.subtitle }}</span>{% endif %}
             </h2>
-            <p class="meta description">{{ post.description }} <span class="meta time">(<time>{{ post.date | date: "%Y-%m-%d" }}</time>)</span></p>
+            <p class="meta description">{{ post.description }}</p>
+            <p class="meta time"><time>{{ post.date | date: "%Y-%m-%d" }}</time></p>
           </a>
         </article>
       </li>
