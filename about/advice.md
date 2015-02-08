@@ -81,4 +81,6 @@ redirect_from: /advice/
 
 まずはメールでお問い合わせください。
 
-<a href="mailto:hidetoi@gmail.com"><img alt="メール" src="/images/links/mail_icon.png" width="70" height="70" /></a>
+<ul class="commands list">
+  <li class="command item"><a href="mailto:hidetoi@gmail.com">メールする</a></li>
+</ul>
