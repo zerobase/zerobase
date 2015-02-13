@@ -16,33 +16,17 @@ main.pages.list {
       display: block;
       color: $base-font-color;
 
+      .title {
+        font-size: 110%;
+        line-height: 1.4;
+        margin-bottom: 0.5em;
+      }
+
       .thumbnail {
         float: right;
-        margin: 0 0 1em 1em;
-        width: 10em;
-        height: 10em;
-      }
-
-      .title {
-        font-size: 140%;
-        margin-bottom: 0.7em;
-        line-height: 1.5;
-      }
-      
-      .meta.subtitle {
-        font-size: 70%;
-        margin-left: 0.5em;
-      }
-      
-      .meta.description {
-        font-size: 95%;
-        line-height: 1.2;
-        margin-bottom: 0.6em;
-      }
-
-      .meta.time {
-        font-size: 80%;
-        color: $medium-gray;
+        margin: 0 0 0.4em 0.4em;
+        width: 7.5em;
+        height: 7.5em;
       }
 
       @include media($mobile) {
@@ -58,6 +42,37 @@ main.pages.list {
           width: 5em;
           height: 5em;
         }
+      }
+
+      @include media($medium-screen-up) {
+        .title {
+          font-size: 140%;
+          line-height: 1.5;
+          margin-bottom: 0.7em;
+        }
+
+        .thumbnail {
+          float: right;
+          margin: 0 0 1em 1em;
+          width: 10em;
+          height: 10em;
+        }
+      }
+
+      .meta.subtitle {
+        font-size: 70%;
+        margin-left: 0.5em;
+      }
+      
+      .meta.description {
+        font-size: 95%;
+        line-height: 1.2;
+        margin-bottom: 0.6em;
+      }
+
+      .meta.time {
+        font-size: 80%;
+        color: $medium-gray;
       }
     }
   }
