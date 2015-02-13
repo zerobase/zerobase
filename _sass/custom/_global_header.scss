@@ -1,12 +1,20 @@
+%site-header-font {
+  font-size: em(18px);
+  @include media($mobile) {
+    font-size: em(16px);
+  }
+}
+
 .site.header {
   margin: 0;
   padding: 0;
-  font-size: em(20px);
+  @extend %site-header-font;
 
   .site.title {
     margin-bottom: 0.2em;
     display: inline;
-    font-size: em(18px);
+    font-weight: normal;
+    @extend %site-header-font;
     
     a {
       color: $base-font-color;
@@ -15,6 +23,7 @@
 
   nav {
     display: inline;
+    @extend %site-header-font;
 
     ul.breadcrumbs {
       display: inline;
@@ -30,22 +39,6 @@
       li:before {
         content: " / ";
       }
-    }
-  }
-
-  .about.page.link {
-    position: relative;
-    float: right;
-    right: 0;
-    top: 0;
-    font-size: em(12px);
-
-    a {
-      color: $base-font-color;
-      margin: 0;
-      padding: 0.4em;
-      border: 2px solid $dark-gray;
-      border-radius: $base-border-radius;
     }
   }
 }
