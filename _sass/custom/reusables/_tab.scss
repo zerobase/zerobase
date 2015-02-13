@@ -6,7 +6,7 @@
   $base-accent-color: #477DCA !default;
   $base-link-color: $base-accent-color !default;
   $dark-gray: #333 !default;
-  $medium-screen: em(640) !default;
+  $medium-screen-up: em(640) !default;
   //////////////////////////////////////////////////////////////////////////////////
 
   $tab-link-color: $dark-gray;
@@ -14,7 +14,7 @@
   $tab-active-background: $base-background-color;
   $tab-inactive-color: $base-background-color;
   $tab-inactive-hover-color: silver;
-  $tab-mode: $medium-screen;
+  $tab-mode: $medium-screen-up;
 
   @include clearfix;
   line-height: 1.5;
@@ -53,6 +53,7 @@
 
       &.is-active {
         border-bottom: 0;
+        background-color: $light-gray;
 
         .title {
           font-weight: normal;
@@ -63,10 +64,7 @@
           border: $tab-border;
           border-bottom-color: $tab-active-background;
           margin-bottom: -1px;
-        }
-
-        @include media($mobile) {
-          background-color: $light-gray;
+          background-color: none !important;
         }
       }
 
