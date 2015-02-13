@@ -24,8 +24,20 @@ main {
       overflow-x: scroll;
     }
     
-    figcaption {
-      font-size: smaller;
+    figure {
+      margin: $base-spacing;
+
+      &.center { text-align: center; }
+      &.left { text-align: left; }
+      &.right { text-align: right; }
+
+      img {
+        border: $base-border;
+      }
+
+      figcaption {
+        font-size: smaller;
+      }
     }
 
     .responsive.embed {
