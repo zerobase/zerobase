@@ -15,5 +15,12 @@
         </li>
       {% endif %}
     {% endfor %}
+    <li>
+      {% if page.categories == "about" %}
+        <a href="/about/"  class="is-active"><h1 class="title">About</h1> <span class="meta posts count">(4)</span></a>
+      {% else %}
+        <a href="/about/">About <span class="meta posts count">(4)</span></a>
+      {% endif %}
+    </li>
   </ul>
 </nav>

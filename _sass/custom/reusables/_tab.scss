@@ -54,6 +54,11 @@
       &.is-active {
         border-bottom: 0;
 
+        .title {
+          font-weight: normal;
+          font-size: inherit;
+        }
+
         @include media($tab-mode) {
           border: $tab-border;
           border-bottom-color: $tab-active-background;

@@ -10,7 +10,7 @@ body {
 .container {
   @include outer-container;
 
-  @import "_site_header";
+  @import "_global_header";
 
   // main
   @import "_main_header";

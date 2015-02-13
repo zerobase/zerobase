@@ -1,11 +1,14 @@
-main.posts.list {
+main.posts.list,
+main.pages.list {
   header {
-    .meta.posts.count {
+    .meta.posts.count,
+    .meta.pages.count {
       font-size: 75%;
     }
   }
 
-  .post.item {
+  .post.item,
+  .page.item {
     @include clearfix;
     margin: 2em 0;
 

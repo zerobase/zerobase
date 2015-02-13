@@ -1,20 +1,16 @@
-%site-header-font {
-  font-size: em(18px);
-  @include media($mobile) {
-    font-size: em(16px);
-  }
-}
-
 .site.header {
   margin: 0;
   padding: 0;
-  @extend %site-header-font;
+  font-size: em(20px);
+  @include media($mobile) {
+    font-size: em(16px);
+  }
 
   .site.title {
     margin-bottom: 0.2em;
     display: inline;
     font-weight: normal;
-    @extend %site-header-font;
+    font-size: inherit;
     
     a {
       color: $base-font-color;
@@ -23,7 +19,7 @@
 
   nav {
     display: inline;
-    @extend %site-header-font;
+    font-size: inherit;
 
     ul.breadcrumbs {
       display: inline;
