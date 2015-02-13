@@ -64,6 +64,10 @@
           border-bottom-color: $tab-active-background;
           margin-bottom: -1px;
         }
+
+        @include media($mobile) {
+          background-color: $light-gray;
+        }
       }
 
       > .title {
