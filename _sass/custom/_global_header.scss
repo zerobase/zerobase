@@ -32,7 +32,7 @@
         }
       }
 
-      li:before {
+      li:not(:last-child):after {
         content: " / ";
       }
     }

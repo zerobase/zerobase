@@ -1,9 +1,11 @@
 <header class="site header">
-  <h2 class="site title">
-    <a href="{{ site.baseurl }}/">{{ site.title }}</a>
-  </h2>
-  <nav>
+  <nav role="navigation">
     <ul class="breadcrumbs">
+      <li>
+        <h2 class="site title">
+          <a href="{{ site.baseurl }}/" rel="index">{{ site.title }}</a>
+        </h2>
+      </li>
       {% for category in page.categories %}
         <li><a href="/{{ category }}">{{ category | capitalize }}</a></li>
       {% endfor %}
