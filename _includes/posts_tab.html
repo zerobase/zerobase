@@ -1,4 +1,8 @@
 <nav class="tab navigation">
+  <label for="sliding-menu-button-tab-navigation">
+    <img src="" alt="Menu Icon">
+  </label>
+  <input type="checkbox" id="sliding-menu-button-tab-navigation">
   <ul>
     {% assign sorted_pages = site.pages | sort: 'order' %}
     {% for p in sorted_pages %}

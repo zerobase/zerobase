@@ -1,4 +1,4 @@
-.tab.navigation > ul {
+.tab.navigation {
   ///////////////////////////////////////////////////////////////////////////////////
   $base-border-color: gainsboro !default;
   $base-background-color: white !default;
@@ -16,62 +16,102 @@
   $tab-inactive-hover-color: silver;
   $tab-mode: $medium-screen-up;
 
-  @include clearfix;
-  line-height: 1.5;
-  padding: 0;
-
-  border-bottom: $tab-border;
-
-  > li {
-    list-style: none;
+  margin-top: 0.3em;
+  @include media($tab-mode) {
+    margin-top: 1.0em;
+  }
+  
+  label {
+    display: block;
+    padding: 0;
+    margin: 0;
 
     @include media($tab-mode) {
-      display: inline;
-    }
-
-    > a {
-      background-color: $tab-inactive-color;
-      border-top: $tab-border;
-      color: $tab-link-color;
-      display: block;
-      font-weight: 400;
-      padding: 0.6em;
-      text-decoration: none;
-
-      @include media($tab-mode) {
-        display: inline-block;
-        border-top: 0;
-      }
-
-      &:hover {
-        color: $base-link-color;
-      }
-
-      &:focus {
-        outline: none;
-      }
-
-      &.is-active {
-        border-bottom: 0;
-        background-color: $light-gray;
-
-        .title {
-          font-weight: normal;
-          font-size: inherit;
-        }
-
-        @include media($tab-mode) {
-          border: $tab-border;
-          border-bottom-color: $tab-active-background;
-          margin-bottom: -1px;
-          background-color: transparent !important;
-        }
-      }
-
-      > .title {
-        display: inline;
-        font-size: 1.1em;
-      }
+      display: none;
     }
   }
+
+  input[type="checkbox"] {
+    display: none;
+  }
+
+  input[type="checkbox"] + ul {
+    height: 0;
+    overflow: hidden;
+
+    @include media($tab-mode) {
+      height: auto;
+      overflow: visible;
+    }
+  }
+
+  input[type="checkbox"]:checked + ul {
+    height: 15em;
+
+    @include media($tab-mode) {
+      height: auto;
+    }
+  }
+
+  ul {
+    @include transition(all 0.3s ease-in-out);
+    @include clearfix;
+    font-size: em(14px);
+    line-height: 1.5;
+    padding: 0;
+    border-bottom: $tab-border;
+
+    > li {
+      list-style: none;
+
+      @include media($tab-mode) {
+        display: inline;
+      }
+
+      > a {
+        background-color: $tab-inactive-color;
+        border-top: $tab-border;
+        color: $tab-link-color;
+        display: block;
+        font-weight: 400;
+        padding: 0.6em;
+        text-decoration: none;
+
+        @include media($tab-mode) {
+          display: inline-block;
+          border-top: 0;
+        }
+
+        &:hover {
+          color: $base-link-color;
+        }
+
+        &:focus {
+          outline: none;
+        }
+
+        &.is-active {
+          border-bottom: 0;
+          background-color: $light-gray;
+
+          .title {
+            font-weight: normal;
+            font-size: inherit;
+          }
+
+          @include media($tab-mode) {
+            border: $tab-border;
+            border-bottom-color: $tab-active-background;
+            margin-bottom: -1px;
+            background-color: transparent !important;
+          }
+        }
+
+        > .title {
+          display: inline;
+          font-size: 1.1em;
+        }
+      } // a
+    } // li
+  } // ul
 }
