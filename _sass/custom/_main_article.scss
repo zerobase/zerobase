@@ -1,4 +1,19 @@
-.main.content.body {
+main article header {
+  .page.title {
+    line-height: 1.5;
+  }
+
+  .meta.subtitle {
+    font-size: 75%;
+  }
+
+  .meta.time {
+    font-size: 80%;
+  }
+}
+
+
+main article section.content.body {
   line-height: 1.7;
   
   @include media($mobile) {
@@ -69,6 +84,13 @@
     }
   }
 
+  .footnotes {
+    @extend %border-top;
+    font-size: smaller;
+  }
+}
+
+main article footer {
   .sharing {
     @extend %border-top;
     
@@ -85,10 +107,5 @@
 
   .pagination {
     @extend %border-top;
-  }
-
-  .footnotes {
-    @extend %border-top;
-    font-size: smaller;
   }
 }

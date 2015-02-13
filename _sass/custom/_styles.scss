@@ -19,10 +19,9 @@
   }
 }
 
-@import "article_header";
 @import "commands_list";
 @import "list_index";
-@import "main_content_body";
+@import "main_article";
 @import "mobile_typography";
 @import "syntax"; // for Pygments syntax highlighter
 @import "tab_navigation";
