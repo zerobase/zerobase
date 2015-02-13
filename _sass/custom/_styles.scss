@@ -1,29 +1,29 @@
 // This is the root of custom stylesheets imported by css/main.scss
 
-@import "syntax"; // for Pygments syntax highlighter
-@import "reusables/reusables";
-
-body {
-  @import "_mobile_typography";
+%border-top {
+  margin-top: $base-spacing;
+  border-top: $base-border;
+  padding-top: $base-spacing;
 }
 
 .container {
   @include outer-container;
 
-  @import "_global_header";
-
-  // main
-  @import "_main_header";
-  @import "_posts_list";
-  @import "_main_article";
-  @import "_commands";
-
-  main.post {
+  main.post,
+  main.page {
     @extend %border-top;
   }
 
   .site.footer {
     @extend %border-top;
   }
+}
 
-} // container
+@import "article_header";
+@import "commands_list";
+@import "list_index";
+@import "main_content_body";
+@import "mobile_typography";
+@import "syntax"; // for Pygments syntax highlighter
+@import "tab";
+@import "website_header";

@@ -12,7 +12,7 @@
             {% assign posts_count = site.posts.size %}
             {% assign label = p.title %}
           {% endif %}
-          {% include posts_tab_item.html url=p.url label=label count=posts_count %}
+          {% include tab_navigation_item.html url=p.url label=label count=posts_count %}
         </li>
       {% endif %}
     {% endfor %}

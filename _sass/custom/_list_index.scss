@@ -1,5 +1,5 @@
-main.posts.list,
-main.pages.list {
+main.list.index,
+main.list.index {
   header {
     .meta.posts.count,
     .meta.pages.count {
@@ -20,6 +20,12 @@ main.pages.list {
         font-size: 110%;
         line-height: 1.4;
         margin-bottom: 0.5em;
+        
+        @include media($medium-screen-up) {
+          font-size: 140%;
+          line-height: 1.5;
+          margin-bottom: 0.7em;
+        }
       }
 
       .thumbnail {
@@ -27,32 +33,13 @@ main.pages.list {
         margin: 0 0 0.4em 0.4em;
         width: 7.5em;
         height: 7.5em;
-      }
-
-      @include media($mobile) {
-        .title {
-          font-size: 110%;
-          line-height: 1.4;
-          margin-bottom: 0.5em;
-        }
-
-        .thumbnail {
-          float: right;
-          margin: 0 0 0.4em 0.4em;
+        
+        @include media($mobile) {
           width: 5em;
           height: 5em;
         }
-      }
-
-      @include media($medium-screen-up) {
-        .title {
-          font-size: 140%;
-          line-height: 1.5;
-          margin-bottom: 0.7em;
-        }
-
-        .thumbnail {
-          float: right;
+        
+        @include media($medium-screen-up) {
           margin: 0 0 1em 1em;
           width: 10em;
           height: 10em;

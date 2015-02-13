@@ -1,13 +1,13 @@
-<main class="posts list page">
+<main class="list index">
   <header>
-    {% include posts_tab.html %}
+    {% include tab_navigation.html %}
   </header>
 
-  <ul class="post list">
+  <ul class="page list">
     {% assign sorted_pages = site.pages | sort: 'order' %}
     {% for page in sorted_pages %}
       {% if page.categories == "about" and page.title != "About" %}
-        <li class="post item">
+        <li class="page item">
           <article>
             <a class="link" href="{{ page.url | prepend: site.baseurl }}">
               <img class="thumbnail" src="about_thumbnail.png" alt="" width="300" height="300">
