@@ -9,7 +9,7 @@
             {% assign posts_count = site.categories[p.categories].size %}
             {% assign label = p.categories | capitalize %}
           {% else %}
-            {% assign posts_count = site.posts.size %}
+            {% assign posts_count = site.posts.size | plus: site.num_about_pages %}
             {% assign label = p.title %}
           {% endif %}
           {% include tab_navigation_item.html url=p.url label=label count=posts_count %}
