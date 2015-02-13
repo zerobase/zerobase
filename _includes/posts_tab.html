@@ -1,9 +1,6 @@
 <nav class="tab navigation">
-  <label for="sliding-menu-button-tab-navigation">
-    <img src="/images/menu_icon.png" alt="" width="16" height="14"> Menu
-  </label>
-  <input type="checkbox" id="sliding-menu-button-tab-navigation">
-  <ul>
+  <button class="menu button"><img src="/images/menu_icon.png" alt="" width="16" height="14"> Menu</button>
+  <ul class="menu content">
     {% assign sorted_pages = site.pages | sort: 'order' %}
     {% for p in sorted_pages %}
       {% if p.posts %}

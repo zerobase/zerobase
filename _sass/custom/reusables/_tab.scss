@@ -21,23 +21,21 @@
     margin-top: 1.0em;
   }
   
-  label {
-    padding: 0.2em;
+  .menu.button {
+    padding: 0.4em 0.9em;
     margin: 0.5em 0 1.0em;
     font-weight: normal;
     border: $base-border;
     border-radius: $base-border-radius;
+    background-color: transparent;
+    color: $base-font-color;
 
     @include media($tab-mode) {
       display: none;
     }
   }
 
-  input[type="checkbox"] {
-    display: none;
-  }
-
-  input[type="checkbox"] + ul {
+  .menu.content {
     height: 0;
     overflow: hidden;
 
@@ -47,7 +45,7 @@
     }
   }
 
-  input[type="checkbox"]:checked + ul {
+  .menu.content.is-open {
     height: 15em;
 
     @include media($tab-mode) {
