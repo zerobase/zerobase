@@ -2,7 +2,7 @@
   <ul class="commands list">
     {% if page.categories contains "podcast" %}
       <li class="command item"><a href="{{ site.podcast_rss }}">Podcastのフィードを購読</a></li>
-      <li class="command item"><a href="{{ site.podcast_itunes_url }}">PodcastをiTunesで購読</a></li>
+      <li class="command item"><a href="{{ site.podcast_itunes_url | escape }}">PodcastをiTunesで購読</a></li>
     {% else %}
       <li class="command item"><a href="{{ site.subscribe_rss }}">フィードを購読</a></li>
     {% endif %}
