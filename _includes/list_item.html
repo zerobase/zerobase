@@ -1,0 +1,12 @@
+<li class="post item">
+  <article>
+    <a class="link" href="{{ _post.url | prepend: site.baseurl }}">
+      <img class="thumbnail" src="{% if _post.thumbnail %}{{ _post.thumbnail }}{% else %}{{ _post.path | replace: '_posts/', '/images/posts/' | replace: '.md', '/thumbnail.png' }}{% endif %}" alt="" width="300" height="300">
+      <h2 class="title">
+        {{ _post.title }} {% if _post.subtitle %}<span class="meta subtitle">{{ _post.subtitle }}</span>{% endif %}
+      </h2>
+      <p class="meta description">{{ _post.description }}</p>
+      <p class="meta time"><time>{{ _post.date | date: "%Y-%m-%d" }}</time></p>
+    </a>
+  </article>
+</li>

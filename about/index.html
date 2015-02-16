@@ -5,4 +5,20 @@ categories: about
 title: About
 ---
 
-{% include about_pages.html %}
+{% assign about_pages = site.pages | sort: 'order' %}
+
+<main class="list index">
+  <header>
+    {% include tab_navigation.html %}
+  </header>
+
+  <ul class="page list">
+    {% for _page in about_pages reversed %}
+      {% if _page.categories == "about" and _page.url != page.url %}
+        {% include about_page_list_item.html %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+  
+  {% include commands.html %}
+</main>
