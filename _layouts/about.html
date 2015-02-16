@@ -14,6 +14,16 @@ layout: default
       {{ content }}
     </section>
 
+    <footer>
+      {% if page.next_page_url %}
+        <nav class="pagination">
+          Next: <a href="{{ page.next_page_url }}" rel="next">{{ page.next_page_title }}</a>
+        </nav>
+      {% endif %}
+
+      {% include share.html %}
+    </footer>
+    
   </article>
 
 </main>

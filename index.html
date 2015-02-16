@@ -20,7 +20,7 @@ title: All
     {% endfor %}
     
     <!-- About pages -->
-    {% for _page in about_pages reversed %}
+    {% for _page in about_pages %}
       {% if _page.categories == "about" and _page.url != '/about/' %}
         {% include about_page_list_item.html %}
       {% endif %}

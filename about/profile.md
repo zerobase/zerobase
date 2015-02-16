@@ -2,6 +2,8 @@
 title: プロフィール
 description: 石橋秀仁は情報建築家／デザイナー／プログラマーです。ウェブとイノベーションが好きで、モットーは「思想を実装する」です。
 order: 1
+next_page_title: 思想
+next_page_url: /about/philosophy.html
 ---
 
 石橋秀仁は[情報建築家](/blog/2014/04/25/future-of-information-architect.html)／デザイナー／プログラマーです。ウェブとイノベーションが好きで、モットーは「[思想を実装する](/about/philosophy.html)」です。

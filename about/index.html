@@ -13,7 +13,7 @@ title: About
   </header>
 
   <ul class="page list">
-    {% for _page in about_pages reversed %}
+    {% for _page in about_pages %}
       {% if _page.categories == "about" and _page.url != page.url %}
         {% include about_page_list_item.html %}
       {% endif %}

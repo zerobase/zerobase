@@ -3,6 +3,8 @@ title: 仕事
 description: これまでにVASILYのiQON、リクルートメディアテクノロジーラボ(MTL)のコマーシャライザー、リクルートのポンパレなどの開発に携わりました。
 order: 3
 redirect_from: /works/
+next_page_title: 顧問サービス
+next_page_url: /about/advice.html
 ---
 
 ## iQON
