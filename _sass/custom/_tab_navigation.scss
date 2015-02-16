@@ -34,6 +34,10 @@
     @include media($tab-mode) {
       display: none;
     }
+    
+    &.is-closed {
+      display: none;
+    }
   }
 
   .menu.content {
