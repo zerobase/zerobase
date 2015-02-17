@@ -35,7 +35,23 @@
       display: none;
     }
     
-    &.is-closed {
+    .open.icon {
+      display: inline;
+    }
+    .close.icon {
+      display: none;
+    }
+
+    &.is-open {
+      .open.icon {
+        display: none;
+      }
+      .close.icon {
+        display: inline;
+      }
+    }
+
+    &.is-removed {
       display: none;
     }
   }
