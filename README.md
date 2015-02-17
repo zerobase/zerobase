@@ -15,11 +15,18 @@ Usage
 bundle exec jekyll serve
 ```
 
-Optional Tool Chain
--------------------
+Optional Tools
+--------------
 
-```console
-browser-sync start --port 4040 --no-notify --proxy localhost:4000 --files _site/css/main.css --open external
+BrowserSync:
+
+```
+browser-sync start --port 4040 --no-notify --proxy localhost:4000 --open external --files _site/css/main.css
+```
+
+Port forwarding:
+
+```
 ngrok 4040
 ```
 
