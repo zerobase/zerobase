@@ -9,6 +9,7 @@ main article header {
 
   .meta.time {
     font-size: 80%;
+    margin-top: 0.5em;
   }
 }
 
@@ -29,11 +30,11 @@ main article section.content.body {
   }
   
   ul {
-    @extend %default-ul
+    @extend %default-ul;
   }
 
   ol {
-    @extend %default-ol
+    @extend %default-ol;
   }
 
   pre {
