@@ -77,13 +77,17 @@ description: このささやかなウェブサイトリニューアルプロジ�
 
 ## マテリアル・オネスティ
 
-ウェブページはHTMLで出来ています。私は「HTMLの素材感」をそのまま出したようなデザインが、わりと好きです。こういったデザインスタイルは、[マテリアル・オネスティ](http://all-web.org/ala/material-honesty-on-the-web/)（素材に忠実であること）という概念と関係しています[^material-honesty]。
+ウェブページはHTMLで出来ています。私は「HTMLの素材感」をそのまま出したようなデザインが、わりと好きです。こういったデザインスタイルは、[マテリアル・オネスティ](http://all-web.org/ala/material-honesty-on-the-web/)（素材に忠実であること）という概念と関係しています。
 
-[^material-honesty]: 逆に言えば、ネイティブアプリを模倣したようなデザインは、私好みではありません。いわゆるスキューオモーフィック(skeuomorphic)なデザインも好ましく思っていません。
+例えば、ブラウザのデフォルト動作を「否定」して「上書き」するような設計は、アクセシビリティやユーザビリティのうえで好ましくありません。勝手な「自分流」のウェブデザインよりも、「ウェブらしいデザイン」のほうが良いデザインだと考えています。
 
-素材（マテリアル）としてのウェブの特性は、「見える部分」だけでなく、「見えない部分」にもあります。つまり、HTMLのマークアップによる**セマンティクス**と、それによって実現される**マシン・リーダビリティ**も重要です。
+ネイティブアプリを模倣したようなデザインも、私好みではありません。いわゆるスキューオモーフィック(skeuomorphic)なデザインは好ましく思っていません。
 
-そういった「見えない部分」をケアすることが第一に重要で、「見える部分」のケアはその次の問題であると考えています。このような設計方針は、後述の「アクセシビリティ」や「プログレッシブ・エンハンスメント」といった概念に直結します。
+ウェブに向いていない視覚表現（例えば縦組みなど）も避けたいと思います。「文字組みを画像化することで見た目を固定する」といった手法も拒否します。なんとか「見た目」は意図通りになるかもしれませんが、「見た目以外の部分」が犠牲になってしまうからです。
+
+素材（マテリアル）としてのウェブの特性は、「見える部分」だけでなく、「見えない部分」にもあります。つまり、HTMLマークアップによる**セマンティクス**と、それによって実現される**マシン・リーダビリティ**が重要なのです。
+
+ウェブサイトの設計においては、「見えない部分」をケアすることが重要です。そのことは、これから説明する「アクセシビリティ」や「プログレッシブ・エンハンスメント」にも直結します。
 
 ## アクセシビリティ
 
@@ -91,26 +95,20 @@ description: このささやかなウェブサイトリニューアルプロジ�
 
 私が書く文章の中には、「5年後、10年後に誰かが読んだときにも役に立って欲しい」と願いつつ書いたものが少なくありません。ただし、そんな未来には、きっとコンテンツにアクセスするための環境やデバイスも、いまとは様変わりしていることでしょう。
 
-未知のデバイスのために、あらかじめ備えておきたい。そのための指針となるのが**ウェブ・アクセシビリティ**の各種ガイドラインです。とくに[ウェブコンテンツ・アクセシビリティ・ガイドライン (WCAG) 2.0](http://www.jsa.or.jp/stdz/instac/commitee-acc/W3C-WCAG/WCAG20/)が有名です。そういったガイドラインを意識しながら設計しました。
+未知のデバイスのために、あらかじめ備えておきたい。そのための指針となるのが**ウェブ・アクセシビリティ**の各種ガイドラインです。とくに[ウェブコンテンツ・アクセシビリティ・ガイドライン (WCAG) 2.0](http://www.jsa.or.jp/stdz/instac/commitee-acc/W3C-WCAG/WCAG20/)が有名です。それらのガイドラインを意識しながら設計し、下記のテストを行いました：
 
-アクセシビリティのテストは、
+- [HTML Markup Validator](http://validator.w3.org/)（マークアップの検査）
+- [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)（各種の機械的な検査）
+- [modern.ie](https://www.modern.ie/ja-jp)（多様なブラウザでの表示確認）
+- [iOSのVoiceOver](https://www.apple.com/jp/accessibility/ios/voiceover/)（スクリーンリーダー）
+- [Mac OS XのVoiceOver](https://www.apple.com/jp/accessibility/osx/voiceover/)（スクリーンリーダー）
+- [Contrast Ratio](http://leaverou.github.io/contrast-ratio/)（カラーコントラストの検査）
 
-- [HTML Markup Validator](http://validator.w3.org/)
-- [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
-- [modern.ie](https://www.modern.ie/ja-jp)
-
-によって機械的に行いました。また
-
-- [iOSのVoiceOver（スクリーンリーダー機能）](https://www.apple.com/jp/accessibility/ios/voiceover/)
-- [Mac OS XのVoiceOver](https://www.apple.com/jp/accessibility/osx/voiceover/)
-
-によって手作業で行いました。
-
-本格的なアクセシビリティテストをしたわけではありませんし、[<abbr title="Web Content Accessibility Guidelines">WCAG</abbr>](http://www.jsa.or.jp/stdz/instac/commitee-acc/W3C-WCAG/WCAG20/)のレベルAにも達していません[^wcag-podcast]。しかし、**アクセシビリティへの取り組みは、決して完璧でなくても、やらないよりはまし**です。「アクセシビリティ・ファースト」だからといって「レベルAの達成が必須」などと窮屈に考えるよりは、やれるところから手を付けていくほうが前向きです。
+本格的なアクセシビリティテストではありませんし、[<abbr title="Web Content Accessibility Guidelines">WCAG</abbr>](http://www.jsa.or.jp/stdz/instac/commitee-acc/W3C-WCAG/WCAG20/)のレベルAにも達していません[^wcag-podcast]。しかし、**アクセシビリティへの取り組みは、決して完璧でなくても、やらないよりはまし**です。「アクセシビリティ・ファースト」だからといって「レベルAの達成が必須」などと窮屈に考えるよりは、やれるところから手を付けていくほうが前向きです。
 
 [^wcag-podcast]: 今回アクセシビリティ面で残念なのは、ポッドキャストに「書き起こしテキスト」（トランスクリプト）を付ける余裕がなかったことです。これも経済合理性の問題です。テキスト化の費用を捻出するのに手っ取り早いのは、ポッドキャストにスポンサーを付けることです。興味のある方はご一報ください :-)
 
-それに、レベルAを目標にするとしても、最初のリリース時から達成する必要もないのです。アジャイルソフトウェア開発の考え方で、リリース後に少しずつ達成度を上げていってもいいのですから。
+それに、WCAGのレベルAを目標にするとしても、最初のリリース時から達成する必要もないのです。アジャイルソフトウェア開発の考え方で、リリース後に少しずつ達成度を上げていってもいいのですから。
 
 ## モバイル・ファースト
 
@@ -140,25 +138,29 @@ description: このささやかなウェブサイトリニューアルプロジ�
 
 ## インブラウザー・デザイン
 
-今回のリニューアルプロジェクトでは、ほぼ全プロセスを通じて[インブラウザー・デザイン](http://ja.ishibashihideto.net/blog/2013/04/18/in_browser.html)の手法を用いました。これはコンテンツやアクセシビリティを第一（ファースト）に考えるアプローチと相性の良い制作手法です。
+コンテンツやアクセシビリティを第一（ファースト）に考えるアプローチと相性の良い制作手法が[インブラウザー・デザイン](http://ja.ishibashihideto.net/blog/2013/04/18/in_browser.html)です。プロジェクトの全工程に渡って、ブラウザーで確認しながらデザインしていきました。そのプロセスを説明します。
 
-まずは静的サイトジェネレーター[Jekyll](http://jekyllrb.com/)でのテンプレート構造を慎重に設計してから、コンテンツを移植していきました[^careful-design]。
+最初に、静的サイトジェネレーター[Jekyll](http://jekyllrb.com/)のテンプレート構造を慎重にデザインしました[^careful-design]。このあと入れていくことになるコンテンツを想定しながら、HTMLマークアップの「大枠」を決めていく作業です。
 
 [^careful-design]: 当初の設計になかったパーツを後から追加したため、その部分については汚い設計になってしまいました。しかし、[リファクタリング](http://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%95%E3%82%A1%E3%82%AF%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0))すれば大丈夫だと考えています。これもアジャイルソフトウェア開発の考え方です。また、このような事態は、「作ってみなければわからない」の実例でもあります。
 
-その後、CSSフレームワーク[Bitters](http://bitters.bourbon.io/)を使って、レイアウトやタイポグラフィを設計していきました。また、[Neat](http://neat.bourbon.io/)のレスポンシブグリッド機能で、モバイルデバイス向けのデザインも用意しました[^bitters]。
+次に、コンテンツを移植しました。前述の通り大量の作業であり、最も時間を要した工程です。コンテンツのタイトル、概要文、サムネイル画像などを「インブラウザー」で何度も確認しながら整えていきました。
 
-[^bitters]: 「[CSSフレームワークBourbon/Neat/Bitters/Refillsは美しい](http://qiita.com/zerobase/items/e763dc96b7b398bf8005)」という文章で紹介しました。[How to make your CSS awesome with Bourbon, Neat, Bitters and Refills!](https://www.youtube.com/watch?v=8ItNE_DX6Cc)という動画も参考になるでしょう。
+この段階では、まだ見た目のデザインを先送りしています。要するにスタイルシートはほとんど触らずに作業しているわけです。
 
-最初から様々なデバイスのブラウザや、
+さきほど私は「ウェブサイトの設計においては、見えない部分へのケアがまず大事で、見える部分はその次だ」と述べました。そのような順序で物事を進めるためには、インブラウザー・デザイン手法にならざるを得ないのです。
 
-- [HTML Markup Validator](http://validator.w3.org/)
-- [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
-- [modern.ie](https://www.modern.ie/ja-jp)
+私はデザインカンプを作りません。その代わりに「マークアップを意識したワイヤフレーム」を手でササッと描き、それをすぐにHTMLとスタイルシートで再現し、PCとモバイルデバイスのブラウザでレスポンシブな動作を確認します。この段階では見た目のディテールに手を付けません。それは次の後の工程です。
 
-といったツールで検証しながら制作したので、レスポンシブなモバイル対応や、アクセシビリティ水準の確保にはさほど苦労しませんでした。もし、このような検証を制作プロセスの後半で行っていたら、大量の手戻り作業が発生したことでしょう。
+コンテンツを投入したら、次は視覚的なデザインです。CSSフレームワーク[Bitters](http://bitters.bourbon.io/)を使って、レイアウトやタイポグラフィをカスタマイズしていきました[^bitters]。配色に際しては[HUE/360](https://hue360.herokuapp.com/)と[配色の見本帳](http://ironodata.info/)を利用しました。
 
-インブラウザー・デザインの実務上は、「複数デバイス間でのスクロールポジション同期」と「ファイル更新監視による自動リロード」とを実現してくれる[BrowserSync](http://www.browsersync.io/)も大変重宝しました。もはや手放せません。
+[^bitters]: Bittersについては以前「[CSSフレームワークBourbon/Neat/Bitters/Refillsは美しい](http://qiita.com/zerobase/items/e763dc96b7b398bf8005)」という文章で紹介しました。[How to make your CSS awesome with Bourbon, Neat, Bitters and Refills!](https://www.youtube.com/watch?v=8ItNE_DX6Cc)という動画も参考になるでしょう。
+
+以上がデザインプロセスの全体像です。最初から様々なデバイスのブラウザや、各種のツールでテストしながら制作したので、レスポンシブなモバイル対応や、アクセシビリティ品質の確保にも、さほど苦労しませんでした[^browsersync]。もしもこのような検証を、制作プロセスの後半で行っていたとしたら、大量の手戻りで苦労していたことでしょう。
+
+[^browsersync]: インブラウザー・デザインの実務上は、「複数デバイス間でのスクロールポジション同期」と「ファイル更新監視による自動リロード」とを実現してくれる[BrowserSync](http://www.browsersync.io/)も大変重宝しました。もはや手放せません。
+
+コンテンツを大事に取り扱い、アクセシビリティを担保しながら、レスポンシブにモバイル対応もする。インブラウザー・デザイン手法なら、これらを低コストで実現できます。
 
 ## 静的サイト
 
