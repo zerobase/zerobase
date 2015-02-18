@@ -112,7 +112,8 @@
 
         &.is-active {
           border-bottom: 0;
-          background-color: $base-base-color;
+          background-color: $base-main-color;
+          color: $base-base-color;
 
           .title {
             font-weight: normal;
@@ -123,6 +124,7 @@
             border: $tab-border;
             border-bottom-color: $tab-active-background;
             margin-bottom: -1px;
+            color: $base-font-color;
             background-color: transparent !important;
           }
         }
