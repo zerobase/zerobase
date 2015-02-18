@@ -50,6 +50,6 @@ next_page_url: /about/philosophy.html
 </ul>
 
 
-## サイトのソース
+## このサイトについて
 
-このサイトのソースは[GitHub](https://github.com/zerobase/zerobase.github.io)で公開されています。
+[サイトリニューアルのお知らせ 思想と手法について](http://ja.ishibashihideto.net/activity/2015/02/18/redesigned.html)という文章で、このサイトの設計思想と設計手法について説明しています。また、このサイトのソースを[GitHub](https://github.com/zerobase/zerobase.github.io)で公開しています。
