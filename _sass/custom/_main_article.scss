@@ -50,6 +50,9 @@ main article section.content.body {
 
   figure {
     margin: $base-spacing;
+    @include media($mobile) {
+      margin: $base-spacing / 2;
+    }
 
     &.center { text-align: center; }
     &.left { text-align: left; }
