@@ -4,14 +4,10 @@
 
 @charset "utf-8";
 
-
-// CSS framework: Bourbon, Neat and Bitters
+// Import partials from `sass_dir` (defaults to `_sass`)
 
 @import "bourbon/bourbon"; // http://bourbon.io/
 @import "neat/neat"; // http://neat.bourbon.io/
 @import "base/base"; // http://bitters.bourbon.io/
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
 
 @import "custom/styles";

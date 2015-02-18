@@ -38,9 +38,10 @@ Dependency
 Warning
 -------
 
-- `_sass/bourbon` and `_sass/neat` should not be modified. They are external Sass libraries: [Bourbon](http://bourbon.io/) and [Neat](http://neat.bourbon.io/).
+- The author should not modify `_sass/bourbon` ([Bourbon](http://bourbon.io/)) and `_sass/neat` ([Neat](http://neat.bourbon.io/)).
 
 Notice
 ------
 
-- `_sass/base` is a [Bitters](http://bitters.bourbon.io/) directory. `_sass/base/_variables.scss` and `_sass/base/_grid-settings.scss` may be modified.
+- `_sass/base` is a [Bitters](http://bitters.bourbon.io/) directory.
+- The author may modify `_sass/base/_variables.scss`.
