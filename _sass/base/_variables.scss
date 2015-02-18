@@ -31,21 +31,12 @@ $base-spacing: $base-line-height * 1.8em;
 $base-z-index: 0;
 
 // Colors
-$base-main-color: #208DC3;
-$light-main-color: lighten($base-main-color, 55%);
-$dark-main-color: darken($light-main-color, 70%);
-
-$light-yellow: #FFEE55;
-$light-red: #FBE3E4;
-$light-green: #E6EFC2;
-
-$base-base-color: $light-main-color;
 $base-accent-color: #CC4400;
-
-// Background Color
+$base-main-color: #208DC3;
+$light-main-color: lighten($base-main-color, 55); // #fdfeff
+$base-base-color: $light-main-color;
 $base-background-color: $base-base-color;
-
-// Font Colors
+$dark-main-color: darken($light-main-color, 70); // #155d81
 $base-font-color: $dark-main-color;
 
 // Link Colors
@@ -55,6 +46,9 @@ $base-button-color: $base-link-color;
 $hover-button-color: $hover-link-color;
 
 // Flash Colors
+$light-yellow: #FFEE55;
+$light-red: #FBE3E4;
+$light-green: #E6EFC2;
 $alert-color: $light-yellow;
 $error-color: $light-red;
 $notice-color: lighten($base-accent-color, 40);
