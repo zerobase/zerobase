@@ -1,8 +1,10 @@
 .site.header {
   margin: 0 0 0.5em 0;
   padding: 0.5em;
-  background-color: $base-accent-color;
-  color: $base-base-color;
+  background-color: $base-main-color;
+  &, a, li {
+    color: $base-base-color;
+  }
   
   font-size: em(20px);
   
@@ -15,10 +17,6 @@
     display: inline;
     font-weight: normal;
     font-size: inherit;
-    
-    a {
-      color: $base-base-color;
-    }
   }
 
   nav {
@@ -30,10 +28,6 @@
 
       li {
         display: inline;
-        
-        a {
-          color: $base-base-color;
-        }
       }
 
       li:not(:last-child):after {
