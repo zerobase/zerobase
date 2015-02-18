@@ -6,19 +6,22 @@
   padding-top: $base-spacing;
 }
 
+body {
+  margin: 0;
+}
+
 .container {
   @include outer-container;
 
-  main.post,
-  main.page {
-    @extend %border-top;
-    padding-top: 1em;
-    margin-top: 1em;
+  main {
+    padding: 0.5em;
+    margin: 0.5em 0 0 0;
   }
+}
 
-  .site.footer {
-    @extend %border-top;
-  }
+.site.footer {
+  @extend %border-top;
+  padding: 0.5em;
 }
 
 @import "commands_list";

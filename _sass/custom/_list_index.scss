@@ -15,6 +15,9 @@ main.list.index {
     .link {
       display: block;
       color: $base-font-color;
+      &:hover {
+        color: $base-link-color;
+      }
 
       .title {
         font-size: 110%;
@@ -47,7 +50,7 @@ main.list.index {
       }
 
       .meta.subtitle {
-        font-size: 70%;
+        font-size: 75%;
         margin-left: 0.5em;
       }
       
@@ -59,7 +62,6 @@ main.list.index {
 
       .meta.time {
         font-size: 80%;
-        color: $medium-gray;
       }
     }
   }

@@ -5,11 +5,10 @@
   $base-spacing: 1.5em !default;
   $base-accent-color: #477DCA !default;
   $base-link-color: $base-accent-color !default;
-  $dark-gray: #333 !default;
   $medium-screen-up: em(640) !default;
   //////////////////////////////////////////////////////////////////////////////////
 
-  $tab-link-color: $dark-gray;
+  $tab-link-color: $base-font-color;
   $tab-border: 1px solid $base-border-color;
   $tab-active-background: $base-background-color;
   $tab-inactive-color: $base-background-color;
@@ -113,7 +112,7 @@
 
         &.is-active {
           border-bottom: 0;
-          background-color: $light-gray;
+          background-color: $base-base-color;
 
           .title {
             font-weight: normal;
