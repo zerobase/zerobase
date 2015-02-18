@@ -4,16 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <title>
-    {% if page.url != "/" %}
-      {% if page.title %}
-        {{ page.title }}
-        {% if page.subtitle %}
-          {{ page.subtitle }}
-        {% endif %}
-         - 
-      {% endif %}
-    {% endif %}
-    {{ site.title }}
+    {% if page.url != "/" %}{% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %} - {% endif %}{% endif %}{{ site.title }}
   </title>
   
   <meta name="author" content="{{ site.author }}">
@@ -33,17 +24,7 @@
     <link rel="next" href="{{ next_post.url }}">
   {% endif %}
   
-  <meta property="og:title" content="
-    {% if page.url != "/" %}
-      {% if page.title %}
-        {{ page.title }}
-        {% if page.subtitle %}
-          {{ page.subtitle }}
-        {% endif %}
-      {% endif %}
-    {% else %}
-      {{ site.title }}
-    {% endif %}">
+  <meta property="og:title" content="{% if page.url != "/" %}{% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %}{% endif %}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:image" content="{% if page.date %}{{ page.path | replace: '_posts/', '/images/posts/' | replace: '.md', '/thumbnail.png' | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.thumbnail }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
