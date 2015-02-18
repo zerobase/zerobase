@@ -31,6 +31,7 @@ $base-spacing: $base-line-height * 1.8em;
 $base-z-index: 0;
 
 // Colors
+$base-accent-color: #CC4400;
 $base-main-color: #208DC3;
 $light-main-color: lighten($base-main-color, 55); // #fdfeff
 $base-base-color: $light-main-color;
