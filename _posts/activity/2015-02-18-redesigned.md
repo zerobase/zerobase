@@ -240,4 +240,4 @@ GitHub Pagesのメリットはいくつかあります：
 
 [^method-applicability]: 誤解のないように補足しますが、もちろん前提条件次第です。決して「今後すべてのプロジェクトでこのやり方を踏襲します」という話ではありません。
 
-なお、[このサイトのソースコードはGitHubで公開されており](https://github.com/zerobase/zerobase.github.io)、誰でも自由にclone/forkできる状態になっています。本稿執筆時のコミットは[17cdc06](https://github.com/zerobase/zerobase.github.io/commit/17cdc06802d04b05bba3fc931948dd6ae79d6d82)です。また、リニューアル前のサイトのコピーを[Amazon S3](http://ja.ishibashihideto.net.s3-website-ap-northeast-1.amazonaws.com/)にアーカイブしてあります。
+なお、[このサイトのソースコードはGitHubで公開されており](https://github.com/zerobase/zerobase.github.io)、誰でも自由にclone/forkできる状態になっています。本稿執筆時のコミットは[3f5135c](https://github.com/zerobase/zerobase.github.io/commit/3f5135c6b5c767e034ed141d31555779d6e295bd)です。また、リニューアル前のサイトのコピーを[Amazon S3](http://ja.ishibashihideto.net.s3-website-ap-northeast-1.amazonaws.com/)にアーカイブしてあります。
