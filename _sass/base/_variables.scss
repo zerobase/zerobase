@@ -31,7 +31,7 @@ $base-spacing: $base-line-height * 1.8em;
 $base-z-index: 0;
 
 // Colors
-$blue: #477DCA;
+$blue: #47a5d7;
 $dark-gray: #333;
 $medium-gray: #888;
 $light-gray: #DDD;
@@ -40,7 +40,8 @@ $light-yellow: #FFF6BF;
 $light-green: #E6EFC2;
 
 // Background Color
-$base-background-color: #f7f5f8;
+$base-base-color: #f7f5f8;
+$base-background-color: $base-base-color;
 
 // Font Colors
 $base-font-color: $dark-gray;

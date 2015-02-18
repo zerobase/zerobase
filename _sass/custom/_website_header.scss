@@ -1,6 +1,8 @@
 .site.header {
-  margin: 0 0 0.5em 0;
-  padding: 0;
+  margin: 0 0 1.4em 0;
+  padding: 0.5em;
+  background-color: $base-accent-color;
+  color: $base-base-color;
   
   font-size: em(20px);
   
@@ -15,7 +17,7 @@
     font-size: inherit;
     
     a {
-      color: $base-font-color;
+      color: $base-base-color;
     }
   }
 
@@ -30,7 +32,7 @@
         display: inline;
         
         a {
-          color: $base-font-color;
+          color: $base-base-color;
         }
       }
 
