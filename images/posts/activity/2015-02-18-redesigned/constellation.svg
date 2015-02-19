@@ -1,105 +1,112 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="1183px" height="607px" viewBox="0 0 1183 607" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="1082px" height="552px" viewBox="0 0 1082 552" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
     <title>constellation</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="concept-map" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <rect id="background" stroke="#FDFEFF" stroke-width="5" stroke-linecap="square" fill="#4A90E2" sketch:type="MSShapeGroup" x="-13" y="-20" width="1219" height="654"></rect>
-        <g id="text" sketch:type="MSLayerGroup" transform="translate(119.000000, 76.000000)" font-weight="260" font-family="American Typewriter" fill="#FDFEFF">
-            <text id="machine-readability" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="202" y="148">machine-readability</tspan>
+        <rect id="background" stroke="#FDFEFF" stroke-width="5" stroke-linecap="square" fill="#4A90E2" sketch:type="MSShapeGroup" x="-96" y="-61" width="1219" height="654"></rect>
+        <g id="Tools" sketch:type="MSLayerGroup" transform="translate(65.000000, 269.000000)" font-weight="260" font-family="American Typewriter" letter-spacing="0.699999928" fill="#FDFEFF" font-size="17">
+            <text id="HTML" sketch:type="MSTextLayer">
+                <tspan x="0.5" y="15">HTML</tspan>
+                <tspan x="0.5" y="34">Markup</tspan>
+                <tspan x="0.5" y="53">Validator</tspan>
             </text>
-            <text id="long-life" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="449" y="146">long life</tspan>
+            <text id="Accessibility" sketch:type="MSTextLayer">
+                <tspan x="9.5" y="100">Accessibility</tspan>
+                <tspan x="9.5" y="119">Developer Tools</tspan>
             </text>
-            <text id="maintenance-free" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="451" y="73">maintenance free</tspan>
+            <text id="Web-Content" sketch:type="MSTextLayer">
+                <tspan x="99" y="153">Web Content</tspan>
+                <tspan x="99" y="172">Accessibility</tspan>
+                <tspan x="99" y="191">Guidelines (WCAG)</tspan>
             </text>
-            <text id="static-site-generato" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="555" y="124">static site generator</tspan>
+            <text id="BrowserSync" sketch:type="MSTextLayer">
+                <tspan x="607" y="235">BrowserSync</tspan>
             </text>
-            <text id="HTML-Markup-Validato" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="73.5" y="21">HTML Markup Validator</tspan>
+            <text id="Jekyll" sketch:type="MSTextLayer">
+                <tspan x="881" y="153">Jekyll</tspan>
             </text>
-            <text id="Accessibility" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="0.5" y="101">Accessibility</tspan>
-                <tspan x="0.5" y="124">Developer Tools</tspan>
+            <text id="GitHub-Pages" sketch:type="MSTextLayer">
+                <tspan x="791" y="199">GitHub Pages</tspan>
             </text>
-            <text id="Web-Content" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="17" y="329">Web Content</tspan>
-                <tspan x="17" y="352">Accessibility</tspan>
-                <tspan x="17" y="375">Guidelines (WCAG)</tspan>
-            </text>
-            <text id="BrowserSync" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="789" y="419">BrowserSync</tspan>
-            </text>
-            <text id="Jekyll" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="779" y="50">Jekyll</tspan>
-            </text>
-            <text id="GitHub-Pages" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="688" y="18">GitHub Pages</tspan>
-            </text>
-            <text id="modern.ie" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="186" y="445">modern.ie</tspan>
-            </text>
-            <text id="in-browser" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="676" y="235">in-browser</tspan>
-                <tspan x="676" y="258">design</tspan>
-            </text>
-            <text id="material-honesty" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="576.5" y="177">material honesty</tspan>
-            </text>
-            <text id="content" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="169" y="217">content</tspan>
-                <tspan x="169" y="240">accessibility</tspan>
-            </text>
-            <text id="content-first" sketch:type="MSTextLayer" font-size="37" letter-spacing="1.60118484">
-                <tspan x="372" y="250">content first</tspan>
-            </text>
-            <text id="mobile-first" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="551" y="311">mobile first</tspan>
-            </text>
-            <text id="progressive-enhancem" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="269" y="301">progressive</tspan>
-                <tspan x="269" y="324">enhancement</tspan>
-            </text>
-            <text id="responsive-design" sketch:type="MSTextLayer" font-size="20" letter-spacing="0.823529243">
-                <tspan x="582" y="370">responsive design</tspan>
+            <text id="modern.ie" sketch:type="MSTextLayer">
+                <tspan x="251" y="227">modern.ie</tspan>
             </text>
         </g>
-        <g id="arrows" sketch:type="MSLayerGroup" transform="translate(236.000000, 106.000000)" stroke="#FDFEFF" stroke-width="3">
-            <path d="M144.5,99.5 L98.5,7.5" id="Line-12" sketch:type="MSShapeGroup"></path>
-            <path id="Line-12-decoration-1" d="M106.397402,16.5865994 C103.767786,13.6752389 101.513829,11.179787 98.8842133,8.26842652 C99.6355321,12.1189356 100.27952,15.4193719 101.030839,19.269881"></path>
-            <path d="M632.5,243.5 L718.5,369.5" id="Line-15" sketch:type="MSShapeGroup"></path>
-            <path id="Line-15-decoration-1" d="M709.622742,361.815353 C712.62094,364.345513 715.190824,366.514221 718.189022,369.044381 C716.925318,365.33036 715.842144,362.146913 714.578441,358.432891"></path>
-            <path d="M599.5,68.5 L656.5,26.5" id="Line-20" sketch:type="MSShapeGroup"></path>
-            <path id="Line-20-decoration-1" d="M648.938903,35.7977845 C651.359155,32.7101835 653.433657,30.0636683 655.853909,26.9760673 C652.187939,28.3730511 649.045679,29.5704657 645.379708,30.9674494"></path>
-            <path d="M567.5,65.5 L622.5,0.5" id="Line-21" sketch:type="MSShapeGroup"></path>
-            <path id="Line-21-decoration-1" d="M617.719073,10.7945644 C619.359179,7.23072484 620.764984,4.17600526 622.405091,0.612165744 C619.161873,2.81952655 616.381973,4.7115501 613.138755,6.9189109"></path>
-            <path d="M52.5,172.5 L0.5,109.5" id="Line-13" sketch:type="MSShapeGroup"></path>
-            <path id="Line-13-decoration-1" d="M10.1268035,116.450449 C6.9108035,114.203619 4.15423206,112.277765 0.938232043,110.030935 C2.5346637,113.614551 3.9030337,116.686222 5.49946536,120.269839"></path>
-            <path d="M74.5,223.5 L36.5,277.5" id="Line-16" sketch:type="MSShapeGroup"></path>
-            <path id="Line-16-decoration-1" d="M40.2793447,266.916434 C38.9626764,270.61201 37.8341035,273.779647 36.5174352,277.475224 C39.551497,274.988183 42.1521214,272.856435 45.1861832,270.369395"></path>
-            <path d="M166.5,314.5 L125.5,386.5" id="Line-14" sketch:type="MSShapeGroup"></path>
-            <path id="Line-14-decoration-1" d="M128.660536,374.887208 C127.70248,378.691552 126.881289,381.952418 125.923233,385.756761 C128.706157,382.991579 131.091521,380.621422 133.874445,377.85624"></path>
+        <g id="concept-words" sketch:type="MSLayerGroup" transform="translate(216.000000, 203.000000)" font-weight="260" font-family="American Typewriter" letter-spacing="0.823529243" fill="#FDFEFF" font-size="20">
+            <text id="machine-" sketch:type="MSTextLayer">
+                <tspan x="1" y="18">machine-</tspan>
+                <tspan x="1" y="41">readability</tspan>
+            </text>
+            <text id="maintenance-free" sketch:type="MSTextLayer">
+                <tspan x="496" y="30">maintenance free</tspan>
+            </text>
+            <text id="static-site" sketch:type="MSTextLayer">
+                <tspan x="561" y="92">static site</tspan>
+            </text>
+            <text id="in-browser" sketch:type="MSTextLayer">
+                <tspan x="322" y="133">in-browser</tspan>
+                <tspan x="322" y="156">design</tspan>
+            </text>
+            <text id="material-honesty" sketch:type="MSTextLayer">
+                <tspan x="246" y="30">material honesty</tspan>
+            </text>
+            <text id="mobile-first" sketch:type="MSTextLayer">
+                <tspan x="263" y="221">mobile first</tspan>
+            </text>
+            <text id="progressive-enhancem" sketch:type="MSTextLayer">
+                <tspan x="117" y="133">progressive</tspan>
+                <tspan x="117" y="156">enhancement</tspan>
+            </text>
+            <text id="responsive" sketch:type="MSTextLayer">
+                <tspan x="496" y="169">responsive</tspan>
+                <tspan x="496" y="192">design</tspan>
+            </text>
         </g>
-        <g id="lines" sketch:type="MSLayerGroup" transform="translate(349.000000, 159.000000)" stroke="#FDFEFF" stroke-width="3">
-            <path d="M289.5,135.5 L329,99" id="Line-3" sketch:type="MSShapeGroup"></path>
-            <path d="M262.5,40.5 L272,1" id="Line-18" sketch:type="MSShapeGroup"></path>
-            <path d="M329.5,0.5 L348.5,22.5" id="Line-19" sketch:type="MSShapeGroup"></path>
-            <path d="M17,75 L0.5,112.5" id="Line-5" sketch:type="MSShapeGroup"></path>
-            <path d="M251.5,76.5 L240,124" id="Line-17" sketch:type="MSShapeGroup"></path>
-            <path d="M2.5,164.5 L38.5,197.5" id="Line-6" sketch:type="MSShapeGroup"></path>
-            <path d="M485.5,189.5 L471.5,262.5" id="Line-9" sketch:type="MSShapeGroup"></path>
-            <path d="M398.5,240.5 L413.5,264.5" id="Line-4" sketch:type="MSShapeGroup"></path>
-            <path d="M80.5,146.5 L136,155" id="Line-7" sketch:type="MSShapeGroup"></path>
-            <path d="M437,172 L403,199" id="Line-8" sketch:type="MSShapeGroup"></path>
-            <path d="M413,106 L438,137" id="Line-10" sketch:type="MSShapeGroup"></path>
+        <g id="key-words" sketch:type="MSLayerGroup" transform="translate(333.000000, 52.000000)" font-weight="260" font-family="American Typewriter" letter-spacing="1.60118484" fill="#FDFEFF" font-size="37">
+            <text id="long-life" sketch:type="MSTextLayer">
+                <tspan x="294" y="111">long life</tspan>
+            </text>
+            <text id="accessibility" sketch:type="MSTextLayer">
+                <tspan x="0" y="111">accessibility</tspan>
+            </text>
+            <text id="content-first" sketch:type="MSTextLayer">
+                <tspan x="117" y="33">content first</tspan>
+            </text>
         </g>
-        <path d="M536,381.5 L647,381.5" id="bidirectional-arrow" stroke="#FDFEFF" stroke-width="3" sketch:type="MSShapeGroup"></path>
-        <path id="bidirectional-arrow-decoration-1" d="M647,381.5 C643.22,380.45 639.98,379.55 636.2,378.5 C636.2,380.6 636.2,382.4 636.2,384.5 C639.98,383.45 643.22,382.55 647,381.5 C647,381.5 647,381.5 647,381.5 Z" stroke="#FDFEFF" stroke-width="3"></path>
-        <path id="bidirectional-arrow-decoration-2" d="M536.8,381.5 C540.58,380.45 543.82,379.55 547.6,378.5 C547.6,380.6 547.6,382.4 547.6,384.5 C543.82,383.45 540.58,382.55 536.8,381.5 C536.8,381.5 536.8,381.5 536.8,381.5 Z" stroke="#FDFEFF" stroke-width="3"></path>
-        <ellipse id="Oval-1" stroke="#FDFEFF" sketch:type="MSShapeGroup" cx="639" cy="302" rx="375" ry="211"></ellipse>
+        <g id="arrows" sketch:type="MSLayerGroup" transform="translate(142.000000, 175.000000)" stroke="#FDFEFF" stroke-width="3" stroke-dasharray="2">
+            <path d="M68.5,71.5 L0.5,113.5" id="Line-12" sketch:type="MSShapeGroup"></path>
+            <path id="Line-12-decoration-1" d="M8.89909794,104.78622 C6.23484903,107.665921 3.95120711,110.134237 1.28695821,113.013938 C5.05474216,111.920912 8.28427127,110.984034 12.0520552,109.891008"></path>
+            <path d="M483.5,180.5 L553.5,306.5" id="Line-15" sketch:type="MSShapeGroup"></path>
+            <path id="Line-15-decoration-1" d="M545.565167,298.394678 C548.318762,301.189067 550.678987,303.584258 553.432582,306.378648 C552.514717,302.564408 551.727975,299.29506 550.81011,295.48082"></path>
+            <path d="M682.5,131.5 L746.5,266.5" id="Line-20" sketch:type="MSShapeGroup"></path>
+            <path id="Line-20-decoration-1" d="M738.990489,257.66285 C741.558524,260.628671 743.759697,263.170803 746.327733,266.136624 C745.657261,262.271218 745.08257,258.958012 744.412098,255.092606"></path>
+            <path d="M712.5,128.5 L809.5,225.5" id="Line-21" sketch:type="MSShapeGroup"></path>
+            <path id="Line-21-decoration-1" d="M799.615555,219.858196 C803.030881,221.788598 805.958303,223.443228 809.373629,225.373629 C807.443228,221.958303 805.788598,219.030881 803.858196,215.615555"></path>
+            <path d="M106.5,83.5 L27.5,175.5" id="Line-13" sketch:type="MSShapeGroup"></path>
+            <path id="Line-13-decoration-1" d="M32.4319577,165.151486 C30.7660081,168.703318 29.3380514,171.747745 27.6721018,175.299578 C30.9312672,173.115833 33.7248375,171.244052 36.9840029,169.060307"></path>
+            <path d="M267.5,0.5 L94.5,228.5" id="Line-16" sketch:type="MSShapeGroup"></path>
+            <path id="Line-16-decoration-1" d="M98.7618961,217.920083 C97.313491,221.566042 96.072001,224.691151 94.623596,228.337111 C97.7449308,225.960523 100.420361,223.923448 103.541696,221.54686"></path>
+            <path d="M236.5,199.5 L208.5,303.5" id="Line-14" sketch:type="MSShapeGroup"></path>
+            <path id="Line-14-decoration-1" d="M208.593705,291.612316 C208.624901,295.535315 208.651642,298.897886 208.682838,302.820886 C210.679435,299.443831 212.390803,296.549212 214.387399,293.172156"></path>
+        </g>
+        <g id="lines" sketch:type="MSLayerGroup" transform="translate(302.000000, 98.000000)" stroke="#FDFEFF" stroke-width="2">
+            <path d="M160,230 L400,137" id="Line-3" sketch:type="MSShapeGroup"></path>
+            <path d="M24.5,128.5 L148,128.5" id="Line-11" sketch:type="MSShapeGroup"></path>
+            <path d="M450,117 L422,75" id="Line-18" sketch:type="MSShapeGroup"></path>
+            <path d="M358,0 L384,36" id="Line-19" sketch:type="MSShapeGroup"></path>
+            <path d="M66,76 L18,112" id="Line-5" sketch:type="MSShapeGroup"></path>
+            <path d="M506,178 L487,148" id="Line-17" sketch:type="MSShapeGroup"></path>
+            <path d="M0.5,158.5 L42,218" id="Line-6" sketch:type="MSShapeGroup"></path>
+            <path d="M139,82 L89,217" id="Line-10" sketch:type="MSShapeGroup"></path>
+            <path d="M334,249 L397,278" id="Line-9" sketch:type="MSShapeGroup"></path>
+            <path d="M398,293 L304.5,315.5" id="Line-22" sketch:type="MSShapeGroup"></path>
+            <path d="M249,153 L273,215" id="Line-4" sketch:type="MSShapeGroup"></path>
+            <path d="M187,34 L210,0" id="Line-7" sketch:type="MSShapeGroup"></path>
+            <path d="M266,270 L248,308" id="Line-8" sketch:type="MSShapeGroup"></path>
+            <path d="M110.5,272.5 L166.5,316.5" id="Line-8" sketch:type="MSShapeGroup"></path>
+        </g>
+        <ellipse id="Oval-1" stroke="#FDFEFF" sketch:type="MSShapeGroup" cx="566.5" cy="246" rx="388.5" ry="219"></ellipse>
     </g>
 </svg>
