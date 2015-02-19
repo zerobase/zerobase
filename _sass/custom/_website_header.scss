@@ -6,6 +6,14 @@
     color: $base-base-color;
   }
 
+  a:focus {
+    outline-color: $base-base-color;
+  }
+  
+  a:hover {
+    color: darken($base-base-color, 15);
+  }
+  
   font-size: em(36px);
   @include media($medium-screen-up) {
     font-size: em(48px);
