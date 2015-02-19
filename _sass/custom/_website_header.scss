@@ -1,19 +1,27 @@
 .site.header {
   margin: 0 0 0.5em 0;
-  padding: 0.5em;
+  padding: 0.2em;
   background-color: $base-main-color;
   &, a, li {
     color: $base-base-color;
   }
-  
-  font-size: em(20px);
-  
-  @include media($mobile) {
-    font-size: em(16px);
+
+  font-size: em(36px);
+  @include media($medium-screen-up) {
+    font-size: em(48px);
+  }
+
+  .site.id {
+    $size: 1.2em;
+    @include media($medium-screen-up) {
+      $size: 1.4em;
+    }
+    width: $size;
+    height: $size;
+    vertical-align: sub;
   }
 
   .site.title {
-    margin-bottom: 0.2em;
     display: inline;
     font-weight: normal;
     font-size: inherit;
@@ -30,8 +38,9 @@
         display: inline;
       }
 
-      li:not(:last-child):after {
-        content: " / ";
+      li:after {
+        content: "/";
+        margin-left: 0.15em;
       }
     }
   }
