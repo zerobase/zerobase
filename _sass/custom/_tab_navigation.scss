@@ -106,10 +106,6 @@
           color: $base-link-color;
         }
 
-        &:focus {
-          outline: none;
-        }
-
         &.is-active {
           border-bottom: 0;
           background-color: $base-main-color;
