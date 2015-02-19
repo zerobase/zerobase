@@ -14,18 +14,19 @@
     color: darken($base-base-color, 15);
   }
   
-  font-size: em(36px);
+  font-size: em(16px);
   @include media($medium-screen-up) {
-    font-size: em(48px);
+    font-size: em(32px);
   }
 
   .site.id {
     $size: 1.2em;
     @include media($medium-screen-up) {
-      $size: 1.4em;
+      $size: 1.8em;
     }
     width: $size;
     height: $size;
+    margin-right: 0.3em;
     vertical-align: sub;
   }
 
@@ -46,7 +47,8 @@
         display: inline;
       }
 
-      li:after {
+      li:not(:first-child):before,
+      li:last-child:after {
         content: "/";
         margin-left: 0.15em;
       }
