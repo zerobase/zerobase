@@ -1,7 +1,4 @@
 <header class="site header">
-  <nav role="navigation">
-    <ul class="breadcrumbs">
-      <li><h2 class="site title"><a href="{{ site.baseurl }}/" rel="index"><img src="/images/site_id.png" width="300" height="300" alt="Hideto Ishibashi, Information Architect" class="site id">{{ site.title }}</a></h2></li>{% for category in page.categories %}<li><a href="/{{ category }}">{{ category | capitalize }}</a></li>{% endfor %}
-    </ul>
-  </nav>
+  <nav role="navigation" class="breadcrumbs">
+    <h2 class="site title"><a href="{{ site.baseurl }}/" rel="index"><img src="/images/site_id.png" width="300" height="300" alt="Hideto Ishibashi, Information Architect" class="site id">Hideto<span class="whitespace"> </span>Ishibashi</a></h2>{% for category in page.categories %}/<a href="/{{ category }}">{{ category | capitalize }}</a>{% endfor %}
 </header>

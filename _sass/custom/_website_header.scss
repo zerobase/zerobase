@@ -24,38 +24,23 @@
   }
 
   .site.id {
-    $size: 1.2em;
-    @include media($medium-screen-up) {
-      $size: 1.8em;
-    }
+    $size: 2.0em;
     width: $size;
     height: $size;
     margin-right: 0.3em;
-    vertical-align: sub;
+    vertical-align: middle;
+    position: relative;
+    top: -0.05em;
   }
 
   .site.title {
     display: inline;
     font-weight: normal;
     font-size: inherit;
-  }
-
-  nav {
-    display: inline;
-    font-size: inherit;
-
-    ul.breadcrumbs {
-      display: inline;
-
-      li {
-        display: inline;
-      }
-
-      li:not(:first-child):before,
-      li:last-child:after {
-        content: "/";
-        margin-left: 0.15em;
-      }
+    margin-right: 0.2em;
+    
+    .whitespace {
+      font-size: 0.5em;
     }
   }
 }
