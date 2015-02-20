@@ -75,7 +75,10 @@ redirect_from: "/blog/design-fellow-at-venture-capital/"
 
 一方、ベンチャーキャピタルのデザインフェローは、原則としてスタートアップからコンサルティング報酬を受け取りません。その代わり、ベンチャーキャピタルの「投資先支援予算」から報酬を受け取ります。**ベンチャーキャピタルが費用を肩代わり**しているわけです。この仕組みによって前述の経済的制約がクリアされ、「スタートアップ向けのデザインコンサルティング」というサービスが実現するのです。この仕組みは素晴らしいと思います。
 
-![スタートアップ向けデザインコンサルティングの仕組み][4]
+<figure>
+  <img src="/images/posts/blog/2014-12-01-design-fellow-at-venture-capital/startup-design-consulting-scheme.png" alt="スタートアップ向けデザインコンサルティングの仕組みの図解">
+  <figcaption>GMOベンチャーパートナーズがベンチャー企業に投資し、私にコンサルティングフィーを提供します。それによって、私がベンチャー企業へデザインコンサルティングサービスを提供できるようになっています。</figcaption>
+</figure>
 
 ベンチャーキャピタルのデザインフェローという仕事の醍醐味
 ---------------------------------------------------------
@@ -122,7 +125,7 @@ redirect_from: "/blog/design-fellow-at-venture-capital/"
 [1]: http://www.gmo-vp.com/
 [2]: http://aiit.ac.jp/certification_program/hcd/
 [3]: http://www.hcdnet.org/certified/
-[4]: /images/posts/blog/2014-12-01-design-fellow-at-venture-capital/startup-design-consulting-scheme.png
+
 [5]: http://www.adventar.org/calendars/343
 [6]: http://ja.ishibashihideto.net/blog/semantic-turn/
 [7]: http://ja.ishibashihideto.net/
