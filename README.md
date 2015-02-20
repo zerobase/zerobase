@@ -15,33 +15,19 @@ Usage
 bundle exec jekyll serve
 ```
 
-Optional Tools
---------------
-
-BrowserSync:
-
-```
-browser-sync start --port 4040 --no-notify --proxy localhost:4000 --open external --files _site/css/main.css
-```
-
-Port forwarding:
-
-```
-ngrok 4040
-```
-
 Dependency
 ----------
 
 [The GitHub Pages Gem](https://pages.github.com/versions/)
 
-Warning
--------
-
-- The author should not modify `_sass/bourbon` ([Bourbon](http://bourbon.io/)) and `_sass/neat` ([Neat](http://neat.bourbon.io/)).
-
 Notice
 ------
 
-- `_sass/base` is a [Bitters](http://bitters.bourbon.io/) directory.
-- The author may modify `_sass/base/_variables.scss`.
+- The author should not modify `_sass/bourbon` ([Bourbon](http://bourbon.io/)) and `_sass/neat` ([Neat](http://neat.bourbon.io/)).
+- `_sass/base` is a [Bitters](http://bitters.bourbon.io/) directory. The author may modify it.
+
+License
+-------
+
+- Contents: [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)
+- Software: [The MIT License (MIT)](http://opensource.org/licenses/MIT)
