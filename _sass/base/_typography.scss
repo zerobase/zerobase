@@ -53,11 +53,11 @@ a {
   text-decoration: none;
 
   &:hover {
-    color: $hover-link-color;
+    color: $base-hover-link-color;
   }
 
   &:active, &:focus {
-    color: $hover-link-color;
+    color: $base-hover-link-color;
   }
 }
 

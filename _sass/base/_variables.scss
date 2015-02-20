@@ -33,17 +33,14 @@ $base-z-index: 0;
 // Colors
 $base-accent-color: #CC4400;
 $base-main-color: #208DC3;
-$light-main-color: lighten($base-main-color, 55); // #fdfeff
-$base-base-color: $light-main-color;
-$base-background-color: $base-base-color;
-$dark-main-color: darken($light-main-color, 70); // #155d81
-$base-font-color: $dark-main-color;
+$base-background-color: lighten($base-main-color, 55); // #fdfeff
+$base-font-color: darken($base-main-color, 15); // #155d81
 
 // Link Colors
-$base-link-color: $base-main-color;
-$hover-link-color: darken($base-main-color, 15);
+$base-link-color: lighten($base-font-color, 20); // #249dd9
+$base-hover-link-color: darken($base-link-color, 20); // #155d81
 $base-button-color: $base-link-color;
-$hover-button-color: $hover-link-color;
+$hover-button-color: $base-hover-link-color;
 
 // Flash Colors
 $light-yellow: #FFEE55;
@@ -55,7 +52,7 @@ $notice-color: lighten($base-accent-color, 40);
 $success-color: $light-green;
 
 // Border color
-$base-border-color: $dark-main-color;
+$base-border-color: $base-font-color;
 $base-border: 1px solid $base-border-color;
 
 // Forms

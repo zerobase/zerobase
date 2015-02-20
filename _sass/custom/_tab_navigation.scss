@@ -81,14 +81,14 @@
     padding: 0;
     border-bottom: $tab-border;
 
-    > li {
+    li {
       list-style: none;
 
       @include media($tab-mode) {
         display: inline;
       }
 
-      > a {
+      a {
         background-color: $tab-inactive-color;
         border-top: $tab-border;
         color: $tab-link-color;
@@ -102,14 +102,10 @@
           border-top: 0;
         }
 
-        &:hover {
-          color: $base-link-color;
-        }
-
         &.is-active {
           border-bottom: 0;
-          background-color: $base-main-color;
-          color: $base-base-color;
+          color: $base-background-color;
+          background-color: $base-font-color;
 
           .title {
             font-weight: normal;
@@ -125,11 +121,16 @@
           }
         }
 
-        > .title {
+        .title {
           display: inline;
           font-size: 1.1em;
         }
       } // a
+      
+      a:hover,
+      a:focus {
+        color: $base-link-color;
+      }
     } // li
   } // ul
 }

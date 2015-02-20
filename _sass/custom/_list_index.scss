@@ -9,14 +9,19 @@ main.list.index {
 
   .post.item,
   .page.item {
+    $color: $base-font-color;
+    $hover-color: $base-link-color;
+    
     @include clearfix;
     margin: 2em 0;
 
     .link {
       display: block;
-      color: $base-font-color;
-      &:hover {
-        color: $base-link-color;
+      color: $color;
+      
+      &:hover,
+      &:focus {
+        color: $hover-color;
       }
 
       .title {

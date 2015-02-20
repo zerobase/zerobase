@@ -1,17 +1,21 @@
 .site.header {
+  $color: $base-background-color;
+  $background-color: $base-main-color;
+  
   margin: 0 0 0.5em 0;
   padding: 0.2em;
-  background-color: $base-main-color;
+  background-color: $background-color;
   &, a, li {
-    color: $base-base-color;
+    color: $color;
   }
 
   a:focus {
-    outline-color: $base-base-color;
+    outline-color: $color;
   }
   
-  a:hover {
-    color: darken($base-base-color, 15);
+  a:hover,
+  a:focus {
+    color: darken($color, 20);
   }
   
   font-size: em(16px);
