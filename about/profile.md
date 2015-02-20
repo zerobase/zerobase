@@ -39,22 +39,22 @@ next_page_url: /about/philosophy.html
 : ブレインストーミングが好きです。ホワイトボードと付箋の代わりにデジタル技術を活用した「新しいブレインストーミングのかたち」をデザインし、それをソフトウェアとして実装します。
 
 マネジメント・イノベーション
-: 経営（マネジメント）におけるイノベーションに取り組んでいます。私が経営するゼロベース株式会社では、2008年から[従業員の自立と自律に立脚した独自の経営システム](http://zerobase.jp/blog/2010/01/post_76.html)を運用してきました。その経営システムを、社会に広めます。
+: 私が経営するゼロベース株式会社では、2008年から[従業員の自立と自律に立脚した独自の経営システム](http://zerobase.jp/blog/2010/01/post_76.html)を運用してきました。そのマネジメントシステムを社会に広めます。
 
 
-## リンク
+## アカウント
 
 <ul class="external link">
-  <li><a href="http://medium.com/@zerobase/"><img alt="Medium" src="images/Medium-logo-dark100.png" width="100" height="100"></a></li>
-  <li><a href="https://twitter.com/zerobase"><img alt="Twitter" src="images/Twitter_logo_blue.png" width="100" height="100"></a></li>
-  <li><a href="https://www.facebook.com/ishibashi.hideto"><img alt="Facebook" src="images/FB-f-Logo__blue_100.png" width="100" height="100"></a></li>
-  <li><a href="http://ishibashi.tumblr.com/"><img alt="Tumblr" src="images/tumblr_logo_white_blue.png" width="100" height="100"></a></li>
-  <li><a href="http://jp.linkedin.com/in/ishibashihideto"><img alt="LinkedIn" src="images/LinkedIn-InBug-2CRev.png" width="100" height="100"></a></li>
-  <li><a href="https://plus.google.com/+IshibashiHideto"><img alt="Google+" src="images/g+icon.png" width="100" height="100"></a></li>
-  <li><a href="https://github.com/zerobase"><img alt="GitHub" src="images/GitHub-Mark.png" width="100" height="100"></a></li>
-  <li><a href="http://qiita.com/zerobase"><img alt="Qiita" src="images/Qiita.png" width="100" height="100"></a></li>
-  <li><a href="https://appear.in/zerobase"><img alt="appear.in" src="images/logo-appear.in.png" width="100" height="100"></a></li>
-  <li><a href="mailto:hidetoi@gmail.com"><img alt="email" src="images/mail_icon.png" width="100" height="100"></a></li>
+  <li><a href="mailto:hidetoi@gmail.com"><img alt="email" src="images/mail_icon.png" width="100" height="100"> hidetoi@gmail.com</a></li>
+  <li><a href="https://twitter.com/zerobase"><img alt="Twitter" src="images/Twitter_logo_blue.png" width="100" height="100"> zerobase</a></li>
+  <li><a href="https://www.facebook.com/ishibashi.hideto"><img alt="Facebook" src="images/FB-f-Logo__blue_100.png" width="100" height="100"> ishibashi.hideto</a></li>
+  <li><a href="http://jp.linkedin.com/in/ishibashihideto"><img alt="LinkedIn" src="images/LinkedIn-InBug-2CRev.png" width="100" height="100"> ishibashihideto</a></li>
+  <li><a href="https://github.com/zerobase"><img alt="GitHub" src="images/GitHub-Mark.png" width="100" height="100"> zerobase</a></li>
+  <li><a href="http://qiita.com/zerobase"><img alt="Qiita" src="images/Qiita.png" width="100" height="100"> zerobase</a></li>
+  <li><a href="http://medium.com/@zerobase/"><img alt="Medium" src="images/Medium-logo-dark100.png" width="100" height="100"> zerobase</a></li>
+  <li><a href="http://ishibashi.tumblr.com/"><img alt="Tumblr" src="images/tumblr_logo_white_blue.png" width="100" height="100"> ishibashi</a></li>
+  <li><a href="https://plus.google.com/+IshibashiHideto"><img alt="Google+" src="images/g+icon.png" width="100" height="100"> IshibashiHideto</a></li>
+  <li><a href="https://appear.in/zerobase"><img alt="appear.in" src="images/logo-appear.in.png" width="100" height="100"> zerobase</a></li>
 </ul>
 
 

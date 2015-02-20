@@ -87,8 +87,18 @@ main article section.content.body {
   }
 
   .external.link {
+    list-style-type: none;
+    padding-left: 0;
+    
     li {
-      display: inline;
+      margin-bottom: 1em;
+      
+      img {
+        width: 2em;
+        height: 2em;
+        vertical-align: middle;
+        margin-right: 0.2em;
+      }
     }
   }
 
