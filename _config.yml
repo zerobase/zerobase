@@ -62,10 +62,6 @@ defaults:
 twitter_user: zerobase
 twitter_tweet_button: true
 
-# Google +1
-google_plus_one: true
-google_plus_one_size: medium
-
 # Facebook
 facebook_app_id: 212934732101925
 facebook_locale: ja_JP

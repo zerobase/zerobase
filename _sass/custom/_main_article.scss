@@ -118,6 +118,10 @@ main article footer {
   .sharing {
     @extend %border-top;
 
+    // .twitter-share-button {}
+    // .g-plusone {}
+    // .fb-like {}
+    
     .fb-comments {
       display: block;
       margin-top: $base-spacing;

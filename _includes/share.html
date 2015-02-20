@@ -1,7 +1,7 @@
 {% capture canonical %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endcapture %}
 <div class="sharing">
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="{{ canonical }}" data-counturl="{{ canonical }}" data-text="{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %}">Tweet</a>
-  <div class="g-plusone" data-href="{{ canonical }}" data-size="{{ site.google_plus_one_size }}"></div>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="{{ canonical }}" data-counturl="{{ canonical }}" data-text="{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %}" data-size="large">Tweet</a>
+  <div class="g-plusone" data-href="{{ canonical }}" data-size="standard"></div>
   <div class="fb-like" data-href="{{ canonical }}" data-send="true" data-width="300" data-show-faces="false"></div>
   <div class="fb-comments" data-href="{{ canonical }}" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
 </div>
