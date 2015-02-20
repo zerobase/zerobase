@@ -54,10 +54,12 @@ a {
 
   &:hover {
     color: $base-hover-link-color;
+    text-decoration: underline;
   }
 
   &:active, &:focus {
     color: $base-hover-link-color;
+    text-decoration: underline;
   }
 }
 
