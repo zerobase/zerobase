@@ -18,6 +18,21 @@ body {
   padding: 0.5em;
 }
 
+small,
+.footnote,
+.footnotes {
+  font-size: $base-font-size * 0.8;
+  color: darken($base-font-color, 10); // #
+
+  a {
+    color: darken($base-link-color, 10); // #1c7dad
+  }
+}
+
+.footnote {
+  text-decoration: underline;
+}
+
 @import "extends/border-top";
 @import "commands_list";
 @import "list_index";
