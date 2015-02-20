@@ -103,9 +103,21 @@ main article section.content.body {
 }
 
 main article footer {
+  @extend %border-top;
+  
+  .pagination {
+    a {
+      @extend %button;
+      .meta.subtitle {
+        font-size: 75%;
+        margin-left: 0.5em;
+      }
+    }
+  }
+  
   .sharing {
     @extend %border-top;
-    
+
     .fb-comments {
       display: block;
       margin-top: $base-spacing;
@@ -113,25 +125,6 @@ main article footer {
       iframe[style],
       > span {
           width: 100% !important;
-      }
-    }
-  }
-
-  .pagination {
-    @extend %border-top;
-    a {
-      display: block;
-      padding: 0.4em 0.9em;
-      margin: 0em 0 1.0em;
-      font-size: inherit;
-      font-weight: normal;
-      border: $base-border;
-      border-radius: $base-border-radius;
-      color: $base-font-color;
-
-      .meta.subtitle {
-        font-size: 75%;
-        margin-left: 0.5em;
       }
     }
   }

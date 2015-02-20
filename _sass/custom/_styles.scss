@@ -1,11 +1,5 @@
 // This is the root of custom stylesheets imported by css/main.scss
 
-%border-top {
-  margin-top: $base-spacing;
-  border-top: $base-border;
-  padding-top: $base-spacing;
-}
-
 body {
   margin: 0;
 }
@@ -24,6 +18,7 @@ body {
   padding: 0.5em;
 }
 
+@import "extends/border-top";
 @import "commands_list";
 @import "list_index";
 @import "main_article";

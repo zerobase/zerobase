@@ -2,17 +2,18 @@
   -webkit-font-smoothing: antialiased;
   background-color: $base-button-color;
   border-radius: $base-border-radius;
-  color: white;
+  color: $base-button-text-color;
   display: inline-block;
   font-size: $base-font-size;
-  font-weight: bold;
+  font-weight: normal;
   line-height: 1;
   padding: 0.75em 1em;
+  margin: 0.5em;
   text-decoration: none;
 
   &:hover {
-    background-color: $hover-button-color;
-    color: white;
+    background-color: $base-hover-button-color;
+    color: $base-button-text-color;
   }
 
   &:disabled {
