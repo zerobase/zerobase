@@ -8,7 +8,7 @@ next_page_url: /about/philosophy.html
 
 石橋秀仁は[情報建築家](/blog/2014/04/25/future-of-information-architect.html)／デザイナー／プログラマーです。ウェブとイノベーションが好きで、モットーは「[思想を実装する](/about/philosophy.html)」です。
 
-![Hideto ISHIBASHI, Information Architect](images/title_portrait.png)
+![Hideto ISHIBASHI, Information Architect](images/title_portrait.png){:width="300" height="401"}
 
 ## 略歴
 
