@@ -12,14 +12,26 @@ next_page_url: /about/philosophy.html
 
 ## 略歴
 
-国立久留米工業高等専門学校（高専）卒業。2000年、オンラインコミュニティ運営企業にプログラマーとして入社。独立後は、ユーザーインターフェイスデザイン、ウェブディレクション、サービス企画、ワークショップファシリテーションなどを経験。数多くのオンラインサービスの立ち上げに携わる。情報建築家として、社会の情報化に関心を持ちつつ、批評と実践に取り組んでいる。
+国立久留米工業高等専門学校（高専）卒業。
+
+2000年、オンラインコミュニティ運営企業にプログラマーとして入社。独立後は、ユーザーインターフェイスデザイン、ウェブディレクション、サービス企画、ワークショップファシリテーションなどを経験。数多くのオンラインサービスの立ち上げに携わる。
+
+情報建築家として、社会の情報化に関心を持ちつつ、批評と実践に取り組んでいる。
 
 
 ## 役職
 
-1. [ゼロベース株式会社](http://zerobase.jp)というウェブ開発会社の創業者で代表取締役です。
-2. [GMO VenturePartners株式会社](http://www.gmo-vp.com)というベンチャーキャピタルの[デザインフェローという仕事](/blog/2014/12/01/design-fellow-at-venture-capital.html)をしています。ベンチャー企業のサービス開発を手伝っています。
-3. いくつかの事業の[顧問](/about/advice.html)をしています。
+<figure>
+  <img src="images/zerobase.png" alt="ゼロベース株式会社のロゴ">
+  <figcaption><a href="http://zerobase.jp">ゼロベース株式会社</a>というウェブ開発会社の創業者で、現代表取締役です。</figcaption>
+</figure>
+
+<figure>
+  <img src="images/gmovp.jpg" alt="GMO VenturePartners株式会社のロゴ">
+  <figcaption><a href="http://www.gmo-vp.com">GMO VenturePartners株式会社</a>というベンチャーキャピタルの<a href="/blog/2014/12/01/design-fellow-at-venture-capital.html">デザインフェロー</a>として、ベンチャー企業のサービス開発を手伝っています。</figcaption>
+</figure>
+
+その他にいくつかの事業の[顧問](/about/advice.html)をしています。
 
 
 ## プロジェクト
