@@ -59,10 +59,6 @@ main article section.content.body {
     &.left { text-align: left; }
     &.right { text-align: right; }
 
-    img {
-      border: $base-border;
-    }
-
     figcaption {
       font-size: smaller;
     }
