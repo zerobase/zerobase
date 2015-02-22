@@ -16,8 +16,6 @@ subscribe_rss: /atom.xml
 podcast_rss: /podcast/rss.xml
 podcast_itunes_url: https://itunes.apple.com/jp/podcast/ia-podcast/id963102127?l=en&mt=2
 
-num_about_pages: 4
-
 # Build settings
 markdown: kramdown
 highlighter: pygments
@@ -55,11 +53,10 @@ defaults:
   -
     scope:
       path: "about"
-      type: "pages"
+      type: "posts"
     values:
       layout: "about"
       categories: "about"
-      title: "About"
 
 # Twitter
 twitter_user: zerobase

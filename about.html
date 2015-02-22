@@ -1,0 +1,22 @@
+---
+layout: default
+order: 5
+permalink: /about/
+posts: true
+categories: about
+title: About
+---
+
+{% assign posts = site.categories.about %}
+
+<main class="list index">
+  <header>
+    {% include tab_navigation.html %}
+  </header>
+  <ul class="post list">
+    {% for _post in posts %}
+      {% include list_item.html %}
+    {% endfor %}
+  </ul>
+  {% include commands.html %}
+</main>
