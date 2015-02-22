@@ -1,8 +1,8 @@
 ---
 permalink: /about/philosophy.html
+thumbnail: /images/about/thumbnail.png
 title: 思想
 description: 私のモットーは「思想を実装する」です。私は「思想」というものを大事にしています。誤解のないようにお断りしておくと、「私がすでに持っている思想を実装する」という意味ではありません。
-order: 2
 redirect_from: /philosophy/
 next_page_title: 仕事
 next_page_url: /about/works.html
