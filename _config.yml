@@ -55,7 +55,7 @@ defaults:
       path: "about"
       type: "posts"
     values:
-      layout: "about"
+      layout: "post"
       categories: "about"
 
 # Twitter
