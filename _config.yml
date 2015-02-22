@@ -1,3 +1,6 @@
+# Build settings
+exclude: [Guardfile]
+
 # Site settings
 title: Hideto Ishibashi
 author: Hideto Ishibashi
