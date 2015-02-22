@@ -1,9 +1,0 @@
-{% assign next_post_key = page.categories[0] | append: "_next" %}
-{% if page[next_post_key] %}
-  <nav class="pagination">
-    {% if page[next_post_key] %}
-      {% assign next_post = page[next_post_key] %}
-      <a href="{{ next_post.url }}" rel="next">Next: {{ next_post.title }}{% if next_post.subtitle %} <span class="meta subtitle">{{ next_post.subtitle }}</span>{% endif %}</a>
-    {% endif %}
-  </nav>
-{% endif %}
