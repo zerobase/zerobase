@@ -111,13 +111,11 @@ main article section.content.body {
 main article footer {
   @extend %border-top;
   
-  .pagination {
-    a {
-      @extend %button;
-      .meta.subtitle {
-        font-size: 75%;
-        margin-left: 0.5em;
-      }
+  .sequential.link {
+    @extend %button;
+    .meta.subtitle {
+      font-size: 75%;
+      margin-left: 0.5em;
     }
   }
   
