@@ -1,6 +1,4 @@
 {% if page.categories contains "podcast" %}
-  <a href="{{ site.podcast_rss }}">Subscribe Podcast</a>
   <a href="{{ site.podcast_itunes_url | escape }}">View on iTunes</a>
 {% else %}
-  <a href="{{ site.subscribe_rss }}">Subscribe Feed</a>
 {% endif %}
