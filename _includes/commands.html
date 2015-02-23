@@ -1,4 +1,6 @@
-{% if page.categories contains "podcast" %}
-  <a href="{{ site.podcast_itunes_url | escape }}">View on iTunes</a>
-{% else %}
-{% endif %}
+<div class="commands list">
+  {% if page.categories contains "podcast" %}
+    <a class="podcast itunes open command" href="{{ site.podcast_itunes_url | escape }}">View in iTunes</a>
+  {% else %}
+  {% endif %}
+</div>

@@ -1,8 +1,5 @@
 .commands.list {
-  .command.item {
-    display: inline-block;
-    a {
-      @extend %button;
-    }
+  .command {
+    @extend %button;
   }
 }
