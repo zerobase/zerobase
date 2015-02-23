@@ -4,7 +4,7 @@ description: ユーザー・インターフェイスの進化の本質は、情�
 redirect_from: "/blog/interface-evolution/"
 ---
 
-![](/images/posts/blog/2012-10-31-interface-evolution/ui-evolution.png)
+![](/images/blog/2012-10-31-interface-evolution/ui-evolution.png)
 
 これはユーザー・インターフェイス専門家向けの論文である。
 

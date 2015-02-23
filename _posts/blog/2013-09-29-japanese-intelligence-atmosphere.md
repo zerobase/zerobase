@@ -4,7 +4,7 @@ description: 日本では概念が脆い。この知的伝統は、日本の国�
 redirect_from: "/blog/japanese-intelligence-atmosphere/"
 ---
 
-![三種の神器](/images/posts/blog/2013-09-29-japanese-intelligence-atmosphere/the-imperial-regalia-of-japan.jpg)
+![三種の神器](/images/blog/2013-09-29-japanese-intelligence-atmosphere/the-imperial-regalia-of-japan.jpg)
 
 日本にやってきた概念は、本来の意味を喪失し、ほかの言葉と区別がつかなくなりがちです。例えば、ウェブ業界では「UX」と「UI」の混同が代表的です。
 

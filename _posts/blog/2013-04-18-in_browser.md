@@ -4,7 +4,7 @@ description: ウェブというメディアの技術的側面を理解し、そ�
 redirect_from: "/blog/in_browser/"
 ---
 
-![](/images/posts/blog/2013-04-18-in_browser/screenshot.png)
+![](/images/blog/2013-04-18-in_browser/screenshot.png)
 
 QxilというQ&Aサイトで、藤原由翼さんが興味深い質問をしていました：
 

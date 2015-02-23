@@ -4,7 +4,7 @@ description: 「対米戦争」と「敗戦」は、20世紀的なイデオロ�
 redirect_from: "/blog/defeat-of-japan/"
 ---
 
-![日米硫黄島戦没者合同慰霊追悼顕彰式の写真](/images/posts/blog/2013-12-08-defeat-of-japan/iwo-jima-memorial.jpg)  
+![日米硫黄島戦没者合同慰霊追悼顕彰式の写真](/images/blog/2013-12-08-defeat-of-japan/iwo-jima-memorial.jpg)  
 <small>出典：[陸上自衛隊中央音楽隊ウェブサイト](http://www.mod.go.jp/gsdf/central/gallery_iou.html)</small>
 
 12月8日は平和を歌ったジョン・レノンの命日であり、日米が開戦した真珠湾攻撃の日です。
@@ -89,7 +89,7 @@ GHQは、ソ連による日本における共産主義革命を防ぐことに�
 
 日本は、いまや緊密な関係にある友好国アメリカと、かつては血で血を洗う戦争をしました。これは**忘れてはならないこと**です。
 
-![日米硫黄島戦没者合同慰霊追悼顕彰式の写真](/images/posts/blog/2013-12-08-defeat-of-japan/iwo-jima-memorial.jpg)  
+![日米硫黄島戦没者合同慰霊追悼顕彰式の写真](/images/blog/2013-12-08-defeat-of-japan/iwo-jima-memorial.jpg)  
 <small>出典：[陸上自衛隊中央音楽隊ウェブサイト](http://www.mod.go.jp/gsdf/central/gallery_iou.html)</small>
 
 この写真は、日米硫黄島戦没者合同慰霊追悼顕彰式の様子です。まさに血で血を洗う激戦の地となった硫黄島で、日本人とアメリカ人が共に戦没者を慰霊追悼しています。現在の日本とアメリカの関係には、このような礎があります。

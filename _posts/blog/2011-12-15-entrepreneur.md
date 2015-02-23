@@ -4,7 +4,7 @@ description: 多くの起業家は、不器用にしか生きられないので�
 redirect_from: "/blog/entrepreneur/"
 ---
 
-![起業家は誤解されている](/images/posts/blog/2011-12-15-entrepreneur/entrepreneurs_are_misunderstod.jpg)
+![起業家は誤解されている](/images/blog/2011-12-15-entrepreneur/entrepreneurs_are_misunderstod.jpg)
 
 ## 定義
 

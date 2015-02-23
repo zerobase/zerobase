@@ -4,7 +4,7 @@ description: デザイン学的理由付け：人が初めて見るアプリを�
 redirect_from: "/blog/why-almighty-apps-are-shit/"
 ---
 
-![](/images/posts/blog/2013-08-14-why-almighty-apps-are-shit/kusoapp13.jpg)  
+![](/images/blog/2013-08-14-why-almighty-apps-are-shit/kusoapp13.jpg)  
 <small>マイクロソフトオフィスのイルカが表示された状態の、Twitter的なアプリの画面　出典：[fladdict.net](http://fladdict.net/blog/2013/08/client-user-request.html)</small>
 
 fladdict氏の『[スマホUI考（番外編）　顧客やユーザーの要望に全て対応すると、アプリは99%破綻する](http://fladdict.net/blog/2013/08/client-user-request.html)』は素晴らしい文章です。

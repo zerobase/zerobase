@@ -4,7 +4,7 @@ description: 文書データ形式としてのプレインテキストと、Mark
 redirect_from: "/blog/markdown-is-plaintext/"
 ---
 
-![nvALTの画面](/images/posts/blog/2013-12-24-markdown-is-plaintext/nvALT.jpg)
+![nvALTの画面](/images/blog/2013-12-24-markdown-is-plaintext/nvALT.jpg)
 
 〔[ドキュメンテーション Advent Calendar 2013] のための文章です〕
 

@@ -4,7 +4,7 @@ description: ソフトウェア化されたサイバー犯罪は、万人を標�
 redirect_from: "/blog/cyber-criminal-vs-technology-defence/"
 ---
 
-![](/images/posts/blog/2013-07-31-cyber-criminal-vs-technology-defence/betrayal.jpg)
+![](/images/blog/2013-07-31-cyber-criminal-vs-technology-defence/betrayal.jpg)
 
 Facebookで詐欺メッセージが届きました。なんで「あなたの遠い親戚が、石油を掘っているときに事故死して、遺産相続が云々」という内容で、あまりにも典型的な詐欺メッセージで笑えました。
 

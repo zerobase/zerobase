@@ -5,7 +5,7 @@ description: インフォメーション・アーキテクチャの設計パラ�
 redirect_from: "/blog/copernican-turn-on-information-architecture/"
 ---
 
-![インフォメーション・アーキテクチャ関連書籍](/images/posts/blog/2014-04-25-copernican-turn-on-information-architecture/ia-books.jpg)
+![インフォメーション・アーキテクチャ関連書籍](/images/blog/2014-04-25-copernican-turn-on-information-architecture/ia-books.jpg)
 
 
 インフォメーション・アーキテクチャの設計パラダイムが変わりつつあります。この変化は、**サービスデザイン**というパライダムとも深く関係しています。

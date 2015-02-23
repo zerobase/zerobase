@@ -72,23 +72,23 @@ redirect_from: "/blog/semantic-turn/"
 
 第1章は歴史観。デザインの対象がどのように変わってきたか：
 
-![図1.1 人工物の軌道：製品（有用性、機能性、普遍的な美学）→商品、サービス、コミュニティー（市場性、象徴的な多様性、民族的で局所な美学）→インタフェース（自然な相互作用、理解できること、再形成／適応性）→マルチユーザーシステム／ネットワーク（情報提供、コネクティビティー、アクセシビリティー）→プロジェクト（社会的実行可能性、方向性、関わり合い）→ディスコース（生成、再分節化、連帯）](/images/posts/blog/2013-12-03-semantic-turn/semantic-turn-2-ja.png)
+![図1.1 人工物の軌道：製品（有用性、機能性、普遍的な美学）→商品、サービス、コミュニティー（市場性、象徴的な多様性、民族的で局所な美学）→インタフェース（自然な相互作用、理解できること、再形成／適応性）→マルチユーザーシステム／ネットワーク（情報提供、コネクティビティー、アクセシビリティー）→プロジェクト（社会的実行可能性、方向性、関わり合い）→ディスコース（生成、再分節化、連帯）](/images/blog/2013-12-03-semantic-turn/semantic-turn-2-ja.png)
 
-![Figure 1.1 Trajectory of artificiality: Products (Utility, Functionality, Universal aesthetics); Goods, Services, and Identities (Marketability, Symbolic diversity, Folk and local aesthetics); Interfaces (Natural interactivity, Understandability, Reconfigurability / adaptability); Multiuser Systems/Networks (Informativeness, Connectivity, Accessibility); Projects (Social viability, Directionality, Commitment); Discourses (Generativity, Rearticulability, Solidarity)](/images/posts/blog/2013-12-03-semantic-turn/semantic-turn-2.png)
+![Figure 1.1 Trajectory of artificiality: Products (Utility, Functionality, Universal aesthetics); Goods, Services, and Identities (Marketability, Symbolic diversity, Folk and local aesthetics); Interfaces (Natural interactivity, Understandability, Reconfigurability / adaptability); Multiuser Systems/Networks (Informativeness, Connectivity, Accessibility); Projects (Social viability, Directionality, Commitment); Discourses (Generativity, Rearticulability, Solidarity)](/images/blog/2013-12-03-semantic-turn/semantic-turn-2.png)
 
 また、デザインの環境はどのように変わってきたか：
 
-![図1.2 社会的次元のシフト：工業化の時代→ポスト工業化の時代；主要通貨（物質とエネルギー→個人やコミュニティーによる注意）；主要な不平等（経済的なこと→技術やノウハウや教育へのアクセス）；主要な構造（義務の階層→関わりのネットワーク（異階層））；関心の衝突（領土的な争い→市場の競争、観戦スポーツ、選挙）；知識（（自然の）科学的な理論→社会的に構成される、変形する）；存在論的説明（機械的／因果的→創造し、構成し、現実化する能力）；デザイン（技術中心→人間中心）](/images/posts/blog/2013-12-03-semantic-turn/semantic-turn-3-ja.png)
+![図1.2 社会的次元のシフト：工業化の時代→ポスト工業化の時代；主要通貨（物質とエネルギー→個人やコミュニティーによる注意）；主要な不平等（経済的なこと→技術やノウハウや教育へのアクセス）；主要な構造（義務の階層→関わりのネットワーク（異階層））；関心の衝突（領土的な争い→市場の競争、観戦スポーツ、選挙）；知識（（自然の）科学的な理論→社会的に構成される、変形する）；存在論的説明（機械的／因果的→創造し、構成し、現実化する能力）；デザイン（技術中心→人間中心）](/images/blog/2013-12-03-semantic-turn/semantic-turn-3-ja.png)
 
-![Figure 1.2 Shifts in societal dimentions: From Industrial Era to Postindustrial Era; Primary currencies (from Matter and energy to Attention by individuals and communities); Major inequalities (from Economic to Access to technology, know-how, education); Dominant structures (from Hierachies of obligations to Networks (heterachies) of commitments); Conflicts of concern (from Territorial wars to Market competition, spectator sports, elections); Knowledge (from Scientific theories (of nature) to Socially constituitive, transformative); Ontological explanations (from Mechanical / causal to Ability to create, construct, and realize); Design (from Technology-centered to Human-centered)](/images/posts/blog/2013-12-03-semantic-turn/semantic-turn-3.png)
+![Figure 1.2 Shifts in societal dimentions: From Industrial Era to Postindustrial Era; Primary currencies (from Matter and energy to Attention by individuals and communities); Major inequalities (from Economic to Access to technology, know-how, education); Dominant structures (from Hierachies of obligations to Networks (heterachies) of commitments); Conflicts of concern (from Territorial wars to Market competition, spectator sports, elections); Knowledge (from Scientific theories (of nature) to Socially constituitive, transformative); Ontological explanations (from Mechanical / causal to Ability to create, construct, and realize); Design (from Technology-centered to Human-centered)](/images/blog/2013-12-03-semantic-turn/semantic-turn-3.png)
 
 第2章は人間中心デザインの原理。キーワードは「感覚」「意味」「コンテクスト」「二次的理解」です。**二次的理解** (second-order understanding) という概念はデザイン行為の本質を捉えており有用です。
 
 第3章から第6章にかけて「使用」「言語」「生（ライフサイクル）」「エコロジー」における人工物の意味を論じています。以下の図で示されています：
 
-![図 0.1 人工物の意味の４つの理論の間の関係：人工物の意味が位置づく領域：使用（言語を伴わない使用の領域）、言語（ライフサイクルにない言語の領域）、ライフサイクル（エコロジーでないライフサイクルの領域）、エコロジー](/images/posts/blog/2013-12-03-semantic-turn/semantic-turn-1-ja.png)
+![図 0.1 人工物の意味の４つの理論の間の関係：人工物の意味が位置づく領域：使用（言語を伴わない使用の領域）、言語（ライフサイクルにない言語の領域）、ライフサイクル（エコロジーでないライフサイクルの領域）、エコロジー](/images/blog/2013-12-03-semantic-turn/semantic-turn-1-ja.png)
 
-![Figure 0.1 Relations between four theories of meanings of artifacts: Meanings of Artifacts in Use (Tacit use, not in *language*), Language (*Language*, not in their *life cycle*), Life cycle (their *life cycle*, not in *ecology*), Ecology. ](/images/posts/blog/2013-12-03-semantic-turn/semantic-turn-1.png)
+![Figure 0.1 Relations between four theories of meanings of artifacts: Meanings of Artifacts in Use (Tacit use, not in *language*), Language (*Language*, not in their *life cycle*), Life cycle (their *life cycle*, not in *ecology*), Ecology. ](/images/blog/2013-12-03-semantic-turn/semantic-turn-1.png)
 
 とくに第3章はデザイン実践家にとっても示唆的な内容なので一読をおすすめします。「3.4.3 アフォーダンス」の項は勉強になりました：
 

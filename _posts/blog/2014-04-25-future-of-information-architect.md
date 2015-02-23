@@ -4,7 +4,7 @@ description: 情報建築家（インフォメーション・アーキテクト�
 redirect_from: "/blog/future-of-information-architect/"
 ---
 
-![](/images/posts/blog/2014-04-25-future-of-information-architect/ia-revisited.jpg)  
+![](/images/blog/2014-04-25-future-of-information-architect/ia-revisited.jpg)  
 <small>リチャード・S・ワーマンのポートレイト　撮影：Melissa Mahoney　出典：[ウィキメディア・コモンズ](http://commons.wikimedia.org/wiki/File%3ARichard_Saul_Wurman_by_Melissa_Mahoney.png)</small>
 
 概要

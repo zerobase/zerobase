@@ -5,7 +5,7 @@ description: バットマンは悪人を殺しません。一方、犯人に私�
 redirect_from: "/blog/due-process-of-law/"
 ---
 
-![](/images/posts/blog/2013-08-15-due-process-of-law/batman-and-harry.jpg)
+![](/images/blog/2013-08-15-due-process-of-law/batman-and-harry.jpg)
 
 日米の「ヒーロー」のあり方を比較した[このフレーズ][quote_source]が、笑いのツボに入りました：
 
