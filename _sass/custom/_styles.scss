@@ -22,10 +22,10 @@ small,
 .footnote,
 .footnotes {
   font-size: $base-font-size * 0.8;
-  color: darken($base-font-color, 10); // #
+  //color: darken($base-font-color, 10);
 
   a {
-    color: darken($base-link-color, 10); // #1c7dad
+    //color: darken($base-link-color, 10);
   }
 }
 

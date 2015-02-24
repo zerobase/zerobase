@@ -33,13 +33,13 @@ $base-z-index: 0;
 // Colors
 $base-accent-color: #CC4400;
 $base-main-color: #208DC3;
-$base-background-color: lighten($base-main-color, 55); // #fdfeff
-$base-font-color: darken($base-main-color, 15); // #155d81
+$base-background-color: lighten($base-main-color, 55);
+$base-font-color: darken($base-main-color, 25);
 
 // Link Colors
-$base-link-color: lighten($base-font-color, 20); // #249dd9
-$base-hover-link-color: darken($base-link-color, 20); // #155d81
-$base-button-color: darken($base-link-color, 10); // #1c7dad
+$base-link-color: lighten($base-font-color, 20);
+$base-hover-link-color: darken($base-link-color, 20);
+$base-button-color: darken($base-link-color, 10);
 $base-button-text-color: $base-background-color;
 $base-hover-button-color: $base-hover-link-color;
 
