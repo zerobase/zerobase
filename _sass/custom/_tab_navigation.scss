@@ -15,66 +15,9 @@
   $tab-inactive-hover-color: silver;
   $tab-mode: $medium-screen-up;
 
-  margin-top: 0.3em;
-  @include media($tab-mode) {
-    margin-top: 1.0em;
-  }
+  margin-top: 1.0em;
   
-  .menu.button {
-    padding: 0.6em 0.9em;
-    margin: 0em 0 1.0em;
-    font-size: inherit;
-    font-weight: normal;
-    border: $base-border;
-    border-radius: $base-border-radius;
-    background-color: transparent;
-    color: $base-font-color;
-
-    @include media($tab-mode) {
-      display: none;
-    }
-    
-    .open.icon {
-      display: inline;
-    }
-    .close.icon {
-      display: none;
-    }
-
-    &.is-open {
-      .open.icon {
-        display: none;
-      }
-      .close.icon {
-        display: inline;
-      }
-    }
-
-    &.is-removed {
-      display: none;
-    }
-  }
-
-  .menu.content {
-    height: 0;
-    overflow: hidden;
-
-    @include media($tab-mode) {
-      height: auto;
-      overflow: visible;
-    }
-  }
-
-  .menu.content.is-open {
-    height: 15em;
-
-    @include media($tab-mode) {
-      height: auto;
-    }
-  }
-
   ul {
-    @include transition(all 0.3s ease-in-out);
     @include clearfix;
     font-size: em(14px);
     line-height: 1.5;

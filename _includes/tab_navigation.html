@@ -1,10 +1,5 @@
 <nav class="tab navigation">
-  <button class="menu button is-open is-removed">
-    <img src="/images/menu_icon.png" alt="" width="16" height="14" class="open icon">
-    <img src="/images/menu_icon_close.png" alt="" width="16" height="15" class="close icon">
-    Menu
-  </button>
-  <ul class="menu content is-open" aria-expanded="true">
+  <ul class="menu content">
     {% assign sorted_pages = site.pages | sort: 'order' %}
     {% for p in sorted_pages %}
       {% if p.posts %}
@@ -22,61 +17,3 @@
     {% endfor %}
   </ul>
 </nav>
-<script>
-(function () {
-  
-  function toggleMenuDisplay(content) {
-    var button = document.querySelector('.tab.navigation .menu.button')
-    var content = document.querySelector('.tab.navigation .menu.content')
-    if (content.classList.contains('is-open')) {
-      setMenuDisplayAs('close')
-      button.classList.remove('is-open')
-    } else {
-      setMenuDisplayAs('open')
-      button.classList.add('is-open')
-    }
-  }
-  
-  // status is 'open', 'close' or 'toggle'
-  function setMenuDisplayAs(status) {
-    var button = document.querySelector('.tab.navigation .menu.button')
-    var content = document.querySelector('.tab.navigation .menu.content')
-    if (status == 'open') {
-      content.classList.add('is-open')
-      button.classList.add('is-open')
-      content.setAttribute('aria-expanded', true)
-    } else {
-      content.classList.remove('is-open')
-      button.classList.remove('is-open')
-      content.setAttribute('aria-expanded', false)
-    }
-  }
-  
-  var button = document.querySelector('.tab.navigation .menu.button')
-  button.classList.remove('is-removed')
-  button.classList.remove('is-open')
-  button.addEventListener('click', function () {
-    toggleMenuDisplay()
-  })
-  
-  var content = document.querySelector('.tab.navigation .menu.content')
-  content.classList.remove('is-open')
-  content.setAttribute('aria-expanded', false)
-  
-  // media query hook
-  window.addEventListener('load', function () {
-    enquire
-    .register("screen and (max-width: 42.5em)", { // smaller than tablet
-      match : function() {
-        setMenuDisplayAs('close')
-      }
-    }, true) // `true` for mobile first (see the doc)
-    .register("screen and (min-width: 42.5em)", { // tablet or bigger
-      match : function() {
-        setMenuDisplayAs('open')
-      }
-    })
-  }, false)
-
-})()
-</script>
