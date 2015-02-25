@@ -1,5 +1,0 @@
-{% if page.url == include.url %}
-  <a href="{{ include.url }}" class="is-active"><h1 class="title">{{ include.label }}</h1> <span class="meta posts count">({{ include.count }})</span></a>
-{% else %}
-  <a href="{{ include.url }}">{{ include.label }} <span class="meta posts count">({{ include.count }})</span></a>
-{% endif %}

@@ -1,74 +1,54 @@
 .tab.navigation {
-  ///////////////////////////////////////////////////////////////////////////////////
-  $base-border-color: gainsboro !default;
-  $base-background-color: white !default;
-  $base-spacing: 1.5em !default;
-  $base-accent-color: #477DCA !default;
-  $base-link-color: $base-accent-color !default;
-  $medium-screen-up: em(640) !default;
-  //////////////////////////////////////////////////////////////////////////////////
-
   $tab-link-color: $base-font-color;
   $tab-border: 1px solid $base-border-color;
-  $tab-active-background: $base-background-color;
   $tab-inactive-color: $base-background-color;
-  $tab-inactive-hover-color: silver;
   $tab-mode: $medium-screen-up;
+  text-align: center;
 
-  margin-top: 1.0em;
-  
   ul {
     @include clearfix;
-    font-size: em(14px);
-    line-height: 1.5;
-    padding: 0;
-    border-bottom: $tab-border;
+    font-size: em(12px);
+    border: $tab-border;
+    line-height: 1.2em;
+    text-align: justify;
+    display: inline-block;
+
+    @include media($tab-mode) {
+      font-size: em(16px);
+    }
 
     li {
       list-style: none;
-
-      @include media($tab-mode) {
-        display: inline;
-      }
+      display: inline-block;
+      padding: 0.5em;
+      min-width: 3em;
+      text-align: center;
 
       a {
         background-color: $tab-inactive-color;
-        border-top: $tab-border;
         color: $tab-link-color;
-        display: block;
-        font-weight: 400;
-        padding: 0.6em;
         text-decoration: none;
-
-        @include media($tab-mode) {
-          display: inline-block;
-          border-top: 0;
-        }
-
-        &.is-active {
-          border-bottom: 0;
-          color: $base-background-color;
-          background-color: $base-font-color;
-
-          .title {
-            font-weight: normal;
-            font-size: inherit;
-          }
-
-          @include media($tab-mode) {
-            border: $tab-border;
-            border-bottom-color: $tab-active-background;
-            margin-bottom: -1px;
-            color: $base-font-color;
-            background-color: transparent !important;
-          }
-        }
 
         .title {
           display: inline;
-          font-size: 1.1em;
+          font-size: inherit;
         }
-      } // a
+      }
+
+      &.is-active {
+        color: $base-background-color;
+        background-color: $base-font-color;
+
+        a {
+          color: inherit;
+          background-color: inherit;
+        }
+
+        .title {
+          font-weight: normal;
+          font-size: inherit;
+        }
+      }
       
       a:hover,
       a:focus {
