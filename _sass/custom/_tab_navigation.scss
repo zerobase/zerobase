@@ -9,9 +9,11 @@
     @include clearfix;
     font-size: em(12px);
     border: $tab-border;
+    border-radius: $base-border-radius;
     line-height: 1.2em;
     text-align: justify;
     display: inline-block;
+    overflow: hidden;
 
     @include media($tab-mode) {
       font-size: em(16px);
