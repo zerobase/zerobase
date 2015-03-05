@@ -1,48 +1,26 @@
 main article header {
-  .title {
-    line-height: 1.5;
-    margin-bottom: em(12x);
-  }
-
   .meta.subtitle {
-    font-size: 75%;
-    margin-left: 0.5em;
+    font-size: modular-scale(-1);
+    margin-left: $base-padding;
   }
 
   .meta.time {
-    font-size: 80%;
-    margin-top: 0.5em;
+    font-size: modular-scale(-1);
   }
 }
 
 
 main article section.content.body {
-  line-height: 1.7;
-  
-  @include media($mobile) {
-    font-size: em(15px);
-  }
-  
-  @include media($medium-screen-up) {
-    font-size: em(18px);
-  }
-  
   h1, h2, h3, h4, h5, h6 {
-    margin: 1.5em 0 1.0em 0;
+    margin: $base-spacing 0 $base-spacing/2 0;
   }
   
   ul {
     @extend %default-ul;
-    @include media($mobile) {
-      padding-left: 1.8em;
-    }
   }
 
   ol {
     @extend %default-ol;
-    @include media($mobile) {
-      padding-left: 1.8em;
-    }
   }
 
   pre {
@@ -50,10 +28,7 @@ main article section.content.body {
   }
 
   figure {
-    margin: $base-spacing;
-    @include media($mobile) {
-      margin: $base-spacing / 2;
-    }
+    margin: $base-spacing $base-spacing/2;
 
     &.center { text-align: center; }
     &.left { text-align: left; }
@@ -108,7 +83,7 @@ main article section.content.body {
 
   .footnotes {
     @extend %border-top;
-    font-size: smaller;
+    font-size: modular-scale(-1);
   }
 }
 
@@ -118,7 +93,7 @@ main article footer {
   .sequential.link {
     @extend %button;
     .meta.subtitle {
-      font-size: 75%;
+      font-size: modular-scale(-1);
       margin-left: 0.5em;
     }
   }

@@ -2,20 +2,28 @@
 
 body {
   margin: 0;
+
+  @include media($medium-viewport) {
+    // font-size: modular-scale(1);
+  }
+
+  @include media($large-viewport) {
+    font-size: modular-scale(1);
+  }
 }
 
 .container {
   @include outer-container;
+}
 
-  main {
-    padding: 0.5em;
-    margin: 0.5em 0 0 0;
-  }
+main {
+  padding: $base-padding;
+  margin: $base-padding 0 0 0;
 }
 
 .site.footer {
   @extend %border-top;
-  padding: 0.5em;
+  padding: $base-padding;
 }
 
 small,
@@ -38,7 +46,5 @@ small,
 @import "commands_list";
 @import "list_index";
 @import "main_article";
-@import "mobile_typography";
-@import "syntax"; // for Pygments syntax highlighter
 @import "tab_navigation";
 @import "website_header";

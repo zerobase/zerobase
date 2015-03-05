@@ -1,19 +1,9 @@
-main.list.index,
 main.list.index {
-  header {
-    .meta.posts.count,
-    .meta.pages.count {
-      font-size: 75%;
-    }
-  }
-
-  .post.item,
-  .page.item {
+  .item {
+    @include clearfix;
     $color: $base-font-color;
     $hover-color: $base-link-color;
-    
-    @include clearfix;
-    margin: 2em 0;
+    margin: $base-spacing 0;
 
     .link {
       display: block;
@@ -25,48 +15,28 @@ main.list.index {
       }
 
       .title {
-        font-size: 110%;
-        line-height: 1.4;
-        margin-bottom: 0.5em;
-        
-        @include media($medium-screen-up) {
-          font-size: 140%;
-          line-height: 1.5;
-          margin-bottom: 0.7em;
-        }
+        font-size: modular-scale(1);
+        margin-bottom: $base-padding;
       }
 
       .thumbnail {
         float: right;
-        margin: 0 0 0.4em 0.4em;
-        width: 7.5em;
-        height: 7.5em;
-        
-        @include media($mobile) {
-          width: 5em;
-          height: 5em;
-        }
-        
-        @include media($medium-screen-up) {
-          margin: 0 0 1em 1em;
-          width: 10em;
-          height: 10em;
-        }
+        margin: 0 0 $base-padding $base-padding;
+        width: 5em;
+        height: 5em;
       }
 
       .meta.subtitle {
-        font-size: 75%;
-        margin-left: 0.5em;
+        font-size: modular-scale(-1);
+        margin-left: $base-padding;
       }
       
       .meta.description {
-        font-size: 95%;
-        line-height: 1.2;
-        margin-bottom: 0.6em;
+        margin-bottom: $base-padding;
       }
 
       .meta.time {
-        font-size: 80%;
+        font-size: modular-scale(-1);
       }
     }
   }
