@@ -1,10 +1,14 @@
+$color: $base-background-color;
+
 .site.header {
-  $color: $base-background-color;
-  $background-color: $base-main-color;
-  
-  margin: 0 0 0.5em 0;
-  padding: 0.2em;
-  background-color: $background-color;
+  @include media($medium-viewport) {
+    font-size: modular-scale(1);
+  }
+
+  @include media($large-viewport) {
+    font-size: modular-scale(1);
+  }
+
   &, a, li {
     color: $color;
   }
@@ -17,30 +21,40 @@
   a:focus {
     color: darken($color, 20);
   }
-  
-  font-size: em(16px);
-  @include media($medium-screen-up) {
-    font-size: em(32px);
+
+  .site.title.header {
+    background-color: $base-main-color;
+    padding: $base-padding;
+
+    .breadcrumbs {
+      @include outer-container;
+
+      .site.id {
+        $size: 2.0em;
+        width: $size;
+        height: $size;
+        margin-right: 0.3em;
+        vertical-align: middle;
+        position: relative;
+        top: -0.05em;
+      }
+
+      .site.title {
+        display: inline;
+        font-weight: normal;
+        font-size: inherit;
+        margin-right: 0.2em;
+      }
+    }
   }
 
-  .site.id {
-    $size: 2.0em;
-    width: $size;
-    height: $size;
-    margin-right: 0.3em;
-    vertical-align: middle;
-    position: relative;
-    top: -0.05em;
-  }
+  .site.lead.header {
+    padding: $base-padding;
+    background-color: $base-font-color;
 
-  .site.title {
-    display: inline;
-    font-weight: normal;
-    font-size: inherit;
-    margin-right: 0.2em;
-    
-    .whitespace {
-      font-size: 0.5em;
+    .lead {
+      @include outer-container;
+      font-size: modular-scale(-2);
     }
   }
 }

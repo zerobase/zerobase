@@ -1,4 +1,19 @@
 <header class="site header">
-  <nav role="navigation" class="breadcrumbs">
-    <h2 class="site title"><a href="{{ site.baseurl }}/" rel="index"><img src="/images/site_id.png" width="300" height="300" alt="Hideto Ishibashi, Information Architect" class="site id">Hideto<span class="whitespace"> </span>Ishibashi</a></h2>{% for category in page.categories %}/<a href="/{{ category }}">{{ category | capitalize }}</a>{% endfor %}
+  <section class="site title header">
+    <nav role="navigation" class="breadcrumbs container">
+      <h2 class="site title">
+        <a href="{{ site.baseurl }}/" rel="index">
+          <img src="/images/site_id.png" width="300" height="300" alt="Hideto Ishibashi, Information Architect" class="site id"> Hideto Ishibashi
+        </a>
+      </h2>
+      {% for category in page.categories %}
+        / <a href="/{{ category }}">{{ category | capitalize }}</a>
+      {% endfor %}
+    </nav>
+  </section>
+  <section class="site lead header">
+    <div class="lead container">
+      情報建築家 石橋秀仁 (<a href="https://twitter.com/zerobase">@zerobase</a>)
+    </div>
+  </section>
 </header>
