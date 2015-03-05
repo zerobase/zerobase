@@ -7,8 +7,9 @@
     <itunes:subtitle>インフォメーション・アーキテクトのポッドキャスト</itunes:subtitle>
     <link>http://ja.ishibashihideto.net/podcast/</link>
     <language>ja</language>
-    <copyright>2013- Hideto Ishibashi</copyright>
-    <author>石橋秀仁</author>
+    <copyright>2013-{{ 'now' | date: '%Y' }} Hideto Ishibashi</copyright>
+    <author>Hideto Ishibashi</author>
+    <itunes:author>Hideto Ishibashi</itunes:author>
     <description>情報建築家（インフォメーション・アーキテクト）の石橋秀仁が、ゲストを招いてウェブやイノベーションについてトークするポッドキャストです。</description>
     <itunes:owner>
       <itunes:name>Hideto Ishibashi</itunes:name>
@@ -21,7 +22,8 @@
     <item>
       <title>{{ post.title }}</title>
       <itunes:subtitle>{{ post.description }}</itunes:subtitle>
-      <author>石橋秀仁</author>
+      <author>Hideto Ishibashi</author>
+      <itunes:author>Hideto Ishibashi</itunes:author>
       <itunes:image href="http://ja.ishibashihideto.net/images/podcast/ia_podcast_cover.png" />
       <enclosure url="{{ post.mp3 }}" type="audio/mpeg" />
       <guid>{{ post.mp3 }}</guid>
