@@ -19,7 +19,7 @@
   {% if page.previous %}<link rel="prev" href="{{ page.previous.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">{% endif %}
   {% if page.next %}<link rel="next" href="{{ page.next.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">{% endif %}
   <link href="/favicon.png" type="image/png" rel="icon">
-  <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
+  <link href="{{ site.main_feed }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
 
   {% assign next_post_key = page.categories[0] | append: "_next" %}
   {% if page[next_post_key] %}

@@ -1,6 +1,8 @@
 <div class="commands list">
   {% if page.categories contains "podcast" %}
-    <a class="podcast itunes open command" href="{{ site.podcast_itunes_url | escape }}">View in iTunes</a>
+    <a class="command" href="{{ site.podcast_itunes_url | escape }}">View in iTunes</a>
+    <a class="command" href="{{ site.podcast_feed | escape }}">Subscribe the feed</a>
   {% else %}
+    <a class="command" href="{{ site.main_feed | escape }}">Subscribe the feed</a>
   {% endif %}
 </div>
