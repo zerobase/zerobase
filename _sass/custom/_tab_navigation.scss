@@ -2,8 +2,15 @@
   $tab-link-color: $base-font-color;
   $tab-border: 1px solid $base-border-color;
   $tab-inactive-color: $base-background-color;
-  $tab-mode: $medium-screen-up;
   text-align: center;
+
+  @include media($medium-viewport) {
+    font-size: modular-scale(1);
+  }
+
+  @include media($large-viewport) {
+    font-size: modular-scale(1);
+  }
 
   ul {
     @include clearfix;
@@ -14,10 +21,6 @@
     text-align: justify;
     display: inline-block;
     overflow: hidden;
-
-    @include media($tab-mode) {
-      font-size: em(16px);
-    }
 
     li {
       list-style: none;
