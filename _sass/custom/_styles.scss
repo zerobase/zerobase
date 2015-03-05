@@ -21,11 +21,6 @@ main {
   margin: $base-padding 0 0 0;
 }
 
-.site.footer {
-  @extend %border-top;
-  padding: $base-padding;
-}
-
 small,
 .footnote,
 .footnotes {
@@ -47,4 +42,5 @@ small,
 @import "list_index";
 @import "main_article";
 @import "tab_navigation";
+@import "website_footer";
 @import "website_header";

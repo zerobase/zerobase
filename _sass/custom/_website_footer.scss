@@ -1,0 +1,28 @@
+$color: $base-background-color;
+
+.site.footer {
+  padding: $base-padding * 2
+           $base-padding;
+  background-color: $base-main-color;
+  margin-top: $base-spacing;
+  font-size: modular-scale(-1);
+
+  &, a, li {
+    color: $color;
+  }
+
+  a:focus {
+    outline-color: $color;
+  }
+  
+  a:hover,
+  a:focus {
+    color: darken($color, 20);
+  }
+
+  .copyright.container {
+    img {
+      vertical-align: middle;
+    }
+  }
+}
