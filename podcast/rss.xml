@@ -20,7 +20,7 @@
     
     {% for post in site.categories.podcast %}
     <item>
-      <title>{{ post.title }}</title>
+      <title>{{ post.title }} - {{ post.subtitle }}</title>
       <itunes:subtitle>{{ post.description }}</itunes:subtitle>
       <author>Hideto Ishibashi</author>
       <itunes:author>Hideto Ishibashi</itunes:author>
@@ -28,7 +28,13 @@
       <enclosure url="{{ post.mp3 }}" type="audio/mpeg" />
       <guid>{{ post.mp3 }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-      <description><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
+      <description>
+        <![CDATA[
+          <p>Links: <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">the webpage of this episode</a> and <a href="{{ post.mp3 }}">MP3</a></p>
+
+          {{ post.content | expand_urls: site.url | cdata_escape }}
+        ]]>
+      </description>
     </item>
     {% endfor %}
   </channel>
