@@ -14,16 +14,8 @@ title: All
     {% include tab_navigation.html %}
   </header>
   <ul class="post list">
-    <!-- All posts -->
     {% for _post in posts %}
       {% include list_item.html %}
-    {% endfor %}
-    
-    <!-- About pages -->
-    {% for _page in about_pages %}
-      {% if _page.categories == "about" and _page.url != '/about/' %}
-        {% include about_page_list_item.html %}
-      {% endif %}
     {% endfor %}
   </ul>
   {% include commands.html %}
