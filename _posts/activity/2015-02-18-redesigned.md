@@ -54,7 +54,7 @@ description: このささやかなウェブサイトリニューアルプロジ�
 
 <figure>
   <a href="/images/activity/2015-02-18-redesigned/screenshot.png"><img src="/images/activity/2015-02-18-redesigned/screenshot.png" alt="トップページのスクリーンショット"></a>
-  <figcaption>4つのカテゴリを「All」というセグメントで一本のリストにしている。</figcaption>
+  <figcaption>4つのカテゴリを「All」というセグメントで一本のリストにしている。〔註：このスクリーンショット画像は執筆時点で撮影されたものであり、いまご覧になっている最新版のデザインとは異なります〕</figcaption>
 </figure>
 
 リニューアルの目的のうちの一つは、このように「お知らせを一本化すること」でした。簡単に言えば「ブログっぽく」したかったのです。
