@@ -22,6 +22,38 @@ $color: $base-background-color;
     font-size: modular-scale(2);
   }
 
+  .languages.wrapper {
+    padding: $base-padding;
+    text-align: right;
+    background-color: $base-main-color;
+
+    .languages.container {
+      .language,
+      .language * {
+        display: inline;
+
+        &.selected {
+          font-weight: bold;
+        }
+
+        &:not(:last-child):after {
+          content: " | ";
+          font-weight: normal;
+        }
+      }
+
+      font-size: modular-scale(-1);
+
+      @include media($medium-viewport) {
+        font-size: modular-scale(-3);
+      }
+
+      @include media($large-viewport) {
+        font-size: modular-scale(-3);
+      }
+    }
+  }
+
   .breadcrumbs.wrapper {
     padding: $base-padding * 2
              $base-padding;
