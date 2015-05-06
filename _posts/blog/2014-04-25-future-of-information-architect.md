@@ -21,13 +21,13 @@ redirect_from: "/blog/future-of-information-architect/"
 建築家という職業は、人間の生活環境を構想・提案・設計する職業として成立してきました。近代的なデザイン教育の発祥である、バウハウスやウルム造形大学のカリキュラムを見てみましょう。最終目標である「総合芸術としての建築」のためにデザイン教育カリキュラムが組織されています。細分化されたデザイン領域は「建築」として総合されるのです (向井2009)。
 
 <figure>
-  <img alt="中央に BAU と書かれた同心円状の図解" src="/images/blog/2014-04-25-future-of-information-architect/schema_zum_aufbau.jpg">
-  <figcaption>バウハウスの教育カリキュラムの構造図 (<a href="http://bauhaus-online.de/en/atlas/werke/diagram-for-the-structure-of-teaching-at-the-bauhaus" rel="license">Bauhaus Archive / Museum of Design, Berlin</a>)</figcaption>
+  <img alt="中央に「建築」と書かれた同心円状の図解" src="/images/blog/2014-04-25-future-of-information-architect/bauhaus_teaching_structure.jpg">
+  <figcaption>ヴァルター・グロピウスによるヴァイマール・バウハウスの構成図の日本語訳（『バウハウス--芸術教育の革命と実践』展示図録、川崎市市民ミュージアム、1994年、23頁）</figcaption>
 </figure>
 
 <figure>
-  <img alt="中央に「建築」と書かれた同心円状の図解" src="/images/blog/2014-04-25-future-of-information-architect/bauhaus_teaching_structure.jpg">
-  <figcaption><a href="http://www2.rikkyo.ac.jp/web/ryo-k/2007/02_f1.html">川久保亮による日本語訳</a></figcaption>
+  <img alt="中央に BAU と書かれた同心円状の図解" src="/images/blog/2014-04-25-future-of-information-architect/schema_zum_aufbau.jpg">
+  <figcaption>バウハウスの教育カリキュラムの構造図 (<a href="http://bauhaus-online.de/en/atlas/werke/diagram-for-the-structure-of-teaching-at-the-bauhaus" rel="license">Bauhaus Archive / Museum of Design, Berlin</a>)</figcaption>
 </figure>
 
 20世紀を代表する建築家たちの実践も振り返ってみましょう。たとえば、ル・コルビュジエやミース・ファン・デル・ローエやフランク・ロイド・ライト。彼らは建物だけでなく、その中で使われる家具もデザインしました。人間の生活環境を総合的にデザインしたわけです。
