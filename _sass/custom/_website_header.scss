@@ -1,6 +1,7 @@
-$color: $base-background-color;
-
 .site.header {
+  $color: $base-background-color;
+  background-color: $base-main-color;
+
   &, a, li {
     color: $color;
   }
@@ -14,20 +15,28 @@ $color: $base-background-color;
     color: darken($color, 20);
   }
 
-  @include media($medium-viewport) {
-    font-size: modular-scale(2);
-  }
+  .header-upper.container {
+    .vid-block {
+      float: left;
 
-  @include media($large-viewport) {
-    font-size: modular-scale(2);
-  }
+      @include media($medium-viewport) {
+        font-size: modular-scale(2);
+      }
 
-  .languages.wrapper {
-    padding: $base-padding;
-    text-align: right;
-    background-color: $base-main-color;
+      @include media($large-viewport) {
+        font-size: modular-scale(3);
+      }
 
-    .languages.container {
+      .vid {
+        $size: 4.0em;
+        width: $size;
+        height: $size;
+        display: inline;
+        vertical-align: middle;
+      }
+    }
+
+    .languages {
       .language,
       .language * {
         display: inline;
@@ -42,55 +51,38 @@ $color: $base-background-color;
         }
       }
 
+      padding: $base-padding/2 0;
+      text-align: right;
       font-size: modular-scale(-1);
-
-      @include media($medium-viewport) {
-        font-size: modular-scale(-3);
-      }
-
-      @include media($large-viewport) {
-        font-size: modular-scale(-3);
-      }
     }
   }
 
   .breadcrumbs.wrapper {
-    padding: $base-padding * 2
-             $base-padding;
+    padding: $base-padding 0;
     background-color: $base-main-color;
 
     .breadcrumbs.container {
-      .vid {
-        $size: 2.0em;
-        width: $size;
-        height: $size;
-        vertical-align: middle;
-        position: relative;
-        top: -0.05em;
-      }
-
       .title {
         display: inline;
         font-weight: normal;
         font-size: inherit;
       }
+      font-size: modular-scale(4);
+      @include media($medium-viewport) {
+        font-size: modular-scale(7);
+      }
+      @include media($large-viewport) {
+        font-size: modular-scale(9);
+      }
     }
   }
 
   .lead.wrapper {
-    padding: $base-padding;
+    padding: $base-padding 0;
     background-color: $base-font-color;
 
     .lead.container {
-      font-size: modular-scale(-1);
-
-      @include media($medium-viewport) {
-        font-size: modular-scale(-3);
-      }
-
-      @include media($large-viewport) {
-        font-size: modular-scale(-3);
-      }
+      font-size: modular-scale(-4);
     }
   }
 }

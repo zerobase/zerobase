@@ -1,25 +1,28 @@
 <header class="site header">
-  <section class="languages wrapper">
-    <ul class="languages container">
-      <li class="selected language">日本語</li>
-      <li class="language"><a href="http://en.ishibashihideto.net/">English</a></li>
-    </ul>
-  </section>
-  <section class="breadcrumbs wrapper">
+  <div class="header-upper container">
+    <div class="header-upper wrapper">
+      <div class="vid-block">
+        <a href="{{ site.baseurl }}/" rel="index"><img src="/images/site_id.png" width="300" height="300" alt="Hideto Ishibashi, Information Architect" class="vid"></a> <a href="https://twitter.com/zerobase">@zerobase</a>
+      </div>
+      <ul class="languages">
+        <li class="selected language">日本語</li>
+        <li class="language"><a href="http://en.ishibashihideto.net/">English</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="breadcrumbs wrapper">
     <nav role="navigation" class="breadcrumbs container">
       <h2 class="title">
-        <a href="{{ site.baseurl }}/" rel="index">
-          <img src="/images/site_id.png" width="300" height="300" alt="Hideto Ishibashi, Information Architect" class="vid"> Hideto Ishibashi
-        </a>
+        <a href="{{ site.baseurl }}/" rel="index">Hideto Ishibashi</a>
       </h2>
       {% for category in page.categories %}
         / <a href="/{{ category }}">{{ category | capitalize }}</a>
       {% endfor %}
     </nav>
-  </section>
-  <section class="lead wrapper">
+  </div>
+  <div class="lead wrapper">
     <div class="lead container">
-      #リベラル #アイロニスト #リバタリアン #ポストモダニスト #アバンギャルド #アーキテクト #デザイナー
+      リベラル アイロニスト リバタリアン ポストモダニスト アバンギャルド アーキテクト デザイナー
     </div>
-  </section>
+  </div>
 </header>
