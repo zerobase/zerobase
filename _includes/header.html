@@ -1,13 +1,18 @@
 <header class="site header">
   <div class="header-upper container">
     <div class="header-upper wrapper">
+      {% if site.show_vid %}
       <div class="vid-block">
-        <a href="{{ site.baseurl }}/" rel="index"><img src="/images/site_id.png" width="300" height="300" alt="Hideto Ishibashi, Information Architect" class="vid"></a> <a href="https://twitter.com/zerobase">@zerobase</a>
+        <a href="{{ site.baseurl }}/" rel="index"><img src="/images/site_id.png" width="300" height="300" alt="Hideto Ishibashi, Information Architect" class="vid"></a>
+        {% if site.show_header_nickname %}<a href="https://twitter.com/zerobase">@zerobase</a>{% endif %}
       </div>
+      {% endif %}
+      {% if site.show_lang_switcher %}
       <ul class="languages">
         <li class="selected language">日本語</li>
         <li class="language"><a href="http://en.ishibashihideto.net/">English</a></li>
       </ul>
+      {% endif %}
     </div>
   </div>
   <div class="breadcrumbs wrapper">

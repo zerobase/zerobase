@@ -17,6 +17,11 @@ main_feed: http://feeds.feedburner.com/HidetoIshibashi
 podcast_feed: http://feeds.feedburner.com/InformationArchitectsPodcast
 podcast_itunes_url: https://itunes.apple.com/jp/podcast/ia-podcast/id963102127?l=en&mt=2
 
+## Custom settings
+show_vid: false
+show_header_nickname: false
+show_lang_switcher: false
+
 # Build settings
 markdown: kramdown
 highlighter: pygments
