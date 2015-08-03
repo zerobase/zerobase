@@ -50,10 +50,11 @@ main article section.content.body {
   }
   
   iframe {
-    margin: 1em;
+    // margin: $base-spacing 0;
   }
 
   .responsive.embed {
+    margin: $base-spacing 0;
     height: 0;
     overflow: hidden;
     position: relative;
