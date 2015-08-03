@@ -35,4 +35,11 @@
   <meta property="og:locale" content="{{ site.facebook_locale }}">
   <meta property="og:type" content="article">
   <meta property="fb:app_id" content="{{ site.facebook_app_id }}">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@zerobase" />
+  <meta name="twitter:title" content="{% if page.url != "/" %}{% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %}{% endif %}{% else %}{{ site.title }}{% endif %}" />
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | condense_spaces | truncate:150 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="twitter:image" content="{% if page.date %}{{ page.path | replace: '_posts/', '/images/' | replace: '.md', '/thumbnail.png' | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.thumbnail }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}" />
 </head>
