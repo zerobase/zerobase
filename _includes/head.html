@@ -3,6 +3,10 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+  {% capture page_title %}{% if page.url != "/" %}{% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %}{% endif %}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+  {% capture page_image %}{% if page.date %}{{ page.path | replace: '_posts/', '/images/' | replace: '.md', '/thumbnail.png' | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.thumbnail }}{% endif %}{% endcapture %}
+  {% capture page_description %}{% if page.description %}{{ page.description | strip_html | condense_spaces | truncate:150 }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+
   <title>
     {% if page.url != "/" %}{% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %} - {% endif %}{% endif %}{{ site.title }}
   </title>
@@ -28,9 +32,9 @@
     <link rel="next" href="{{ next_post.url }}">
   {% endif %}
   
-  <meta property="og:title" content="{% if page.url != "/" %}{% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %}{% endif %}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:title" content="{{ page_title }}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:image" content="{% if page.date %}{{ page.path | replace: '_posts/', '/images/' | replace: '.md', '/thumbnail.png' | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.thumbnail }}{% endif %}">
+  <meta property="og:image" content="{{ page_image }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:locale" content="{{ site.facebook_locale }}">
   <meta property="og:type" content="article">
@@ -38,8 +42,8 @@
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@zerobase" />
-  <meta name="twitter:title" content="{% if page.url != "/" %}{% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %}{% endif %}{% else %}{{ site.title }}{% endif %}" />
-  <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | condense_spaces | truncate:150 }}{% else %}{{ site.description }}{% endif %}" />
-  <meta name="twitter:image" content="{% if page.date %}{{ page.path | replace: '_posts/', '/images/' | replace: '.md', '/thumbnail.png' | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.thumbnail }}{% endif %}">
+  <meta name="twitter:title" content="{{ page_title }}" />
+  <meta name="twitter:description" content="{{ page_description }}" />
+  <meta name="twitter:image" content="{{ page_image }}">
   <meta property="og:site_name" content="{{ site.title }}" />
 </head>
