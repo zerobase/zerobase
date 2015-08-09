@@ -27,6 +27,7 @@ next_page_url: /about/works.html
 - [サイトリニューアルのお知らせ 思想と手法について](/activity/2015/02/18/redesigned.html)
 - [情報／ITアーキテクトのための「使える！フロリディ情報哲学」](/activity/2013/08/22/luciano-floridi-study-2013-08-20.html)
 - [ユーザー・エクスペリエンスについて考える人に読んで欲しいクリッペンドルフの『意味論的転回−デザインの新しい基礎理論』](/blog/2013/12/03/semantic-turn.html)
+- [建築家の歴史と情報建築家の未来](/blog/2014/04/25/future-of-information-architect.html)
 
 ## 私の手法
 
