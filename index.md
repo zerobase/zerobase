@@ -4,6 +4,9 @@ permalink: /
 thumbnail: /images/about/thumbnail.png
 title: プロフィール
 description: 石橋秀仁はインフォメーション・アーキテクト／デザイナー／プログラマーです。ウェブとイノベーションが好きで、モットーは「思想を実装する」です。
+date: 2015-08-25
+next_page_title: 思想
+next_page_url: /about/philosophy.html
 ---
 
 石橋秀仁は[インフォメーション・アーキテクト](/blog/2014/04/25/future-of-information-architect.html)／[デザイナー](/blog/2013/12/03/semantic-turn.html)／プログラマーです。ウェブとイノベーションが好きで、モットーは「[思想を実装する](/about/philosophy.html)」です。
