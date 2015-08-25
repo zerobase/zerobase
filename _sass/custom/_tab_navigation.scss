@@ -3,8 +3,8 @@
   $tab-border: 1px solid $base-border-color;
   $tab-inactive-color: $base-background-color;
   text-align: center;
-  margin: $base-spacing/2;
-  font-size: modular-scale(2);
+  margin: $base-spacing/5;
+  font-size: modular-scale(5);
 
   ul {
     @include clearfix;
