@@ -81,15 +81,13 @@ main article section.content.body {
   .external.link {
     list-style-type: none;
     padding-left: 0;
-    
+
     li {
-      margin-bottom: 1em;
-      
+      display: inline;
+
       img {
-        width: 2em;
-        height: 2em;
-        vertical-align: middle;
-        margin-right: 0.2em;
+        width: 30%;
+        max-width: 100px;
       }
     }
   }
