@@ -35,6 +35,16 @@ main article section.content.body {
     @extend %default-ol;
   }
 
+  dl {
+    dt {
+      margin: $base-spacing/2 0;
+    }
+
+    dd {
+      margin: $base-spacing/2 0;
+    }
+  }
+
   pre {
     overflow-x: scroll;
   }
