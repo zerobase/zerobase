@@ -19,11 +19,11 @@ next_page_url: /about/philosophy.html
 
 ## 役職
 
-<a href="http://zerobase.jp"><img src="/images/about/2015-01-14-profile/zerobase.png" alt="ゼロベース株式会社のロゴ">{:width="180" height="46"} 
-: ゼロベース株式会社</a>というウェブ開発会社の創業者で、現代表取締役です。
+[![ゼロベース株式会社のロゴ](/images/about/2015-01-14-profile/zerobase.png){:width="180" height="46"}](http://zerobase.jp)
+: [ゼロベース株式会社](http://zerobase.jp)というウェブ開発会社の創業者で、現代表取締役です。
 
-<a href="http://www.gmo-vp.com"><img src="/images/about/2015-01-14-profile/gmovp.jpg" alt="GMO VenturePartners株式会社のロゴ">{:width="400" height="23"}
-: GMO VenturePartners株式会社</a>というベンチャーキャピタルの<a href="/blog/2014/12/01/design-fellow-at-venture-capital.html">デザインフェロー</a>として、ベンチャー企業のサービス開発を手伝っています。
+[![GMO VenturePartners株式会社のロゴ](/images/about/2015-01-14-profile/gmovp.jpg){:width="400" height="23"}](http://www.gmo-vp.com)
+: [GMO VenturePartners株式会社](http://www.gmo-vp.com)というベンチャーキャピタルの<a href="/blog/2014/12/01/design-fellow-at-venture-capital.html">デザインフェロー</a>として、ベンチャー企業のサービス開発を手伝っています。
 
 その他にいくつかの事業の[顧問](/about/advice.html)をしています。
 
