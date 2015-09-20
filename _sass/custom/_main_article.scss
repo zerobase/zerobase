@@ -26,7 +26,7 @@ main article section.content.body {
   h1, h2, h3, h4, h5, h6 {
     margin: $base-spacing 0 $base-spacing/2 0;
   }
-  
+
   ul {
     @extend %default-ul;
   }
@@ -60,7 +60,7 @@ main article section.content.body {
       font-size: smaller;
     }
   }
-  
+
   iframe {
     // margin: $base-spacing 0;
   }
@@ -80,7 +80,7 @@ main article section.content.body {
   }
 
   .responsive.embed.aspect16x9 {
-    
+
     padding-bottom: 56.25%;
   }
 
@@ -109,25 +109,26 @@ main article section.content.body {
 }
 
 main article footer {
-  @extend %border-top;
-  
+  .sharing {
+    margin-top: $base-spacing*2;
+    margin-bottom: $base-spacing;
+
+    .fb-comments {
+      display: block;
+      margin-top: $base-spacing;
+
+      iframe[style],
+      > span {
+          width: 100% !important;
+      }
+    }
+  }
+
   .sequential.link {
     @extend %button;
     .meta.subtitle {
       font-size: modular-scale(-1);
       margin-left: 0.5em;
-    }
-  }
-  
-  .sharing {
-    .fb-comments {
-      display: block;
-      margin-top: $base-spacing;
-      
-      iframe[style],
-      > span {
-          width: 100% !important;
-      }
     }
   }
 }
