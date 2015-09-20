@@ -21,6 +21,7 @@ podcast_itunes_url: https://itunes.apple.com/jp/podcast/ia-podcast/id963102127?l
 show_vid: false
 show_header_nickname: false
 show_lang_switcher: false
+show_facebook_comment: false
 
 # Build settings
 markdown: kramdown
