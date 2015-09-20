@@ -3,7 +3,7 @@ layout: default
 ---
 
 <main class="{{ page.categories }} post">
-  
+
   <article>
 
     <header>
@@ -12,6 +12,12 @@ layout: default
     </header>
 
     <section class="main content body">
+      {% if page.show_description %}
+      <div class="page-description">
+        {{ page.description }}
+      </div>
+      {% endif %}
+      
       {{ content }}
     </section>
 
@@ -20,7 +26,7 @@ layout: default
       {% include sequential_links.html %}
       {% include commands.html %}
     </footer>
-  
+
   </article>
 
 </main>

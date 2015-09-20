@@ -1,9 +1,8 @@
 ---
 title: マネジャーが経営リソースの配分に失敗するのは仕方ない、人間の計画能力は市場ほどにはうまく機能しないのだから
 description: 企業経営においてリソース配分が失敗する理由は、旧ソ連の計画経済が失敗した理由とよく似ています。人間の計画能力には限界があるのです。ならば「市場メカニズム」は有力なオルタナティブでしょう。
+show_description: true
 ---
-
-{% include page_description.html %}
 
 <figure>
   <img alt="" src="/images/blog/2015-06-02-organizations/books.jpg">
