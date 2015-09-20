@@ -25,9 +25,11 @@
       {% endfor %}
     </nav>
   </div>
+  {% if site.lead %}
   <div class="lead wrapper">
     <div class="lead container">
       {{ site.lead }}
     </div>
   </div>
+  {% endif %}
 </header>
