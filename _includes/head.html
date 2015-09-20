@@ -8,12 +8,12 @@
   {% capture page_description %}{% if page.description %}{{ page.description | strip_html | condense_spaces | truncate:150 }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
 
   <title>
-    {% if page.url != "/" %}{% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %} - {% endif %}{% endif %}{{ site.title }}
+    {{ page_title }}
   </title>
-  
+
   <meta name="author" content="{{ site.author }}">
   <link rel="author" href="{{ site.author_link }}">
-  
+
   <meta name="description" content="{% if page.description %}{{ page.description | strip_html | condense_spaces | truncate:150 }}{% else %}{{ site.description }}{% endif %}">
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
 
@@ -31,7 +31,7 @@
     {% assign next_post = page[next_post_key] %}
     <link rel="next" href="{{ next_post.url }}">
   {% endif %}
-  
+
   <meta property="og:title" content="{{ page_title }}">
   <meta property="og:description" content="{{ page_description }}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
