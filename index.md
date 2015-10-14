@@ -39,18 +39,16 @@ next_page_url: /about/philosophy.html
 
 ## アカウント
 
-<ul class="external link">
-  <li><a href="mailto:hidetoi@gmail.com"><img alt="email" src="/images/about/2015-01-14-profile/mail_icon.png"></a></li>
-  <li><a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/about/2015-01-14-profile/Twitter_logo_blue.png"></a></li>
-  <li><a href="https://www.facebook.com/ishibashi.hideto"><img alt="Facebook" src="/images/about/2015-01-14-profile/FB-f-Logo__blue_100.png"></a></li>
-  <li><a href="http://jp.linkedin.com/in/ishibashihideto"><img alt="LinkedIn" src="/images/about/2015-01-14-profile/LinkedIn-InBug-2CRev.png"></a></li>
-  <li><a href="https://github.com/zerobase"><img alt="GitHub" src="/images/about/2015-01-14-profile/GitHub-Mark.png"></a></li>
-  <li><a href="http://qiita.com/zerobase"><img alt="Qiita" src="/images/about/2015-01-14-profile/Qiita.png"></a></li>
-  <li><a href="http://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo-dark100.png"></a></li>
-  <li><a href="http://ishibashi.tumblr.com/"><img alt="Tumblr" src="/images/about/2015-01-14-profile/tumblr_logo_white_blue.png"></a></li>
-  <li><a href="https://plus.google.com/+IshibashiHideto"><img alt="Google+" src="/images/about/2015-01-14-profile/g+icon.png"></a></li>
-  <li><a href="https://appear.in/zerobase"><img alt="appear.in" src="/images/about/2015-01-14-profile/logo-appear.in.png"></a></li>
-</ul>
+- <a href="https://www.facebook.com/ishibashi.hideto"><img alt="Facebook" src="/images/about/2015-01-14-profile/FB-f-Logo__blue_100.png"></a>
+- <a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/about/2015-01-14-profile/Twitter_logo_blue.png"></a>
+- <a href="https://www.linkedin.com/in/ishibashihideto"><img alt="LinkedIn" src="/images/about/2015-01-14-profile/LinkedIn-InBug-2CRev.png"></a>
+- <a href="http://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo-dark100.png"></a>
+- <a href="http://ishibashi.tumblr.com/"><img alt="Tumblr" src="/images/about/2015-01-14-profile/tumblr_logo_white_blue.png"></a>
+- <a href="https://github.com/zerobase"><img alt="GitHub" src="/images/about/2015-01-14-profile/GitHub-Mark.png"></a>
+- <a href="http://qiita.com/zerobase"><img alt="Qiita" src="/images/about/2015-01-14-profile/Qiita.png"></a>
+{:class="external link"}
+
+メール：<mailto:hidetoi@gmail.com>
 
 
 ## このサイトについて
