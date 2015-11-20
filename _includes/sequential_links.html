@@ -1,8 +1,8 @@
 {% if page.next or page.previous %}
-  {% if page.previous %}
-    <a class="sequential link" rel="prev" href="{{ page.previous.url }}">Previous: {{ page.previous.title }}{% if page.previous.subtitle %} <span class="meta subtitle">{{ page.previous.subtitle }}</span>{% endif %}</a>
-  {% endif %}
   {% if page.next %}
     <a class="sequential link" rel="next" href="{{ page.next.url }}">Next: {{ page.next.title }}{% if page.next.subtitle %} <span class="meta subtitle">{{ page.next.subtitle }}</span>{% endif %}</a>
+  {% endif %}
+  {% if page.previous %}
+    <a class="sequential link" rel="prev" href="{{ page.previous.url }}">Previous: {{ page.previous.title }}{% if page.previous.subtitle %} <span class="meta subtitle">{{ page.previous.subtitle }}</span>{% endif %}</a>
   {% endif %}
 {% endif %}
