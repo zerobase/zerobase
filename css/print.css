@@ -13,39 +13,17 @@
   @page {
     margin: 1.5cm;
   }
-  
-  a, a:visited {
-    text-decoration: underline;
-  }
-  
-  a[href]:after {
-    content: " (" attr(href) ")";
-    word-wrap: break-word;
-  }
-  
-  abbr[title]:after {
-    content: " (" attr(title) ")";
-    word-wrap: break-word;
-  }
-  
-  a[href^="#"]:after {
-    content: "";
-  }
 
   pre, blockquote {
     border: 1px solid #999; page-break-inside: avoid;
   }
-  
+
   thead {
     display: table-header-group;
   }
 
   tr, img {
     page-break-inside: avoid;
-  }
-
-  img {
-    max-width: 100% !important;
   }
 
   p, h2, h3 {
