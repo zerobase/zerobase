@@ -1,4 +1,5 @@
 ---
+categories: activity
 title: 「埋蔵金」はあなたの家に埋まってる
 description: ビッグデータ・オープンデータ活用推進協議会 公開シンポジウム
 ---

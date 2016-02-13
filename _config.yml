@@ -43,28 +43,6 @@ defaults:
     values:
       layout: "post"
       categories: "blog"
-  -
-    scope:
-      path: "activity"
-      type: "posts"
-    values:
-      layout: "post"
-      categories: "activity"
-  -
-    scope:
-      path: "podcast"
-      type: "posts"
-    values:
-      layout: "podcast"
-      categories: "podcast"
-  -
-    scope:
-      path: "about"
-      type: "posts"
-    values:
-      layout: "post"
-      categories: "about"
-
 # Twitter
 twitter_user: zerobase
 twitter_tweet_button: true

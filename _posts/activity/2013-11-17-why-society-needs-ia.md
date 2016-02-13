@@ -1,4 +1,5 @@
 ---
+categories: activity
 title: なぜ社会には情報建築家が必要なのか？
 description: DevLOVE現場甲子園というイベントでの講演です。
 redirect_from: "/blog/why-society-needs-ia/"

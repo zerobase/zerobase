@@ -1,4 +1,5 @@
 ---
+categories: activity
 title: 第5回ピクタソンのスポンサーになりました
 description: スポンサー枠でハイパーピクトグラムの宣伝をさせて頂きました。
 ---

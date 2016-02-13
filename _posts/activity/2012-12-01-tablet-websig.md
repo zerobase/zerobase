@@ -1,4 +1,5 @@
 ---
+categories: activity
 title: タブレットが与える影響について考える
 description: 第31回WebSig会議
 ---

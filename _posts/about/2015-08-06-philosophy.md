@@ -1,4 +1,5 @@
 ---
+categories: about
 permalink: /about/philosophy.html
 thumbnail: /images/about/thumbnail.png
 title: 思想と手法

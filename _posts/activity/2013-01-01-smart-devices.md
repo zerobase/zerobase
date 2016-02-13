@@ -1,4 +1,5 @@
 ---
+categories: activity
 title: 2013年のスマートデバイスと，それを取り巻く環境
 description: gihyo.jp WEB+DESIGN STAGE 新春特別企画
 ---
