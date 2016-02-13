@@ -1,4 +1,5 @@
 ---
+categories: blog
 title: ウェブサービス開発の現場におけるデザイナー不要論と5〜10年後の生存戦略
 description: デザイナーの仕事がエンジニアに侵食されつつある現状を示し、生存戦略として「ウェブサービスのアートディレクター」と「フルスタックウェブデザイナー」を例示する。
 redirect_from: "/blog/web-designer-survival/"

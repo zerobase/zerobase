@@ -1,4 +1,5 @@
 ---
+categories: blog
 title: 近未来のカンファレンス・イベントのかたち
 description: カンファレンスのあり方は、受動的に享受するコンテンツから、能動的に参加するアクティビティへとシフトしていくでしょう。
 redirect_from: "/blog/redesign-conference-event/"

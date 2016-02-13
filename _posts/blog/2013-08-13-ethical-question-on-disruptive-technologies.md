@@ -1,4 +1,5 @@
 ---
+categories: blog
 title: 「既存市場を破壊する破壊的イノベーションは倫理的ではない」のか？
 description: 破壊的イノベーションそのものが「悪い」という立場は、既得権の保護と、階級格差の固定化を肯定する立場であり、そちらのほうがよほど非倫理的です。
 redirect_from: "/blog/ethical-question-on-disruptive-technologies/"
