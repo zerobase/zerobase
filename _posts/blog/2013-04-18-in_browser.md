@@ -56,7 +56,7 @@ QxilというQ&Aサイトで、藤原由翼さんが興味深い質問をして�
 
 また、デザイン作業の中間成果物のほとんどは、デジタルデータとして最終成果物に直接組み込まれるわけではありませんし、制作完了後にもメンテされない「ゴミ」になってしまいます。つまり「無駄」が多いのです。 [^waste]
 
-他にはどのような言論があるでしょうか。例えば ["Tips for Designing in the Browser" (Webdesigntuts+)](http://webdesign.[tutsplus.com/articles/workflow/tips-for-designing-in-the-browser/][0]) では、従来型手法の問題点を、次のように指摘しています：
+他にはどのような言論があるでしょうか。例えば ["Tips for Designing in the Browser" (Webdesigntuts+)](http://webdesign.tutsplus.com/articles/tips-for-designing-in-the-browser--webdesign-10340) では、従来型手法の問題点を、次のように指摘しています：
 
 > - Photoshopでのデザインは固定幅ベース
 > - ユーザーエクスペリエンスをデモできない
@@ -88,7 +88,7 @@ HTML5は「二つのウェブ業界」の架け橋になるでしょうか。そ
 
 ## 謝辞 ##
 
-この文章を書くきっかけを与えてくださった藤原さん、この日に「[インブラウザーデザイン勉強会](https://www.[facebook.com/events/369013543216204/)」を企画してくださった「こけむさズ」の石嶋さん、講師のこもりさんに感謝します。
+この文章を書くきっかけを与えてくださった藤原さん、この日に「[インブラウザーデザイン勉強会](https://www.facebook.com/events/369013543216204/376922345758657/)」を企画してくださった「こけむさズ」の石嶋さん、講師のこもりさんに感謝します。
 
 ## 履歴
 
