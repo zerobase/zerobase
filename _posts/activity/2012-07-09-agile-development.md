@@ -204,11 +204,11 @@ redirect_from: "/blog/agile-development/"
 
 図5 HTMLモック（画面表示）：
 
-![図5 HTMLモック（画面表示）](/images/activity/2012-07-09-agile-development/agile_05.jpg)
+![図5 HTMLモック（画面表示）](/images/activity/2012-07-09-agile-development/agile_05.png)
 
 図6 HTMLモック（ソース）：
 
-![図6 HTMLモック（ソース）](/images/activity/2012-07-09-agile-development/agile_06.jpg)
+![図6 HTMLモック（ソース）](/images/activity/2012-07-09-agile-development/agile_06.png)
 
 ### 表層(surface)
 
