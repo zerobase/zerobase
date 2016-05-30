@@ -9,13 +9,13 @@ next_page_title: 思想
 next_page_url: /about/philosophy.html
 ---
 
-石橋秀仁は[インフォメーションアーキテクト][information-architect]／[デザイナー][designer]／[プログラマー][programmer]です。ウェブとイノベーションが好きで、モットーは「[思想を実装する](/about/philosophy.html)」です。
+![Hideto Ishibashi, Information Architect](/images/about/2015-01-14-profile/title_portrait.png){:width="300" height="401" class="top-portrait"}
+
+石橋秀仁は[インフォメーション・アーキテクト][information-architect]です。ウェブとイノベーションに関心があり、「[思想を実装する][philosophy]」をモットーにしています。革新的なコンセプトを作ることから、それをシステムとして社会実装することまで、サービス開発の全工程を指揮します。また、ベンチャーキャピタルで投資先企業の製品開発に助力・助言しています。
+{:class="top-lead"}
 
 [information-architect]: /blog/2014/04/25/future-of-information-architect.html
-[designer]: /blog/2013/12/03/semantic-turn.html
-[programmer]: https://github.com/zerobase
-
-![Hideto ISHIBASHI, Information Architect](/images/about/2015-01-14-profile/title_portrait.png){:width="300" height="401"}
+[philosophy]: /about/philosophy.html
 
 ## 略歴
 

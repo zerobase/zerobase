@@ -1,0 +1,8 @@
+.top-portrait {
+  @media(min-width: $first-breakpoint-value) {
+    max-width: 30%;
+    height: auto;
+    margin-left: 4em;
+    float: right;
+  }
+}

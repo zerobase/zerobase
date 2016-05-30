@@ -14,6 +14,7 @@ body {
 
 .container {
   @include outer-container;
+  padding: 0 1em;
 }
 
 main {
@@ -37,6 +38,7 @@ small,
 }
 
 @import "extends/border-top";
+
 @import "audio";
 @import "commands_list";
 @import "list_index";
@@ -44,3 +46,5 @@ small,
 @import "tab_navigation";
 @import "website_footer";
 @import "website_header";
+
+@import "pages/top";
