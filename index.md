@@ -4,7 +4,6 @@ permalink: /
 thumbnail: /images/about/thumbnail.png
 title: プロフィール
 description: インフォメーション・アーキテクト石橋秀仁はウェブとイノベーションに関心があり、「思想を実装する」をモットーにしています。
-date: 2015-08-25
 next_page_title: 思想
 next_page_url: /about/philosophy.html
 ---
