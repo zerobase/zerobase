@@ -2,8 +2,9 @@
 categories: blog
 title: "建築家の歴史と情報建築家の未来"
 description: 情報建築家（インフォメーション・アーキテクト）は、どこから来て、どこへ向かうのか。建築家の歴史を辿りつつ考えました。
-redirect_from: "/blog/future-of-information-architect/"
-redirect_from: "/future-of-information-architect/"
+redirect_from:
+  - /blog/future-of-information-architect/
+  - /future-of-information-architect/
 ---
 
 ![](/images/blog/2014-04-25-future-of-information-architect/ia-revisited.jpg)  
@@ -57,7 +58,7 @@ redirect_from: "/future-of-information-architect/"
 情報建築家としてのワーマンのキャリアを見てみると、「情報デザイナー」や「編集者」とも言えるような仕事にあふれています。ごく一部を紹介すると、
 
 * 世界中の都市の観光ガイド「Access」シリーズの編集
-* 一冊でアメリカ合衆国の全体像がつかめるようなインフォグラフィックやデータ・ビジュアライゼーション満載の『Understanding』の編集 [^understanding-usa] 
+* 一冊でアメリカ合衆国の全体像がつかめるようなインフォグラフィックやデータ・ビジュアライゼーション満載の『Understanding』の編集 [^understanding-usa]
 * 「広める価値のあるアイデア」 (Ideas worth spreading) のみを厳選して魅力的なプレゼンテーションで伝えるカンファレンス・イベント「TED」のプロデュース
 
 などがワーマンの「作品」です。TEDはNHKの「スーパープレゼンテーション」というテレビ番組にもなりましたので、日本でも広く知られていることかと思います。彼は自分の仕事を「理解のデザイン」だと説明します。情報建築家は「理解のデザイナー」だというのです。たしかに彼の「作品」は物事の理解を助けます。

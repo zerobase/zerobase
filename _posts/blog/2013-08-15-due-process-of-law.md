@@ -3,8 +3,9 @@ categories: blog
 title: アメリカン・ヒーローと司法の適正手続
 subtitle: 日本の警察・検察を疑いの目で監視すべき理由
 description: バットマンは悪人を殺しません。一方、犯人に私刑を与えたダーティーハリーは警察を辞めます。
-redirect_from: "/blog/due-process-of-law/"
-redirect_from: "/due-process-of-law/"
+redirect_from:
+  - /blog/due-process-of-law/
+  - /due-process-of-law/
 ---
 
 ![](/images/blog/2013-08-15-due-process-of-law/batman-and-harry.jpg)
@@ -14,16 +15,16 @@ redirect_from: "/due-process-of-law/"
 [quote_source]: http://d.hatena.ne.jp/tokunoriben/20130813/1376415786
 
 > こういうのってお国柄がでるよね。
-> 
+>
 > 例えばアメコミヒーローは意外なほど法律を重視していて、バットマンやスパイダーマンなんかは基本的に悪人を警察に突き出して司法の手に判断をゆだねるんだけど、
-> 
+>
 > 日本のヒーローはほとんどの場合犯罪者を自分で裁く、すなわち私刑を行うんだよね。
-> 
+>
 > は？　なに？　アーンパンチ？　おまえそれ正義の名を借りたただの暴力だろ。傷害罪で訴えられたら負けるから。
 
 バットマンは私刑の執行を控え、司法に裁きをゆだねます。このような「節度」は、まさしく「お国柄」だと思えます。[**デュー・プロセス・オブ・ロー**（法に基づく適正手続）][due_process]を重んじる「近代国家」アメリカの国民精神に通じます。[^batman]
 
-[due_process]: http://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%AD%E3%83%BC 
+[due_process]: http://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%AD%E3%83%BC
 
 [^batman]: クリストファー・ノーランのバットマン・シリーズについて言及します。バットマンが戦闘相手を積極的に「殺そう」とする描写は記憶していません。バットマンは私人として[現行犯人][In_flagrante_delicto]を逮捕し、警察に引き渡そうとします。
 

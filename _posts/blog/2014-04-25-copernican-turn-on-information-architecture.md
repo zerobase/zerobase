@@ -3,8 +3,9 @@ categories: blog
 title: インフォメーション・アーキテクチャを設計するアプローチのコペルニクス的転回
 subtitle: エコシステムとユーザー・エクスペリエンスの重視へ
 description: インフォメーション・アーキテクチャの設計パラダイムが変わりつつあります。この変化は、サービスデザインというパラダイムとも深く関係しています。
-redirect_from: "/blog/copernican-turn-on-information-architecture/"
-redirect_from: "/copernican-turn-on-information-architecture/"
+redirect_from:
+  - /blog/copernican-turn-on-information-architecture/
+  - /copernican-turn-on-information-architecture/
 ---
 
 ![インフォメーション・アーキテクチャ関連書籍](/images/blog/2014-04-25-copernican-turn-on-information-architecture/ia-books.jpg)
@@ -69,7 +70,7 @@ redirect_from: "/copernican-turn-on-information-architecture/"
 [^Matsui]: 松井道夫氏は第4代松井証券社長。引用した発言は『[自分達にとって一番不利なことを考えろ]』に掲載されたもの。
 
 > 一人一人のお客さまの前には指が無数に立っているんです。どの指に止まろうかな、掴もうかなというのはお客さまの勝手です。お客さまは自分にとってのナンバーワンの指を掴むんです。それは業界のナンバーワンでもなんでもないんです。それを勘違いするなよと。お客さまは掴んだ指を未来永劫離さないなんてことはないんです。気に食わなかったらすぐそれを手離して他の指を掴むというのが当たり前なんです。
-> 
+>
 > お客さまが中心の世の中になった時、一体企業はどういうことをしなければならないのか。。やはり、今までのような20世紀的な発想で物事を考えているのでは駄目です。組織だって変わらなければならない。お客さまが全てを決める。顧客中心主義なんです。（後略）
 
 ユーザーは、自社のサービスだけを使うわけではなく、様々なサービスを併用するでしょう。食べログはGoogle MapsやFacebookと併用されたりするわけです。ですから天動説的・自社中心的な発想ではダメです。地動説的・エコシステム的な考え方が大事になってきます。

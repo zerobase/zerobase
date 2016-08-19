@@ -2,8 +2,9 @@
 categories: blog
 title: ゼロベース流アジャイルウェブ開発術2010年版
 description: 2010年12月22日発売の WEB+DB PRESS Vol.60 へ寄稿した文章を公開します。
-redirect_from: "/blog/agile-development/"
-redirect_from: "/activity/2012/07/09/agile-development.html"
+redirect_from:
+  - /blog/agile-development/
+  - /activity/2012/07/09/agile-development.html
 ---
 
 ![](/images/blog/2012-07-09-agile-development/9784774144603.jpg)  
