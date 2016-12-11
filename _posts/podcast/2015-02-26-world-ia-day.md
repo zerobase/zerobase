@@ -1,10 +1,8 @@
 ---
 categories: podcast
-layout: podcast
 title: World IA Day 2015を終えて
 subtitle: IA Podcast Ep. 25
 description: World IA Day 2015で東京のローカルコーディネーターを務めた山本郁也さんをゲストに迎えました。
-mp3: http://static.ishibashihideto.net/podcast/ia_podcast_025.mp3
 thumbnail: /images/podcast/ia_podcast_cover_300.png
 ---
 
@@ -21,6 +19,7 @@ World IA Day 2015で東京のローカルコーディネーターを務めた山
 - 時を超える「弱さ」の可能性
 - IAについて言論する意味
 
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/283583658&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 ## Transcript
 

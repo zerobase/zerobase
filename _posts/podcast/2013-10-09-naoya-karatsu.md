@@ -1,10 +1,8 @@
 ---
 categories: podcast
-layout: podcast
 title: 唐津直哉氏を迎えて
 subtitle: IA Podcast Ep. 13
 description: プログラミング、型、機械学習、テストなどの話です。
-mp3: http://static.ishibashihideto.net/podcast/ia_podcast_013.mp3
 thumbnail: /images/podcast/ia_podcast_cover_300.png
 ---
 
@@ -19,3 +17,5 @@ thumbnail: /images/podcast/ia_podcast_cover_300.png
 - 「ソフトウェアの世界はバリッド(valid)なデータだけで、クリーンでコスモス（秩序）」だけど日本人は？
 - 機械学習アルゴリズム、日本ではノン・パラメトリック(Genetic Algorithms)、西洋ではパラメトリック([CMA-ES](http://en.wikipedia.org/wiki/CMA-ES))が盛んに研究されている
 - 例に基づくテスト（example-based testing）とプロパティに基づくテスト（property-based testing）
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/283580770&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

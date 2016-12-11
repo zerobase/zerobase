@@ -1,10 +1,8 @@
 ---
 categories: podcast
-layout: podcast
 title: ecotonohaを文化遺産として100年後に伝えるには
 subtitle: IA Podcast Ep. 22
 description: 2014年6月11日に収録したポッドキャスト。仕事や社会についての雑談です。
-mp3: http://static.ishibashihideto.net/podcast/ia_podcast_022.mp3
 thumbnail: /images/podcast/ia_podcast_cover_300.png
 ---
 
@@ -23,6 +21,8 @@ thumbnail: /images/podcast/ia_podcast_cover_300.png
 - エディター／フリージャーナリスト　[モリジュンヤ](https://twitter.com/junyamori)氏
 
 です。
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/283583241&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 ## アウトロ
 

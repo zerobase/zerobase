@@ -1,16 +1,16 @@
 ---
 categories: podcast
-layout: podcast
 title: ITアーキテクト鈴木雄介氏を迎えて
 subtitle: IA Podcast Ep. 23
 description: 2014年6月11日に収録したポッドキャスト。仕事や社会についての雑談です。
-mp3: http://static.ishibashihideto.net/podcast/ia_podcast_023.mp3
 thumbnail: /images/podcast/ia_podcast_cover_300.png
 ---
 
 [グロースエクスパートナーズ株式会社(GxP)](http://www.gxp.co.jp/)のITアーキテクト[鈴木雄介氏](https://twitter.com/yusuke_arclamp)を再びゲストに迎えて、2014年6月11日に新宿で収録しました。前半はレストラン、後半はワインバーでの収録です。全長2時間15分の**雑談**です。
 
 <blockquote class="twitter-tweet" lang="en"><p>某ハマノさんがアイドルに嵌った挙句にプロデュース業を始めるとか、日本の若手批評家にあって重大な損失だと思うのですよ。アーキテクチャの生態系は良い本だったのですが。ヲタでもいいんだけど、なんでもかんでも、その視点というのがなんとかならんか。</p>&mdash; 鈴木雄介/Yusuke SUZUKI (@yusuke_arclamp) <a href="https://twitter.com/yusuke_arclamp/statuses/476571308566659072">June 11, 2014</a></blockquote>
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/283583825&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 ## 1. アジャイル、リーン、新規事業、事業計画 (00:45)
 
