@@ -3,7 +3,7 @@
   $tab-border: 1px solid $base-border-color;
   $tab-inactive-color: $base-background-color;
   text-align: center;
-  margin: $base-spacing/5;
+  margin: 0;
   font-size: modular-scale(5);
 
   ul {
@@ -31,6 +31,7 @@
         .title {
           display: inline;
           font-size: inherit;
+          line-height: inherit;
         }
       }
 
@@ -48,7 +49,15 @@
           font-size: inherit;
         }
       }
-      
+
+      &:first-child {
+        padding-left: 0.7em;
+      }
+
+      &:last-child {
+        padding-right: 0.7em;
+      }
+
       a:hover,
       a:focus {
         color: $base-link-color;

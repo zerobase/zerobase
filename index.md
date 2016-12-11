@@ -2,13 +2,11 @@
 layout: top
 permalink: /
 thumbnail: /images/about/thumbnail.png
-title: プロフィール
+title: 石橋秀仁
 description: インフォメーション・アーキテクト石橋秀仁はウェブとイノベーションに関心があり、「思想を実装する」をモットーにしています。
 next_page_title: 思想
 next_page_url: /about/philosophy.html
 ---
-
-![Hideto Ishibashi, Information Architect](/images/about/2015-01-14-profile/title_portrait.png){:width="300" height="401" class="top-portrait"}
 
 石橋秀仁は[インフォメーション・アーキテクト][information-architect]です。ウェブとイノベーションに関心があり、「[思想を実装する][philosophy]」をモットーにしています。コンセプトを作ることから、それをシステムとして社会実装することまで、サービス開発の全工程を指揮します。また、[ベンチャーキャピタルで投資先企業の製品開発に助力・助言][venture-consulting]しています。
 {:class="top-lead"}

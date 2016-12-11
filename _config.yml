@@ -18,10 +18,17 @@ podcast_feed: http://feeds.feedburner.com/InformationArchitectsPodcast
 podcast_itunes_url: https://itunes.apple.com/jp/podcast/ia-podcast/id963102127?l=en&mt=2
 
 ## Custom settings
-show_vid: false
 show_header_nickname: false
 show_lang_switcher: false
 show_facebook_comment: false
+
+## Category settings
+
+category_labels:
+  blog: 石橋秀仁のブログ
+  activity: 石橋秀仁の活動報告
+  podcast: 石橋秀仁のポッドキャスト
+  about: 石橋秀仁について
 
 # Build settings
 markdown: kramdown

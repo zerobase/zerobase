@@ -1,3 +1,16 @@
 <nav class="tab navigation">
-  <ul class="menu content">{% assign sorted_pages = site.pages | sort: 'order' %}{% for p in sorted_pages %}{% if p.posts %}{% if page.url == p.url %}<li class="is-active"><a href="{{ p.url }}"><h1 class="title">{{ p.title }}</h1></a></li>{% else %}<li><a href="{{ p.url }}">{{ p.title }}</a></li>{% endif %}{% endif %}{% endfor %}</ul>
+  <ul class="menu content">
+    <li>
+      <a href="/blog/">ブログ</a>
+    </li>
+    <li>
+      <a href="/activity/">活動報告</a>
+    </li>
+    <li>
+      <a href="/podcast/">ポッドキャスト</a>
+    </li>
+    <li>
+      <a href="/about/">石橋秀仁について</a>
+    </li>
+  </ul>
 </nav>

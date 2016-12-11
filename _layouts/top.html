@@ -3,17 +3,12 @@ layout: default
 ---
 
 <main class="{{ page.categories }} post">
-  
+
   <header>
     {% include tab_navigation.html %}
   </header>
- 
-  <article>
 
-    <header>
-      <h1 class="page title">{{ page.title }}  <span class="meta subtitle">{{ page.subtitle }}</span></h1>
-      <p class="meta time">{{ page.date | date: "%Y-%m-%d" }}</p>
-    </header>
+  <article>
 
     <section class="main content body">
       {{ content }}
@@ -24,7 +19,7 @@ layout: default
       {% include sequential_links.html %}
       {% include commands.html %}
     </footer>
-  
+
   </article>
 
 </main>

@@ -4,15 +4,12 @@ order: 2
 permalink: /blog/
 posts: true
 categories: blog
-title: Blog
+title: 石橋秀仁のブログ
 ---
 
 {% assign posts = site.categories.blog %}
 
 <main class="list index">
-  <header>
-    {% include tab_navigation.html %}
-  </header>
   <ul class="post list">
     {% for _post in posts %}
       {% include list_item.html %}
