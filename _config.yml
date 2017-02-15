@@ -36,6 +36,9 @@ highlighter: rouge
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-timeago
+jekyll_timeago:
+  depth: 1 # Level of detail
 
 # Blog
 permalink: date # previously: /blog/:categories/:title/
@@ -49,6 +52,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
+      author: "石橋秀仁"
 
 # Twitter
 twitter_user: zerobase
