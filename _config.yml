@@ -1,5 +1,6 @@
 # Build settings
 exclude: [CNAME, Gemfile, Gemfile.lock, LICENSE, LICENSE_FOR_CONTENTS, LICENSE_FOR_SOFTWARE, README.md]
+destination: docs
 
 # Site settings
 title: Hideto Ishibashi
