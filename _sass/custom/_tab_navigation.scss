@@ -1,67 +1,12 @@
-.tab.navigation {
-  $tab-link-color: $base-font-color;
-  $tab-border: 1px solid $base-border-color;
-  $tab-inactive-color: $base-background-color;
+.tab-navigation {
+  font-size: modular-scale(-1);
   text-align: center;
-  margin: 0;
-  font-size: modular-scale(5);
 
   ul {
-    @include clearfix;
-    font-size: em(12px);
-    border: $tab-border;
-    border-radius: $base-border-radius;
-    line-height: 1.2em;
-    text-align: justify;
-    display: inline-block;
-    overflow: hidden;
-
     li {
       list-style: none;
       display: inline-block;
-      padding: 0.5em;
-      min-width: 3em;
-      text-align: center;
-
-      a {
-        background-color: $tab-inactive-color;
-        color: $tab-link-color;
-        text-decoration: none;
-
-        .title {
-          display: inline;
-          font-size: inherit;
-          line-height: inherit;
-        }
-      }
-
-      &.is-active {
-        color: $base-background-color;
-        background-color: $base-font-color;
-
-        a {
-          color: inherit;
-          background-color: inherit;
-        }
-
-        .title {
-          font-weight: normal;
-          font-size: inherit;
-        }
-      }
-
-      &:first-child {
-        padding-left: 0.7em;
-      }
-
-      &:last-child {
-        padding-right: 0.7em;
-      }
-
-      a:hover,
-      a:focus {
-        color: $base-link-color;
-      }
-    } // li
-  } // ul
+      padding-right: 0.3em;
+    }
+  }
 }

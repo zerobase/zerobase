@@ -27,6 +27,27 @@
         {% endcase %}
       </div>
     </nav>
+    <nav class="tab-navigation container">
+      <ul class="tab-navigation-items">
+        <li>
+          <a href="/">Home</a>
+        </li>
+        <li>
+          <a href="/blog/">Blog</a>
+        </li>
+        <li>
+          <a href="/activity/">Activity</a>
+        </li>
+        <li>
+          <a href="/podcast/">Podcast</a>
+        </li>
+        {% if false %}
+        <li>
+          <a href="/about/">About</a>
+        </li>
+        {% endif %}
+      </ul>
+    </nav>
   </div>
   {% if site.lead %}
   <div class="lead wrapper">
