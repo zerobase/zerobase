@@ -88,7 +88,7 @@ main article section.content.body {
     padding-bottom: 75%;
   }
 
-  .external.link {
+  .external-link {
     list-style-type: none;
     padding-left: 0;
 
@@ -96,7 +96,8 @@ main article section.content.body {
       display: inline;
 
       img {
-        max-width: 4em;
+        max-width: 2em;
+        margin-right: 0.5em;
       }
     }
   }
