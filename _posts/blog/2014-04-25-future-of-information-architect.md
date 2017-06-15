@@ -150,9 +150,9 @@ redirect_from:
 参考文献
 -------------
 
-- Resmini, A. (2013), The Architecture of Information, <http://andrearesmini.com/blog/the-architecture-of-information>.
+- Resmini, A. (2013), The Architecture of Information, [andrearesmini.com](http://andrearesmini.com/blog/the-architecture-of-information).
 - Wurman, R. S. and Bradford, P. (1995), Information Architects, Graphis Press, Switzerland, ISBN:3857094583.
-- Wyllys, R. E. (2000), Information Architecture, <https://www.ischool.utexas.edu/~l38613dw/readings/InfoArchitecture.html>.
+- Wyllys, R. E. (2000), Information Architecture, [www.ischool.utexas.edu](https://www.ischool.utexas.edu/~l38613dw/readings/InfoArchitecture.html).
 - 國分 功一郎 (2013), 来るべき民主主義 小平市都道328号線と近代政治哲学の諸問題, 幻冬舎新書, ISBN:4344983165.
 - ル・コルビュジェ (1976), アテネ憲章, 鹿島出版会, ISBN:4306051021.
 - 日本建築学会 (2008), 建築論事典, 彰国社, ISBN:4395100368.
