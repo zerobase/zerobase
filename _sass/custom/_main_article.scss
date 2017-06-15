@@ -112,6 +112,15 @@ main article footer {
   .sharing {
     margin-top: $base-spacing*2;
     margin-bottom: $base-spacing;
+    vertical-align: top;
+
+    .twitter-share-button {
+      vertical-align: top;
+    }
+
+    .fb_iframe_widget_fluid {
+      display: inline-block !important;
+    }
 
     .fb-comments {
       display: block;
