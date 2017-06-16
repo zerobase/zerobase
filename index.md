@@ -36,11 +36,11 @@ next_page_url: /about/philosophy.html
 : [ゼロベース株式会社][zerobase]というウェブ開発会社を経営しています。
 
 [![GMO VenturePartners株式会社のロゴ](/images/about/2015-01-14-profile/gmovp.jpg){:width="400" height="23"}][gmo-vp]
-: [GMO VenturePartners株式会社][gmo-vp]というベンチャーキャピタルの[デザインフェロー][design-fellow]として、ベンチャー企業のサービス開発を手伝っています。
+: [GMO VenturePartners株式会社][gmo-vp]というベンチャーキャピタルの[デザインフェロー][design-fellow]として、ベンチャー企業のサービス開発を手伝っています。（ご参考：(1) [ベンチャーキャピタルのデザインフェローという素晴らしい仕事](/blog/2014/12/01/design-fellow-at-venture-capital.html)、(2) [アーキテクトが起業家やベンチャー企業のためにできること](/blog/2015/08/03/consulting-for-startups.html)）
 
-その他にいくつかの事業の[アドバイザー（顧問）][advisory]をしています。
+その他の企業の[顧問][advisory]もしています。
 
-[zerobase]: http://zerobase.jp/
+[zerobase]: https://www.zerobase.jp/
 [gmo-vp]: http://www.gmo-vp.com/
 [design-fellow]: /blog/2014/12/01/design-fellow-at-venture-capital.html
 [advisory]: /about/advice.html
@@ -48,14 +48,22 @@ next_page_url: /about/philosophy.html
 
 ## プロジェクト
 
+ウィキペディア日本語版「ユーザーエクスペリエンス」記事執筆
+: 「ユーザーエクスペリエンス」という言葉は広まりつつありますが、それについての人々の理解が深まっているとは言えません。手軽にアクセスできるウィキペディア日本語版に良質な記事があれば良いのですが、残念ながらそうではありませんでした。そこで新たに記事を書きおろすことにしました。（[執筆趣意書][wikipedia-ux]）
+
+起業家のメンタルヘルス
+: 経済成長を担うとして期待される起業家たちが、一方では過剰なストレスにより心身の健康を損ね、ときに深刻な状態に陥ることもあるということは、あまり知られていません。その実態を明らかにし、広く知らしめるために、ゼロベース株式会社で[起業家のメンタルヘルス調査][startup-mental-health]を実施しました。
+
 セルフマネジメントテクノロジーZa
 : 私が経営するゼロベース株式会社は、2008年から[セルフマネジメントテクノロジーZa][za]によって運営されてきました。Zaは全従業員をプロフェッショナルな黒字社員にするためのテクノロジーです。このテクノロジーを広めたいと思っています。
 
 ゼロベースサロン
-: 「ITについて深く考えたい人たちのコミュニティ」を作りたいと思い、[ゼロベースサロン][salon]を作りました。「不勉強会」という、読書会や哲学カフェのようなイベントを開いています。
+: 「ITについて深く考えたい人たちのコミュニティ」を作りたいと思い、[ゼロベースサロン][salon]を作りました。ふだんの仕事で関わっている目の前の課題から、少し距離をとって物事を考えてみたい（つまり、大きな視野、抽象的なレベルで。いわゆる知的な思考）、という方に参加して頂ければと思っています。とはいえ、決して堅苦しくない、ふまじめな会です。
 
-[za]: http://www.zerobase.jp/za/
-[salon]: http://www.zerobase.jp/salon/
+[wikipedia-ux]: https://docs.google.com/document/d/17fHYU5cr1bnfsoPkhFOWIqZd8gPyB4aFsuj_cmtMa0g/edit?usp=sharing
+[startup-mental-health]: https://www.zerobase.jp/2017/02/20/startup-mental-research.html
+[za]: https://www.zerobase.jp/za/
+[salon]: https://www.zerobase.jp/salon/
 
 
 ## このサイトについて
