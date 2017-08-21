@@ -37,8 +37,8 @@ next_page_url: /about/philosophy.html
 : [ゼロベース株式会社][zerobase]というウェブ開発会社を経営しています。
 
 [![GMO VenturePartners株式会社のロゴ](/images/about/2015-01-14-profile/gmovp.jpg){:width="400" height="23"}][gmo-vp]
-: [GMO VenturePartners株式会社][gmo-vp]というベンチャーキャピタルの[デザインフェロー][design-fellow]として、ベンチャー企業のサービス開発を手伝っています。（ご参考：(1) [ベンチャーキャピタルのデザインフェローという素晴らしい仕事](/blog/2014/12/01/design-fellow-at-venture-capital.html)、(2) [アーキテクトが起業家やベンチャー企業のためにできること](/blog/2015/08/03/consulting-for-startups.html)）
-
+: [GMO VenturePartners株式会社][gmo-vp]というベンチャーキャピタルの[デザインフェロー][design-fellow]として、ベンチャー企業のサービス開発を手伝っています。
+  
 その他の企業の[顧問][advisory]もしています。
 
 [zerobase]: https://www.zerobase.jp/
@@ -53,7 +53,7 @@ next_page_url: /about/philosophy.html
 : 「ユーザーエクスペリエンス」という言葉は広まりつつありますが、それについての人々の理解が深まっているとは言えません。手軽にアクセスできるウィキペディア日本語版に良質な記事があれば良いのですが、残念ながらそうではありませんでした。そこで新たに記事を書きおろすことにしました。（[執筆趣意書][wikipedia-ux]）
 
 起業家のメンタルヘルス
-: 経済成長を担うとして期待される起業家たちが、一方では過剰なストレスにより心身の健康を損ね、ときに深刻な状態に陥ることもあるということは、あまり知られていません。その実態を明らかにし、広く知らしめるために、ゼロベース株式会社で[起業家のメンタルヘルス調査][startup-mental-health]を実施しました。
+: 経済成長を担うとして期待される起業家たちが、一方では過剰なストレスにより心身の健康を損ね、ときに深刻な状態に陥ることもあるということは、あまり知られていません。その実態を明らかにし、広く知らしめるために、ゼロベース株式会社で[起業家のメンタルヘルス調査を実施しました][startup-mental-health]。
 
 セルフマネジメントテクノロジーZa
 : 私が経営するゼロベース株式会社は、2008年から[セルフマネジメントテクノロジーZa][za]によって運営されてきました。Zaは全従業員をプロフェッショナルな黒字社員にするためのテクノロジーです。このテクノロジーを広めたいと思っています。
@@ -62,7 +62,7 @@ next_page_url: /about/philosophy.html
 : 「ITについて深く考えたい人たちのコミュニティ」を作りたいと思い、[ゼロベースサロン][salon]を作りました。ふだんの仕事で関わっている目の前の課題から、少し距離をとって物事を考えてみたい（つまり、大きな視野、抽象的なレベルで。いわゆる知的な思考）、という方に参加して頂ければと思っています。とはいえ、決して堅苦しくない、ふまじめな会です。
 
 [wikipedia-ux]: https://docs.google.com/document/d/17fHYU5cr1bnfsoPkhFOWIqZd8gPyB4aFsuj_cmtMa0g/edit?usp=sharing
-[startup-mental-health]: https://www.zerobase.jp/2017/02/20/startup-mental-research.html
+[startup-mental-health]: https://medium.com/@zerobase/%E8%B5%B7%E6%A5%AD%E5%AE%B6%E3%81%AE%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-%E3%81%AE%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6-fff14c69408b
 [za]: https://www.zerobase.jp/za/
 [salon]: https://www.zerobase.jp/salon/
 
