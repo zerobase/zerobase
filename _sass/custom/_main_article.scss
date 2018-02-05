@@ -93,11 +93,28 @@ main article section.content.body {
     padding-left: 0;
 
     li {
-      display: inline;
-
+      display: inline-block;
+      text-align: center;
+      line-height: 1.0;
+      font-size: modular-scale(-6);
       img {
-        max-width: 2.5em;
-        margin: 0.5em;
+        width: 4em;
+        margin: 2px;
+      }
+
+      @include media($medium-viewport) {
+        font-size: modular-scale(-4);
+        img {
+          width: 5em;
+          margin: 4px;
+        }
+      }
+      @include media($large-viewport) {
+        font-size: modular-scale(-2);
+        img {
+          width: 5em;
+          margin: 4px;
+        }
       }
     }
   }
