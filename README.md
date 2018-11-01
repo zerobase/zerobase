@@ -6,13 +6,25 @@ ja.ishibashihideto.net
 Installation
 ------------
 
-`bundle install`
+```console
+$ bundle install
+```
 
 Usage
 -----
 
 ```console
-bundle exec jekyll serve
+$ bundle exec jekyll serve
+```
+
+Deployment (Firebase)
+---------------------
+
+Use [firebase-tools](https://github.com/firebase/firebase-tools).
+
+```console
+$ firebase login
+$ firebase deploy
 ```
 
 Dependency

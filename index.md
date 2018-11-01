@@ -17,7 +17,7 @@ next_page_url: /about/philosophy.html
 
 - <a href="http://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo.png"><br>Medium</a>
 - <a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/about/2015-01-14-profile/Twitter_logo_blue.png"><br>Twitter</a>
-- <a href="https://www.instagram.com/hideto.ishibashi/"><img alt="Instagram" src="/images/about/2015-01-14-profile/IG_Glyph_Fill.png"><br>Instagram</a>
+- <a href="https://www.instagram.com/zerobase000/"><img alt="Instagram" src="/images/about/2015-01-14-profile/IG_Glyph_Fill.png"><br>Instagram</a>
 - <a href="https://www.facebook.com/ishibashi.hideto"><img alt="Facebook" src="/images/about/2015-01-14-profile/FB-f-Logo__blue_100.png"><br>Facebook</a>
 - <a href="https://www.linkedin.com/in/ishibashihideto"><img alt="LinkedIn" src="/images/about/2015-01-14-profile/LinkedIn-InBug-2CRev.png"><br>LinkedIn</a>
 - <a href="https://github.com/zerobase"><img alt="GitHub" src="/images/about/2015-01-14-profile/GitHub-Mark.png"><br>GitHub</a>
