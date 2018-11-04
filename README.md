@@ -17,12 +17,15 @@ Usage
 $ bundle exec jekyll serve
 ```
 
+注意: 書き出されたファイル中のURLがlocalhostになっているので、そのままデプロイしてはいけない。
+
 Deployment (Firebase)
 ---------------------
 
 Use [firebase-tools](https://github.com/firebase/firebase-tools).
 
 ```console
+$ bundle exec jekyll build
 $ firebase login
 $ firebase deploy
 ```
