@@ -14,15 +14,16 @@ Usage
 -----
 
 ```console
-$ bundle exec jekyll serve
+$ bundle exec jekyll serve -w
 ```
 
+CAUTION: You shouldn't deploy generated files since URLs in them are 'localhost.'
 注意: 書き出されたファイル中のURLがlocalhostになっているので、そのままデプロイしてはいけない。
 
 Deployment (Firebase)
 ---------------------
 
-Use [firebase-tools](https://github.com/firebase/firebase-tools).
+First, `npm install` to use [firebase-tools](https://github.com/firebase/firebase-tools). Then,
 
 ```console
 $ bundle exec jekyll build
