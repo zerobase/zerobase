@@ -1,3 +1,6 @@
 .sass-cache
 .firebase
 public
+vendor/bundle
+.DS_Store
+node_modules
