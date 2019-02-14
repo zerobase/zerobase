@@ -65,6 +65,10 @@ main article section.content.body {
     // margin: $base-spacing 0;
   }
 
+  img {
+    margin: $base-spacing 0;
+  }
+
   .responsive.embed {
     margin: $base-spacing 0;
     height: 0;
@@ -91,6 +95,7 @@ main article section.content.body {
   .external-link {
     list-style-type: none;
     padding-left: 0;
+    margin: $base-spacing 0;
 
     li {
       display: inline-block;
