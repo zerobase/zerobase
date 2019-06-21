@@ -8,13 +8,24 @@ next_page_title: 思想
 next_page_url: /about/philosophy.html
 ---
 
-# プロフィール
+# カジュアル・プロフィール
 
-好きな服を着て美術展を廻り本を読み旅する自由人。前衛。「[思想を実装する][philosophy]」[情報アーキテクト][information-architect]。インターネットサービス開発の専門家。
-2004年に[ゼロベース株式会社][zerobase]を創業。2008年から[セルフマネジメントテクノロジー Za][za]による自由主義的な働き方改革を推進。
-2004年に[GMO VenturePartners株式会社][gmo-vp]の[デザインフェロー][design-fellow]に就任し、[スタートアップのコンサルティング][venture-consulting]を開始。
-近年は[起業家メンタルヘルス調査][startup-mental-health](2017年)、[ウィキペディア日本語版「ユーザーエクスペリエンス」記事執筆][wikipedia-ux](2017年)などで社会貢献。
-[ゼロベースサロン][salon]主宰。
+前衛[インフォメーションアーキテクト][information-architect]。インターネットサービス開発者。[思想を実装する](philosophy)自由人。全員が黒字社員の[ゼロベース株式会社][zerobase]を[経営してない][za]。ベンチャーキャピタル[GMO VenturePartners 株式会社][gmo-vp]の[デザインフェロー][design-fellow]。[起業家メンタルヘルス調査(2017)][startup-mental-health]。[ウィキペディア「ユーザーエクスペリエンス」記事執筆(2017)][wikipedia-ux]。[ゼロベースサロン主宰(2012-)][salon]。
+
+# オフィシャル・プロフィール
+
+石橋秀仁（いしばしひでと） / Hideto Ishibashi (Hide Ishi)  
+ゼロベース株式会社 代表取締役／アーキテクト  
+GMO VenturePartners 株式会社 デザインフェロー
+
+久留米高専卒業後、インターネットサービス企業のプログラマーを経て、2004年にゼロベース株式会社を創業。同年ベンチャーキャピタルGMO VenturePartners 株式会社のデザインフェローとしてスタートアップのコンサルティングを開始。
+
+インフォメーション・アーキテクトとして、企業経営のパラダイム転換(2008-)、起業家メンタルヘルス調査(2017)、ウィキペディア日本語版「ユーザーエクスペリエンス」記事執筆(2017)、知的サロン主宰(2012-)などに取り組んでいる。
+
+[![ゼロベース株式会社のロゴ](/images/about/2015-01-14-profile/zerobase.png){:width="180" height="46"}][zerobase]
+
+[![GMO VenturePartners株式会社のロゴ](/images/about/2015-01-14-profile/gmovp.jpg){:width="400" height="23"}][gmo-vp]
+
 
 - <a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/about/2015-01-14-profile/Twitter_logo_blue.png"><br>Twitter</a>
 - <a href="http://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo.png"><br>Medium</a>
@@ -24,10 +35,6 @@ next_page_url: /about/philosophy.html
 - <a href="https://www.linkedin.com/in/ishibashihideto"><img alt="LinkedIn" src="/images/about/2015-01-14-profile/LinkedIn-InBug-2CRev.png"><br>LinkedIn</a>
 - <a href="mailto:hidetoi@gmail.com"><img alt="email" src="/images/about/2015-01-14-profile/mail_icon.png"><br>email</a>
 {:class="external-link"}
-
-[![ゼロベース株式会社のロゴ](/images/about/2015-01-14-profile/zerobase.png){:width="180" height="46"}][zerobase]
-
-[![GMO VenturePartners株式会社のロゴ](/images/about/2015-01-14-profile/gmovp.jpg){:width="400" height="23"}][gmo-vp]
 
 
 ## プロジェクト
@@ -39,7 +46,7 @@ next_page_url: /about/philosophy.html
 : 「ユーザーエクスペリエンス」という言葉は広まりつつありますが、それについての人々の理解が深まっているとは言えません。手軽にアクセスできるウィキペディア日本語版に良質な記事があれば良いのですが、残念ながらそうではありませんでした。そこで新たにテキストを[書き下ろしました][wikipedia-ux]。
 
 働き方改革: セルフマネジメントテクノロジー Za
-: 私が経営するゼロベース株式会社は、2008年から[セルフマネジメントテクノロジーZa][za]によって運営されています。社員をほとんどまったく管理せず、自己管理=自営によって会社が回る仕組みです。徹底的に自由な働き方が実現しています。この知見を社会に広めます。
+: 私が経営するゼロベース株式会社は、2008年から[セルフマネジメントテクノロジーZa][za]によって運営されています。社員をほとんどまったく管理せず、自営（自己経営）によって会社が回る仕組みです。徹底的に自由な働き方が実現しています。この知見を社会に広めます。
 
 ゼロベースサロン
 : 「ITについて深く考えたい人たちのコミュニティ」を作りたいと思い、[ゼロベースサロン][salon]を作りました。ふだんの仕事で関わっている目の前の課題から、少し距離をとって物事を考えてみたい（つまり、大きな視野、抽象的なレベルで。いわゆる知的な思考）、という方に参加して頂ければと思っています。とはいえ、決して堅苦しくない、ふまじめな会です。
