@@ -8,24 +8,18 @@ next_page_title: 思想
 next_page_url: /about/philosophy.html
 ---
 
-# カジュアル・プロフィール
+# プロフィール
 
-前衛[インフォメーションアーキテクト][information-architect]。インターネットサービス開発者。[思想を実装する](philosophy)自由人。全員が黒字社員の[ゼロベース株式会社][zerobase]を[経営してない][za]。ベンチャーキャピタル[GMO VenturePartners 株式会社][gmo-vp]の[デザインフェロー][design-fellow]。[起業家メンタルヘルス調査(2017)][startup-mental-health]。[ウィキペディア「ユーザーエクスペリエンス」記事執筆(2017)][wikipedia-ux]。[ゼロベースサロン主宰(2012-)][salon]。
+石橋秀仁（いしばしひでと）  
+Hideto Ishibashi (Hide Ishi)
+{:style="font-size:larger;"}
 
-# オフィシャル・プロフィール
+[ゼロベース株式会社][zerobase] 代表取締役／アーキテクト  
+[GMO VenturePartners 株式会社][gmo-vp] デザインフェロー
 
-石橋秀仁（いしばしひでと） / Hideto Ishibashi (Hide Ishi)  
-ゼロベース株式会社 代表取締役／アーキテクト  
-GMO VenturePartners 株式会社 デザインフェロー
+久留米高専卒業後、インターネットサービス企業のプログラマーを経て、2004年に[ゼロベース株式会社][zerobase]を創業。同年ベンチャーキャピタル[GMO VenturePartners 株式会社][gmo-vp]の[デザインフェロー][design-fellow]としてスタートアップのコンサルティングを開始。
 
-久留米高専卒業後、インターネットサービス企業のプログラマーを経て、2004年にゼロベース株式会社を創業。同年ベンチャーキャピタルGMO VenturePartners 株式会社のデザインフェローとしてスタートアップのコンサルティングを開始。
-
-インフォメーション・アーキテクトとして、企業経営のパラダイム転換(2008-)、起業家メンタルヘルス調査(2017)、ウィキペディア日本語版「ユーザーエクスペリエンス」記事執筆(2017)、知的サロン主宰(2012-)などに取り組んでいる。
-
-[![ゼロベース株式会社のロゴ](/images/about/2015-01-14-profile/zerobase.png){:width="180" height="46"}][zerobase]
-
-[![GMO VenturePartners株式会社のロゴ](/images/about/2015-01-14-profile/gmovp.jpg){:width="400" height="23"}][gmo-vp]
-
+[インフォメーション・アーキテクト][information-architect]として、[セルフマネジメントテクノロジーZa(2008-)][za]、[起業家メンタルヘルス調査(2017)][startup-mental-health]、[ウィキペディア日本語版「ユーザーエクスペリエンス」記事執筆(2017)][wikipedia-ux]、[知的サロン主宰(2012-)][salon]などに取り組んでいる。モットーは「[思想を実装する](philosophy)」。
 
 - <a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/about/2015-01-14-profile/Twitter_logo_blue.png"><br>Twitter</a>
 - <a href="http://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo.png"><br>Medium</a>
@@ -36,6 +30,8 @@ GMO VenturePartners 株式会社 デザインフェロー
 - <a href="mailto:hidetoi@gmail.com"><img alt="email" src="/images/about/2015-01-14-profile/mail_icon.png"><br>email</a>
 {:class="external-link"}
 
+- [過去の仕事](/about/works.html)
+- [顧問サービス](/about/advice.html)
 
 ## プロジェクト
 
@@ -54,7 +50,7 @@ GMO VenturePartners 株式会社 デザインフェロー
 
 ## このサイトについて
 
-[サイトリニューアルの思想と手法 コンテンツファースト、モバイルファースト、スタティックサイト][site-renewal]という文章で、このサイトの設計思想と設計手法について説明しています。また、このサイトのソースを[GitHub][my-github]で公開しています。
+[サイトリニューアルの思想と手法 コンテンツファースト、モバイルファースト、スタティックサイト][site-renewal]という文章で、このサイトの設計思想と設計手法について説明しています。また、このサイトのソースコードを[GitHub][my-github]で公開しています。
 
 [site-renewal]: /blog/2015/02/18/redesigned.html
 [my-github]: https://github.com/zerobase/zerobase.github.io
