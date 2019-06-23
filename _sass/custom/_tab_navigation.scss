@@ -7,6 +7,10 @@
       list-style: none;
       display: inline-block;
       padding-right: 0.3em;
+
+      &.active {
+        font-weight: bold;
+      }
     }
   }
 }

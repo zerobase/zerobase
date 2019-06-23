@@ -3,9 +3,9 @@ exclude: [CNAME, Gemfile, Gemfile.lock, LICENSE, LICENSE_FOR_CONTENTS, LICENSE_F
 destination: public
 
 # Site settings
-title: Hideto Ishibashi
+title: 石橋秀仁
 #lead: "an information architect"
-author: Hideto Ishibashi
+author: 石橋秀仁
 author_link: https://plus.google.com/+IshibashiHideto/
 thumbnail: http://ja.ishibashihideto.net/images/thumbnail.png
 email: hidetoi@gmail.com
@@ -22,14 +22,6 @@ podcast_itunes_url: https://itunes.apple.com/jp/podcast/ia-podcast/id963102127?l
 show_header_nickname: false
 show_lang_switcher: false
 show_facebook_comment: false
-
-## Category settings
-
-category_labels:
-  blog: 石橋秀仁のブログ
-  activity: 石橋秀仁の活動報告
-  podcast: 石橋秀仁のポッドキャスト
-  about: 石橋秀仁について
 
 # Build settings
 markdown: kramdown
@@ -54,6 +46,21 @@ defaults:
     values:
       layout: "post"
       author: "石橋秀仁"
+  -
+    scope:
+      path: "blog" # an empty string here means all files in the project
+    values:
+      categories: "blog"
+  -
+    scope:
+      path: "activity" # an empty string here means all files in the project
+    values:
+      categories: "activity"
+  -
+    scope:
+      path: "podcast" # an empty string here means all files in the project
+    values:
+      categories: "podcast"
 
 # Twitter
 twitter_user: zerobase

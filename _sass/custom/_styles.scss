@@ -20,6 +20,9 @@ body {
 main {
   padding: $base-padding;
   margin: $base-padding 0 0 0;
+  h1, h2, h3, h4, h5, h6 {
+    margin: $base-spacing/2 0 $base-spacing/2 0;
+  }
 }
 
 small,
@@ -46,5 +49,3 @@ small,
 @import "tab_navigation";
 @import "website_footer";
 @import "website_header";
-
-@import "pages/top";

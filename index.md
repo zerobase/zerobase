@@ -3,12 +3,8 @@ layout: top
 permalink: /
 thumbnail: /images/about/thumbnail.png
 title: 石橋秀仁
-description: インフォメーション・アーキテクト石橋秀仁はウェブとイノベーションに関心があり、「思想を実装する」をモットーにしています。
-next_page_title: 思想
-next_page_url: /about/philosophy.html
+description: インフォメーション・アーキテクト石橋秀仁のウェブサイト。
 ---
-
-# プロフィール
 
 石橋秀仁（いしばしひでと）  
 Hideto Ishibashi (Hide Ishi)
@@ -19,7 +15,7 @@ Hideto Ishibashi (Hide Ishi)
 
 久留米高専卒業後、インターネットサービス企業のプログラマーを経て、2004年に[ゼロベース株式会社][zerobase]を創業。同年ベンチャーキャピタル[GMO VenturePartners 株式会社][gmo-vp]の[デザインフェロー][design-fellow]としてスタートアップのコンサルティングを開始。
 
-[インフォメーション・アーキテクト][information-architect]として、[セルフマネジメントテクノロジーZa(2008-)][za]、[起業家メンタルヘルス調査(2017)][startup-mental-health]、[ウィキペディア日本語版「ユーザーエクスペリエンス」記事執筆(2017)][wikipedia-ux]、[知的サロン主宰(2012-)][salon]などに取り組んでいる。モットーは「[思想を実装する](philosophy)」。
+[インフォメーション・アーキテクト][information-architect]として、[セルフマネジメントテクノロジーZa(2008-)][za]、[起業家メンタルヘルス調査(2017)][startup-mental-health]、[ウィキペディア日本語版「ユーザーエクスペリエンス」記事執筆(2017)][wikipedia-ux]、[知的サロン主宰(2012-)][salon]などに取り組んでいる。モットーは「[思想を実装する][philosophy]」。
 
 - <a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/about/2015-01-14-profile/Twitter_logo_blue.png"><br>Twitter</a>
 - <a href="http://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo.png"><br>Medium</a>

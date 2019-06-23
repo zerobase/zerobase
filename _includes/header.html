@@ -13,39 +13,23 @@
     <nav class="breadcrumbs container">
       <div class="title">
         <a href="{{ site.baseurl }}/" rel="index"><img alt="" src="/images/site_id.png" class="vid"></a>
-        {% case page.layout %}
-          {% when 'top' %}
-            <h1>石橋秀仁</h1>
-          {% when 'post' %}
-            {% assign category = page.categories.first %}
-            <a href="{{ site.baseurl }}/{{ category }}/">{{ site.category_labels[category] }}</a>
-          {% when 'podcast' %}
-            {% assign category = page.categories.first %}
-            <a href="{{ site.baseurl }}/{{ category }}/">{{ site.category_labels[category] }}</a>
-          {% else %}
-            <h1>{{ site.category_labels[page.categories] }}</h1>
-        {% endcase %}
+        <a href="/"><h1>石橋秀仁</h1></a>
       </div>
     </nav>
     <nav class="tab-navigation container">
       <ul class="tab-navigation-items">
-        <li>
-          <a href="/">Home</a>
+        <li {% if page.url == '/' %}class="active"{% endif %}>
+          <a href="/">ホーム</a>
         </li>
-        <li>
-          <a href="/blog/">Blog</a>
+        <li {% if page.url contains '/blog/' %}class="active"{% endif %}>
+          <a href="/blog/">ブログ</a>
         </li>
-        <li>
-          <a href="/activity/">Activity</a>
+        <li {% if page.url contains '/activity/' %}class="active"{% endif %}>
+          <a href="/activity/">活動</a>
         </li>
-        <li>
-          <a href="/podcast/">Podcast</a>
+        <li {% if page.url contains '/podcast/' %}class="active"{% endif %}>
+          <a href="/podcast/">ポッドキャスト</a>
         </li>
-        {% if false %}
-        <li>
-          <a href="/about/">About</a>
-        </li>
-        {% endif %}
       </ul>
     </nav>
   </div>

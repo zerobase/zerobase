@@ -1,6 +1,4 @@
 main article header {
-  margin-top: $base-spacing;
-
   .meta.subtitle {
     font-size: modular-scale(-1);
     margin-left: $base-padding;
@@ -15,16 +13,12 @@ main article header {
 
 main article section.content.body {
   margin-top: $base-spacing;
-
+  
   .page-description {
     margin: $base-spacing / 2;
     padding: $base-spacing / 2;
     color: $base-background-color;
     background-color: $base-main-color;
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    margin: $base-spacing 0 $base-spacing/2 0;
   }
 
   ul {
@@ -106,21 +100,6 @@ main article section.content.body {
         width: 4em;
         margin: 2px;
       }
-
-      @include media($medium-viewport) {
-        font-size: modular-scale(-4);
-        img {
-          width: 5em;
-          margin: 4px;
-        }
-      }
-      @include media($large-viewport) {
-        font-size: modular-scale(-2);
-        img {
-          width: 5em;
-          margin: 4px;
-        }
-      }
     }
   }
 
@@ -133,8 +112,6 @@ main article section.content.body {
 main article header,
 main article footer {
   .sharing {
-    margin-top: $base-spacing*2;
-    margin-bottom: $base-spacing;
     vertical-align: top;
 
     .twitter-share-button {
@@ -162,5 +139,12 @@ main article footer {
       font-size: modular-scale(-1);
       margin-left: 0.5em;
     }
+  }
+}
+
+main article footer {
+  .sharing {
+    margin-top: $base-spacing*2;
+    margin-bottom: $base-spacing;
   }
 }
