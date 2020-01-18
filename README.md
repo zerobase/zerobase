@@ -14,7 +14,7 @@ Usage
 -----
 
 ```console
-$ bundle exec jekyll serve -w
+$ bundle exec jekyll serve --watch --future
 ```
 
 CAUTION: You shouldn't deploy generated files since URLs in them are 'localhost.'
