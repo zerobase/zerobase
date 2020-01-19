@@ -1,0 +1,22 @@
+{
+  "name": "ja.ishibashihideto.net",
+  "version": "1.0.0",
+  "description": "https://ja.ishibashihideto.net/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerobase/ja.ishibashihideto.net.git"
+  },
+  "author": "Hide Ishi <hidetoi@gmail.com> (https://github.com/zerobase)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerobase/ja.ishibashihideto.net/issues"
+  },
+  "homepage": "https://github.com/zerobase/ja.ishibashihideto.net#readme",
+  "devDependencies": {
+    "firebase-tools": "^7.12.1"
+  }
+}
