@@ -112,24 +112,16 @@ main article section.content.body {
 main article header,
 main article footer {
   .sharing {
-    vertical-align: top;
+    vertical-align: bottom;
+    margin-top: $base-spacing*2;
+    margin-bottom: $base-spacing;
 
     .twitter-share-button {
-      vertical-align: top;
+      vertical-align: bottom;
     }
 
     .fb_iframe_widget_fluid {
-      display: inline-block !important;
-    }
-
-    .fb-comments {
-      display: block;
-      margin-top: $base-spacing;
-
-      iframe[style],
-      > span {
-          width: 100% !important;
-      }
+      vertical-align: bottom;
     }
   }
 
@@ -139,12 +131,5 @@ main article footer {
       font-size: modular-scale(-1);
       margin-left: 0.5em;
     }
-  }
-}
-
-main article footer {
-  .sharing {
-    margin-top: $base-spacing*2;
-    margin-bottom: $base-spacing;
   }
 }
