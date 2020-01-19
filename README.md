@@ -1,7 +1,7 @@
 ja.ishibashihideto.net
 ======================
 
-<http://ja.ishibashihideto.net/>, a Jekyll-based website.
+<https://ja.ishibashihideto.net/>, a Jekyll-based website.
 
 Installation
 ------------
@@ -20,16 +20,10 @@ $ bundle exec jekyll serve --watch --future
 CAUTION: You shouldn't deploy generated files since URLs in them are 'localhost.'
 注意: 書き出されたファイル中のURLがlocalhostになっているので、そのままデプロイしてはいけない。
 
-Deployment (Firebase)
----------------------
+Deployment
+----------
 
-First, `npm install` to use [firebase-tools](https://github.com/firebase/firebase-tools). Then,
-
-```console
-$ bundle exec jekyll build
-$ firebase login
-$ firebase deploy
-```
+Just push the master branch to GitHub, then CircleCI will deploy it to <https://ja.ishibashihideto.net/>.
 
 Dependency
 ----------
