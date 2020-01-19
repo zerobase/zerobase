@@ -43,6 +43,9 @@ Hideto Ishibashi (Hide Ishi)
 起業家メンタルヘルス調査
 : 経済成長を担うとして期待される起業家たちが、一方では過剰なストレスにより心身の健康を損ね、ときに深刻な状態に陥ることもあるということは、あまり知られていません。その実態を明らかにし、広く知らしめるために、[起業家のメンタルヘルス調査レポート][startup-mental-health]を2017年8月に発表しました(名古屋市立大学大学院医学研究科と共同で)。その後、この問題に関する[特集記事](https://journal.ridilover.jp/topics/31)や[起業家向けサービス](https://www.value-press.com/pressrelease/209090)が登場しました。
 
+Hide 'Like' Notifications
+: Facebookから「いいね！されました」通知を消すための[Chrome拡張機能](https://chrome.google.com/webstore/detail/hide-likes-on-facebook-no/kbfakkkdllpodegeoggpfcmjabodhpca)を2013年にリリースしました（※ウェブサイト版のみ対応）。Facebookは「ドーパミン・ハック」でユーザーを中毒にします。それに抵抗するための道具です。（海外のクチコミ：[1](https://www.quora.com/How-do-you-turn-off-like-notifications-on-Facebook)、[2](https://www.tubblog.co.uk/blog/tech-reviews/hide-facebook-like-notifications/)）
+
 [information-architect]: /blog/2014/04/25/future-of-information-architect.html
 [philosophy]: /about/philosophy.html
 [venture-consulting]: /blog/2015/08/03/consulting-for-startups.html
