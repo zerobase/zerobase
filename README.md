@@ -25,10 +25,11 @@ Deployment
 
 Just push the master branch to GitHub, then CircleCI will deploy it to <https://ja.ishibashihideto.net/>.
 
-Dependency
+Maintenance
 ----------
 
-[The GitHub Pages Gem](https://pages.github.com/versions/)
+- Update [The GitHub Pages Gem](https://pages.github.com/versions/): `bundle install --path vendor/bundle`
+- Update firebase-tools: `npm update`
 
 Notice
 ------
