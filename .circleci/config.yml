@@ -34,7 +34,7 @@ jobs:
           key: v2-dependencies-{{ checksum "Gemfile.lock" }}-{{ checksum "package.json" }}
       - run:
           name: Build
-          command: bundle exec jekyll build --verbose
+          command: bundle exec jekyll build --verbose --future
 #      - run:
 #          name: Test
 #          command: bundle exec htmlproofer ./_site --check-html --disable-external
