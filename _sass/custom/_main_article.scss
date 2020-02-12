@@ -12,7 +12,12 @@ main article header {
 
 
 main article section.content.body {
+  @include clearfix;
   margin-top: $base-spacing;
+
+  a {
+    text-decoration: underline;
+  }
   
   .page-description {
     margin: $base-spacing / 2;
@@ -61,6 +66,18 @@ main article section.content.body {
 
   img {
     margin: $base-spacing 0;
+
+    @include media($large-viewport) {
+      &.float,
+      &.float-right {
+        float: right;
+        margin: 0 0 0 $base-spacing;
+      }
+      &.float-left {
+        float: left;
+        margin: 0 $base-spacing 0 0;
+      }
+    }
   }
 
   .responsive.embed {
