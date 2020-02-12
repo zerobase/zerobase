@@ -2,7 +2,7 @@
 categories: activity
 title: World IA Day Fukuoka 2020
 description: 世界中でイベントが開催される情報アーキテクチャ(IA)の祝日、World IA Dayの福岡版を立ち上げました。
-thumbnail: /images/activity/2020-01-29-world-ia-day-fukuoka-2020/thumbnail.png
+thumbnail: /images/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png
 ---
 
 ![World IA Day 2020 のロゴ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png){:.float}
