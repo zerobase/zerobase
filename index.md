@@ -15,7 +15,15 @@ Hideto Ishibashi (Hide Ishi)
 
 久留米高専卒業後、インターネットサービス企業のプログラマーを経て、2004年に[ゼロベース株式会社][zerobase]を創業。同年ベンチャーキャピタル[GMO VenturePartners 株式会社][gmo-vp]の[デザインフェロー][design-fellow]としてスタートアップのコンサルティングを開始。
 
-[インフォメーション・アーキテクト][information-architect]として、[セルフマネジメントテクノロジーZa(2008-)][za]、[ウィキペディア日本語版「ユーザーエクスペリエンス」記事執筆(2017)][wikipedia-ux]、[起業家メンタルヘルス調査(2017)][startup-mental-health]、[知的サロン主宰(2012-)][salon]などを手掛ける。モットーは「[思想を実装する][philosophy]」。[アートファン](/activity/2020/01/20/art-experience.html)。
+[インフォメーション・アーキテクト][information-architect]として、
+
+* [セルフマネジメントテクノロジーZa (2008-)][za]
+* [ウィキペディア日本語版「ユーザーエクスペリエンス」記事執筆 (2017)][wikipedia-ux]
+* [World IA Day Fukuoka (2020-)][wiad-fukuoka]
+* [起業家メンタルヘルス調査 (2017)][startup-mental-health]
+* [ゼロベースサロン (2012-)][salon]
+
+などを手掛ける。モットーは「[思想を実装する][philosophy]」。[アートファン](/activity/2020/01/20/art-experience.html)。
 
 - <a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/about/2015-01-14-profile/Twitter_logo_blue.png"><br>Twitter</a>
 - <a href="http://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo.png"><br>Medium</a>
@@ -60,3 +68,4 @@ Hide 'Like' Notifications
 [startup-mental-health]: https://medium.com/@zerobase/%E8%B5%B7%E6%A5%AD%E5%AE%B6%E3%81%AE%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-%E3%81%AE%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6-fff14c69408b
 [za]: https://www.zerobase.jp/za/
 [salon]: https://www.zerobase.jp/salon/
+[wiad-fukuoka]: https://ja.ishibashihideto.net/activity/2020/01/28/world-ia-day-fukuoka-2020.html
