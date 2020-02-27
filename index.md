@@ -6,24 +6,14 @@ title: 石橋秀仁
 description: インフォメーション・アーキテクト石橋秀仁のウェブサイト。
 ---
 
-石橋秀仁（いしばしひでと）  
-Hideto Ishibashi (Hide Ishi)
-{:style="font-size:larger;"}
+## <ruby><rb>石橋</rb><rt>いしばし</rt></ruby> <ruby><rb>秀仁</rb><rt>ひでと</rt></ruby> (Hide Ishi)
 
-[ゼロベース株式会社][zerobase] 代表取締役／アーキテクト  
+[ゼロベース株式会社][zerobase] 代表取締役／情報アーキテクト  
 [GMO VenturePartners 株式会社][gmo-vp] デザインフェロー
 
-久留米高専卒業後、インターネットサービス企業のプログラマーを経て、2004年に[ゼロベース株式会社][zerobase]を創業。同年ベンチャーキャピタル[GMO VenturePartners 株式会社][gmo-vp]の[デザインフェロー][design-fellow]としてスタートアップのコンサルティングを開始。
+久留米高専卒業後、インターネットサービス企業のプログラマーを経て、2004年に[ゼロベース株式会社][zerobase]を創業。同年ベンチャーキャピタル[GMO VenturePartners 株式会社][gmo-vp]の[デザインフェロー][design-fellow]としてスタートアップのコンサルティングを開始。[情報アーキテクト(IA)][information-architect]として活動している。モットーは「[思想を実装する][philosophy]」。[アートファン][art-experience]。
 
-[インフォメーション・アーキテクト][information-architect]として、
-
-* [セルフマネジメントテクノロジーZa (2008-)][za]
-* [ウィキペディア日本語版「ユーザーエクスペリエンス」記事執筆 (2017)][wikipedia-ux]
-* [World IA Day Fukuoka (2020-)][wiad-fukuoka]
-* [起業家メンタルヘルス調査 (2017)][startup-mental-health]
-* [ゼロベースサロン (2012-)][salon]
-
-などを手掛ける。モットーは「[思想を実装する][philosophy]」。[アートファン](/activity/2020/01/20/art-experience.html)。
+<!-- [過去の仕事](/about/works.html)。[顧問サービス](/about/advice.html)。 -->
 
 - <a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/about/2015-01-14-profile/Twitter_logo_blue.png"><br>Twitter</a>
 - <a href="http://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo.png"><br>Medium</a>
@@ -33,9 +23,6 @@ Hideto Ishibashi (Hide Ishi)
 - <a href="https://www.linkedin.com/in/ishibashihideto"><img alt="LinkedIn" src="/images/about/2015-01-14-profile/LinkedIn-InBug-2CRev.png"><br>LinkedIn</a>
 - <a href="mailto:hidetoi@gmail.com"><img alt="email" src="/images/about/2015-01-14-profile/mail_icon.png"><br>email</a>
 {:class="external-link"}
-
-- [過去の仕事](/about/works.html)
-- [顧問サービス](/about/advice.html)
 
 ## プロジェクト
 
@@ -69,3 +56,4 @@ Hide 'Like' Notifications
 [za]: https://www.zerobase.jp/za/
 [salon]: https://www.zerobase.jp/salon/
 [wiad-fukuoka]: /activity/2020/01/28/world-ia-day-fukuoka-2020.html
+[art-experience]: /activity/2020/01/20/art-experience.html

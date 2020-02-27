@@ -3,7 +3,7 @@ exclude: [CNAME, Gemfile, Gemfile.lock, LICENSE, LICENSE_FOR_CONTENTS, LICENSE_F
 destination: public
 
 # Site settings
-title: 石橋秀仁
+title: 石橋秀仁 (Hide Ishi)
 #lead: "an information architect"
 author: 石橋秀仁
 author_link: https://plus.google.com/+IshibashiHideto/
