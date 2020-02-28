@@ -6,7 +6,7 @@ title: 石橋秀仁
 description: インフォメーション・アーキテクト石橋秀仁のウェブサイト。
 ---
 
-## <ruby><rb>石橋</rb><rt>いしばし</rt></ruby> <ruby><rb>秀仁</rb><rt>ひでと</rt></ruby> (Hide Ishi)
+## <ruby><rb>石橋</rb><rt>いしばし</rt></ruby> <ruby><rb>秀仁</rb><rt>ひでと</rt></ruby>
 
 [ゼロベース株式会社][zerobase] 代表取締役／情報アーキテクト  
 [GMO VenturePartners 株式会社][gmo-vp] デザインフェロー
@@ -24,9 +24,16 @@ description: インフォメーション・アーキテクト石橋秀仁のウ�
 - <a href="mailto:hidetoi@gmail.com"><img alt="email" src="/images/about/2015-01-14-profile/mail_icon.png"><br>email</a>
 {:class="external-link"}
 
+## Hide Ishi
+
+Information Architect,  
+Zerobase Inc
+
+He is a design activist who is exploring alternative methods of designing things from philosophy to implementation. He is always troubled with anti-modern reactionists and obscurantists in Japan. He has two homes in metropolitan Tokyo and livable Fukuoka. He likes to travel and see art exhibitions.
+
 ## プロジェクト
 
-働き方改革: セルフマネジメントテクノロジー Za
+セルフマネジメントテクノロジー Za
 : 私が経営するゼロベース株式会社は、2008年から[セルフマネジメントテクノロジーZa][za]によって運営されています。社員をほとんどまったく管理せず、自営（自己経営）によって会社が回る仕組みです。徹底的に自由な働き方が実現しています。この知見を社会に広めます。
 
 ゼロベースサロン
