@@ -56,7 +56,7 @@ main article section.content.body {
     &.right { text-align: right; }
 
     figcaption {
-      font-size: smaller;
+      font-size: modular-scale(-1);
     }
   }
 
@@ -77,6 +77,24 @@ main article section.content.body {
         float: left;
         margin: 0 $base-spacing 0 0;
       }
+    }
+  }
+
+  .fig-large {
+    // default
+  }
+
+  .fig-mid {
+    padding: 2em 10%;
+    @include media($large-viewport) {
+      padding: 2em 25%;
+    }
+  }
+
+  .fig-small {
+    padding: 2em 20%;
+    @include media($large-viewport) {
+      padding: 2em 35%;
     }
   }
 
