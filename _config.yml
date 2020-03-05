@@ -30,6 +30,8 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-timeago
+  - jekyll-linkpreview
+  - jekyll-figure
 jekyll_timeago:
   depth: 1 # Level of detail
 
