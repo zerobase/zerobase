@@ -29,12 +29,9 @@ highlighter: rouge
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-timeago
   - jekyll-linkpreview
   - jekyll-figure
   - jekyll-extlinks
-jekyll_timeago:
-  depth: 1 # Level of detail
 extlinks:
   attributes: {target: _blank}
   # rel_exclude: ['host1.com', 'host2.net']

@@ -56,8 +56,6 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-timeago (0.13.1)
-      mini_i18n (>= 0.8.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -76,7 +74,6 @@ GEM
       fastimage (~> 2.1.7)
       nesty (~> 1.0.2)
       nokogiri (~> 1.10.7)
-    mini_i18n (0.8.0)
     mini_portile2 (2.4.0)
     multipart-post (2.1.1)
     nesty (1.0.2)
@@ -109,7 +106,6 @@ DEPENDENCIES
   jekyll-linkpreview
   jekyll-redirect-from
   jekyll-sitemap
-  jekyll-timeago
 
 BUNDLED WITH
    2.1.4
