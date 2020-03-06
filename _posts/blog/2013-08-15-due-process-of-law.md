@@ -8,7 +8,7 @@ redirect_from:
   - /due-process-of-law/
 ---
 
-![](/images/blog/2013-08-15-due-process-of-law/batman-and-harry.jpg)
+![](/images/blog/2013-08-15-due-process-of-law/batman-and-harry.jpg){:.fig}
 
 日米の「ヒーロー」のあり方を比較した[このフレーズ][quote_source]が、笑いのツボに入りました：
 

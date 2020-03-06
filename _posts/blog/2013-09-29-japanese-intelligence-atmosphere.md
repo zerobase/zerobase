@@ -7,7 +7,7 @@ redirect_from:
   - /japanese-intelligence-atmosphere/
 ---
 
-![三種の神器](/images/blog/2013-09-29-japanese-intelligence-atmosphere/the-imperial-regalia-of-japan.jpg)
+![三種の神器](/images/blog/2013-09-29-japanese-intelligence-atmosphere/the-imperial-regalia-of-japan.jpg){:.fig-small}
 
 日本にやってきた概念は、本来の意味を喪失し、ほかの言葉と区別がつかなくなりがちです。例えば、ウェブ業界では「UX」と「UI」の混同が代表的です。
 

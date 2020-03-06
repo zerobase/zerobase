@@ -5,7 +5,7 @@ description: 世界中でイベントが開催される情報アーキテクチ�
 thumbnail: /images/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png
 ---
 
-![World IA Day 2020 のロゴ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png){:.float}
+![World IA Day のロゴ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png){:.fig-small}
 
 [World IA Day](https://www.worldiaday.org/) は2012年に始まった情報アーキテクチャ(IA)の祝日です。2020年は2月22日土曜日に世界中の約60都市でイベントが開催されます。
 

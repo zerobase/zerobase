@@ -49,7 +49,12 @@ main article section.content.body {
   }
 
   figure {
-    margin: $base-spacing $base-spacing/2;
+    margin: $base-spacing*2 0;
+    padding: 0 5%;
+    display: flex;
+    align-items: flex-start;
+    flex-flow: row wrap;
+    justify-content: center;
 
     &.center { text-align: center; }
     &.left { text-align: left; }
@@ -60,41 +65,25 @@ main article section.content.body {
     }
   }
 
-  iframe {
-    // margin: $base-spacing 0;
-  }
-
-  img {
-    margin: $base-spacing 0;
-
-    @include media($large-viewport) {
-      &.float,
-      &.float-right {
-        float: right;
-        margin: 0 0 0 $base-spacing;
-      }
-      &.float-left {
-        float: left;
-        margin: 0 $base-spacing 0 0;
-      }
-    }
-  }
-
-  .fig-large {
-    // default
-  }
-
-  .fig-mid {
-    padding: 2em 10%;
-    @include media($large-viewport) {
-      padding: 2em 25%;
-    }
+  .fig {
+    width: 100%;
+    padding: 0 10%;
   }
 
   .fig-small {
-    padding: 2em 20%;
+    width: 100%;
+    padding: 0 20%;
+
+    @include media($medium-viewport) {
+      padding: 0 0 0 2em;
+      width: 40%;
+      float: right;
+    }
+
     @include media($large-viewport) {
-      padding: 2em 35%;
+      padding: 0 0 0 2em;
+      width: 40%;
+      float: right;
     }
   }
 

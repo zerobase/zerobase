@@ -7,8 +7,9 @@ redirect_from:
   - /future-of-information-architect/
 ---
 
-![](/images/blog/2014-04-25-future-of-information-architect/ia-revisited.jpg)  
-<small>リチャード・S・ワーマンのポートレイト　撮影：Melissa Mahoney　出典：[ウィキメディア・コモンズ](http://commons.wikimedia.org/wiki/File%3ARichard_Saul_Wurman_by_Melissa_Mahoney.png)</small>
+{% figure caption:"リチャード・S・ワーマンのポートレイト　撮影：Melissa Mahoney　出典：[ウィキメディア・コモンズ](http://commons.wikimedia.org/wiki/File%3ARichard_Saul_Wurman_by_Melissa_Mahoney.png)" %}
+![](/images/blog/2014-04-25-future-of-information-architect/ia-revisited.jpg)
+{% endfigure %}
 
 概要
 -------
