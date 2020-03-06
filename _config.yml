@@ -32,8 +32,12 @@ plugins:
   - jekyll-timeago
   - jekyll-linkpreview
   - jekyll-figure
+  - jekyll-extlinks
 jekyll_timeago:
   depth: 1 # Level of detail
+extlinks:
+  attributes: {target: _blank}
+  # rel_exclude: ['host1.com', 'host2.net']
 
 # Blog
 permalink: date # previously: /blog/:categories/:title/
