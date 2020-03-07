@@ -1,12 +1,14 @@
 main.list.index {
   .item {
-    @include clearfix;
     $color: $base-font-color;
     $hover-color: $base-link-color;
     margin: $base-spacing 0;
 
     .link {
-      display: block;
+      display: flex;
+      flex-flow: row;
+      flex-wrap: wrap;
+      justify-content: center;
       color: $color;
       
       &:hover,
@@ -14,29 +16,45 @@ main.list.index {
         color: $hover-color;
       }
 
-      .title {
-        font-size: modular-scale(2);
-        margin-bottom: $base-padding;
-      }
-
       .thumbnail {
-        float: right;
-        margin: 0 0 $base-padding $base-padding;
-        width: 5em;
-        height: 5em;
+        flex: 1 0 150px;
+        margin: 0;
+        padding: 20px;
+        min-width: 100px;
+        min-height: 100px;
+        max-width: 200px;
+        max-height: 200px;
+        object-fit: contain;
+        object-position: 0% 0%;
       }
 
-      .meta.subtitle {
-        font-size: modular-scale(-2);
-        margin-left: $base-padding;
-      }
-      
-      .meta.description {
-        margin-bottom: $base-padding;
-      }
+      .text {
+        flex: 1 2 350px;
+        padding: 20px;
+        // margin-left: $base-spacing;
 
-      .meta.time {
-        font-size: modular-scale(-1);
+        .title {
+          font-size: modular-scale(2);
+          margin: 0 0 $base-spacing/3 0;
+
+          .meta.title {
+            margin: 0;
+            font-size: modular-scale(1);
+          }
+          
+          .meta.subtitle {
+            font-size: modular-scale(-2);
+            margin-left: $base-padding;
+          }
+        }
+        
+        .meta.description {
+          margin-bottom: $base-padding;
+        }
+  
+        .meta.time {
+          font-size: modular-scale(-1);
+        }
       }
     }
   }
