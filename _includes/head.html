@@ -11,8 +11,6 @@
     {{ page_title }}{% if page.url != "/" %} | {{ site.title }}{% endif %}
   </title>
 
-  <link rel="author" href="{{ site.author_link }}">
-
   <meta name="description" content="{% if page.description %}{{ page.description | strip_html | condense_spaces | truncate:150 }}{% else %}{{ site.description }}{% endif %}">
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
 

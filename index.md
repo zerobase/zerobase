@@ -16,7 +16,7 @@ description: インフォメーション・アーキテクト石橋秀仁のウ�
 <!-- [過去の仕事](/about/works.html)。[顧問サービス](/about/advice.html)。 -->
 
 - <a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/about/2015-01-14-profile/Twitter_logo_blue.png"><br>Twitter</a>
-- <a href="http://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo.png"><br>Medium</a>
+- <a href="https://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo.png"><br>Medium</a>
 - <a href="https://www.facebook.com/ishibashi.hideto"><img alt="Facebook" src="/images/about/2015-01-14-profile/FB-f-Logo__blue_100.png"><br>Facebook</a>
 - <a href="https://www.instagram.com/zerobase000/"><img alt="Instagram" src="/images/about/2015-01-14-profile/IG_Glyph_Fill.png"><br>Instagram</a>
 - <a href="https://github.com/zerobase"><img alt="GitHub" src="/images/about/2015-01-14-profile/GitHub-Mark.png"><br>GitHub</a>
@@ -55,7 +55,7 @@ Hide 'Like' Notifications
 [philosophy]: /about/philosophy.html
 [venture-consulting]: /blog/2015/08/03/consulting-for-startups.html
 [zerobase]: https://www.zerobase.jp/
-[gmo-vp]: http://www.gmo-vp.com/
+[gmo-vp]: https://www.gmo-vp.com/
 [design-fellow]: /blog/2014/12/01/design-fellow-at-venture-capital.html
 [advisory]: /about/advice.html
 [wikipedia-ux]: https://www.zerobase.jp/2017/09/20/wikipedia-user-experience.html

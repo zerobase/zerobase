@@ -5,17 +5,16 @@ destination: public
 # Site settings
 title: 石橋秀仁 (Hide Ishi)
 #lead: "an information architect"
-author: 石橋秀仁
-author_link: https://plus.google.com/+IshibashiHideto/
-thumbnail: http://ja.ishibashihideto.net/images/thumbnail.png
+author: 石橋秀仁 (Hide Ishi)
+thumbnail: https://ja.ishibashihideto.net/images/thumbnail.png
 email: hidetoi@gmail.com
 description: "an information architect / インフォメーション・アーキテクト"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ja.ishibashihideto.net" # the base hostname & protocol for your site
+url: "https://ja.ishibashihideto.net" # the base hostname & protocol for your site
 twitter_username: zerobase
 github_username:  zerobase
-main_feed: http://feeds.feedburner.com/HidetoIshibashi
-podcast_feed: http://feeds.feedburner.com/InformationArchitectsPodcast
+main_feed: https://feeds.feedburner.com/HidetoIshibashi
+podcast_feed: https://feeds.feedburner.com/InformationArchitectsPodcast
 podcast_itunes_url: https://itunes.apple.com/jp/podcast/ia-podcast/id963102127?l=en&mt=2
 
 ## Custom settings
@@ -48,7 +47,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: "石橋秀仁"
+      author: "石橋秀仁 (Hide Ishi)"
   -
     scope:
       path: "blog" # an empty string here means all files in the project
