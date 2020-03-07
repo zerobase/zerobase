@@ -16,7 +16,7 @@ thumbnail: /images/blog/2020-03-07-cyber-anti-ageism/thumbnail.jpg
 
 ---
 
-台湾のデジタル担当大臣を務める唐鳳氏が話題だ。
+台湾のデジタル担当大臣を務める唐鳳氏が話題だ。
 
 {% linkpreview https://www.mag2.com/p/news/439197 %}
 
