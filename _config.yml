@@ -6,7 +6,7 @@ destination: public
 title: 石橋秀仁 (Hide Ishi)
 #lead: "an information architect"
 author: 石橋秀仁 (Hide Ishi)
-thumbnail: https://ja.ishibashihideto.net/images/thumbnail.png
+thumbnail: /images/thumbnail.png
 email: hidetoi@gmail.com
 description: "an information architect / インフォメーション・アーキテクト"
 baseurl: "" # the subpath of your site, e.g. /blog/
