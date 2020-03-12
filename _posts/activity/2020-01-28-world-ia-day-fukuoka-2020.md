@@ -15,4 +15,6 @@ thumbnail: /images/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png
 
 翌年以降も継続的に開催していきたいと思います。
 
-［2020年2月28日更新］
+{% include youtube_link.html aspect="16x9" video="4oOFLE9V7V4" %}
+
+［2020年3月12日更新］
