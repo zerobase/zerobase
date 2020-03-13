@@ -23,11 +23,11 @@ jobs:
             - vendor/bundle
       - restore_cache:
           keys:
-          - node-cache-{{ checksum "package.json" }}
+          - node-cache-{{ checksum "yarn.lock" }}
           - node-cache-
       - run: yarn install
       - save_cache:
-          key: node-cache-{{ checksum "package.json" }}
+          key: node-cache-{{ checksum "yarn.lock" }}
           paths:
             - ~/usr/local/lib/node_modules
       - run: bundle exec jekyll build --verbose --future
