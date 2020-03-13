@@ -28,8 +28,8 @@ Just push the master branch to GitHub, then CircleCI will deploy it to <https://
 Maintenance
 ----------
 
-- Update [The GitHub Pages Gem](https://pages.github.com/versions/): `bundle install --path vendor/bundle`
-- Update firebase-tools: `npm update`
+- `bundle update` -> [The GitHub Pages Gem](https://pages.github.com/versions/)
+- `npm update` -> firebase-tools
 
 Notice
 ------
