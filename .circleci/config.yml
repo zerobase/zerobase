@@ -21,6 +21,9 @@ jobs:
             echo 'export PATH="~/repo/node_modules/.bin:$PATH"' >> $BASH_ENV
             echo 'export NODE_PATH="~/repo/node_modules"' >> $BASH_ENV
       - run:
+          name: Install Bundler
+          command: gem install bundler:2.1.4
+      - run:
           name: Bundle install
           command: bundle check || bundle install
       - run:
