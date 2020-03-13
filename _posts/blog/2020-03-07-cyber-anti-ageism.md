@@ -18,7 +18,7 @@ thumbnail: /images/blog/2020-03-07-cyber-anti-ageism/thumbnail.jpg
 
 台湾のデジタル担当大臣を務める唐鳳氏が話題だ。
 
-{% linkpreview https://www.mag2.com/p/news/439197 %}
+{% linkpreview "https://www.mag2.com/p/news/439197" %}
 
 2019年末に中国から広まった新型コロナウイルス感染症(COVID-19)は、瞬く間に世界各地へ飛び火した。台湾でもマスクが不足する事態に陥った。
 
@@ -35,7 +35,7 @@ thumbnail: /images/blog/2020-03-07-cyber-anti-ageism/thumbnail.jpg
 
 そんな唐鳳氏のインタビュー記事が話題になっている。
 
-{% linkpreview https://toyokeizai.net/articles/-/327954 %}
+{% linkpreview "https://toyokeizai.net/articles/-/327954" %}
 
 この記事の中でも特に次のフレーズが共感を集めているようだ：
 
