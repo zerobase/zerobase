@@ -3,6 +3,7 @@ categories: blog
 title: ゼロベース流アジャイルウェブ開発術2010年版
 subtitle: ポンパレを7週間で開発したプロセス事例
 description: 2010年12月22日発売の WEB+DB PRESS Vol.60 へ寄稿した文章を公開します。
+thumbnail: /images/blog/2012-07-09-agile-development/thumbnail.png
 redirect_from:
   - /blog/agile-development/
   - /activity/2012/07/09/agile-development.html

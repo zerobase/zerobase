@@ -3,6 +3,7 @@ categories: blog
 title: ブログの作文について
 subtitle: 短く書けばいいというものではない
 description: むかしは「みんな忙しいから、なるべく文字数を減らして、圧縮して書くほうが、読んでもらいやすいはずだ」と思っていました。しかし、それでは「スラスラ」と読めない文章になってしまうことに気付きました。
+thumbnail: /images/blog/2013-04-19-blog-writing/thumbnail.png
 redirect_from: "/blog/blog-writing/"
 ---
 

@@ -2,6 +2,7 @@
 categories: blog
 title: 「自分の意思で決めている」と思い込ませつつ意思決定を誘導するためのデザイン技法とその悪用
 description: 「ユーザーの利益になる体験を作り上げるための技術」である「ユーザーエクスペリエンスデザイン」は、「ユーザーに不利益を与えながら、不利益だと感じさせないための技術」に悪用することができる。デザイナの職業倫理が問われなければならない。
+thumbnail: /images/blog/2010-06-09-black-hat-design/thumbnail.png
 redirect_from: "/blog/black-hat-design/"
 ---
 

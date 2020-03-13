@@ -2,6 +2,7 @@
 categories: activity
 title: Ajaxの4冊
 description: リクナビTech総研 この春に読みたい！TOPエンジニア推薦のIT技術書20冊
+thumbnail: /images/activity/2006-04-19-learning-ajax/thumbnail.png
 ---
 
 ![](/images/activity/2006-04-19-learning-ajax/tech-logo.gif)  

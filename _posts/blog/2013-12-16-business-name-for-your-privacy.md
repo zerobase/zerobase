@@ -3,6 +3,7 @@ categories: blog
 title:  あなたのプライバシーを守るために〈ビジネスネーム〉を持ちなさい
 subtitle: かつてのぼくが社会人デビューする前に欲しかった助言
 description: プライバシーを重視する人へ、本名（戸籍名）とは別の通名を利用することをお薦めします。
+thumbnail: /images/blog/2013-12-16-business-name-for-your-privacy/thumbnail.png
 redirect_from: "/blog/business-name-for-your-privacy/"
 ---
 

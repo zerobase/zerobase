@@ -2,6 +2,7 @@
 categories: activity
 title: 「埋蔵金」はあなたの家に埋まってる
 description: ビッグデータ・オープンデータ活用推進協議会 公開シンポジウム
+thumbnail: /images/activity/2013-11-10-chiba-big-and-open-data-symposium/thumbnail.png
 ---
 
 ビッグデータ・オープンデータ活用推進協議会のアイデアコンテストに応募したところ、1次審査を通過できましたので、2013年11月10日に千葉・幕張で開催された二次審査（公開シンポジウムの一部）でプレゼンテーションをさせて頂きました。

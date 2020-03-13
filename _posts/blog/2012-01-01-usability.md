@@ -2,6 +2,7 @@
 categories: blog
 title: 「出来の悪い物」に対してキレやすい人には「使い易い物」を作る才能があるかもしれません
 description: 「使い易い物」を作るためには「使いにくさ」に敏感な感性が必要です。
+thumbnail: /images/blog/2012-01-01-usability/thumbnail.png
 redirect_from: "/blog/usability/"
 ---
 

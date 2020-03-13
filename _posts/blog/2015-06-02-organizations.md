@@ -3,6 +3,7 @@ categories: blog
 title: 社内取引制度の理論的検討
 description: 企業経営においてリソース配分が失敗する理由は、旧ソ連の計画経済が失敗した理由とよく似ています。人間の計画能力には限界があるのです。ならば「市場メカニズム」は有力なオルタナティブでしょう。
 show_description: true
+thumbnail: /images/blog/2015-06-02-organizations/thumbnail.png
 ---
 
 <figure>

@@ -2,6 +2,7 @@
 categories: activity
 title: Code for Namieのハッカソンでメンターを務めました
 description: 浪江町住民のタブレット活用を考えるハッカソンのメンターとして、デザイン面のお手伝いをしました。
+thumbnail: /images/activity/2014-06-28-code-for-namie/thumbnail.png
 ---
 
 ![](/images/activity/2014-06-28-code-for-namie/tumblr_static_aty2xk9lmlko0ks888ccg48sw.jpg)  

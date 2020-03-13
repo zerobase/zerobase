@@ -2,6 +2,7 @@
 categories: blog
 title: 弱者としての起業家を知ってください
 description: 多くの起業家は、不器用にしか生きられないので起業します。能力も、経験も、心構えもないままに独立起業して、孤独に社会と対峙します。そして多くが失敗します。
+thumbnail: /images/blog/2011-12-15-entrepreneur/thumbnail.png
 redirect_from: "/blog/entrepreneur/"
 ---
 

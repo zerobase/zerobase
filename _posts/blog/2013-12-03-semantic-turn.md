@@ -2,6 +2,7 @@
 categories: blog
 title:  ユーザー・エクスペリエンスについて考える人に読んで欲しいクリッペンドルフの『意味論的転回−デザインの新しい基礎理論』
 description: 『意味論的転回』は、「デザインとは、そもそも何なのか？」という根源的な問いに答える哲学書でありつつ、実践的手法を紹介する本でもあります。
+thumbnail: /images/blog/2013-12-03-semantic-turn/thumbnail.png
 redirect_from:
   - /blog/semantic-turn/
   - /semantic-turn/

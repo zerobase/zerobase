@@ -3,6 +3,7 @@ categories: blog
 title: サイトリニューアルの思想と手法
 subtitle: コンテンツファースト、モバイルファースト、スタティックサイト
 description: このウェブサイトのささやかなリニューアルプロジェクトについて、どのような思想と手法で取り組んだのかを記しておくことにします。
+thumbnail: /images/blog/2015-02-18-redesigned/thumbnail.png
 ---
 
 ![主要概念の関係図](/images/blog/2015-02-18-redesigned/constellation.svg)

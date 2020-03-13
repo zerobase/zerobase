@@ -2,6 +2,7 @@
 categories: activity
 title: VASILY金山社長とのインタビュー記事が公開されました
 description: 『デザインとエンジニアリングが増幅するファッションの可能性』という文章がGMO VenturePartnersのコーポレートサイトに掲載されました。
+thumbnail: /images/activity/2014-08-02-gmo-vp-vasily-interview/thumbnail.png
 ---
 
 ![](/images/activity/2014-08-02-gmo-vp-vasily-interview/pic_interview-01.jpg)  

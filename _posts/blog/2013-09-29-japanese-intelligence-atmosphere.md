@@ -2,6 +2,7 @@
 categories: blog
 title: 日本の知的風土では概念が脆くなる
 description: 日本では概念が脆い。この知的伝統は、日本の国土条件から決定された「知的風土」とも呼べます。
+thumbnail: /images/blog/2013-09-29-japanese-intelligence-atmosphere/thumbnail.png
 redirect_from:
   - /blog/japanese-intelligence-atmosphere/
   - /japanese-intelligence-atmosphere/

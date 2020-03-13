@@ -3,6 +3,7 @@ categories: blog
 title: アーキテクトが起業家やベンチャー企業のためにできること
 description: 特定分野の専門家としてのコンサルティングではなく、総合的なプライマリ・ケアができます。また、エコシステムへの思考や、SF的想像力を呼びおこすことで、事業を大きく構想するためのお手伝いができます。
 show_description: true
+thumbnail: /images/blog/2015-08-03-consulting-for-startups/thumbnail.png
 ---
 
 アーキテクトとしての私が起業家やベンチャー企業のためにできることについて、現時点の考えを棚卸ししてみました。ひとつの「理念型」として書き記しておきます。[^disclaimer]

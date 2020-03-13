@@ -2,6 +2,7 @@
 categories: activity
 title: サイトリニューアルのお知らせ
 description: 当サイトのデザインをリニューアルしました。
+published: false
 ---
 
 ![Redesign for content accessibility](/images/activity/2015-02-18-redesigned/cover.svg)

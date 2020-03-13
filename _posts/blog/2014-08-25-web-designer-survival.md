@@ -6,7 +6,9 @@ redirect_from: "/blog/web-designer-survival/"
 redirect_from: "/web-designer-survival/"
 ---
 
+{% comment %}
 ![エンジニアがUX、IA、UI、HTML、CSS、jQueryなどを抱え、残されたグラフィクスのみ手にしたデザイナーを蹴り出している図。](/images/blog/2014-08-25-web-designer-survival/kicking-out.jpg)
+{% endcomment %}
 
 本稿では、まず「ウェブサービス開発の現場で、ウェブデザイナーの仕事はエンジニアに奪われつつある」という**脅威**を語る。次に、**生存戦略**を考えるヒントとして「分かりやすい生存戦略」を2つ提示する。「アートディレクター」と「フルスタックウェブデザイナー」という2つの生存戦略だ。
 

@@ -2,6 +2,7 @@
 categories: blog
 title: ベンチャーキャピタルのデザインフェローという素晴らしい仕事
 description: 「ベンチャーキャピタルのデザインフェロー」という仕事が認知され、「職業」として成立し、日本の起業家生態系が一層発展することを期待します。
+thumbnail: /images/blog/2014-12-01-design-fellow-at-venture-capital/thumbnail.png
 redirect_from:
   - /blog/design-fellow-at-venture-capital/
   - /design-fellow-at-venture-capital/
