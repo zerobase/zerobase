@@ -13,6 +13,13 @@ main article header {
 
 main article section.content.body {
   @include clearfix;
+  
+  &:last-child:after {
+    display: block;
+    content: "";
+    clear: both;
+  }
+
   margin-top: $base-spacing;
 
   a {
@@ -72,12 +79,12 @@ main article section.content.body {
 
   .fig-medium {
     width: 100%;
-    padding: $base-spacing 25%;
+    padding: $base-spacing 20%;
   }
 
   .fig-small {
     width: 100%;
-    padding: 0 20%;
+    padding: $base-spacing 30%;
 
     @include media($medium-viewport) {
       padding: 0 0 0 2em;
@@ -135,6 +142,7 @@ main article section.content.body {
   .footnotes {
     @extend %border-top;
     font-size: modular-scale(-1);
+    clear: both;
   }
 }
 
