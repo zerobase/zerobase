@@ -8,35 +8,37 @@ jobs:
           BUNDLE_PATH: vendor/bundle
           BUNDLE_JOBS: 3
           BUNDLE_RETRY: 3
-    working_directory: ~/repo
     steps:
       - checkout
+      - run: gem install bundler:2.1.4
+      - run:
+          name:  Bundler Version
+          command: bundle -v
       - restore_cache:
           keys:
-          - v2-dependencies-{{ checksum "Gemfile.lock" }}-{{ checksum "package.json" }}
-          - v2-dependencies--
-      - run:
-          name: Setup Environment Variables
-          command: |
-            echo 'export PATH="~/repo/node_modules/.bin:$PATH"' >> $BASH_ENV
-            echo 'export NODE_PATH="~/repo/node_modules"' >> $BASH_ENV
-      - run:
-          name: Install Bundler
-          command: gem install bundler:2.1.4
+          - gem-cache-{{ checksum "Gemfile.lock" }}
+          - gem-cache-
       - run:
           name: Bundle install
           command: bundle check || bundle install
+      - save_cache:
+          key: gem-cache-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+      - restore_cache:
+          keys:
+          - node-cache-{{ checksum "package.json" }}
+          - node-cache-
       - run:
           name: Node dependencies
           command: yarn install
+      - save_cache:
+          key: node-cache-{{ checksum "package.json" }}
+          paths:
+            - ~/usr/local/lib/node_modules
       - run:
           name: Jekyll Build
           command: bundle exec jekyll build --verbose --future
       - run:
           name: Deploy
           command: firebase use $FIREBASE_PROJECT && firebase deploy --token=$FIREBASE_TOKEN --non-interactive
-      - save_cache:
-          paths:
-            - ~/repo/vendor/bundle
-            - ~/repo/node_modules
-          key: v2-dependencies-{{ checksum "Gemfile.lock" }}-{{ checksum "package.json" }}
