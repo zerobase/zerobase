@@ -11,16 +11,12 @@ jobs:
     steps:
       - checkout
       - run: gem install bundler:2.1.4
-      - run:
-          name:  Bundler Version
-          command: bundle -v
+      - run: bundle -v
       - restore_cache:
           keys:
           - gem-cache-{{ checksum "Gemfile.lock" }}
           - gem-cache-
-      - run:
-          name: Bundle install
-          command: bundle check || bundle install
+      - run: bundle check || bundle install
       - save_cache:
           key: gem-cache-{{ checksum "Gemfile.lock" }}
           paths:
@@ -29,16 +25,11 @@ jobs:
           keys:
           - node-cache-{{ checksum "package.json" }}
           - node-cache-
-      - run:
-          name: Node dependencies
-          command: yarn install
+      - run: yarn install
       - save_cache:
           key: node-cache-{{ checksum "package.json" }}
           paths:
             - ~/usr/local/lib/node_modules
-      - run:
-          name: Jekyll Build
-          command: bundle exec jekyll build --verbose --future
-      - run:
-          name: Deploy
-          command: firebase use $FIREBASE_PROJECT && firebase deploy --token=$FIREBASE_TOKEN --non-interactive
+      - run: bundle exec jekyll build --verbose --future
+      - run: yarn run firebase use $FIREBASE_PROJECT
+      - run: yarn run firebase deploy --token=$FIREBASE_TOKEN --non-interactive
