@@ -1,7 +1,7 @@
 ---
 categories: activity
-title: World IA Day Fukuoka 2020 で美術館の新たなサービスを発想するワークショップを実施しました
-subtitle: 来るべきユーザーのためのインクルーシブ・デザイン試論
+title: "World IA Day Fukuoka 2020 で美術館の新たなサービスを発想するワークショップを実施しました"
+subtitle: "来るべきユーザーのためのインクルーシブ・デザイン試論 #WIAD_Fukuoka"
 thumbnail: /images/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png
 ---
 
