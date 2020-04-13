@@ -4,8 +4,9 @@
 }
 
 .jekyll-linkpreview-wrapper p a[href] {
-  overflow-wrap: anywhere;
-  word-break : break-all;
+  // overflow-wrap: anywhere;
+  // word-break : break-all;
+  display: none;
 }
 
 .jekyll-linkpreview-wrapper-inner {
