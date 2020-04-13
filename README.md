@@ -23,7 +23,15 @@ CAUTION: You shouldn't deploy generated files since URLs in them are 'localhost.
 Deployment
 ----------
 
-Just push the master branch to GitHub, then CircleCI will deploy it to <https://ja.ishibashihideto.net/>.
+Since GitHub Actions configured, just push the master branch to GitHub, then it will deploy the website to <https://ja.ishibashihideto.net/>.
+
+Or manually,
+
+```console
+$ bundle exec jekyll build --future && yarn run firebase deploy
+```
+
+NOTE: Run `yarn install` to install firebase CLI, then `yarn run firebase login`.
 
 Maintenance
 ----------
