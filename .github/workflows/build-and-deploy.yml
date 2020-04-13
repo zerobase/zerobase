@@ -24,11 +24,16 @@ jobs:
       - run: bundle config path vendor/bundle
       - run: bundle install --jobs 4 --retry 3
       - run: bundle exec jekyll build --verbose --future
+      - uses: actions/upload-artifact@v1
+        with:
+          name: public
+          path: public
   deploy:
     needs: build
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/master'
     steps:
+      - uses: actions/checkout@v2
       - name: Get yarn cache directory path
         id: yarn-cache-dir-path
         run: echo "::set-output name=dir::$(yarn cache dir)"
@@ -43,5 +48,8 @@ jobs:
         with:
           node-version: '10.x'
       - run: yarn install
+      - uses: actions/download-artifact@v1
+        with:
+          name: public
       - name: Deploy to Firebase Hosting
         run: yarn run firebase deploy --token=${{ secrets.FIREBASE_TOKEN }} --non-interactive
