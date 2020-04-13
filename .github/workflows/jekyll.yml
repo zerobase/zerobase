@@ -1,4 +1,4 @@
-name: Jekyll site CI
+name: Jekyll Build and Firebase Deploy
 
 on:
   push:
@@ -10,34 +10,38 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/cache@v1
-      with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-v2-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-v2-
-    - name: Get yarn cache directory path
-      id: yarn-cache-dir-path
-      run: echo "::set-output name=dir::$(yarn cache dir)"
-    - uses: actions/cache@v1
-      id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
-      with:
-        path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
-        key: ${{ runner.os }}-yarn-v2-${{ hashFiles('**/yarn.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-yarn-v2-
-    - uses: actions/setup-ruby@v1
-      with:
-        ruby-version: '2.6'
-    - uses: actions/setup-node@v1
-      with:
-        node-version: '10.x'
-    - run: gem install bundler
-    - run: bundle config path vendor/bundle
-    - run: bundle install --jobs 4 --retry 3
-    - run: yarn install
-    - run: bundle exec jekyll build --verbose --future
-    - name: Deploy to Firebase (master branch only)
-      if: github.ref == 'refs/heads/master'
-      run: yarn run firebase deploy --token=${{ secrets.FIREBASE_TOKEN }} --non-interactive
+      - uses: actions/checkout@v2
+      - uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-v2-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-v2-
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
+      - run: gem install bundler
+      - run: bundle config path vendor/bundle
+      - run: bundle install --jobs 4 --retry 3
+      - run: bundle exec jekyll build --verbose --future
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master'
+    steps:
+      - name: Get yarn cache directory path
+        id: yarn-cache-dir-path
+        run: echo "::set-output name=dir::$(yarn cache dir)"
+      - uses: actions/cache@v1
+        id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
+        with:
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-v2-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-v2-
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
+      - run: yarn install
+      - name: Deploy to Firebase Hosting
+        run: yarn run firebase deploy --token=${{ secrets.FIREBASE_TOKEN }} --non-interactive
