@@ -10,3 +10,11 @@ thumbnail: /images/activity/2017-09-20-wikipedia-ux/thumbnail.png
 実際のページはこちらです：[ユーザーエクスペリエンス - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%B9)
 
 本件についての[詳細な報告](https://www.zerobase.jp/2017/09/20/wikipedia-user-experience.html)はゼロベース株式会社のウェブサイトに掲載しました。
+
+---
+
+ちなみに、次は「[情報アーキテクチャのページ](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3)」を書き換えたいと考えています。というのも、下記のように書かれているわけですが……
+
+> 情報アーキテクチャ（Information Architecture）は、いわゆるWeb屋用語としては、知識やデータの組織化を意味し、「情報をわかりやすく伝え」「受け手が情報を探しやすくする」ための表現技術といった意味である。
+
+「いわゆるWeb屋用語」はあんまりでしょう……
