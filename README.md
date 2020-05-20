@@ -1,7 +1,7 @@
-ja.ishibashihideto.net
-======================
+hideishi.com
+============
 
-<https://ja.ishibashihideto.net/>, a Jekyll-based website.
+<https://hideishi.com/>, a Jekyll-based website.
 
 Installation
 ------------
@@ -23,7 +23,7 @@ CAUTION: You shouldn't deploy generated files since URLs in them are 'localhost.
 Deployment
 ----------
 
-Since GitHub Actions configured, just push the master branch to GitHub, then it will deploy the website to <https://ja.ishibashihideto.net/>.
+Since GitHub Actions configured, just push the master branch to GitHub, then it will deploy the website to <https://hideishi.com/>.
 
 Or manually,
 

@@ -5,7 +5,7 @@
   <channel>
     <title>IA Podcast</title>
     <itunes:subtitle>インフォメーション・アーキテクトのポッドキャスト</itunes:subtitle>
-    <link>http://ja.ishibashihideto.net/podcast/</link>
+    <link>https://hideishi.com/podcast/</link>
     <language>ja</language>
     <copyright>2013-{{ 'now' | date: '%Y' }} Hideto Ishibashi</copyright>
     <author>Hideto Ishibashi</author>
@@ -13,9 +13,9 @@
     <description>情報建築家（インフォメーション・アーキテクト）の石橋秀仁が、ゲストを招いてウェブやイノベーションについてトークするポッドキャストです。</description>
     <itunes:owner>
       <itunes:name>Hideto Ishibashi</itunes:name>
-      <itunes:email>hidetoi@gmail.com</itunes:email>
+      <itunes:email>hide@hideishi.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://ja.ishibashihideto.net/images/podcast/ia_podcast_cover.png" />
+    <itunes:image href="https://hideishi.com/images/podcast/ia_podcast_cover.png" />
     <itunes:category text="Technology" />
     
     {% for post in site.categories.podcast %}
@@ -24,7 +24,7 @@
       <itunes:subtitle>{{ post.description }}</itunes:subtitle>
       <author>Hideto Ishibashi</author>
       <itunes:author>Hideto Ishibashi</itunes:author>
-      <itunes:image href="http://ja.ishibashihideto.net/images/podcast/ia_podcast_cover.png" />
+      <itunes:image href="https://hideishi.com.net/images/podcast/ia_podcast_cover.png" />
       <enclosure url="{{ post.mp3 }}" type="audio/mpeg" />
       <guid>{{ post.mp3 }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>

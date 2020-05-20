@@ -21,7 +21,7 @@ description: インフォメーション・アーキテクト石橋秀仁のウ�
 - <a href="https://www.instagram.com/zerobase000/"><img alt="Instagram" src="/images/about/2015-01-14-profile/IG_Glyph_Fill.png"><br>Instagram</a>
 - <a href="https://github.com/zerobase"><img alt="GitHub" src="/images/about/2015-01-14-profile/GitHub-Mark.png"><br>GitHub</a>
 - <a href="https://www.linkedin.com/in/ishibashihideto"><img alt="LinkedIn" src="/images/about/2015-01-14-profile/LinkedIn-InBug-2CRev.png"><br>LinkedIn</a>
-- <a href="mailto:hidetoi@gmail.com"><img alt="email" src="/images/about/2015-01-14-profile/mail_icon.png"><br>email</a>
+- <a href="mailto:hide@hideishi.com"><img alt="email" src="/images/about/2015-01-14-profile/mail_icon.png"><br>email</a>
 {:class="external-link"}
 
 ## Hide Ishi
