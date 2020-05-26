@@ -3,12 +3,14 @@ categories: blog
 title: 新型コロナウイルス接触追跡アプリのための倫理的指針
 subtitle: 正しいアプリが正しく作られているかを評価するための16の問い
 description: この4月にオックスフォード・インターネット研究所とアラン・チューリング研究所に所属する四人の研究者たちが共同で新型コロナウイルス接触追跡アプリのための倫理的指針（ガイドライン）を発表しました。共著者には情報倫理の分野で知られるルチアーノ・フロリディ教授がいます。
-# show_description: true
+show_description: true
 # thumbnail: /images/blog/2020-03-07-cyber-anti-ageism/thumbnail.jpg
 ---
 
 > 失敗の繰り返しや高過ぎるコストが市民の信頼を裏切ることにつながる以上、政府には正しく介入するチャンスがただの一度しか与えられていないというべきです。
 {:.big-quote}
+
+## 訳者まえがき
 
 COVID-19のパンデミックは当面収束の目処が立たず、第二波・第三波の到来も予見されている中で、各国は接触追跡アプリの開発に取り組んでいます。日本でも「接触確認アプリ」の開発が発表されました。安倍首相は5月25日に緊急事態宣言を全国で解除し、[記者会見](https://www.kantei.go.jp/jp/98_abe/statement/2020/0525kaiken.html)で接触確認アプリの利用を広く呼びかけました：
 
@@ -24,7 +26,7 @@ COVID-19のパンデミックは当面収束の目処が立たず、第二波・
 
 なお、この論文で “Digital Tracking and Tracing (DTT) Systems” と呼ばれているものは、一般的には “contact tracing apps” （接触追跡アプリ）と呼ばれています。また、日本政府が開発中のものは「接触確認アプリ」と呼ばれています。また、各国の状況については[平和博氏の5月15日の記事](https://news.yahoo.co.jp/byline/kazuhirotaira/20200515-00178594/)で詳しく紹介されています。
 
-［以下抄訳］
+［抄訳ここから］
 
 Ethical Guidelines for SARS-CoV-2 Digital Tracking and Tracing Systems  
 by Jessica Morley, Josh Cowls, Mariarosaria Taddeo, Luciano Floridi  
@@ -50,7 +52,7 @@ EUや国連の様々な原理原則[^fn-principles]が、感染症の拡大を�
 
 図1. DTTシステムの倫理的設計を確認するためのフレームワーク
 
-［ここから図1］
+［図1ここから］
 
 ## DTTが倫理的に正当化できる範囲を決定するための質問
 
