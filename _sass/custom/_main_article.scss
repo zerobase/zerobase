@@ -55,6 +55,14 @@ main article section.content.body {
     overflow-x: scroll;
   }
 
+  .big-quote {
+    border: none;
+    margin: 0;
+    padding: $base-spacing;
+    font-size: modular-scale(2);
+    // font-style: italic;
+  }
+
   figure {
     margin: $base-spacing*2 0;
     padding: 0 5%;
