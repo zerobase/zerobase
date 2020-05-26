@@ -2,6 +2,7 @@
 
 body {
   margin: 0;
+  word-wrap: break-word;
 
   @include media($medium-viewport) {
     // font-size: modular-scale(1);
