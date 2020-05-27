@@ -1,7 +1,7 @@
 ---
 categories: about
 permalink: /about/philosophy.html
-thumbnail: /images/about/thumbnail.png
+thumbnail: /images/thumbnail.png
 title: 思想と手法
 description: インフォメーション・アーキテクトである私のモットーは「思想を実装する」です。よりよい社会を実現していくために、知識を共有し、流通し、活用し、実装していくことが大事だと考えています。
 redirect_from: /philosophy/
