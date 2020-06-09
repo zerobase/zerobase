@@ -1,6 +1,6 @@
 main article header {
   .meta.subtitle {
-    font-size: modular-scale(-1);
+    font-size: modular-scale(3);
     margin-left: $base-padding;
   }
 
@@ -19,8 +19,6 @@ main article section.content.body {
     content: "";
     clear: both;
   }
-
-  margin-top: $base-spacing;
 
   a {
     text-decoration: underline;
@@ -58,9 +56,9 @@ main article section.content.body {
   .big-quote {
     border: none;
     margin: 0;
-    padding: $base-spacing;
+    padding: $base-spacing * 0.5;
     font-size: modular-scale(2);
-    // font-style: italic;
+    font-style: italic;
   }
 
   figure {

@@ -3,14 +3,6 @@
 body {
   margin: 0;
   word-wrap: break-word;
-
-  @include media($medium-viewport) {
-    // font-size: modular-scale(1);
-  }
-
-  @include media($large-viewport) {
-    font-size: modular-scale(1);
-  }
 }
 
 .container {
@@ -20,7 +12,6 @@ body {
 
 main {
   padding: $base-padding;
-  margin: $base-padding 0 0 0;
   h1, h2, h3, h4, h5, h6 {
     margin: $base-spacing/2 0 $base-spacing/2 0;
   }
@@ -30,12 +21,7 @@ small,
 .small,
 .footnote,
 .footnotes {
-  font-size: $base-font-size * 0.8;
-  //color: darken($base-font-color, 10);
-
-  a {
-    //color: darken($base-link-color, 10);
-  }
+  font-size: modular-scale(-1);
 }
 
 .footnote {

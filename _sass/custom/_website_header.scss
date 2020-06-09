@@ -37,38 +37,6 @@
     }
   }
 
-  .breadcrumbs.wrapper {
-    padding: $base-padding 0;
-    background-color: $base-main-color;
-
-    .breadcrumbs.container {
-      .title {
-        font-size: modular-scale(-1);
-
-        h1 {
-          display: inline;
-          font-weight: inherit;
-          font-size: inherit;
-          line-height: inherit;
-        }
-        .vid {
-          $size: 2em;
-          width: $size;
-          height: $size;
-          display: inline;
-          vertical-align: middle;
-        }
-      }
-      font-size: modular-scale(4);
-      @include media($medium-viewport) {
-        font-size: modular-scale(7);
-      }
-      @include media($large-viewport) {
-        font-size: modular-scale(9);
-      }
-    }
-  }
-
   .lead.wrapper {
     padding: $base-padding 0;
     background-color: $base-font-color;

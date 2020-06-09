@@ -1,6 +1,12 @@
 .tab-navigation {
-  font-size: modular-scale(-1);
+  padding: $base-spacing * 0.5;
   text-align: center;
+
+  .vid {
+    width: 2em;
+    height: 2em;
+    vertical-align: top;
+  }
 
   ul {
     li {

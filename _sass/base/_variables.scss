@@ -6,11 +6,11 @@ $header-font-family: $base-font-family;
 
 // Unit Sizes
 $em-base: 20px;
-$modular-scale-base: em($em-base);
-$modular-scale-ratio: 1.1;
+$modular-scale-base: $em-base;
+$modular-scale-ratio: $major-second;
 
 // Font Sizes
-$base-font-size: em($em-base);
+$base-font-size: $em-base;
 $h1-font-size: modular-scale(5);
 $h2-font-size: modular-scale(4);
 $h3-font-size: modular-scale(3);
@@ -25,7 +25,7 @@ $header-line-height: 1.5;
 // Other Sizes
 $base-border-radius: 0.5em;
 $base-spacing: $base-line-height * 1em;
-$base-padding: 0.5em;
+$base-padding: 1em;
 $base-z-index: 0;
 
 // Colors
