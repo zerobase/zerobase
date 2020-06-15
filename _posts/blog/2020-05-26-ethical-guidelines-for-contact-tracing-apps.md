@@ -4,8 +4,10 @@ title: 新型コロナウイルス接触追跡アプリのための倫理的指�
 subtitle: 正しいアプリが正しく作られているかを評価するための16の問い
 description: この4月にオックスフォード・インターネット研究所とアラン・チューリング研究所に所属する四人の研究者たちが共同で新型コロナウイルス接触追跡アプリのための倫理的指針（ガイドライン）を発表しました。共著者には情報倫理学で知られるルチアーノ・フロリディ教授がいます。
 show_description: true
-# thumbnail: /images/blog/2020-03-07-cyber-anti-ageism/thumbnail.jpg
+thumbnail: /images/blog/2020-05-26-ethical-guidelines-for-contact-tracing-apps/contact-tracing-app.png
 ---
+
+![接触追跡アプリのイラスト](/images/blog/2020-05-26-ethical-guidelines-for-contact-tracing-apps/contact-tracing-app.png)
 
 > 失敗の繰り返しや高過ぎるコストが市民の信頼を裏切ることにつながる以上、政府には正しく介入するチャンスがただの一度しか与えられていないというべきです。
 {:.big-quote}
