@@ -137,10 +137,13 @@ main article section.content.body {
       display: inline-block;
       text-align: center;
       line-height: 1.0;
-      font-size: modular-scale(-6);
+      font-size: modular-scale(-3);
       img {
-        width: 4em;
+        width: 5em;
         margin: 2px;
+      }
+      a {
+        text-decoration: none;
       }
     }
   }

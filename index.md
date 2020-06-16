@@ -15,6 +15,15 @@ description: インフォメーション・アーキテクト石橋秀仁のウ�
 
 <!-- [過去の仕事](/about/works.html)。[顧問サービス](/about/advice.html)。 -->
 
+## Hide Ishi
+
+Information Architect,  
+Zerobase Inc
+
+He is a design activist who is exploring alternative methods of designing things from philosophy to implementation. He is always troubled with anti-modern reactionists and obscurantists in Japan. He has two homes in metropolitan Tokyo and livable Fukuoka. He likes to travel and see art exhibitions.
+
+## Contact
+
 - <a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/about/2015-01-14-profile/Twitter_logo_blue.png"><br>Twitter</a>
 - <a href="https://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo.png"><br>Medium</a>
 - <a href="https://www.facebook.com/ishibashi.hideto"><img alt="Facebook" src="/images/about/2015-01-14-profile/FB-f-Logo__blue_100.png"><br>Facebook</a>
@@ -22,14 +31,8 @@ description: インフォメーション・アーキテクト石橋秀仁のウ�
 - <a href="https://github.com/zerobase"><img alt="GitHub" src="/images/about/2015-01-14-profile/GitHub-Mark.png"><br>GitHub</a>
 - <a href="https://www.linkedin.com/in/ishibashihideto"><img alt="LinkedIn" src="/images/about/2015-01-14-profile/LinkedIn-InBug-2CRev.png"><br>LinkedIn</a>
 - <a href="mailto:hide@hideishi.com"><img alt="email" src="/images/about/2015-01-14-profile/mail_icon.png"><br>email</a>
+- <a href="/hideishi.pubkey.asc"><img alt="PGP" src="/images/about/2015-01-14-profile/np_encrypted_56905_000000.png"><br>PGP</a>
 {:class="external-link"}
-
-## Hide Ishi
-
-Information Architect,  
-Zerobase Inc
-
-He is a design activist who is exploring alternative methods of designing things from philosophy to implementation. He is always troubled with anti-modern reactionists and obscurantists in Japan. He has two homes in metropolitan Tokyo and livable Fukuoka. He likes to travel and see art exhibitions.
 
 ## プロジェクト
 
