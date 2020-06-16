@@ -25,7 +25,7 @@ small,
 }
 
 .footnote {
-  text-decoration: underline;
+  text-decoration: underline $base-link-underline-color;
 }
 
 @import "extends/border-top";

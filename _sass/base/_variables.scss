@@ -36,6 +36,7 @@ $base-font-color: darken($base-main-color, 25);
 
 // Link Colors
 $base-link-color: lighten($base-font-color, 20);
+$base-link-underline-color: lighten($base-link-color, 20);
 $base-hover-link-color: darken($base-link-color, 20);
 $base-button-color: darken($base-link-color, 10);
 $base-button-text-color: $base-background-color;

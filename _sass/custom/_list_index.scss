@@ -1,7 +1,6 @@
 main.list.index {
   .item {
     $color: $base-font-color;
-    $hover-color: $base-link-color;
     margin: $base-spacing 0;
 
     .link {
@@ -11,11 +10,6 @@ main.list.index {
       justify-content: center;
       color: $color;
       
-      &:hover,
-      &:focus {
-        color: $hover-color;
-      }
-
       .thumbnail {
         flex: 1 0 150px;
         margin: 0;

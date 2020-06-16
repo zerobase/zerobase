@@ -21,7 +21,7 @@ main article section.content.body {
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: underline $base-link-underline-color;
   }
   
   .page-description {
