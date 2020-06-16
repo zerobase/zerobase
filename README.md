@@ -23,12 +23,21 @@ CAUTION: You shouldn't deploy generated files since URLs in them are 'localhost.
 Deployment
 ----------
 
-Since GitHub Actions configured, just push the master branch to GitHub, then the CI will deploy to Firebase Hosting.
+Since GitHub Actions configured, just push the master branch to GitHub, then it will deploy the website to <https://hideishi.com/>.
+
+Or manually,
+
+```console
+$ bundle exec jekyll build --future && yarn run firebase deploy
+```
+
+NOTE: Run `yarn install` to install firebase CLI, then `yarn run firebase login`.
 
 Maintenance
 ----------
 
 - `bundle update` -> [The GitHub Pages Gem](https://pages.github.com/versions/)
+- `npm update` -> firebase-tools
 
 Notice
 ------
