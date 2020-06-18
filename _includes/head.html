@@ -1,35 +1,20 @@
+{%- capture page_title %}{% if page.url != "/" %}{% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %}{% endif %}{% else %}{{ site.title }}{% endif %}{% endcapture -%}
+{%- capture page_image %}{% if page.thumbnail %}{{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.thumbnail | prepend: site.baseurl | prepend: site.url }}{% endif %}{% endcapture -%}
+{%- capture page_description %}{% if page.description %}{{ page.description | strip_html | condense_spaces | truncate:150 }}{% else %}{{ site.description }}{% endif %}{% endcapture -%}
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-  {% capture page_title %}{% if page.url != "/" %}{% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %}{% endif %}{% else %}{{ site.title }}{% endif %}{% endcapture %}
-  {% capture page_image %}{% if page.thumbnail %}{{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.thumbnail | prepend: site.baseurl | prepend: site.url }}{% endif %}{% endcapture %}
-  {% capture page_description %}{% if page.description %}{{ page.description | strip_html | condense_spaces | truncate:150 }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
-
-  <title>
-    {{ page_title }}{% if page.url != "/" %} | {{ site.title }}{% endif %}
-  </title>
-
+  <title>{{ page_title }}{% if page.url != "/" %} | {{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description | strip_html | condense_spaces | truncate:150 }}{% else %}{{ site.description }}{% endif %}">
-  {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
-
+  {%- if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif -%}
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/print.css" | prepend: site.baseurl }}" media="print">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  {% if page.previous %}<link rel="prev" href="{{ page.previous.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">{% endif %}
-  {% if page.next %}<link rel="next" href="{{ page.next.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">{% endif %}
   <link href="/favicon.png" type="image/png" rel="icon">
   <link href="/favicon.png" rel="apple-touch-icon">
   <link rel="pgpkey" href="/hideishi.pubkey.asc"/>
   <link href="{{ site.main_feed }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
-
-  {% assign next_post_key = page.categories[0] | append: "_next" %}
-  {% if page[next_post_key] %}
-    {% assign next_post = page[next_post_key] %}
-    <link rel="next" href="{{ next_post.url }}">
-  {% endif %}
-
   <meta property="og:title" content="{{ page_title }}">
   <meta property="og:description" content="{{ page_description }}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -38,7 +23,6 @@
   <meta property="og:locale" content="{{ site.facebook_locale }}">
   <meta property="og:type" content="article">
   <meta property="fb:app_id" content="{{ site.facebook_app_id }}">
-
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:creator" content="@{{ site.twitter_user }}" />
   <meta name="twitter:title" content="{{ page_title }}" />

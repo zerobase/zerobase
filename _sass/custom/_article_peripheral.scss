@@ -13,14 +13,6 @@ article footer {
       vertical-align: bottom;
     }
   }
-
-  .sequential.link {
-    @extend %button;
-    .meta.subtitle {
-      font-size: modular-scale(-1);
-      margin-left: 0.5em;
-    }
-  }
 }
 
 article header {
