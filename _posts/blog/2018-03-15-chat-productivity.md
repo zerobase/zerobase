@@ -58,7 +58,7 @@ thumbnail: /images/blog/2018-03-15-chat-productivity/sad-confused-emoticon.png
 
 個々人にとって「自分に関係ない情報」を減らし、「自分に関係ある情報」の比率を上げなければなりません。そのためには、チームごと／テーマごとのチャットルームを用意し、チャットルームごとのメンバーを適切に・最小限に配置することが有効です。
 
-![PCでチャットしている様子を表現したイラスト](/images/blog/2018-03-15-chat-productivity/chat-image.png){:.fig-medium}
+![PCでチャットしている様子を表現したイラスト](/images/blog/2018-03-15-chat-productivity/chat-image.png)
 
 以上、チャット活用の原理として「同期」「割り込み」「ノイズ」の問題について論じてきました。次は、チャットを活用するために併用すべきツールを紹介します。
 
@@ -124,9 +124,9 @@ thumbnail: /images/blog/2018-03-15-chat-productivity/sad-confused-emoticon.png
 
 能率を上げるために、同期型コミュニケーションの人数も減らしましょう。また、いつでもビデオ会議をすぐ開始できるよう、チャット導入時にビデオ会議のセットアップも済ませておきましょう。
 
-## 結論
+![職場で座禅を組んで浮遊している女性のイラスト](/images/blog/2018-03-15-chat-productivity/mindful-work.png)
 
-![職場で座禅を組んで浮遊している女性のイラスト](/images/blog/2018-03-15-chat-productivity/mindful-work.png){:.fig-medium}
+## 結論
 
 チャットの活用には、かなり高いレベルのITリテラシーが必要です。「同期」「割り込み」「ノイズ」の問題を理解し、それを解決しなければなりません。そのためには、チャットと様々なITツールを併用しなければなりません。
 

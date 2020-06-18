@@ -78,28 +78,23 @@ main article section.content.body {
     }
   }
 
+  p > img,
   .fig {
     width: 100%;
-    padding: 0 10%;
+    padding: $base-spacing 10%;
+    text-align: center;
   }
 
   .fig-medium {
-    width: 100%;
-    padding: $base-spacing 20%;
+    @include media($large-viewport) {
+      padding: 0 0 0 2em;
+      padding: $base-spacing 20%;
+    }
   }
 
   .fig-small {
-    width: 100%;
-    padding: $base-spacing 30%;
-
-    @include media($medium-viewport) {
-      padding: 0 0 0 2em;
-      width: 40%;
-      float: right;
-    }
-
     @include media($large-viewport) {
-      padding: 0 0 0 2em;
+      padding: 0.5em 0 0 2em;
       width: 40%;
       float: right;
     }

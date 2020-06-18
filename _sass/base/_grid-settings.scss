@@ -9,6 +9,4 @@ $max-width: 760px;
 
 // Neat Breakpoints
 $first-breakpoint-value: 480px;
-$second-breakpoint-value: 760px;
-$medium-viewport: new-breakpoint(min-width $first-breakpoint-value max-width $second-breakpoint-value 9);
-$large-viewport: new-breakpoint(min-width $second-breakpoint-value + 1 12);
+$large-viewport: new-breakpoint(min-width $first-breakpoint-value + 1 12);

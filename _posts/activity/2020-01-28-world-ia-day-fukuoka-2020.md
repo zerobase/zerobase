@@ -5,9 +5,12 @@ subtitle: "来るべきユーザーのためのインクルーシブな美術館
 description: "情報アーキテクチャ(IA)のグローバル・イベントWIADの福岡支部を立ち上げ、美術館のサービス・デザインを考えるワークショップを行いました。"
 show_description: true
 thumbnail: /images/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png
+date: 2020-02-22
+redirect_from:
+  - /activity/2020/01/28/world-ia-day-fukuoka-2020.html
 ---
 
-![World IA Day のロゴ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png){:.fig-medium}
+![World IA Day のロゴ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png)
 
 これはWorld IA Day Fukuoka 2020で実施したワークショップのイベント・レポート編です。[ワークショップの理論編](/blog/2020/04/01/world-ia-day-fukuoka-2020.html)もあわせてご覧ください。
 
@@ -73,7 +76,7 @@ World IA Day の福岡支部 World IA Day Fukuoka を立ち上げ、 [World IA D
 
 多様な利用者による様々な美術館利用をすべて肯定できるような**インクルーシブ**（包摂的）なサービスのあり方を考えてもらいたいと思いました。そのような狙いでカード・ゲーム型の発想ワークショップを設計しました。
 
-￼![World IA Day Fukuoka 2020 のワークショップで用いる予定だったカード・デッキ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/card-deck.jpeg){:.fig-small}
+![World IA Day Fukuoka 2020 のワークショップで用いる予定だったカード・デッキ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/card-deck.jpeg){:.fig-small}
 
 当初はカード・デッキを用いて福岡アジア美術館で開催する予定でした。しかし、新型コロナウイルスの感染拡大が懸念される状況となり、急遽オンラインでの開催に切り替えました（もともと現地会場とオンラインの両方でワークショップを実施するつもりではありました）。オンライン会議システムの[Zoom](https://zoom.us/)とオンライン・ホワイトボードの[Miro](https://miro.com/)を用いたオンライン版を用意しました。
 
@@ -81,7 +84,7 @@ World IA Day の福岡支部 World IA Day Fukuoka を立ち上げ、 [World IA D
 
 {% figure caption:"World IA Day Fukuoka 2020 のワークショップで用いたMiroホワイトボードのテンプレート（※画像をクリックでPDF版へ）" %}
 [
-    ![](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace (Master).jpg){:.fig-medium}
+    ![](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace (Master).jpg)
 ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace (Master).pdf)
 {% endfigure %}
 
@@ -93,31 +96,31 @@ World IA Day の福岡支部 World IA Day Fukuoka を立ち上げ、 [World IA D
 
 {% figure caption:"ルーム1の成果物（※画像をクリックでPDF版へ）" %}
 [
-    ![](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 1.jpg){:.fig-medium}
+    ![](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 1.jpg)
 ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 1.pdf)
 {% endfigure %}
 
 {% figure caption:"ルーム2の成果物（※画像をクリックでPDF版へ）" %}
 [
-    ![](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 2.jpg){:.fig-medium}
+    ![](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 2.jpg)
 ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 2.pdf)
 {% endfigure %}
 
 {% figure caption:"ルーム3の成果物（※画像をクリックでPDF版へ）" %}
 [
-    ![](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 3.jpg){:.fig-medium}
+    ![](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 3.jpg)
 ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 3.pdf)
 {% endfigure %}
 
 {% figure caption:"ルーム4の成果物（※画像をクリックでPDF版へ）" %}
 [
-    ![](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 4.jpg){:.fig-medium}
+    ![](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 4.jpg)
 ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace 4.pdf)
 {% endfigure %}
 
 {% figure caption:"すべての成果物を整理したもの（※画像をクリックでPDF版へ）" %}
 [
-    ![](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD 2020 Fukuoka Result.jpg){:.fig-medium}
+    ![](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD 2020 Fukuoka Result.jpg)
 ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD 2020 Fukuoka Result.pdf)
 {% endfigure %}
 
