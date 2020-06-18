@@ -7,4 +7,5 @@ group :jekyll_plugins do
   gem 'jekyll-linkpreview', :github => 'zerobase/jekyll-linkpreview'
   gem 'jekyll-figure'
   gem 'jekyll-extlinks'
+  gem "jekyll-tidy"
 end
