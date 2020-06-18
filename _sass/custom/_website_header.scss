@@ -1,18 +1,40 @@
 .site.header {
   padding: $base-padding;
-  $color: $base-background-color;
   background-color: $base-main-color;
 
-  &, a, li {
-    color: $color;
-  }
-
-  a:focus {
-    outline-color: $color;
-  }
-
-  a:hover,
-  a:focus {
-    color: darken($color, 20);
+  .top_navigation {
+    $color: $base-background-color;
+    text-align: center;
+  
+    &, a, li {
+      color: $color;
+    }
+  
+    a:focus {
+      outline-color: $color;
+    }
+  
+    a:hover,
+    a:focus {
+      color: darken($color, 20);
+    }
+  
+    .vid {
+      width: 2em;
+      height: 2em;
+      vertical-align: top;
+    }
+  
+    ul {
+      li {
+        list-style: none;
+        display: inline-block;
+        padding-right: 0.3em;
+  
+        &.active {
+          text-decoration: underline $base-link-underline-color;
+        }
+      }
+    }
   }
 }
