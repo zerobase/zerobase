@@ -1,41 +1,15 @@
 // This is the root of custom stylesheets imported by css/main.scss
 
-body {
-  margin: 0;
-  word-wrap: break-word;
-}
-
-.container {
-  @include outer-container;
-  padding: 0;
-}
-
-main {
-  padding: $base-padding;
-  h1, h2, h3, h4, h5, h6 {
-    margin: $base-spacing/2 0 $base-spacing/2 0;
-  }
-}
-
-small,
-.small,
-.footnote,
-.footnotes {
-  font-size: modular-scale(-1);
-}
-
-.footnote {
-  text-decoration: underline $base-link-underline-color;
-}
-
-@import "extends/border-top";
-
+@import "article_body";
+@import "article_peripheral";
 @import "audio";
+@import "base";
 @import "commands_list";
+@import "figure";
+@import "jekyll-linkpreview";
 @import "list_index";
-@import "main_article";
-@import "tab_navigation";
+@import "responsive_embed";
+@import "top_navigation";
+@import "top_external_link";
 @import "website_footer";
 @import "website_header";
-
-@import "jekyll-plugins/linkpreview";

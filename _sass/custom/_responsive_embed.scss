@@ -1,0 +1,24 @@
+.article-body {
+  .responsive.embed {
+    margin: $base-spacing 0;
+    height: 0;
+    overflow: hidden;
+    position: relative;
+
+    embed,
+    object,
+    iframe {
+      @include position(absolute, 0px null null 0px);
+      @include size(100%);
+    }
+  }
+
+  .responsive.embed.aspect16x9 {
+
+    padding-bottom: 56.25%;
+  }
+
+  .responsive.embed.aspect4x3 {
+    padding-bottom: 75%;
+  }
+}

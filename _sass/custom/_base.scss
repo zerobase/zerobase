@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  word-wrap: break-word;
+}
+
+.container {
+  @include outer-container;
+  padding: 0;
+}
+
+main {
+  padding: $base-padding;
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin: $base-spacing/2 0 $base-spacing/2 0;
+  }
+}
+
+small,
+.small,
+.footnote,
+.footnotes {
+  font-size: modular-scale(-1);
+}
+
+.footnote {
+  text-decoration: underline $base-link-underline-color;
+}

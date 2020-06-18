@@ -1,0 +1,36 @@
+article header,
+article footer {
+  .sharing {
+    vertical-align: bottom;
+    margin-top: $base-spacing*2;
+    margin-bottom: $base-spacing;
+
+    .twitter-share-button {
+      vertical-align: bottom;
+    }
+
+    .fb_iframe_widget_fluid {
+      vertical-align: bottom;
+    }
+  }
+
+  .sequential.link {
+    @extend %button;
+    .meta.subtitle {
+      font-size: modular-scale(-1);
+      margin-left: 0.5em;
+    }
+  }
+}
+
+article header {
+  .meta.subtitle {
+    font-size: modular-scale(3);
+    margin-left: $base-padding;
+  }
+
+  .meta.time {
+    font-size: modular-scale(-1);
+    margin-top: $base-spacing / 2;
+  }
+}

@@ -1,29 +1,20 @@
 <header class="site header">
-  <div class="breadcrumbs wrapper">
-    <nav class="tab-navigation container">
-      <ul class="tab-navigation-items">
-        <li {% if page.url == '/' %}class="active"{% endif %}>
-          <a href="/">
-            <img alt="石橋秀仁の顔の写真" src="/images/site_id.png" class="vid">
-          </a>
-        </li>
-        <li {% if page.url contains '/blog/' %}class="active"{% endif %}>
-          <a href="/blog/">ブログ</a>
-        </li>
-        <li {% if page.url contains '/activity/' %}class="active"{% endif %}>
-          <a href="/activity/">活動</a>
-        </li>
-        <li {% if page.url contains '/podcast/' %}class="active"{% endif %}>
-          <a href="/podcast/">Podcast</a>
-        </li>
-      </ul>
-    </nav>
-  </div>
-  {% if site.lead %}
-  <div class="lead wrapper">
-    <div class="lead container">
-      {{ site.lead }}
-    </div>
-  </div>
-  {% endif %}
+  <nav class="top_navigation container">
+    <ul class="top_navigation-items">
+      <li {% if page.url == '/' %}class="active"{% endif %}>
+        <a href="/">
+          <img alt="石橋秀仁の顔の写真" src="/images/site_id.png" class="vid">
+        </a>
+      </li>
+      <li {% if page.url contains '/blog/' %}class="active"{% endif %}>
+        <a href="/blog/">ブログ</a>
+      </li>
+      <li {% if page.url contains '/activity/' %}class="active"{% endif %}>
+        <a href="/activity/">活動</a>
+      </li>
+      <li {% if page.url contains '/podcast/' %}class="active"{% endif %}>
+        <a href="/podcast/">Podcast</a>
+      </li>
+    </ul>
+  </nav>
 </header>

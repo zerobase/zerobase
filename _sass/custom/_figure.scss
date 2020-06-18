@@ -1,0 +1,40 @@
+.article-body {
+  figure {
+    margin: $base-spacing*2 0;
+    padding: 0 5%;
+    display: flex;
+    align-items: flex-start;
+    flex-flow: row wrap;
+    justify-content: center;
+
+    &.center { text-align: center; }
+    &.left { text-align: left; }
+    &.right { text-align: right; }
+
+    figcaption {
+      font-size: modular-scale(-1);
+    }
+  }
+
+  p > img,
+  .fig {
+    width: 100%;
+    padding: $base-spacing 10%;
+    text-align: center;
+  }
+
+  .fig-medium {
+    @include media($large-viewport) {
+      padding: 0 0 0 2em;
+      padding: $base-spacing 20%;
+    }
+  }
+
+  .fig-small {
+    @include media($large-viewport) {
+      padding: 0.5em 0 0 2em;
+      width: 40%;
+      float: right;
+    }
+  }
+}
