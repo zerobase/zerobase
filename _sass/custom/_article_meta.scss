@@ -1,0 +1,62 @@
+.article.meta {
+  $color: $base-font-color;
+  margin: $base-spacing 0;
+
+  .link {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: $color;
+    
+    .thumbnail {
+      flex: 1 0 150px;
+      width: 100%;
+      margin: 0;
+      padding: 20px;
+      object-fit: contain;
+      object-position: 50% 50%;
+      
+      @include media($large-viewport) {
+        flex: 1 0 150px;
+        margin: 0;
+        padding: 20px;
+        min-width: 100px;
+        min-height: 100px;
+        max-width: 200px;
+        max-height: 200px;
+        object-fit: contain;
+        object-position: 0% 0%;
+      }
+    }
+
+    .text {
+      flex: 1 2 350px;
+      padding: 10px 20px;
+      // margin-left: $base-spacing;
+
+      .title {
+        font-size: modular-scale(2);
+        margin: 0 0 $base-spacing/3 0;
+
+        .meta.title {
+          margin: 0;
+          font-size: modular-scale(1);
+        }
+        
+        .meta.subtitle {
+          font-size: modular-scale(-2);
+          margin-left: $base-padding;
+        }
+      }
+      
+      .meta.description {
+        margin-bottom: $base-padding;
+      }
+
+      .meta.time {
+        font-size: modular-scale(-1);
+      }
+    }
+  }
+}

@@ -1,21 +1,19 @@
-.article-body {
-  .external-link {
-    list-style-type: none;
-    padding-left: 0;
-    margin: $base-spacing 0;
+.external-link {
+  list-style-type: none;
+  padding-left: 0;
+  margin: $base-spacing 0;
 
-    li {
-      display: inline-block;
-      text-align: center;
-      line-height: 1.0;
-      font-size: modular-scale(-3);
-      img {
-        width: 5em;
-        margin: 2px;
-      }
-      a {
-        text-decoration: none;
-      }
+  li {
+    display: inline-block;
+    text-align: center;
+    line-height: 1.0;
+    font-size: modular-scale(-3);
+    img {
+      width: 5em;
+      margin: 2px;
+    }
+    a {
+      text-decoration: none;
     }
   }
 }

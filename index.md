@@ -25,7 +25,7 @@ Zerobase Inc
 
 He is a design activist who is exploring alternative methods of designing things from philosophy to implementation. He is always troubled with anti-modern reactionists and obscurantists in Japan. He has two homes in metropolitan Tokyo and livable Fukuoka. He likes to travel and see art exhibitions.
 
-## Contact
+## コンタクト
 
 - <a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/about/2015-01-14-profile/Twitter_logo_blue.png"><br>Twitter</a>
 - <a href="https://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo.png"><br>Medium</a>
@@ -36,6 +36,16 @@ He is a design activist who is exploring alternative methods of designing things
 - <a href="mailto:hide@hideishi.com"><img alt="email" src="/images/about/2015-01-14-profile/mail_icon.png"><br>email</a>
 - <a href="/hideishi.pubkey.asc"><img alt="PGP" src="/images/about/2015-01-14-profile/np_encrypted_56905_000000.png"><br>PGP</a>
 {:class="external-link"}
+
+## イチオシ記事
+
+{% assign posts = site.posts | where: "featured", true %}
+
+<ul class="featured posts">
+  {% for _post in posts %}
+    <li class="post item">{% include article_meta.html %}</li>
+  {% endfor %}
+</ul>
 
 ## プロジェクト
 
