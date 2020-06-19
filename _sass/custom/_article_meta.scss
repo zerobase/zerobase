@@ -8,6 +8,7 @@
     flex-wrap: wrap;
     justify-content: center;
     color: $color;
+    text-decoration: none;
     
     .thumbnail {
       flex: 1 0 150px;
@@ -37,6 +38,8 @@
 
       .title {
         font-size: modular-scale(2);
+        font-weight: bold;
+        line-height: $header-line-height;
         margin: 0 0 $base-spacing/3 0;
 
         .meta.title {

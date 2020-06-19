@@ -6,8 +6,7 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
-@import "bourbon/bourbon"; // http://bourbon.io/
-@import "base/base"; // http://bitters.bourbon.io/
-@import "neat/neat"; // http://neat.bourbon.io/
-
-@import "custom/styles";
+@import "normalize"; // https://github.com/necolas/normalize.css
+@import "bourbon/bourbon"; // https://github.com/thoughtbot/bourbon
+@import "neat/neat"; // https://github.com/thoughtbot/neat
+@import "custom/custom";

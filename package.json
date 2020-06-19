@@ -18,5 +18,8 @@
   "homepage": "https://github.com/zerobase/ja.ishibashihideto.net#readme",
   "devDependencies": {
     "firebase-tools": "^7.12.1"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
   }
 }

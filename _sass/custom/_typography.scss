@@ -1,0 +1,90 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    background-color: $base-background-color;
+    color: $base-font-color;
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $header-font-family;
+    line-height: $header-line-height;
+    margin: 0;
+}
+
+h1 {
+    font-size: modular-scale(5);
+}
+
+h2 {
+    font-size: modular-scale(4);
+}
+
+h3 {
+    font-size: modular-scale(3);
+}
+
+h4 {
+    font-size: modular-scale(2);
+}
+
+h5 {
+    font-size: modular-scale(1);
+}
+
+h6 {
+    font-size: modular-scale(0);
+}
+
+p {
+    margin: 0 0 ($base-spacing / 2);
+}
+
+a {
+    color: $base-link-color;
+    text-decoration: none;
+    
+    &:hover {
+        color: $base-hover-link-color;
+        text-decoration: underline $base-link-underline-color;
+    }
+    
+    &:active, &:focus {
+        color: $base-hover-link-color;
+        text-decoration: underline $base-link-underline-color;
+    }
+}
+
+hr {
+    border-bottom: $base-border;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    margin: $base-spacing 0;
+}
+
+img,
+picture {
+    margin: 0;
+    max-width: 100%;
+}
+
+blockquote {
+    border-left: 2px solid $base-border-color;
+    margin: $base-spacing 0;
+    padding-left: $base-spacing / 2;
+}
+
+cite {
+    font-style: italic;
+    
+    &:before {
+        content: "\2014 \00A0";
+    }
+}
