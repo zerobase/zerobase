@@ -16,26 +16,12 @@ description: インフォメーション・アーキテクト石橋秀仁のウ�
 
 久留米高専卒業後、インターネットサービス企業のプログラマーを経て、2004年に[ゼロベース][zerobase]を創業。同年ベンチャーキャピタル[GMO-VP][gmo-vp]のデザインフェローとして[スタートアップのコンサルティング][startup-consulting]を開始。[情報アーキテクト(IA)][information-architect]として活動している。モットーは「[思想を実装する][philosophy]」。[アートファン][art-experience]。
 
-<!-- [過去の仕事](/about/works.html)。[顧問サービス](/about/advice.html)。 -->
-
 ## Hide Ishi
 
 Information Architect,  
 Zerobase Inc
 
 He is a design activist who is exploring alternative methods of designing things from philosophy to implementation. He is always troubled with anti-modern reactionists and obscurantists in Japan. He has two homes in metropolitan Tokyo and livable Fukuoka. He likes to travel and see art exhibitions.
-
-## コンタクト
-
-- <a href="https://twitter.com/zerobase"><img alt="Twitter" src="/images/about/2015-01-14-profile/Twitter_logo_blue.png"><br>Twitter</a>
-- <a href="https://medium.com/@zerobase/"><img alt="Medium" src="/images/about/2015-01-14-profile/Medium-logo.png"><br>Medium</a>
-- <a href="https://www.facebook.com/ishibashi.hideto"><img alt="Facebook" src="/images/about/2015-01-14-profile/FB-f-Logo__blue_100.png"><br>Facebook</a>
-- <a href="https://www.instagram.com/zerobase000/"><img alt="Instagram" src="/images/about/2015-01-14-profile/IG_Glyph_Fill.png"><br>Instagram</a>
-- <a href="https://github.com/zerobase"><img alt="GitHub" src="/images/about/2015-01-14-profile/GitHub-Mark.png"><br>GitHub</a>
-- <a href="https://www.linkedin.com/in/ishibashihideto"><img alt="LinkedIn" src="/images/about/2015-01-14-profile/LinkedIn-InBug-2CRev.png"><br>LinkedIn</a>
-- <a href="mailto:hide@hideishi.com"><img alt="email" src="/images/about/2015-01-14-profile/mail_icon.png"><br>email</a>
-- <a href="/hideishi.pubkey.asc"><img alt="PGP" src="/images/about/2015-01-14-profile/np_encrypted_56905_000000.png"><br>PGP</a>
-{:class="external-link"}
 
 ## イチオシ記事
 
@@ -66,6 +52,12 @@ World IA Day Fukuoka
 
 Hide 'Like' Notifications
 : Facebookから「いいね！されました」通知を消すための[Chrome拡張機能](https://chrome.google.com/webstore/detail/hide-likes-on-facebook-no/kbfakkkdllpodegeoggpfcmjabodhpca)を2013年にリリースしました（※ウェブサイト版のみ対応）。Facebookは「ドーパミン・ハック」でユーザーを中毒にします。それに抵抗するための道具です。（海外のクチコミ：[1](https://www.quora.com/How-do-you-turn-off-like-notifications-on-Facebook)、[2](https://www.tubblog.co.uk/blog/tech-reviews/hide-facebook-like-notifications/)）
+
+<ul class="contacts">
+  {% for contact in site.data.contacts %}
+    <li><a href="{{ contact.link }}"><img alt="{{ contact.name }}" src="{{ contact.thumbnail }}"><br>{{ contact.name }}</a></li>
+  {% endfor %}
+</ul>
 
 [information-architect]: /blog/2014/04/25/future-of-information-architect.html
 [philosophy]: /about/philosophy.html
