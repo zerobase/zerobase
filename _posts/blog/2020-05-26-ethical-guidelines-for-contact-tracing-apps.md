@@ -3,7 +3,7 @@ featured: true
 categories: blog
 title: 新型コロナウイルス接触追跡アプリのための倫理的指針
 subtitle: 正しいアプリが正しく作られているかを評価するための16の問い
-description: "情報倫理学で知られるルチアーノ・フロリディ教授らが、新型コロナウイルス接触追跡アプリのための倫理的指針を発表しました。"
+description: "情報倫理学で知られるルチアーノ・フロリディ教授らが発表した新型コロナウイルス接触追跡アプリのための倫理的指針を翻訳しました。"
 show_description: true
 thumbnail: /images/blog/2020-05-26-ethical-guidelines-for-contact-tracing-apps/contact-tracing-app.png
 redirect_from: /blog/2020/05/26/ethical-guideines-for-contact-tracing-apps.html
