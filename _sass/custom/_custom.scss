@@ -2,7 +2,6 @@
 
 @import "variables";
 @import "grid";
-@import "typography";
 
 @import "article_body";
 @import "article_meta";
@@ -13,9 +12,10 @@
 @import "contacts";
 @import "featured_articles";
 @import "figure";
+@import "footer";
+@import "header";
 @import "jekyll_linkpreview";
 @import "lists";
 @import "responsive_embed";
 @import "tables";
-@import "website_footer";
-@import "website_header";
+@import "typography";
