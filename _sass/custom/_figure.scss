@@ -1,7 +1,7 @@
 .article-body {
   figure {
     margin: $base-spacing*2 0;
-    padding: 0 5%;
+    padding: 0;
     display: flex;
     align-items: flex-start;
     flex-flow: row wrap;
@@ -17,9 +17,11 @@
   }
 
   p > img,
+  video,
   .fig {
     width: 100%;
-    padding: $base-spacing 10%;
+    padding: 0;
+    margin: $base-spacing 0;
     text-align: center;
   }
 
