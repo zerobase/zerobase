@@ -7,6 +7,10 @@
     clear: both;
   }
 
+  h1 {
+    margin-top: 0;
+  }
+
   a {
     text-decoration: underline $base-link-underline-color;
   }
@@ -34,10 +38,9 @@
   }
 
   .page-description {
-    margin: $base-spacing / 2;
-    padding: $base-spacing / 2;
-    color: $base-background-color;
-    background-color: $base-main-color;
+    margin: $base-spacing*2 $base-spacing/2;
+    padding: $base-spacing/2;
+    border: $base-border;
   }
   
   .big-quote {

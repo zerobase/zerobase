@@ -1,5 +1,8 @@
 .site.header {
-  padding: $base-padding;
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  padding: $base-padding * 0.5;
   background-color: $base-main-color;
 
   .top_navigation {

@@ -8,6 +8,10 @@ body {
   padding: 0;
 }
 
+.main.container {
+  padding-top: $base-spacing*2;
+}
+
 main {
   padding: $base-padding;
   
