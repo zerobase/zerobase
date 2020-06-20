@@ -6,11 +6,11 @@
     content: "";
     clear: both;
   }
-
+  
   h1 {
     margin-top: 0;
   }
-
+  
   a {
     text-decoration: underline $base-link-underline-color;
   }
@@ -18,25 +18,25 @@
   ul {
     @extend %default-ul;
   }
-
+  
   ol {
     @extend %default-ol;
   }
-
+  
   dl {
     dt {
       margin: $base-spacing/2 0;
     }
-
+    
     dd {
       margin: $base-spacing/2 0 $base-spacing 0;
     }
   }
-
+  
   pre {
     overflow-x: scroll;
   }
-
+  
   .page-description {
     margin: $base-spacing 0;
     padding: $base-spacing/2;
@@ -49,13 +49,5 @@
     padding: $base-spacing * 0.5;
     font-size: modular-scale(2);
     font-style: italic;
-  }
-
-  .footnotes {
-    margin-top: $base-spacing;
-    border-top: $base-border;
-    padding-top: $base-spacing;
-    font-size: modular-scale(-1);
-    clear: both;
   }
 }

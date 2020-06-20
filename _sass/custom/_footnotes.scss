@@ -1,0 +1,35 @@
+.footnote {
+    font-size: modular-scale(-1);
+    text-decoration: none;
+}
+
+.reversefootnote {
+    text-decoration: none;
+}
+
+.footnotes {
+    margin-top: $base-spacing;
+    border-top: $base-border;
+    padding-top: $base-spacing;
+    font-size: modular-scale(-1);
+    clear: both;
+}
+
+.footnote,
+.footnotes > ol > li {
+    position: relative;
+    border-top: 52px solid transparent;
+    margin: -30px 0 0;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+ }
+ 
+ #target:before {
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: 0;
+    right: 0;
+    border-top: 2px solid #ccc;
+ }

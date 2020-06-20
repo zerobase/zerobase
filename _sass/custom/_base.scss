@@ -21,12 +21,6 @@ main {
 }
 
 small,
-.small,
-.footnote,
-.footnotes {
+.small {
   font-size: modular-scale(-1);
-}
-
-.footnote {
-  text-decoration: underline $base-link-underline-color;
 }
