@@ -3,7 +3,7 @@ categories: podcast
 title: ecotonohaを文化遺産として100年後に伝えるには
 subtitle: IA Podcast Ep. 22
 description: 2014年6月11日に収録したポッドキャスト。仕事や社会についての雑談です。
-thumbnail: /images/podcast/ia_podcast_cover_300.png
+thumbnail: /assets/podcast/ia_podcast_cover_300.png
 ---
 
 ## イントロ

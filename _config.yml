@@ -19,7 +19,7 @@ exclude: [
 # Site settings
 title: 石橋秀仁 (Hide Ishi)
 author: 石橋秀仁 (Hide Ishi)
-thumbnail: /images/thumbnail.png
+thumbnail: /assets/thumbnail.png
 email: hide@hideishi.com
 description: "an information architect / インフォメーション・アーキテクト"
 baseurl: "" # the subpath of your site, e.g. /blog/

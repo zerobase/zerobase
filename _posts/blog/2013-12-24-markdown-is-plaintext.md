@@ -2,11 +2,11 @@
 categories: blog
 title: プレインテキストは時代を超えてあなたの知的生産を支援する
 description: 文書データ形式としてのプレインテキストと、Markdownというフォーマットのメリットについて。
-thumbnail: /images/blog/2013-12-24-markdown-is-plaintext/thumbnail.png
+thumbnail: /assets/blog/2013-12-24-markdown-is-plaintext/thumbnail.png
 redirect_from: "/blog/markdown-is-plaintext/"
 ---
 
-![nvALTの画面](/images/blog/2013-12-24-markdown-is-plaintext/nvALT.jpg)
+![nvALTの画面](/assets/blog/2013-12-24-markdown-is-plaintext/nvALT.jpg)
 
 〔[ドキュメンテーション Advent Calendar 2013] のための文章です〕
 

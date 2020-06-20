@@ -2,13 +2,13 @@
 categories: activity
 title: 情報／ITアーキテクトのための「使える！フロリディ情報哲学」
 description: ルチアーノ・フロリディの情報哲学・情報倫理学の研究会を2013年8月20日に行いました。
-thumbnail: /images/activity/2013-08-22-luciano-floridi-study-2013-08-20/thumbnail.png
+thumbnail: /assets/activity/2013-08-22-luciano-floridi-study-2013-08-20/thumbnail.png
 redirect_from:
   - /luciano-floridi-study-2013-08-20/
   - /blog/luciano-floridi-study-2013-08-20/
 ---
 
-![](/images/activity/2013-08-22-luciano-floridi-study-2013-08-20/luciano-floridi.jpg)  
+![](/assets/activity/2013-08-22-luciano-floridi-study-2013-08-20/luciano-floridi.jpg)  
 <small>ルチアーノ・フロリディのポートレイト　出典：<https://twitter.com/floridi></small>
 
 ルチアーノ・フロリディの情報の哲学や倫理学を使って「情報革命」「インフォスフィア」「インフォーグ」「エントロピー」「オブジェクト指向」などについて議論しました。

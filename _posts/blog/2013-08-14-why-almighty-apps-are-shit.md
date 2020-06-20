@@ -2,12 +2,12 @@
 categories: blog
 title: 「設定次第で何でもできる万能アプリ」がクソアプリである理由
 description: デザイン学的理由付け：人が初めて見るアプリを「何のために使う物だろうか」と想像・理解する過程の観点／経営学的理由付け：市場競争の観点
-thumbnail: /images/blog/2013-08-14-why-almighty-apps-are-shit/thumbnail.png
+thumbnail: /assets/blog/2013-08-14-why-almighty-apps-are-shit/thumbnail.png
 redirect_from: "/blog/why-almighty-apps-are-shit/"
 ---
 
 {% figure caption:"マイクロソフトオフィスのイルカが表示された状態の、Twitter的なアプリの画面　出典：[fladdict.net](http://fladdict.net/blog/2013/08/client-user-request.html)" %}
-![](/images/blog/2013-08-14-why-almighty-apps-are-shit/kusoapp13.jpg)
+![](/assets/blog/2013-08-14-why-almighty-apps-are-shit/kusoapp13.jpg)
 {% endfigure %}
 
 fladdict氏の『[スマホUI考（番外編）　顧客やユーザーの要望に全て対応すると、アプリは99%破綻する](http://fladdict.net/blog/2013/08/client-user-request.html)』は素晴らしい文章です。

@@ -3,7 +3,7 @@ categories: podcast
 title: なぜ社会には情報アーキテクトが必要なのか？
 subtitle: IA Podcast Ep. 21
 description: 2013年11月9日の講演です。
-thumbnail: /images/podcast/ia_podcast_cover_300.png
+thumbnail: /assets/podcast/ia_podcast_cover_300.png
 ---
 
 2013年11月9日の[DevLOVE現場甲子園2013](http://devlove.doorkeeper.jp/events/5464)で収録した『なぜ社会には情報アーキテクトが必要なのか？』という講演です。（約20分）

@@ -9,7 +9,7 @@ description: 選挙に際して、候補者のウェブサイトを見たとこ�
 
 今回の選挙に際して、候補者のウェブサイトを見たところ、ウェブの専門家としていくつか「もったいない点」に気づきましたので、その背景・問題点・処方箋をお伝えします。
 
-![「もったいない…」と書かれたタスキをかけている候補者](/images/blog/2015-04-20-politians-should-have-accessible-website/mottainai.jpg) <small><a href="http://www.pakutaso.com/">写真素材ぱくたそ</a></small>
+![「もったいない…」と書かれたタスキをかけている候補者](/assets/blog/2015-04-20-politians-should-have-accessible-website/mottainai.jpg) <small><a href="http://www.pakutaso.com/">写真素材ぱくたそ</a></small>
 
 
 ## 背景
@@ -31,7 +31,7 @@ description: 選挙に際して、候補者のウェブサイトを見たとこ�
 
 ある候補者のサイトに実際にスクリーンリーダーでアクセスしてみたところ、「これまでの実績」「政策」のような見出しはあるのに、その中身が空っぽでした。**政策の中身が空っぽでした。**大事なことなので二回言いました。
 
-![「空っぽ…」と書かれたタスキをかけている候補者](/images/blog/2015-04-20-politians-should-have-accessible-website/karappo.jpg)
+![「空っぽ…」と書かれたタスキをかけている候補者](/assets/blog/2015-04-20-politians-should-have-accessible-website/karappo.jpg)
 
 これは内容以前の問題です。**「私は視覚障碍者に対しては情報を提供するつもりがありません」というメタメッセージ**になってしまいます。
 
@@ -46,7 +46,7 @@ description: 選挙に際して、候補者のウェブサイトを見たとこ�
 
 ある候補者のウェブサイトでは、ほとんどすべての文字が画像（代替テキストなし）になってしまっており、そのような文字拡大機能が効きませんでした。また、スマートフォンのブラウザの画面ズーム機能（ピンチ・イン、ピンチ・アウト）も、あえて無効化されていました。**制作者がとくに指定しないかぎり普通に利用できるズーム機能が、わざわざ無効化されていました。**大事なことなので二回言いました。
 
-![「字ちっさ…」と書かれたタスキをかけている候補者](/images/blog/2015-04-20-politians-should-have-accessible-website/chissa.jpg)
+![「字ちっさ…」と書かれたタスキをかけている候補者](/assets/blog/2015-04-20-politians-should-have-accessible-website/chissa.jpg)
 
 ここでも内容以前の問題で、**「小さな文字を読めない人には情報を提供するつもりはありません」というメタメッセージ**になってしまっています。
 
@@ -55,7 +55,7 @@ description: 選挙に際して、候補者のウェブサイトを見たとこ�
 
 ある候補者のウェブサイトでは、**動画コンテンツにキャプション（字幕）が提供されていません**でした。これでは聴覚障害者にはアクセスできません。耳が遠くなったお年寄りにも厳しいかもしれません。
 
-![耳に手を当て、号泣会見の野々村氏と同じポーズをとる男の写真に、「耳をすませば」というキャプション](/images/blog/2015-04-20-politians-should-have-accessible-website/mimi.jpg)
+![耳に手を当て、号泣会見の野々村氏と同じポーズをとる男の写真に、「耳をすませば」というキャプション](/assets/blog/2015-04-20-politians-should-have-accessible-website/mimi.jpg)
 
 同じことの繰り返しになりますので手短に述べますが、「聴覚障害者の存在を意識していない」「障害者福祉に関心が薄い」ように見えます。
 
@@ -95,7 +95,7 @@ YouTube動画を掲載している候補が多いようです。YouTubeには便
 
 みんながアクセスしやすいウェブサイトを！
 
-![アクセス（歌手）](/images/blog/2015-04-20-politians-should-have-accessible-website/access.jpg)
+![アクセス（歌手）](/assets/blog/2015-04-20-politians-should-have-accessible-website/access.jpg)
 
 なお、ご質問があればできるかぎり対応しますので、お気軽にお問い合わせください。
 

@@ -5,11 +5,11 @@ title: 新型コロナウイルス接触追跡アプリのための倫理的指�
 subtitle: 正しいアプリが正しく作られているかを評価するための16の問い
 description: "情報倫理学で知られるルチアーノ・フロリディ教授らが発表した新型コロナウイルス接触追跡アプリのための倫理的指針を翻訳しました。"
 show_description: true
-thumbnail: /images/blog/2020-05-26-ethical-guidelines-for-contact-tracing-apps/contact-tracing-app.png
+thumbnail: /assets/blog/2020-05-26-ethical-guidelines-for-contact-tracing-apps/contact-tracing-app.png
 redirect_from: /blog/2020/05/26/ethical-guideines-for-contact-tracing-apps.html
 ---
 
-![接触追跡アプリのイラスト](/images/blog/2020-05-26-ethical-guidelines-for-contact-tracing-apps/contact-tracing-app.png)
+![接触追跡アプリのイラスト](/assets/blog/2020-05-26-ethical-guidelines-for-contact-tracing-apps/contact-tracing-app.png)
 
 > 失敗の繰り返しや高過ぎるコストが市民の信頼を裏切ることにつながる以上、政府には正しく介入するチャンスがただの一度しか与えられていないというべきです。
 {:.big-quote}

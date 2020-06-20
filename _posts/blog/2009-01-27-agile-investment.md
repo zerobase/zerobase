@@ -2,7 +2,7 @@
 categories: blog
 title: Webビジネス新規事業への賢い「アジャイル」投資術
 description: 企業がWebビジネスの新規事業へ投資する際の成功確率を高めるための方法、とくに「ローコストを追究する必要性」と「YAGNI」について。
-thumbnail: /images/blog/2009-01-27-agile-investment/thumbnail.png
+thumbnail: /assets/blog/2009-01-27-agile-investment/thumbnail.png
 show_description: true
 ---
 
@@ -30,7 +30,7 @@ show_description: true
 「お題に対して読者が投稿し、それを編集者が面白おかしく紹介することで成立する、コール＆レスポンス型メディア（コンテンツ）」という感じでしょうか。Webサイト設計者の観点からは、バカ日本地図や、ほぼ日の「オトナ語の謎。」や「言いまつがい」などを連想します。
 
 <figure>
-  <img src="/images/blog/2009-01-27-agile-investment/dokomadetokyo.png" alt="">
+  <img src="/assets/blog/2009-01-27-agile-investment/dokomadetokyo.png" alt="">
   <figcaption>「どこまで東京？」の画面イメージ</figcaption>
 </figure>
 

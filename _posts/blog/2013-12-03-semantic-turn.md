@@ -4,7 +4,7 @@ categories: blog
 title:  ユーザー・エクスペリエンスについて考える人に読んで欲しいクリッペンドルフの『意味論的転回−デザインの新しい基礎理論』
 description: 『意味論的転回』は、「デザインとは、そもそも何なのか？」という根源的な問いに答える哲学書でありつつ、実践的手法を紹介する本でもあります。
 show_description: true
-thumbnail: /images/blog/2013-12-03-semantic-turn/thumbnail.png
+thumbnail: /assets/blog/2013-12-03-semantic-turn/thumbnail.png
 redirect_from:
   - /blog/semantic-turn/
   - /semantic-turn/
@@ -81,33 +81,33 @@ redirect_from:
 
 第1章は歴史観。デザインの対象がどのように変わってきたか：
 
-![図1.1 人工物の軌道：製品（有用性、機能性、普遍的な美学）→商品、サービス、コミュニティー（市場性、象徴的な多様性、民族的で局所な美学）→インタフェース（自然な相互作用、理解できること、再形成／適応性）→マルチユーザーシステム／ネットワーク（情報提供、コネクティビティー、アクセシビリティー）→プロジェクト（社会的実行可能性、方向性、関わり合い）→ディスコース（生成、再分節化、連帯）](/images/blog/2013-12-03-semantic-turn/semantic-turn-2-ja.png){:.fig}
+![図1.1 人工物の軌道：製品（有用性、機能性、普遍的な美学）→商品、サービス、コミュニティー（市場性、象徴的な多様性、民族的で局所な美学）→インタフェース（自然な相互作用、理解できること、再形成／適応性）→マルチユーザーシステム／ネットワーク（情報提供、コネクティビティー、アクセシビリティー）→プロジェクト（社会的実行可能性、方向性、関わり合い）→ディスコース（生成、再分節化、連帯）](/assets/blog/2013-12-03-semantic-turn/semantic-turn-2-ja.png){:.fig}
 
-![Figure 1.1 Trajectory of artificiality: Products (Utility, Functionality, Universal aesthetics); Goods, Services, and Identities (Marketability, Symbolic diversity, Folk and local aesthetics); Interfaces (Natural interactivity, Understandability, Reconfigurability / adaptability); Multiuser Systems/Networks (Informativeness, Connectivity, Accessibility); Projects (Social viability, Directionality, Commitment); Discourses (Generativity, Rearticulability, Solidarity)](/images/blog/2013-12-03-semantic-turn/semantic-turn-2.png){:.fig}
+![Figure 1.1 Trajectory of artificiality: Products (Utility, Functionality, Universal aesthetics); Goods, Services, and Identities (Marketability, Symbolic diversity, Folk and local aesthetics); Interfaces (Natural interactivity, Understandability, Reconfigurability / adaptability); Multiuser Systems/Networks (Informativeness, Connectivity, Accessibility); Projects (Social viability, Directionality, Commitment); Discourses (Generativity, Rearticulability, Solidarity)](/assets/blog/2013-12-03-semantic-turn/semantic-turn-2.png){:.fig}
 
 また、デザインの環境はどのように変わってきたか：
 
-![図1.2 社会的次元のシフト：工業化の時代→ポスト工業化の時代；主要通貨（物質とエネルギー→個人やコミュニティーによる注意）；主要な不平等（経済的なこと→技術やノウハウや教育へのアクセス）；主要な構造（義務の階層→関わりのネットワーク（異階層））；関心の衝突（領土的な争い→市場の競争、観戦スポーツ、選挙）；知識（（自然の）科学的な理論→社会的に構成される、変形する）；存在論的説明（機械的／因果的→創造し、構成し、現実化する能力）；デザイン（技術中心→人間中心）](/images/blog/2013-12-03-semantic-turn/semantic-turn-3-ja.png){:.fig}
+![図1.2 社会的次元のシフト：工業化の時代→ポスト工業化の時代；主要通貨（物質とエネルギー→個人やコミュニティーによる注意）；主要な不平等（経済的なこと→技術やノウハウや教育へのアクセス）；主要な構造（義務の階層→関わりのネットワーク（異階層））；関心の衝突（領土的な争い→市場の競争、観戦スポーツ、選挙）；知識（（自然の）科学的な理論→社会的に構成される、変形する）；存在論的説明（機械的／因果的→創造し、構成し、現実化する能力）；デザイン（技術中心→人間中心）](/assets/blog/2013-12-03-semantic-turn/semantic-turn-3-ja.png){:.fig}
 
-![Figure 1.2 Shifts in societal dimentions: From Industrial Era to Postindustrial Era; Primary currencies (from Matter and energy to Attention by individuals and communities); Major inequalities (from Economic to Access to technology, know-how, education); Dominant structures (from Hierachies of obligations to Networks (heterachies) of commitments); Conflicts of concern (from Territorial wars to Market competition, spectator sports, elections); Knowledge (from Scientific theories (of nature) to Socially constituitive, transformative); Ontological explanations (from Mechanical / causal to Ability to create, construct, and realize); Design (from Technology-centered to Human-centered)](/images/blog/2013-12-03-semantic-turn/semantic-turn-3.png){:.fig}
+![Figure 1.2 Shifts in societal dimentions: From Industrial Era to Postindustrial Era; Primary currencies (from Matter and energy to Attention by individuals and communities); Major inequalities (from Economic to Access to technology, know-how, education); Dominant structures (from Hierachies of obligations to Networks (heterachies) of commitments); Conflicts of concern (from Territorial wars to Market competition, spectator sports, elections); Knowledge (from Scientific theories (of nature) to Socially constituitive, transformative); Ontological explanations (from Mechanical / causal to Ability to create, construct, and realize); Design (from Technology-centered to Human-centered)](/assets/blog/2013-12-03-semantic-turn/semantic-turn-3.png){:.fig}
 
 第2章は人間中心デザインの原理。キーワードは「感覚」「意味」「コンテクスト」「二次的理解」です。**二次的理解** (second-order understanding) という概念は、人間中心デザインの本質を簡潔に説明しており、極めて重要です。デザインが二次的理解に基礎づけられるべきであることから、デザインにおけるエスノグラフィー的なリサーチの重要性もまた自明となります：
 
 > 私たちは、あることについての誰か**他の人の理解を理解すること**は、そのあること自体を理解することとは質的に異なる、ということを認識しなければならない。誰か他の人の理解を理解することは、理解の理解である、再帰的に他の人の理解を自分の理解に埋め込む理解である。たとえ、これらの理解が一致せず、お互いに相反し、あるいは、誰かに間違っているとか、あきれるほど非倫理的だとか思われるようなときであっても。この理解の再帰的な理解は、二次的理解である。人間中心のデザインは、基本的には、他の人のためのデザインであるため、それは、**二次的理解**に基礎づけられるべきである。
 
-![図2.8 二次的理解としてのデザイン意味論](/images/blog/2013-12-03-semantic-turn/semantic-turn-4-ja.png){:.fig}
+![図2.8 二次的理解としてのデザイン意味論](/assets/blog/2013-12-03-semantic-turn/semantic-turn-4-ja.png){:.fig}
 
-![Figure 2.8: Design semantics as second-order understanding](/images/blog/2013-12-03-semantic-turn/semantic-turn-4.png){:.fig}
+![Figure 2.8: Design semantics as second-order understanding](/assets/blog/2013-12-03-semantic-turn/semantic-turn-4.png){:.fig}
 
-![図2.9 一次的理解を持つ観察者と二次的理解を持つ観察者：一次的理解を持つ観察者（神の眼は、観察したものを理解にとって許容度のない機構として捉える）；二次的理解を持つ観察者（他の人の人工物の理解を理解するため、その理解を相互に確かめる手段として、それぞれが人工物を理解する能力があることを前提としている）](/images/blog/2013-12-03-semantic-turn/semantic-turn-5-ja.png){:.fig}
+![図2.9 一次的理解を持つ観察者と二次的理解を持つ観察者：一次的理解を持つ観察者（神の眼は、観察したものを理解にとって許容度のない機構として捉える）；二次的理解を持つ観察者（他の人の人工物の理解を理解するため、その理解を相互に確かめる手段として、それぞれが人工物を理解する能力があることを前提としている）](/assets/blog/2013-12-03-semantic-turn/semantic-turn-5-ja.png){:.fig}
 
-![Figure 2.9 Observer with first- and with second-order understanding: First-order understanding (God's eye view renders the observed as mechanism without capacity for understanding); Second-order understanding (Each assumes the capacity for understanding artifacts, for understanding other's understanding of artifacts and ways to interactively confirm these understandings)](/images/blog/2013-12-03-semantic-turn/semantic-turn-5.png){:.fig}
+![Figure 2.9 Observer with first- and with second-order understanding: First-order understanding (God's eye view renders the observed as mechanism without capacity for understanding); Second-order understanding (Each assumes the capacity for understanding artifacts, for understanding other's understanding of artifacts and ways to interactively confirm these understandings)](/assets/blog/2013-12-03-semantic-turn/semantic-turn-5.png){:.fig}
 
 第3章から第6章にかけて「使用」「言語」「生（ライフサイクル）」「エコロジー」における人工物の意味を論じています。以下の図で示されています：
 
-![図 0.1 人工物の意味の４つの理論の間の関係：人工物の意味が位置づく領域：使用（言語を伴わない使用の領域）、言語（ライフサイクルにない言語の領域）、ライフサイクル（エコロジーでないライフサイクルの領域）、エコロジー](/images/blog/2013-12-03-semantic-turn/semantic-turn-1-ja.png){:.fig}
+![図 0.1 人工物の意味の４つの理論の間の関係：人工物の意味が位置づく領域：使用（言語を伴わない使用の領域）、言語（ライフサイクルにない言語の領域）、ライフサイクル（エコロジーでないライフサイクルの領域）、エコロジー](/assets/blog/2013-12-03-semantic-turn/semantic-turn-1-ja.png){:.fig}
 
-![Figure 0.1 Relations between four theories of meanings of artifacts: Meanings of Artifacts in Use (Tacit use, not in *language*), Language (*Language*, not in their *life cycle*), Life cycle (their *life cycle*, not in *ecology*), Ecology. ](/images/blog/2013-12-03-semantic-turn/semantic-turn-1.png){:.fig}
+![Figure 0.1 Relations between four theories of meanings of artifacts: Meanings of Artifacts in Use (Tacit use, not in *language*), Language (*Language*, not in their *life cycle*), Life cycle (their *life cycle*, not in *ecology*), Ecology. ](/assets/blog/2013-12-03-semantic-turn/semantic-turn-1.png){:.fig}
 
 とくに第3章はデザイン実践家にとっても示唆的な内容なので一読をおすすめします。「3.4.3 アフォーダンス」の項は勉強になりました：
 

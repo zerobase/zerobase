@@ -4,7 +4,7 @@ title: コンピューター・エイジズム
 subtitle: 高齢者を疎外しない情報化社会へ
 description: この文章は二つのことを言うために書かれている：「高齢者のためのやさしいコンピューター」を作ろうとしてはならない。「人は年をとったら新しいことなど学ばなくなる」という思い込みを無くすべきだ。
 show_description: false
-thumbnail: /images/blog/2020-03-07-cyber-anti-ageism/thumbnail.jpg
+thumbnail: /assets/blog/2020-03-07-cyber-anti-ageism/thumbnail.jpg
 ---
 
 この文章は次の二つのことを言うために書かれている：
@@ -128,7 +128,7 @@ thumbnail: /images/blog/2020-03-07-cyber-anti-ageism/thumbnail.jpg
 私たちの誰もが老いるのだから。
 
 {% figure caption:"この写真は「[エイジング・クリーム](https://www.agingcream.ca/)」（熟成クリーム）という商品のポスターだ。よくある「アンチ・エイジング・クリーム」ではないのがミソ。上部には「仕事の自信を最大5倍も回復」などの売り文句。下部には「エイジング・クリームは実在しませんが、年配社員の価値なら実在します」とある。2019年11月にカナダのトロント市が立ち上げたアンチ・エイジズム啓発キャンペーンの広告だ。" %}
-![アンチ・エイジング・クリームのポスター画像](/images/blog/2020-03-07-cyber-anti-ageism/aging-cream.jpg)
+![アンチ・エイジング・クリームのポスター画像](/assets/blog/2020-03-07-cyber-anti-ageism/aging-cream.jpg)
 {% endfigure %}
 
 パーソナル・コンピューターという理念は、**あらゆる年齢の子供たち**の学習能力を前提にしている。だから「高齢者はIT社会で何一つ変わる必要はありません」というメッセージは間違っている。

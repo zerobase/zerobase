@@ -2,11 +2,11 @@
 categories: blog
 title: 「出来の悪い物」に対してキレやすい人には「使い易い物」を作る才能があるかもしれません
 description: 「使い易い物」を作るためには「使いにくさ」に敏感な感性が必要です。
-thumbnail: /images/blog/2012-01-01-usability/thumbnail.png
+thumbnail: /assets/blog/2012-01-01-usability/thumbnail.png
 redirect_from: "/blog/usability/"
 ---
 
-![](/images/blog/2012-01-01-usability/wtfm.jpg)  
+![](/assets/blog/2012-01-01-usability/wtfm.jpg)  
 <small>「コードの品質に関するたった一つの妥当な指標：なんだこりゃ毎秒」　出典：[WTFs/m](http://www.osnews.com/story/19266/WTFs_m)</small>
 
 航空券のインターネット予約をミスっていたことが空港で発覚しました。空席待ちで三時間遅れのフライト。とんだ休暇の始まりになりました。
@@ -45,7 +45,7 @@ redirect_from: "/blog/usability/"
 
 ## 引用：誰のためのデザイン？
 
-<a href="http://www.amazon.co.jp/gp/product/478850362X?tag=hidetoi-22&linkCode=as1" target="_blank" title="誰のためのデザイン?―認知科学者のデザイン原論 (新曜社認知科学選書)"><img src="http://ecx.images-amazon.com/images/I/412Z7VZFGDL._SL160_.jpg" width="109" height="160" alt="誰のためのデザイン?―認知科学者のデザイン原論 (新曜社認知科学選書)" /></a><br /><a href="http://www.amazon.co.jp/gp/product/478850362X?tag=hidetoi-22&linkCode=as1" target="_blank">誰のためのデザイン?―認知科学者のデザイン原論 (新曜社認知科学選書)</a>
+<a href="http://www.amazon.co.jp/gp/product/478850362X?tag=hidetoi-22&linkCode=as1" target="_blank" title="誰のためのデザイン?―認知科学者のデザイン原論 (新曜社認知科学選書)"><img src="http://ecx.images-amazon.com/assets/I/412Z7VZFGDL._SL160_.jpg" width="109" height="160" alt="誰のためのデザイン?―認知科学者のデザイン原論 (新曜社認知科学選書)" /></a><br /><a href="http://www.amazon.co.jp/gp/product/478850362X?tag=hidetoi-22&linkCode=as1" target="_blank">誰のためのデザイン?―認知科学者のデザイン原論 (新曜社認知科学選書)</a>
 
 > 私はこれまでに、さまざまな誤りを犯した人を研究してきた。機械や電灯のスイッチやヒューズ、コンピュータのオペレーティングシステムやワープロ、あるいは飛行機や原子力発電設備などを操作する際の重大なエラーやささいなエラーなどを犯した人たちである。そのどの場面においても、彼らは罪悪感をもって、自分のエラーを隠そうとするか、あるいは自分の「愚かさ」や「不注意さ」を攻めようとする。私は、悪いのはデザインであって、誰でも皆同じようなエラーをしているということを指摘するのだが、やはり、人は、課題が一見単純であったりささいなものであるように見えるとき、自分自身を責めるのである。まるで自分に機械の取り扱い能力がないということをしつこく自慢でもしているかのように見える。
 > 

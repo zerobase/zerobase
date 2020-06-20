@@ -2,7 +2,7 @@
 categories: blog
 title: ベンチャーキャピタルのデザインフェローという素晴らしい仕事
 description: 「ベンチャーキャピタルのデザインフェロー」という仕事が認知され、「職業」として成立し、日本の起業家生態系が一層発展することを期待します。
-thumbnail: /images/blog/2014-12-01-design-fellow-at-venture-capital/thumbnail.png
+thumbnail: /assets/blog/2014-12-01-design-fellow-at-venture-capital/thumbnail.png
 redirect_from:
   - /blog/design-fellow-at-venture-capital/
   - /design-fellow-at-venture-capital/
@@ -80,7 +80,7 @@ redirect_from:
 一方、ベンチャーキャピタルのデザインフェローは、原則としてスタートアップからコンサルティング報酬を受け取りません。その代わり、ベンチャーキャピタルの「投資先支援予算」から報酬を受け取ります。**ベンチャーキャピタルが費用を肩代わり**しているわけです。この仕組みによって前述の経済的制約がクリアされ、「スタートアップ向けのデザインコンサルティング」というサービスが実現するのです。この仕組みは素晴らしいと思います。
 
 <figure>
-  <img src="/images/blog/2014-12-01-design-fellow-at-venture-capital/startup-design-consulting-scheme.png" alt="スタートアップ向けデザインコンサルティングの仕組みの図解">
+  <img src="/assets/blog/2014-12-01-design-fellow-at-venture-capital/startup-design-consulting-scheme.png" alt="スタートアップ向けデザインコンサルティングの仕組みの図解">
   <figcaption>GMOベンチャーパートナーズがベンチャー企業に投資し、私にコンサルティングフィーを提供します。それによって、私がベンチャー企業へデザインコンサルティングサービスを提供できるようになっています。</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ redirect_from:
 
 [^skillup]: スキルアップの例として、[産業技術大学院大学履修証明プログラム「人間中心デザイン」][2]を受講したり、[人間中心設計専門家][3]の資格取得のための勉強をするといったことが考えられます。しかし、スタートアップで働いている人にとって、そのような余裕があるケースは稀でしょう。
 
-[0]: /images/blog/2014-12-01-design-fellow-at-venture-capital/gmo-vp-and-ishibashi.png
+[0]: /assets/blog/2014-12-01-design-fellow-at-venture-capital/gmo-vp-and-ishibashi.png
 [1]: http://www.gmo-vp.com/
 [2]: http://aiit.ac.jp/certification_program/hcd/
 [3]: http://www.hcdnet.org/certified/

@@ -4,7 +4,7 @@ categories: blog
 title: 産業技術大学院大学の「情報アーキテクチャ専攻」というコース名について
 description: 後発者がすでに普及している言葉の意味を簒奪しようとする。傲慢だ。 これは「情報アーキテクチャ」ではない。
 show_description: true
-thumbnail: /images/thumbnail.png
+thumbnail: /assets/thumbnail.png
 ---
 
 産業技術大学院大学[^aiit]に[情報アーキテクチャ専攻](https://aiit.ac.jp/master_program/isa/)というコースがある。私は[情報アーキテクト](/blog/2014/04/25/future-of-information-architect.html)を名乗っているから、気になってカリキュラムを調べてみた。そしたら全然別物だったので驚いた。彼らのいう「情報アーキテクト」は、情報処理推進機構(IPA)が管轄するIT人材のスキル体系の中に位置付けられている。要するに彼らの「情報アーキテクト」とはエンジニアのことだ。それは伝統的に「情報アーキテクト」と呼ばれてきた職種とは異なる。

@@ -2,11 +2,11 @@
 categories: activity
 title: インフォメーション・アーキテクトのポッドキャストを始めました
 description: いろいろな分野との〈共通言語〉を増やすために、いろいろな分野のゲストを迎えてトークするポッドキャストです。
-thumbnail: /images/activity/2013-10-02-podcast-launched/thumbnail.png
+thumbnail: /assets/activity/2013-10-02-podcast-launched/thumbnail.png
 redirect_from: "/blog/podcast-launched/"
 ---
 
-![](/images/activity/2013-10-02-podcast-launched/podcast-launched.jpg)
+![](/assets/activity/2013-10-02-podcast-launched/podcast-launched.jpg)
 
 [Information Architect's Podcast](http://talk.ishibashihideto.net/) をはじめました。いろいろな分野との〈共通言語〉を増やすために、いろいろな分野のゲストを迎えてトークするポッドキャストです。
 

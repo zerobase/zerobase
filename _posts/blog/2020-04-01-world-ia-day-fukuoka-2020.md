@@ -4,10 +4,10 @@ title: "来るべきユーザーのためのインクルーシブ・デザイン
 subtitle: "「第四世代の美術館」のために @WIAD_Fukuoka"
 description: "World IA Day Fukuoka 2020 のワークショップ設計にあたって、非利用者（ノン・ユーザー）のためのデザインの可能性を模索しました。"
 show_description: true
-thumbnail: /images/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png
+thumbnail: /assets/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png
 ---
 
-![World IA Day のロゴ](/images/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png){:.fig-medium}
+![World IA Day のロゴ](/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png){:.fig-medium}
 
 これはWorld IA Day Fukuoka 2020で実施したワークショップの理論編です。[イベント・レポート](/activity/2020/01/28/world-ia-day-fukuoka-2020.html)もあわせてご覧ください。
 

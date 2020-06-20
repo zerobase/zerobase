@@ -2,7 +2,7 @@
 categories: activity
 title: フロリディ『第四の革命』イベントで講演しました
 description: 情報哲学の第一人者フロリディ氏の『第四の革命』が翻訳出版されたことを記念するイベントで講演しました。
-thumbnail: /images/activity/2017-05-12-floridi-talk/thumbnail.jpg
+thumbnail: /assets/activity/2017-05-12-floridi-talk/thumbnail.jpg
 ---
 
 情報哲学の第一人者ルチアーノ・フロリディ氏の[『第四の革命 情報圏（インフォスフィア）が現実をつくりかえる』](http://amzn.to/2sCPYvf)が翻訳出版されました。2017年5月12月に開催された出版記念イベントでフロリディ情報哲学について講演しました。

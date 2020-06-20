@@ -3,7 +3,7 @@ categories: podcast
 title: 唐津直哉氏を迎えて
 subtitle: IA Podcast Ep. 13
 description: プログラミング、型、機械学習、テストなどの話です。
-thumbnail: /images/podcast/ia_podcast_cover_300.png
+thumbnail: /assets/podcast/ia_podcast_cover_300.png
 ---
 
 [唐津直哉氏](https://twitter.com/neko_no_hito)をゲストに迎えて、2013年10月1日に収録したPodcast。

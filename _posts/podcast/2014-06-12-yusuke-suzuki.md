@@ -3,7 +3,7 @@ categories: podcast
 title: ITアーキテクト鈴木雄介氏を迎えて
 subtitle: IA Podcast Ep. 23
 description: 2014年6月11日に収録したポッドキャスト。仕事や社会についての雑談です。
-thumbnail: /images/podcast/ia_podcast_cover_300.png
+thumbnail: /assets/podcast/ia_podcast_cover_300.png
 ---
 
 [グロースエクスパートナーズ株式会社(GxP)](http://www.gxp.co.jp/)のITアーキテクト[鈴木雄介氏](https://twitter.com/yusuke_arclamp)を再びゲストに迎えて、2014年6月11日に新宿で収録しました。前半はレストラン、後半はワインバーでの収録です。全長2時間15分の**雑談**です。

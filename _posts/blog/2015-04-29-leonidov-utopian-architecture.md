@@ -2,11 +2,11 @@
 categories: blog
 title: ロシア革命後の紙上建築家から学んだ、ユートピア建築の手法と倫理
 description: 本田晃子×上田洋子「全体主義とユートピア建築――『天体建築論 レオニドフとソ連邦の紙上建築時代』サントリー学芸賞受賞記念トークショー」に参加してきました。本を読み、著者の話を聞いたうえで、考えたことを書きました。
-thumbnail: /images/blog/2015-04-29-leonidov-utopian-architecture/thumbnail.png
+thumbnail: /assets/blog/2015-04-29-leonidov-utopian-architecture/thumbnail.png
 ---
 
 <figure>
-  <img alt="" src="/images/blog/2015-04-29-leonidov-utopian-architecture/Leonidov_lenin_institute.jpg">
+  <img alt="" src="/assets/blog/2015-04-29-leonidov-utopian-architecture/Leonidov_lenin_institute.jpg">
   <figcaption>レオニドフによるレーニン（図書館学）研究所案の模型（1927年）</figcaption>
 </figure>
 

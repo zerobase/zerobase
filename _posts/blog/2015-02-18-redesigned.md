@@ -3,10 +3,10 @@ categories: blog
 title: サイトリニューアルの思想と手法
 subtitle: コンテンツファースト、モバイルファースト、スタティックサイト
 description: このウェブサイトのささやかなリニューアルプロジェクトについて、どのような思想と手法で取り組んだのかを記しておくことにします。
-thumbnail: /images/blog/2015-02-18-redesigned/thumbnail.png
+thumbnail: /assets/blog/2015-02-18-redesigned/thumbnail.png
 ---
 
-![主要概念の関係図](/images/blog/2015-02-18-redesigned/constellation.svg)
+![主要概念の関係図](/assets/blog/2015-02-18-redesigned/constellation.svg)
 
 当サイトをリニューアルしました。これ自体はとても小さなプロジェクトですが、より大きなプロジェクトに向けての「スタディ」（習作）になっています。ここでいったん考えや学びを整理しておくことには意味があると考えました。
 
@@ -53,7 +53,7 @@ thumbnail: /images/blog/2015-02-18-redesigned/thumbnail.png
 という4つのカテゴリからなります。
 
 <figure>
-  <a href="/images/blog/2015-02-18-redesigned/screenshot.png"><img src="/images/blog/2015-02-18-redesigned/screenshot.png" alt="トップページのスクリーンショット"></a>
+  <a href="/assets/blog/2015-02-18-redesigned/screenshot.png"><img src="/assets/blog/2015-02-18-redesigned/screenshot.png" alt="トップページのスクリーンショット"></a>
   <figcaption>4つのカテゴリを「All」というセグメントで一本のリストにしている。〔註：このスクリーンショット画像は執筆時点で撮影されたものであり、いまご覧になっている最新版のデザインとは異なります〕</figcaption>
 </figure>
 
@@ -200,7 +200,7 @@ GitHub Pagesのメリットはいくつかあります：
 このサイトのシステムアーキテクチャは下図のようになっています：
 
 <figure>
-  <a href="/images/blog/2015-02-18-redesigned/concrete_architecture.svg"><img src="/images/blog/2015-02-18-redesigned/concrete_architecture.svg" alt="具体的なシステムアーキテクチャ"></a>
+  <a href="/assets/blog/2015-02-18-redesigned/concrete_architecture.svg"><img src="/assets/blog/2015-02-18-redesigned/concrete_architecture.svg" alt="具体的なシステムアーキテクチャ"></a>
   <figcaption>具体的なシステムアーキテクチャの説明：ウェブサイトのソースは、Jekyllによって処理されたのち、GitHub Pagesのウェブサーバーに配置され、ユーザーエージェント（ブラウザ）に提供される。</figcaption>
 </figure>
 
@@ -219,7 +219,7 @@ GitHub Pagesのメリットはいくつかあります：
 もちろん、このままでは大きなプロジェクトに適用できません。しかし、Jekyll、GitHub Pages、Bittersといった「固有名詞」は入れ替え可能です。アーキテクチャを抽象的に考える場合、そういった固有名詞は、さほど重要ではありません：
 
 <figure>
-  <a href="/images/blog/2015-02-18-redesigned/abstract_architecture.svg"><img src="/images/blog/2015-02-18-redesigned/abstract_architecture.svg" alt="抽象的なシステムアーキテクチャ"></a>
+  <a href="/assets/blog/2015-02-18-redesigned/abstract_architecture.svg"><img src="/assets/blog/2015-02-18-redesigned/abstract_architecture.svg" alt="抽象的なシステムアーキテクチャ"></a>
   <figcaption>抽象的なシステムアーキテクチャの説明：ウェブサイトのソースは、HTMLテンプレートエンジンとCSSプリプロセッサによって処理されたのち、ウェブサーバーに配置され、ユーザーエージェント（ブラウザ）に提供される。</figcaption>
 </figure>
 
@@ -235,7 +235,7 @@ GitHub Pagesのメリットはいくつかあります：
 最後に、ここまで説明してきた思想と手法の関係を図解しておきます：
 
 <figure>
-  <a href="/images/blog/2015-02-18-redesigned/constellation.svg"><img src="/images/blog/2015-02-18-redesigned/constellation.svg" alt="主要概念の関係図"></a>
+  <a href="/assets/blog/2015-02-18-redesigned/constellation.svg"><img src="/assets/blog/2015-02-18-redesigned/constellation.svg" alt="主要概念の関係図"></a>
   <figcaption>コンテンツ・ファーストという中核概念と、それに関連する諸概念と、そこから導き出される手法やツールの関係図</figcaption>
 </figure>
 

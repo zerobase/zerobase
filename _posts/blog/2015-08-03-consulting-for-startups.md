@@ -3,7 +3,7 @@ categories: blog
 title: アーキテクトが起業家やベンチャー企業のためにできること
 description: 特定分野の専門家としてのコンサルティングではなく、総合的なプライマリ・ケアができます。また、エコシステムへの思考や、SF的想像力を呼びおこすことで、事業を大きく構想するためのお手伝いができます。
 show_description: true
-thumbnail: /images/blog/2015-08-03-consulting-for-startups/thumbnail.png
+thumbnail: /assets/blog/2015-08-03-consulting-for-startups/thumbnail.png
 ---
 
 アーキテクトとしての私が起業家やベンチャー企業のためにできることについて、現時点の考えを棚卸ししてみました。ひとつの「理念型」として書き記しておきます。[^disclaimer]
@@ -31,7 +31,7 @@ thumbnail: /images/blog/2015-08-03-consulting-for-startups/thumbnail.png
 
 [^q1]: [視点・論点　「総合診療医とプライマリ・ケア」](http://www.nhk.or.jp/kaisetsu-blog/400/144343.html)より引用
 
-![家庭医と患者のイメージ](/images/blog/2015-08-03-consulting-for-startups/17330-a-doctor-and-couple-viewing-an-x-ray-pv.jpg){:.fig-small}
+![家庭医と患者のイメージ](/assets/blog/2015-08-03-consulting-for-startups/17330-a-doctor-and-couple-viewing-an-x-ray-pv.jpg){:.fig-small}
 
 ### 「プライマリ・ケア」の事例
 
@@ -61,7 +61,7 @@ thumbnail: /images/blog/2015-08-03-consulting-for-startups/thumbnail.png
 
 例えば、「ソフトウェアの品質が低く、生産性が下がっている」という自覚症状と、「プログラミング技術を向上させたいので、研修でもしようかと思っている」という相談があったとしましょう。しかし、総合的に診断したところ、「プログラマーが長時間勤務で疲労し、ケアレスミスを頻発している」ことが分かったとしましょう。そのとき、適切な解決策は「労務管理の改善」であって、「プログラミング研修」ではないでしょう。
 
-![ハンマーを持つ男のイメージ](/images/blog/2015-08-03-consulting-for-startups/PAK93_hannma-dekotukotu20140322.jpg){:.fig-small}
+![ハンマーを持つ男のイメージ](/assets/blog/2015-08-03-consulting-for-startups/PAK93_hannma-dekotukotu20140322.jpg){:.fig-small}
 
 この例は**専門的な判断の誤り**を示しています。「ハンマーを持つ人にはすべてがクギに見える」という格言があるように、経験の浅い「プログラマー社長」は、すべての問題を「プログラマー的」に考えてしまいがちです。人事・労務管理の問題を正しくその分野の問題として捉えられず、「ソフトウェアの品質が低く、生産性が低いのは、プログラミングスキルの問題だ」と誤認してしまうのです。
 
@@ -89,7 +89,7 @@ thumbnail: /images/blog/2015-08-03-consulting-for-startups/thumbnail.png
 
 ### ワークショップとイノベーション
 
-![ワークショップのイメージ](/images/blog/2015-08-03-consulting-for-startups/9101419458_02d7d2da81.jpg){:.fig-small}
+![ワークショップのイメージ](/assets/blog/2015-08-03-consulting-for-startups/9101419458_02d7d2da81.jpg){:.fig-small}
 
 そんな状況のスタートアップ企業において、**アーキテクトがワークショップをファシリテートすること**で、大きな事業構想を模索することができます。
 
@@ -153,7 +153,7 @@ Appleの有名な1984年のコマーシャルが、ジョージ・オーウェ�
 
 ## 結論
 
-![「テクノロジーとリベラルアーツの交差点」のイメージ](/images/blog/2015-08-03-consulting-for-startups/cover.png){:.fig-small}
+![「テクノロジーとリベラルアーツの交差点」のイメージ](/assets/blog/2015-08-03-consulting-for-startups/cover.png){:.fig-small}
 
 アーキテクトとしての私が起業家やベンチャー企業のためにできることについて考えてきました。その結論はこうです。特定分野の専門家としてのコンサルティングではなく、**総合的なプライマリ・ケア**ができます。また、エコシステムへの思考や、SF的想像力を呼びおこすことで、**事業を大きく構想するためのお手伝い**ができます。
 

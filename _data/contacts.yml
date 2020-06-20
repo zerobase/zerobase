@@ -1,31 +1,31 @@
 - link: https://twitter.com/zerobase
   name: Twitter
-  thumbnail: /images/about/2015-01-14-profile/Twitter_logo_blue.png
+  thumbnail: /assets/contacts/Twitter_logo_blue.png
 
 - link: https://medium.com/@zerobase/
   name: Medium
-  thumbnail: /images/about/2015-01-14-profile/Medium-logo.png
+  thumbnail: /assets/contacts/Medium-logo.png
 
 - link: https://www.facebook.com/ishibashi.hideto
   name: Facebook
-  thumbnail: /images/about/2015-01-14-profile/FB-f-Logo__blue_100.png
+  thumbnail: /assets/contacts/FB-f-Logo__blue_100.png
 
 - link: https://www.instagram.com/zerobase000/
   name: Instagram
-  thumbnail: /images/about/2015-01-14-profile/IG_Glyph_Fill.png
+  thumbnail: /assets/contacts/IG_Glyph_Fill.png
 
 - link: https://github.com/zerobase
   name: GitHub
-  thumbnail: /images/about/2015-01-14-profile/GitHub-Mark.png
+  thumbnail: /assets/contacts/GitHub-Mark.png
 
 - link: https://www.linkedin.com/in/ishibashihideto
   name: LinkedIn
-  thumbnail: /images/about/2015-01-14-profile/LinkedIn-InBug-2CRev.png
+  thumbnail: /assets/contacts/LinkedIn-InBug-2CRev.png
 
 - link: mailto:hide@hideishi.com
   name: email
-  thumbnail: /images/about/2015-01-14-profile/mail_icon.png
+  thumbnail: /assets/contacts/mail_icon.png
 
 - link: /hideishi.pubkey.asc
   name: PGP
-  thumbnail: /images/about/2015-01-14-profile/np_encrypted_56905_000000.png
+  thumbnail: /assets/contacts/np_encrypted_56905_000000.png

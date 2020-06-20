@@ -2,11 +2,11 @@
 categories: blog
 title: 弱者としての起業家を知ってください
 description: 多くの起業家は、不器用にしか生きられないので起業します。能力も、経験も、心構えもないままに独立起業して、孤独に社会と対峙します。そして多くが失敗します。
-thumbnail: /images/blog/2011-12-15-entrepreneur/thumbnail.png
+thumbnail: /assets/blog/2011-12-15-entrepreneur/thumbnail.png
 redirect_from: "/blog/entrepreneur/"
 ---
 
-![起業家は誤解されている](/images/blog/2011-12-15-entrepreneur/entrepreneurs_are_misunderstod.jpg)
+![起業家は誤解されている](/assets/blog/2011-12-15-entrepreneur/entrepreneurs_are_misunderstod.jpg)
 
 ## 定義
 
@@ -132,7 +132,7 @@ _「弱者」とでも呼ぶべき危うい立場にいる数百万人の「起�
 > 
 > 一般性をマスターしたその上に開花する個性などという、都合のいいものはない。個性とは一般性の先で破綻するという形でしか訪れないーそういうものだからしかたない。個性を獲得するは「破綻」と「破綻からの修復作業」なのである。
 
-[![いま私たちが考えるべきこと](http://ecx.images-amazon.com/images/I/41Rm1yTeslL._SL160_.jpg)](http://www.amazon.co.jp/gp/product/4101054150?tag=hidetoi-22&linkCode=as1)
+[![いま私たちが考えるべきこと](http://ecx.images-amazon.com/assets/I/41Rm1yTeslL._SL160_.jpg)](http://www.amazon.co.jp/gp/product/4101054150?tag=hidetoi-22&linkCode=as1)
 
 ## 個性とは苦しみである
 

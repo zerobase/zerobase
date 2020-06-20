@@ -3,13 +3,13 @@ categories: blog
 title: インフォメーション・アーキテクチャを設計するアプローチのコペルニクス的転回
 subtitle: エコシステムとユーザー・エクスペリエンスの重視へ
 description: インフォメーション・アーキテクチャの設計パラダイムが変わりつつあります。この変化は、サービスデザインというパラダイムとも深く関係しています。
-thumbnail: /images/blog/2014-04-25-copernican-turn-on-information-architecture/thumbnail.png
+thumbnail: /assets/blog/2014-04-25-copernican-turn-on-information-architecture/thumbnail.png
 redirect_from:
   - /blog/copernican-turn-on-information-architecture/
   - /copernican-turn-on-information-architecture/
 ---
 
-![インフォメーション・アーキテクチャ関連書籍](/images/blog/2014-04-25-copernican-turn-on-information-architecture/ia-books.jpg)
+![インフォメーション・アーキテクチャ関連書籍](/assets/blog/2014-04-25-copernican-turn-on-information-architecture/ia-books.jpg)
 
 
 インフォメーション・アーキテクチャの設計パラダイムが変わりつつあります。この変化は、**サービスデザイン**というパラダイムとも深く関係しています。
