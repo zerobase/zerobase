@@ -23,7 +23,7 @@ Zerobase Inc
 
 He is a design activist who is exploring alternative methods of designing things from philosophy to implementation. He is always troubled with anti-modern reactionists and obscurantists in Japan. He has two homes in metropolitan Tokyo and livable Fukuoka. He likes to travel and see art exhibitions.
 
-## イチオシ記事
+## ブログ
 
 {% assign posts = site.posts | where: "featured", true %}
 
@@ -33,7 +33,9 @@ He is a design activist who is exploring alternative methods of designing things
   {% endfor %}
 </ul>
 
-## プロジェクト
+[すべてのブログ記事](/blog/)
+
+## 活動
 
 セルフマネジメントテクノロジー Za
 : 私が経営するゼロベース株式会社は、2008年から[セルフマネジメントテクノロジーZa][za]によって運営されています。社員をほとんどまったく管理せず、自営（自己経営）によって会社が回る仕組みです。徹底的に自由な働き方が実現しています。この知見を社会に広めます。
@@ -52,6 +54,8 @@ World IA Day Fukuoka
 
 Hide 'Like' Notifications
 : Facebookから「いいね！されました」通知を消すための[Chrome拡張機能](https://chrome.google.com/webstore/detail/hide-likes-on-facebook-no/kbfakkkdllpodegeoggpfcmjabodhpca)を2013年にリリースしました（※ウェブサイト版のみ対応）。Facebookは「ドーパミン・ハック」でユーザーを中毒にします。それに抵抗するための道具です。（海外のクチコミ：[1](https://www.quora.com/How-do-you-turn-off-like-notifications-on-Facebook)、[2](https://www.tubblog.co.uk/blog/tech-reviews/hide-facebook-like-notifications/)）
+
+[すべての活動](/activity/)
 
 <ul class="contacts">
   {% for contact in site.data.contacts %}
