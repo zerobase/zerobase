@@ -257,3 +257,5 @@ thumbnail: /assets/activity/2020-01-20-art-experience/thumbnail.png
 - マイヤ・タンミ
 - 明円光
 - 山田純嗣
+
+いくつかは [Instagram (#zerobasecollection)](https://www.instagram.com/explore/tags/zerobasecollection/) に掲載しています。
