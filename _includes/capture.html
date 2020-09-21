@@ -1,23 +1,21 @@
-{%- capture page_title %}
-  {%- if page.url != "/" %}
-    {%- if page.title %}{{ page.title }}
-      {% if page.subtitle %} {{ page.subtitle }}{% endif %}
-    {% endif -%}
-  {% else %}
+{%- capture page_title -%}
+  {%- if page.url != "/" -%}
+    {%- if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %}{%- endif -%}
+  {%- else -%}
     {{ site.title }}
-  {% endif -%}
-{% endcapture -%}
-{%- capture page_image %}
-  {%- if page.thumbnail %}
+  {%- endif -%}
+{%- endcapture -%}
+{%- capture page_image -%}
+  {%- if page.thumbnail -%}
     {{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}
-  {% else %}
+  {%- else -%}
     {{ site.thumbnail | prepend: site.baseurl | prepend: site.url }}
-  {% endif -%}
-{% endcapture -%}
-{%- capture page_description %}
-  {%- if page.description %}
+  {%- endif -%}
+{%- endcapture -%}
+{%- capture page_description -%}
+  {%- if page.description -%}
     {{ page.description | strip_html | condense_spaces | truncate:150 }}
-  {% else %}
+  {%- else -%}
     {{ site.description }}
-  {% endif -%}
-{% endcapture -%}
+  {%- endif -%}
+{%- endcapture -%}
