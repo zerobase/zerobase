@@ -6,6 +6,8 @@ redirect_from: "/blog/web-designer-survival/"
 redirect_from: "/web-designer-survival/"
 ---
 
+［編注：なぜこのような煽りタイトルをつけてしまったのか。若気の至り。（石橋、2020年）］
+
 {% comment %}
 ![エンジニアがUX、IA、UI、HTML、CSS、jQueryなどを抱え、残されたグラフィクスのみ手にしたデザイナーを蹴り出している図。](/assets/blog/2014-08-25-web-designer-survival/kicking-out.jpg)
 {% endcomment %}
