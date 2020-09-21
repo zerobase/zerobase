@@ -1,6 +1,5 @@
 ---
 featured: true
-categories: blog
 title: 日本人の低すぎる生産性とIT百姓一揆
 description: 生産性を上げるためにはIT投資が必要なのに、日本ではIT投資をしても生産性が上がらない。この謎を解く鍵は江戸時代にあるのではないか。
 show_description: true

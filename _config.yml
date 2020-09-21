@@ -62,7 +62,7 @@ defaults:
       author: "石橋秀仁 (Hide Ishi)"
   -
     scope:
-      path: "blog" # an empty string here means all files in the project
+      path: "_posts/blog"
     values:
       categories: "blog"
   -

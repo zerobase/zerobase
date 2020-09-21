@@ -1,6 +1,5 @@
 ---
 published: false
-categories: blog
 title: 産業技術大学院大学の「情報アーキテクチャ専攻」というコース名について
 description: 後発者がすでに普及している言葉の意味を簒奪しようとする。傲慢だ。 これは「情報アーキテクチャ」ではない。
 show_description: true

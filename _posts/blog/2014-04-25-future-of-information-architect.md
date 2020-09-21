@@ -1,5 +1,4 @@
 ---
-categories: blog
 title: "建築家の歴史と情報建築家の未来"
 description: 情報建築家（インフォメーション・アーキテクト）は、どこから来て、どこへ向かうのか。建築家の歴史を辿りつつ考えました。
 thumbnail: /assets/blog/2014-04-25-future-of-information-architect/thumbnail.png

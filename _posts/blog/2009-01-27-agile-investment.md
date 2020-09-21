@@ -1,5 +1,4 @@
 ---
-categories: blog
 title: Webビジネス新規事業への賢い「アジャイル」投資術
 description: 企業がWebビジネスの新規事業へ投資する際の成功確率を高めるための方法、とくに「ローコストを追究する必要性」と「YAGNI」について。
 thumbnail: /assets/blog/2009-01-27-agile-investment/thumbnail.png

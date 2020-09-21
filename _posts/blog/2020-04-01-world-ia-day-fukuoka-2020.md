@@ -1,5 +1,4 @@
 ---
-categories: blog
 title: "来るべきユーザーのためのインクルーシブ・デザイン試論"
 subtitle: "「第四世代の美術館」のために @WIAD_Fukuoka"
 description: "World IA Day Fukuoka 2020 のワークショップ設計にあたって、非利用者（ノン・ユーザー）のためのデザインの可能性を模索しました。"
