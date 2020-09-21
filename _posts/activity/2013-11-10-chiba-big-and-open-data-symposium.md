@@ -1,5 +1,4 @@
 ---
-categories: activity
 title: 「埋蔵金」はあなたの家に埋まってる
 description: ビッグデータ・オープンデータ活用推進協議会 公開シンポジウム
 thumbnail: /assets/activity/2013-11-10-chiba-big-and-open-data-symposium/thumbnail.png

@@ -1,5 +1,4 @@
 ---
-categories: activity
 title: 第5回ピクタソンのスポンサーになりました
 description: スポンサー枠でハイパーピクトグラムの宣伝をさせて頂きました。
 thumbnail: /assets/activity/2014-09-21-pictathon-5th/thumbnail.png

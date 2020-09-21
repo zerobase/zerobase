@@ -1,5 +1,4 @@
 ---
-categories: activity
 title: フロリディ『第四の革命』イベントで講演しました
 description: 情報哲学の第一人者フロリディ氏の『第四の革命』が翻訳出版されたことを記念するイベントで講演しました。
 thumbnail: /assets/activity/2017-05-12-floridi-talk/thumbnail.jpg

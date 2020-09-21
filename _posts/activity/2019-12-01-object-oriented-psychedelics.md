@@ -1,5 +1,4 @@
 ---
-categories: activity
 title: オブジェクト指向とパーソナル・コンピューティングの歴史について講演しました
 description: 2019年12月1日、Fukuoka Growth NextにてFGNエンジニアMeetup vol. 4に登壇し、「オブジェクト指向幻覚剤 カウンターカルチャーとしてのパーソナル・コンピューティング小史（仮）」という講演をしました。
 thumbnail: /assets/activity/2019-12-01-object-oriented-psychedelics/2019-12-01-object-oriented-psychedelics.png

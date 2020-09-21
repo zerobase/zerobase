@@ -1,5 +1,4 @@
 ---
-categories: activity
 title: オブジェクト指向のハードコア
 description: オブジェクト指向のハードコアは2019年5月25日にゼロベースサロンで行われたイベントです。
 thumbnail: /assets/activity/2019-05-25-object-orientation/thumbnail.png

@@ -1,5 +1,4 @@
 ---
-categories: activity
 title: "World IA Day Fukuoka 2020 でワークショップを実施しました"
 subtitle: "来るべきユーザーのためのインクルーシブな美術館構想 @WIAD_Fukuoka"
 description: "情報アーキテクチャ(IA)のグローバル・イベントWIADの福岡支部を立ち上げ、美術館のサービス・デザインを考えるワークショップを行いました。"

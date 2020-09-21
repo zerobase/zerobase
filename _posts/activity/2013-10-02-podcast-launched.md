@@ -1,5 +1,4 @@
 ---
-categories: activity
 title: インフォメーション・アーキテクトのポッドキャストを始めました
 description: いろいろな分野との〈共通言語〉を増やすために、いろいろな分野のゲストを迎えてトークするポッドキャストです。
 thumbnail: /assets/activity/2013-10-02-podcast-launched/thumbnail.png

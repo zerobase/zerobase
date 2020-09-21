@@ -1,5 +1,4 @@
 ---
-categories: activity
 title: サイトリニューアルのお知らせ
 description: 当サイトのデザインをリニューアルしました。
 published: false

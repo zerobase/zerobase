@@ -1,5 +1,4 @@
 ---
-categories: activity
 title: ウィキペディアの「ユーザーエクスペリエンス」という記事を書き下ろしました
 description: 手軽にアクセスできるウィキペディア日本語版に良質な記事がなければならないと考え、執筆しました。
 thumbnail: /assets/activity/2017-09-20-wikipedia-ux/thumbnail.png

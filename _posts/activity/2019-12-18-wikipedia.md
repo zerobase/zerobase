@@ -1,5 +1,4 @@
 ---
-categories: activity
 title: "UX JAM in FUKUOKA 02 でウィキペディアについて講演"
 description: 2019年12月18日、 UX JAM in FUKUOKA 02 に登壇し、ウィキペディアの「ユーザーエクスペリエンス」を書いた話をしました。
 thumbnail: /assets/activity/2019-12-18-wikipedia/thumbnail.png

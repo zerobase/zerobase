@@ -1,5 +1,4 @@
 ---
-categories: activity
 title: アート経験録
 description: 2017年から2019年までの3年間に経験したアート・イベント（222件）とコレクション（18人・31点）の記録です。
 thumbnail: /assets/activity/2020-01-20-art-experience/thumbnail.png

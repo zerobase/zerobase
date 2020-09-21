@@ -67,7 +67,7 @@ defaults:
       categories: "blog"
   -
     scope:
-      path: "activity" # an empty string here means all files in the project
+      path: "_posts/activity"
     values:
       categories: "activity"
   -

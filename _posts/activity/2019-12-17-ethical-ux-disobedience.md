@@ -1,5 +1,4 @@
 ---
-categories: activity
 title: "Ethical UX Meetup #4 でデザイン倫理の講演"
 description: "2019年12月17日、福岡で開催された Ethical UX Meetup #4 に登壇し、デザイン倫理としての不服従について話しました。"
 thumbnail: /assets/activity/2019-12-17-ethical-ux-disobedience/thumbnail.png
