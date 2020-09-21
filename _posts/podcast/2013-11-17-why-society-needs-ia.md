@@ -1,5 +1,4 @@
 ---
-categories: podcast
 title: なぜ社会には情報アーキテクトが必要なのか？
 subtitle: IA Podcast Ep. 21
 description: 2013年11月9日の講演です。

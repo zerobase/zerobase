@@ -1,5 +1,4 @@
 ---
-categories: podcast
 title: 唐津直哉氏を迎えて
 subtitle: IA Podcast Ep. 13
 description: プログラミング、型、機械学習、テストなどの話です。

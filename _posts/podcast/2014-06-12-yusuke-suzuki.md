@@ -1,5 +1,4 @@
 ---
-categories: podcast
 title: ITアーキテクト鈴木雄介氏を迎えて
 subtitle: IA Podcast Ep. 23
 description: 2014年6月11日に収録したポッドキャスト。仕事や社会についての雑談です。

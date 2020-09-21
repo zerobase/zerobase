@@ -72,7 +72,7 @@ defaults:
       categories: "activity"
   -
     scope:
-      path: "podcast" # an empty string here means all files in the project
+      path: "_posts/podcast"
     values:
       categories: "podcast"
 
