@@ -81,7 +81,7 @@ World IA Day の福岡支部 World IA Day Fukuoka を立ち上げ、 [World IA D
 
 ワークショップの概要は[ガイダンスの映像(1:06:16)](https://youtu.be/4oOFLE9V7V4?t=3976)をご覧頂くのが分かりやすいかと思いますが、簡単に説明しておきましょう。「以下の5種類のカードを組み合わせて、美術館のサービスを利用するストーリーを作ってください」というワークです。カードは「条件」「主体」「活動」「対象」「価値」の5種類に分かれています。好きなカードを選んで組み合わせてもいいし、ランダムに引いたカードを組み合わせてもいい、というものです。参加者には「最終成果物の優劣を競うのではなく、各自で有益な気付きを持ち帰って頂くことが目的です」とお伝えしました。
 
-{% figure caption:"World IA Day Fukuoka 2020 のワークショップで用いたMiroホワイトボードのテンプレート（※画像をクリックでPDF版へ）" %}
+{% figure caption:"World IA Day Fukuoka 2020 のワークショップで用いたMiroホワイトボードのテンプレート（※画像をクリックでPDF版へ）（※[Miroテンプレートのデータ](/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace (Master).rtb)）" %}
 [
     ![](/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace (Master).jpg)
 ](/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace (Master).pdf)
