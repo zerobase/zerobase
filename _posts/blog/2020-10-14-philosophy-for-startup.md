@@ -3,10 +3,10 @@ title: "起業がふたたび社会変革の前衛になるために"
 subtitle: "「スタートアップのための思想史・運動史」序説"
 description: "全共闘以後、若者は政治音痴になり、運動嫌いになった。ノンポリになった。起業の目的も自己実現か金儲けになった。社会変革の大志は失われた。ふたたび起業が前衛になるためには何が必要か。"
 show_description: true
-thumbnail: /assets/blog/2020-10-07-philosophy-for-startup/thumbnail.png
+thumbnail: /assets/blog/2020-10-14-philosophy-for-startup/thumbnail.png
 ---
 
-![突き上げた拳のイラスト](/assets/blog/2020-10-07-philosophy-for-startup/fist.png)
+![突き上げた拳のイラスト](/assets/blog/2020-10-14-philosophy-for-startup/fist.png)
 
 先日、ベンチャー・キャピタリストの方が来訪された。近況を話し合う中で、「最近のスタートアップには社会変革の大志がなくなった」という認識で一致してしまった。では、なぜ起業家から大志が失われてしまったのか。来客に話したことを、文章として残しておく。
 
