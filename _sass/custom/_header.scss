@@ -4,10 +4,11 @@
   width: 100%;
   padding: $base-padding * 0.5;
   background-color: $base-main-color;
+  white-space: nowrap;
+  overflow-x: scroll;
 
   .top_navigation {
     $color: $base-background-color;
-    text-align: center;
   
     &, a, li {
       color: $color;
@@ -22,10 +23,14 @@
       color: darken($color, 20);
     }
   
-    .vid {
-      width: 2em;
-      height: 2em;
-      vertical-align: top;
+    .top_navigation-items-top {
+      font-size: modular-scale(2);
+
+      .vid {
+        width: 2em;
+        height: 2em;
+        vertical-align: middle;
+      }
     }
   
     ul {
