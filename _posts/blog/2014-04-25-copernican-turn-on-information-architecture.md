@@ -6,6 +6,7 @@ thumbnail: /assets/blog/2014-04-25-copernican-turn-on-information-architecture/t
 redirect_from:
   - /blog/copernican-turn-on-information-architecture/
   - /copernican-turn-on-information-architecture/
+updated: 2016-04-19
 ---
 
 ![インフォメーション・アーキテクチャ関連書籍](/assets/blog/2014-04-25-copernican-turn-on-information-architecture/ia-books.jpg)
@@ -149,5 +150,3 @@ redirect_from:
 {% include amazon_link.html asin="0123820944" %}
 {% include amazon_link.html asin="4492522050" %}
 {% include amazon_link.html asin="4492521828" %}
-
-最終更新日：2016年4月19日

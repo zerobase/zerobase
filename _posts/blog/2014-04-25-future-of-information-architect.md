@@ -5,6 +5,7 @@ thumbnail: /assets/blog/2014-04-25-future-of-information-architect/thumbnail.png
 redirect_from:
   - /blog/future-of-information-architect/
   - /future-of-information-architect/
+updated: 2015-01-16
 ---
 
 {% figure caption:"リチャード・S・ワーマンのポートレイト　撮影：Melissa Mahoney　出典：[ウィキメディア・コモンズ](http://commons.wikimedia.org/wiki/File%3ARichard_Saul_Wurman_by_Melissa_Mahoney.png)" %}
@@ -176,5 +177,3 @@ redirect_from:
 {% include amazon_link.html asin="4306044548" %}
 {% include amazon_link.html asin="4395100368" %}
 {% include amazon_link.html asin="4798115002" %}
-
-最終更新日：2015年1月16日

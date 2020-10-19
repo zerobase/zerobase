@@ -7,6 +7,7 @@ thumbnail: /assets/blog/2013-12-03-semantic-turn/thumbnail.png
 redirect_from:
   - /blog/semantic-turn/
   - /semantic-turn/
+updated: 2016-12-11
 ---
 
 クラウス・クリッペンドルフ (Klaus Krippendorff) の『意味論的転回−デザインの新しい基礎理論』 (The Semantic Turn – A New Foundation For Design) という本をご存知でしょうか。
@@ -14,8 +15,6 @@ redirect_from:
 『意味論的転回』は、「デザインとは、そもそも何なのか？」という根源的な問いに答える哲学書です。そして実践的手法を紹介する本でもあります。デザインの思想と実践が、一冊のなかでつながっています。
 
 〔この文章は、デザインとユーザー・エクスペリエンスについて考える人に『意味論的転回−デザインの新しい基礎理論』を読んでもらうために書かれています。また、[UX Advent Calendar 2013](http://www.adventar.org/calendars/115) のために書かれました〕
-
-［最終更新日：2016年12月11日］
 
 
 ## 序論と概観
