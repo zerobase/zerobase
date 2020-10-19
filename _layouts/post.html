@@ -7,10 +7,9 @@ layout: default
   <article>
 
     <header>
-      <h1 class="page title">{{ page.title }}  <span class="meta subtitle">{{ page.subtitle }}</span></h1>
-      <p class="meta time">著者: {{ page.author }}<br>公開日: {{ page.date | date: "%Y年%m月%d日" }}{% if page.updated %}<br>最終更新日: {{ page.updated | date: "%Y年%m月%d日" }}{% endif %}</p>
-      {% include share.html %}
-    </header>
+      <h1 class="page title">{{ page.title }}{% if page.subtitle %}  <span class="meta subtitle">{{ page.subtitle }}</span>{% endif %}</h1>
+      <p class="meta author">{{ page.author }}</p>
+      <p class="meta time">{{ page.date | date: "%Y年%m月%d日" }}{% if page.updated %}（{{ page.updated | date: "%Y年%m月%d日" }}更新）{% endif %}</p>    </header>
 
     <section class="article-body">
       {% if page.show_description %}

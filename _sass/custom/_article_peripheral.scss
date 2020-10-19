@@ -16,6 +16,8 @@ article footer {
 }
 
 article header {
+  margin-bottom: $base-spacing;
+  
   .meta.subtitle {
     font-size: modular-scale(3);
     margin-left: $base-padding/2;

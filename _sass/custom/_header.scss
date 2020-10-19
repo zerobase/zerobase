@@ -2,7 +2,7 @@
   position: fixed;
   z-index: 100;
   width: 100%;
-  padding: $base-padding * 0.5;
+  padding: $base-padding;
   background-color: $base-main-color;
   white-space: nowrap;
   overflow-x: scroll;
@@ -23,21 +23,18 @@
       color: darken($color, 20);
     }
   
-    .top_navigation-items-top {
-      font-size: modular-scale(2);
-
-      .vid {
-        width: 2em;
-        height: 2em;
-        vertical-align: middle;
-      }
+    .vid {
+      width: 3em;
+      height: 3em;
+      vertical-align: middle;
     }
   
     ul {
       li {
         list-style: none;
         display: inline-block;
-        padding-right: 0.3em;
+        padding-right: 1em;
+        font-size: modular-scale(1);
   
         &.active {
           text-decoration: underline $base-link-underline-color;
