@@ -4,6 +4,7 @@ subtitle: "高齢者を疎外しない情報化社会へ"
 description: "この文章は二つのことを言うために書かれている：「高齢者のためのやさしいコンピューター」を作ろうとしてはならない。「人は年をとったら新しいことなど学ばなくなる」という思い込みを無くすべきだ。"
 show_description: false
 thumbnail: /assets/blog/2020-03-07-cyber-anti-ageism/thumbnail.jpg
+updated: 2020-09-21
 ---
 
 この文章は次の二つのことを言うために書かれている：
@@ -179,5 +180,3 @@ thumbnail: /assets/blog/2020-03-07-cyber-anti-ageism/thumbnail.jpg
 [^senior-intern]: [「『マイ・インターン』のようなシニア・インターンシップは実在するのか？」 (ScreenPrism)](http://screenprism.com/insights/article/are-there-senior-interns-like-ben-whittaker-in-the-movie-the-intern-in-real)という英文記事では、その実例が紹介されている。
 
 それでは、みなさん、ハッピー・エイジング！
-
-［初出：2020年3月7日、更新：2020年9月21日］

@@ -3,12 +3,11 @@ title: 「自分の意思で決めている」と思い込ませつつ意思決�
 description: 「ユーザーの利益になる体験を作り上げるための技術」である「ユーザーエクスペリエンスデザイン」は、「ユーザーに不利益を与えながら、不利益だと感じさせないための技術」に悪用することができる。デザイナの職業倫理が問われなければならない。
 thumbnail: /assets/blog/2010-06-09-black-hat-design/thumbnail.png
 redirect_from: "/blog/black-hat-design/"
+updated: 2014-01-14
 ---
 
 ![](/assets/blog/2010-06-09-black-hat-design/marionette.jpg)  
 <small>操り人形風の人物写真　出典：[Day 137 by Bastian, on Flickr](https://www.flickr.com/photos/bneumann/3196904749)</small>
-
-〔初出：2010年6月9日、更新：2014年1月14日〕
 
 「人々のため、よりよい社会のため」と思って専門家が蓄積してきた知識は悪用される可能性があります。これは不可避な現実です。「デザイン」の領域も無縁ではいられません。
 
