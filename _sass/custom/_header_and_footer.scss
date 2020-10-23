@@ -1,6 +1,5 @@
 .site.header,
 .site.footer {
-  padding: $base-padding/4 $base-padding;
   width: 100%;
   color: $base-inverted-color;
   background-color: $base-inverted-background-color;
@@ -26,6 +25,7 @@
   z-index: 100;
   white-space: nowrap;
   overflow-x: scroll;
+  padding: $base-padding/4;
 
   .top_navigation {
     .vid {
@@ -50,8 +50,11 @@
 
 .site.footer {
   margin-top: $base-spacing;
-  
-  img {
-    vertical-align: middle;
+  padding: $base-padding 0;
+
+  .copyrights {
+    img {
+      vertical-align: middle;
+    }
   }
 }
