@@ -33,8 +33,7 @@
 
     .text {
       flex: 1 2 350px;
-      padding: 10px 20px;
-      // margin-left: $base-spacing;
+      padding: 10px 0;
 
       .title {
         font-size: modular-scale(2);
@@ -44,12 +43,13 @@
 
         .meta.title {
           margin: 0;
-          font-size: modular-scale(1);
+          font-size: modular-scale(3);
         }
         
         .meta.subtitle {
+          display: block;
+          margin-top: $base-spacing/2;
           font-size: modular-scale(0);
-          margin-left: $base-padding/2;
         }
       }
       

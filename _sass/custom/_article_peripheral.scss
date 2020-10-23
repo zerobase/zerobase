@@ -19,8 +19,9 @@ article header {
   margin-bottom: $base-spacing;
   
   .meta.subtitle {
-    font-size: modular-scale(3);
-    margin-left: $base-padding/2;
+    display: block;
+    margin-top: $base-spacing/2;
+    font-size: modular-scale(2);
   }
 
   .meta.time {
