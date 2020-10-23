@@ -57,6 +57,8 @@ Hide 'Like' Notifications
 
 [すべての活動](/activity/)
 
+---
+
 <ul class="contacts">
   {% for contact in site.data.contacts %}
     <li><a href="{{ contact.link }}"><img alt="{{ contact.name }}" src="{{ contact.thumbnail }}"><br>{{ contact.name }}</a></li>

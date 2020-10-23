@@ -9,14 +9,14 @@ body {
 }
 
 .main.container {
-  padding-top: $base-spacing*3;
+  padding-top: $base-spacing;
 }
 
 main {
   padding: $base-padding;
   
   h1, h2, h3, h4, h5, h6 {
-    margin: $base-spacing/2 0 $base-spacing/2 0;
+    margin: $base-spacing 0 $base-spacing/2 0;
   }
 }
 

@@ -29,13 +29,15 @@ $base-accent-color: #CC4400;
 $base-main-color: #208DC3;
 $base-background-color: lighten($base-main-color, 55);
 $base-font-color: darken($base-main-color, 25);
+$base-inverted-color: lighten($base-main-color, 55);
+$base-inverted-background-color: darken($base-main-color, 35);
 
 // Link Colors
 $base-link-color: lighten($base-font-color, 20);
 $base-link-underline-color: lighten($base-link-color, 20);
 $base-hover-link-color: darken($base-link-color, 20);
-$base-button-color: darken($base-link-color, 10);
-$base-button-text-color: $base-background-color;
+$base-button-color: $base-inverted-background-color;
+$base-button-text-color: $base-inverted-color;
 $base-hover-button-color: $base-hover-link-color;
 
 // Border color

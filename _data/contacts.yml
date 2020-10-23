@@ -29,3 +29,7 @@
 - link: /hideishi.pubkey.asc
   name: PGP
   thumbnail: /assets/contacts/np_encrypted_56905_000000.png
+
+- link: https://feeds.feedburner.com/HidetoIshibashi
+  name: Feed
+  thumbnail: /assets/contacts/np_feed_1107944_000000.png
