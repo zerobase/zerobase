@@ -13,9 +13,5 @@
   {%- endif -%}
 {%- endcapture -%}
 {%- capture page_description -%}
-  {%- if page.description -%}
-    {{ page.excerpt | default: page.description | default: site.description | strip_html | condense_spaces | strip_newlines | truncate:150 }}
-  {%- else -%}
-    {{ site.description }}
-  {%- endif -%}
+  {{ page.description | default: page.excerpt | default: site.description | strip_html | condense_spaces | strip_newlines | truncate:150 }}
 {%- endcapture -%}
