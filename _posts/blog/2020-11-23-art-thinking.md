@@ -7,8 +7,8 @@ thumbnail: /assets/blog/2020-11-23-art-thinking/thumbnail.jpg
 # updated: 2020-11-20
 ---
 
-{% figure caption:"サンドロ・ボッティチェッリの絵画『ヴィーナスの誕生』" %}
-![絵画](/assets/blog/2020-11-23-art-thinking/Sandro_Botticelli-La_nascita_di_Venere.jpg)
+{% figure caption:"サンドロ・ボッティチェッリの絵画《ヴィーナスの誕生》" %}
+![《ヴィーナスの誕生》の図像](/assets/blog/2020-11-23-art-thinking/Sandro_Botticelli-La_nascita_di_Venere.jpg)
 {% endfigure %}
 
 ビジネス界隈で「アート思考」と呼ばれるものの実態は「クリエイティブ思考」だろう。では、言葉の本来の意味での「アート思考」は一体どういう意味になるべきか。それは、**アートの営みが拠って立つ原理のように思考すること**だと思う。
@@ -35,11 +35,11 @@ thumbnail: /assets/blog/2020-11-23-art-thinking/thumbnail.jpg
 
 2007年に最初のiPhoneを紹介したスティーブ・ジョブズのプレゼンテーションを思い出してみればいい。彼はスタイラスという当時の規範に対して、「ウンザリ」という負のレッテル貼りをした。
 
-!["Who wants a stylus?" と書かれたスライドとスティーブ・ジョブズ](/assets/blog/2020-11-23-art-thinking/who-wants-stylus.png)
+!["Who wants a stylus?" と書かれたスライドとスティーブ・ジョブズの写真](/assets/blog/2020-11-23-art-thinking/who-wants-stylus.png)
 
 その上で、指で直接タッチできるスクリーンは「魔法のようだ」という美意識を訴求した。
 
-!["Works like magic" と書かれたスライドとスティーブ・ジョブズ](/assets/blog/2020-11-23-art-thinking/works-like-magic.png)
+!["Works like magic" と書かれたスライドとスティーブ・ジョブズの写真](/assets/blog/2020-11-23-art-thinking/works-like-magic.png)
 
 iPhoneをひっさげたスティーブ・ジョブズが当時の競合スマートフォンに対して挑んだのは、技術の戦争ではない。美意識の戦争だった。この点は誤解されがちだ。
 
@@ -56,7 +56,7 @@ iPhoneをひっさげたスティーブ・ジョブズが当時の競合スマ�
 iPhoneが作り出したスマートフォンのあり方が、現在のファッショントレンドになっている。これはあくまでトレンドであって、将来は分からない。ブラックベリー型やスタイラス型、あるいはフィーチャーフォン型の復権もありえると思う。
 
 {% figure caption:"BlackBerry Torch 9800 タッチパネル+スライドキーボード - [edans / Enrique Dans](https://www.flickr.com/photos/edans/5238168440/) により CC 表示 2.0 ライセンスで提供（[リンク](https://commons.wikimedia.org/w/index.php?curid=12475879)）" %}
-![BlackBerry Torch 9800 の写真](/assets/blog/2020-11-23-art-thinking/BlackBerry_Torch.jpg)
+![BlackBerry Torch 9800の写真](/assets/blog/2020-11-23-art-thinking/BlackBerry_Torch.jpg)
 {% endfigure %}
 
 技術にばかり関心が向いている人は、「携帯電話はスマートフォンに**進歩**した」と考えがちだ。単純な進歩史観。しかし、実際にはそうではない。
@@ -108,8 +108,8 @@ IT業界に多い技術的進歩史観の人には理解しづらいことだろ
 
 今月（2020年11月）発表された話題の新型コンピューター [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) （ラズベリーパイ400）を見てみよう。キーボードにパソコン本体が組み込まれている。電源とマウスとディスプレイを接続すれば、完全なコンピューターとして使える。このようなコンピューターは現在の市場にほとんど存在していない。
 
-{% figure caption:"出典：<https://www.raspberrypi.org/products/raspberry-pi-400>" %}
-![アナログレコードの写真](/assets/blog/2020-11-23-art-thinking/raspberry-pi-400.jpg)
+{% figure caption:"出典：[The Raspberry Pi Foundation](https://www.raspberrypi.org/products/raspberry-pi-400)" %}
+![Raspberry Pi 400の写真](/assets/blog/2020-11-23-art-thinking/raspberry-pi-400.jpg)
 {% endfigure %}
 
 キーボード一体型パーソナル・コンピューターという形態を「新しい！」と思う人もいるかもしれない。ところが、これはむしろパーソナル・コンピューター史的には先祖返りに近い。40年ほど前には、むしろ主流だった。
