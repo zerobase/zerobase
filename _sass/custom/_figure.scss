@@ -14,6 +14,10 @@
     figcaption {
       font-size: modular-scale(-1);
       padding: 0 1em;
+
+      small {
+        font-size: modular-scale(-3);
+      }
     }
   }
 

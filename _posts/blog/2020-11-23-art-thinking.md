@@ -49,13 +49,13 @@ iPhoneをひっさげたスティーブ・ジョブズが当時の競合スマ�
 
 忘れがちだが、iPhoneだって最初から理解されたわけではない。「こんなもの流行るはずがない」という懐疑的・批判的な意見の方が多かったと思う。そもそも最初から全員に理解されるものは、規範からまったく逸脱していないということになる。逆に言えば、新たなトレンドを作りたい者は、万人に理解されることをしてはならない。
 
-{% figure caption:"もの派の代表的な作品：関根伸夫《位相-大地》1968年 - 作家自身により CC 表示-継承 4.0 ライセンスで提供（[リンク](https://commons.wikimedia.org/w/index.php?curid=40068012)）" %}
+{% figure caption:"もの派の代表的な作品：関根伸夫《位相-大地》1968年<br><small>出典：作者自身による, CC 表示-継承 4.0 ライセンス（[リンク](https://commons.wikimedia.org/w/index.php?curid=40068012)）</small>" %}
 ![《位相-大地》の写真](/assets/blog/2020-11-23-art-thinking/Phase-Mother_Earth.jpg)
 {% endfigure %}
 
 iPhoneが作り出したスマートフォンのあり方が、現在のファッショントレンドになっている。これはあくまでトレンドであって、将来は分からない。ブラックベリー型やスタイラス型、あるいはフィーチャーフォン型の復権もありえると思う。
 
-{% figure caption:"BlackBerry Torch 9800 タッチパネル+スライドキーボード - [edans / Enrique Dans](https://www.flickr.com/photos/edans/5238168440/) により CC 表示 2.0 ライセンスで提供（[リンク](https://commons.wikimedia.org/w/index.php?curid=12475879)）" %}
+{% figure caption:"BlackBerry Torch 9800 タッチパネル+スライドキーボード<br><small>出典：edans / Enrique Dans による, CC 表示 2.0 ライセンス（[リンク](https://commons.wikimedia.org/w/index.php?curid=12475879)）</small>" %}
 ![BlackBerry Torch 9800の写真](/assets/blog/2020-11-23-art-thinking/BlackBerry_Torch.jpg)
 {% endfigure %}
 
@@ -63,7 +63,7 @@ iPhoneが作り出したスマートフォンのあり方が、現在のファ�
 
 例えば、なぜ2020年にアナログレコードが売れているのか。「中高年の懐古趣味」では説明がつかない。若者に人気なのだから。彼らは技術的に優れている（と一般に思われている）配信やCDよりも、劣った（と一般的に思われている）アナログレコードを好む。これが美意識だ。技術の問題ではない。
 
-{% figure caption:"出典：[Pexels](https://pixabay.com/ja/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1867697) - Pixabay" %}
+{% figure caption:"アナログレコード<br><small>出典：Pexelsによる, Simplified Pixabay License（[リンク](https://pixabay.com/images/id-1867697/)）</small>" %}
 ![アナログレコードの写真](/assets/blog/2020-11-23-art-thinking/analog-records.jpg)
 {% endfigure %}
 
@@ -108,18 +108,22 @@ IT業界に多い技術的進歩史観の人には理解しづらいことだろ
 
 今月（2020年11月）発表された話題の新型コンピューター [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) （ラズベリーパイ400）を見てみよう。キーボードにパソコン本体が組み込まれている。電源とマウスとディスプレイを接続すれば、完全なコンピューターとして使える。このようなコンピューターは現在の市場にほとんど存在していない。
 
-{% figure caption:"出典：[The Raspberry Pi Foundation](https://www.raspberrypi.org/products/raspberry-pi-400)" %}
+{% figure caption:"Raspberry Pi 400<br><small>出典：[The Raspberry Pi Foundation](https://www.raspberrypi.org/products/raspberry-pi-400)</small>" %}
 ![Raspberry Pi 400の写真](/assets/blog/2020-11-23-art-thinking/raspberry-pi-400.jpg)
 {% endfigure %}
 
 キーボード一体型パーソナル・コンピューターという形態を「新しい！」と思う人もいるかもしれない。ところが、これはむしろパーソナル・コンピューター史的には先祖返りに近い。40年ほど前には、むしろ主流だった。
 
-{% figure caption:"PC-6001（1981年）" %}
+{% figure caption:"PC-6001（1981年）<br><small>出典：Morianuによる, CC 表示-継承 4.0 ライセンス（[リンク](https://commons.wikimedia.org/w/index.php?curid=79547564による)）</small>" %}
 ![PC-6001の写真](/assets/blog/2020-11-23-art-thinking/pc-6001.png)
 {% endfigure %}
 
 {% figure caption:"コモドール64（1982年）" %}
-![コモドール64](/assets/blog/2020-11-23-art-thinking/commodore-64.png)
+![コモドール64の写真](/assets/blog/2020-11-23-art-thinking/commodore-64.png)
+{% endfigure %}
+
+{% figure caption:"MSX規格の製品例：Sony HitBit 10-P（1985年頃？）" %}
+![Sony MSX HitBit 10-Pの写真](/assets/blog/2020-11-23-art-thinking/Sony_HitBit_HB-10P.jpg)
 {% endfigure %}
 
 ラズベリーパイ400のようなキーボード一体型デザインが、今後のトレンドになるかどうかは分からない。ただ、「過去の歴史を参照しつつ、現在の規範から逸脱する」という創造の運動性を見出すことはできるだろう。IT業界にも、アート界と同じような創造の運動がある。だからアート思考はIT業界も射程に入れることができる。
