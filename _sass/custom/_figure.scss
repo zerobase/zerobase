@@ -32,8 +32,7 @@
 
   .fig-medium {
     @include media($large-viewport) {
-      padding: 0 0 0 2em;
-      padding: $base-spacing 20%;
+      padding: 0 20%;
     }
   }
 
