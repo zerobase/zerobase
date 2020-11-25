@@ -114,6 +114,10 @@ IT業界に多い技術的進歩史観の人には理解しづらいことだろ
 
 キーボード一体型パーソナル・コンピューターという形態を「新しい！」と思う人もいるかもしれない。ところが、これはむしろパーソナル・コンピューター史的には先祖返りに近い。40年ほど前には、むしろ主流だった。
 
+{% figure caption:"Apple II（1977年）<br>本体およびモノクロ・モニター、ゲーム・パドル、カセット・デッキ<br><small>出典：FozzTexx, CC BY-SA 4.0 ライセンス（[リンク](https://commons.wikimedia.org/w/index.php?curid=79580939)）</small>" %}
+![Apple IIおよび周辺機器の写真](/assets/blog/2020-11-23-art-thinking/Apple_II_typical_configuration_1977.png)
+{% endfigure %}
+
 {% figure caption:"PC-6001（1981年）<br><small>出典：Morianuによる, CC 表示-継承 4.0 ライセンス（[リンク](https://commons.wikimedia.org/w/index.php?curid=79547564による)）</small>" %}
 ![PC-6001の写真](/assets/blog/2020-11-23-art-thinking/pc-6001.png)
 {% endfigure %}
