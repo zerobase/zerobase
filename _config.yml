@@ -26,9 +26,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://hideishi.com" # the base hostname & protocol for your site
 twitter_username: zerobase
 github_username:  zerobase
-main_feed: https://feeds.feedburner.com/HidetoIshibashi
-podcast_feed: https://feeds.feedburner.com/InformationArchitectsPodcast
-podcast_itunes_url: https://itunes.apple.com/jp/podcast/ia-podcast/id963102127?l=en&mt=2
 
 ## Custom settings
 show_facebook_comment: false
