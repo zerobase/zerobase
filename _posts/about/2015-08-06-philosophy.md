@@ -7,7 +7,7 @@ description: "情報アーキテクトである私のモットーは「思想を
 redirect_from: /philosophy/
 next_page_title: 仕事
 next_page_url: /about/works.html
-updated: 2020-10-13
+updated: 2020-10-27
 ---
 
 情報アーキテクトである私のモットーは「**思想を実装する**」です。
