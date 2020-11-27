@@ -25,7 +25,12 @@ Build
 -----
 
 ```console
+$ git checkout gh-pages
 $ bundle exec jekyll build
+$ git add docs
+$ git commit -m 'Build'
+$ git push origin gh-pages
+$ git checkout master
 ```
 
 Deployment
