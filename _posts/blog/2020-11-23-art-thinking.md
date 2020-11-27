@@ -1,6 +1,7 @@
 ---
+featured: true
 title: "「アート思考」の話"
-# subtitle: "「スタートアップのための思想史・運動史」序説"
+# subtitle: ""
 description: "「アート思考」という言葉は、「過去や常識に囚われることなく、自由にアイデアを出す発想法」という意味で使われることが多い。しかし、それは本物のアーティストの思考法なのだろうか？"
 show_description: true
 thumbnail: /assets/blog/2020-11-23-art-thinking/thumbnail.jpg
