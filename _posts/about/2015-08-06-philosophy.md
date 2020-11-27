@@ -52,6 +52,10 @@ updated: 2020-10-13
 
 {% linkpreview "https://hideishi.com/blog/2014/04/25/future-of-information-architect.html" %}
 
+「アート思考」とは何でしょうか：
+
+{% linkpreview "https://hideishi.com/blog/2020/11/23/art-thinking.html" %}
+
 美術館のような公共的なサービスのデザインはどうあるべきでしょうか：
 
 {% linkpreview "https://hideishi.com/activity/2020/02/22/world-ia-day-fukuoka-2020.html" %}
