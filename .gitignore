@@ -5,3 +5,4 @@ public
 node_modules
 .jekyll-cache
 docs
+node_modules
