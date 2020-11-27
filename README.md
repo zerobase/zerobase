@@ -10,8 +10,8 @@ Installation
 $ bundle install
 ```
 
-Usage
------
+Development or Authoring
+------------------------
 
 ```console
 $ bundle exec jekyll serve --watch --future
@@ -19,6 +19,14 @@ $ bundle exec jekyll serve --watch --future
 
 CAUTION: You shouldn't deploy generated files since URLs in them are 'localhost.'
 注意: 書き出されたファイル中のURLがlocalhostになっているので、そのままデプロイしてはいけない。
+
+
+Build
+-----
+
+```console
+$ bundle exec jekyll build
+```
 
 Deployment
 ----------

@@ -1,5 +1,5 @@
 # Build settings
-destination: public
+destination: docs
 exclude: [
   CNAME,
   Gemfile,
