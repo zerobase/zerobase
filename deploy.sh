@@ -7,4 +7,5 @@ git checkout gh-pages && \
   git add docs && \
   git commit -m 'Build' && \
   git push origin gh-pages && \
+  git reset --hard && \
   git checkout master
