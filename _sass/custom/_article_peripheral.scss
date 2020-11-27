@@ -1,20 +1,3 @@
-article header,
-article footer {
-  .share {
-    vertical-align: bottom;
-    margin-top: $base-spacing;
-    margin-bottom: $base-spacing;
-
-    .twitter-share-button {
-      vertical-align: bottom;
-    }
-
-    .fb_iframe_widget_fluid {
-      vertical-align: bottom;
-    }
-  }
-}
-
 article header {
   margin-bottom: $base-spacing;
   

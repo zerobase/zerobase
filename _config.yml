@@ -75,7 +75,6 @@ defaults:
 
 # Twitter
 twitter_user: zerobase
-twitter_tweet_button: true
 
 # Facebook
 facebook_app_id: 422391257870402
