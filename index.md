@@ -14,7 +14,7 @@ description: インフォメーション・アーキテクト石橋秀仁のウ�
 [GMO VenturePartners 株式会社][gmo-vp]  
 デザインフェロー
 
-久留米高専卒業後、インターネットサービス企業のプログラマーを経て、2004年に[ゼロベース][zerobase]を創業。同年ベンチャーキャピタル[GMO-VP][gmo-vp]のデザインフェローとして[スタートアップのコンサルティング][startup-consulting]を開始。[情報アーキテクト(IA)][information-architect]として活動している。モットーは「[思想を実装する][philosophy]」。[アートファン][art-experience]。
+久留米高専卒業後、日本最大級の就活コミュニティJobwebのプログラマー(2000-2002)を経て2003年に独立。2004年に[ゼロベース][zerobase]を創業し、同年ベンチャーキャピタル[GMO-VP][gmo-vp]のデザインフェローに就任。[情報アーキテクト(IA)][information-architect]として、インターネットやソフトウェアに関する開発、批評、および[スタートアップ支援][startup-consulting]に取り組んでいる。モットーは「[思想を実装する][philosophy]」。[アートファン][art-experience]。
 
 ## Hide Ishi
 
