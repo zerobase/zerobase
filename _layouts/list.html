@@ -9,6 +9,7 @@ layout: default
     <h1 class="page title">{{ page.title }}</h1>
   </header>
   <section class="main content body">
+    {{ content }}
     <ul class="post list">
       {% for _post in posts %}
         <li class="post item">{% include article_meta.html %}</li>
