@@ -1,7 +1,6 @@
 ---
 categories: about
 permalink: /about/philosophy.html
-thumbnail: /assets/thumbnail.png
 title: "思想を実装する"
 description: "情報アーキテクトである私のモットーは「思想を実装する」です。私自身の開発実践において、いつも思想を大事にしています。また、思想なき乱開発を批判する立場です。そのような文章をたくさん書いてきました。"
 redirect_from: /philosophy/

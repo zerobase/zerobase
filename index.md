@@ -1,7 +1,6 @@
 ---
 layout: top
 permalink: /
-thumbnail: /assets/thumbnail.jpg
 title: 石橋秀仁
 description: インフォメーション・アーキテクト石橋秀仁のウェブサイト。
 ---
