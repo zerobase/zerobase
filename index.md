@@ -61,7 +61,6 @@ Hide 'Like' Notifications
 [zerobase]: https://www.zerobase.jp/
 [gmo-vp]: https://www.gmo-vp.com/
 [design-fellow]: /blog/2015/08/03/consulting-for-startups.html
-[advisory]: /about/advice.html
 [wikipedia-ux]: https://www.zerobase.jp/2017/09/20/wikipedia-user-experience.html
 [startup-mental-health]: https://medium.com/@zerobase/%E8%B5%B7%E6%A5%AD%E5%AE%B6%E3%81%AE%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-%E3%81%AE%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6-fff14c69408b
 [za]: https://www.zerobase.jp/za/
