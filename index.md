@@ -1,24 +1,18 @@
 ---
 layout: top
 permalink: /
-thumbnail: /assets/thumbnail.png
+thumbnail: /assets/thumbnail.jpg
 title: 石橋秀仁
 description: インフォメーション・アーキテクト石橋秀仁のウェブサイト。
 ---
 
 # <ruby><rb>石橋</rb><rt>いしばし</rt></ruby> <ruby><rb>秀仁</rb><rt>ひでと</rt></ruby>
 
-[ゼロベース株式会社][zerobase]  
-代表取締役／情報アーキテクト
+[情報アーキテクト][information-architect]。[ゼロベース株式会社][zerobase]代表取締役。[World IA Day Fukuoka][wiad-fukuoka]ローカル・オーガナイザー。モットーは「[思想を実装する][philosophy]」。[アートファン][art-experience]。
 
-久留米高専卒業後、日本最大級の就活コミュニティJobwebのプログラマー（2000-2002）を経て2003年に独立。2004年に[ゼロベース][zerobase]を創業。同年ベンチャーキャピタル[GMO-VP][gmo-vp]のデザインフェローに就任。[情報アーキテクト（IA）][information-architect]として、インターネットやソフトウェアに関する開発、批評、および[スタートアップ支援][startup-consulting]に取り組んでいる。モットーは「[思想を実装する][philosophy]」。[アートファン][art-experience]。
+## 略歴
 
-## Hide Ishi
-
-Information Architect,  
-Zerobase Inc
-
-He is a design activist who is exploring alternative methods of designing things from philosophy to implementation. He is always troubled with anti-modern reactionists and obscurantists in Japan. He has two homes in metropolitan Tokyo and livable Fukuoka. He likes to travel and see art exhibitions.
+国立久留米工業高等専門学校制御情報工学科で電子工学、制御工学、情報処理を専攻。2000年、当時日本最大級の就活コミュニティJobwebのプログラマーとなり、メーリングリストやウェブのシステムを開発。2004年、インターネットサービス開発企業[ゼロベース][zerobase]を設立。Ajaxメーリングリストを設立し、ウェブのユーザー・インターフェイスに関する情報を発信。2008年、マネジメントの危機を乗り越えるために[セルフマネジメントテクノロジーZa](https://www.zerobase.jp/za/)を開発。2005年からベンチャーキャピタル[GMO VenturePartners][gmo-vp]の顧問（デザインフェロー）として[スタートアップ支援][startup-consulting]。
 
 ## ブログ
 
