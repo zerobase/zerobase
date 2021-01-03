@@ -6,3 +6,5 @@ node_modules
 .jekyll-cache
 docs
 node_modules
+vendor/bundle
+.bundle/config
