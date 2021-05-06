@@ -134,7 +134,7 @@ ITガバナンスをやるには、精神を近代化しなければなりませ
 
 ## 認識の問題
 
-大きな枠組みから考えてみましょう[^23]。認識論（物の見方や考え方）から科学が作られ、科学から実践が作られます。
+大きな枠組みから考えてみましょう（下図：M3メタモデル・メソドロジー[^23]）。ある認識論（物の見方や考え方）に基づいて科学が構築されます。そして、科学に基づく実践が生じます。
 
 * 認識論はメタレベル
 * 科学はオブジェクト・レベル
@@ -214,7 +214,7 @@ COCOAプロジェクト失敗の真相究明と、本質的な再発防止策が
 
 [^1]: [令和2年5月25日 新型コロナウイルス感染症に関する安倍内閣総理大臣記者会見 令和2年 総理の演説・記者会見など ニュース 首相官邸ホームページ](https://www.kantei.go.jp/jp/98_abe/statement/2020/0525kaiken.html)
 [^2]: [新型コロナウイルス接触確認アプリ（COCOA) COVID-19 Contact-Confirming Application 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html)
-[^3]: [新型コロナ 接触確認アプリ「COCOA」一部で検知や通知行われず 新型コロナウイルス NHKニュース](https://www3.nhk.or.jp/news/html/20210203/k10012847671000.html?utm_int=detail_contents_news-related_001) (2021年2月3日)
+[^3]: 2月3日にAndroid版の不具合が公表され、同18日に修正版がリリースされました：[新型コロナ 接触確認アプリ「COCOA」一部で検知や通知行われず 新型コロナウイルス NHKニュース](https://www3.nhk.or.jp/news/html/20210203/k10012847671000.html?utm_int=detail_contents_news-related_001) (2021年2月3日)、[COCOA、Androidで接触通知しない不具合を解消。1日1回起動を - Impress Watch](https://www.watch.impress.co.jp/docs/news/1307389.html) (2021年2月18日)
 [^4]: [接触アプリ「COCOA」 「iOS」の一部でも通知届かぬ不具合 毎日新聞](https://mainichi.jp/articles/20210217/k00/00m/040/255000c) (2021年2月17日)
 [^5]: [COCOA不具合の原因は「APIの使い方を誤った」 平井デジタル相、改善を約束 開発の下請け構造改善も — ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2102/12/news142.html) (2021年2月12日)
 [^6]: [ココア巡り関係者処分へ 接触通知届かず 年度内に検証 厚労省 毎日新聞](https://mainichi.jp/articles/20210209/k00/00m/040/217000c) (2021年2月9日)
