@@ -228,15 +228,15 @@ COCOAプロジェクト失敗の真相究明と、本質的な再発防止策が
 
 ## 追記（2021年5月18日）
 
-楠正憲氏（内閣官房 政府CIO 補佐官）の「[接触確認アプリCOCOAからの教訓](https://note.com/ipsj/n/ne9eeb88adb64)」という文章が、5月15日付で情報処理学会・学会誌「情報処理」に掲載されました。必見です。以下、ご本人のFacebookコメントを引用します：
+楠正憲氏（内閣官房 政府CIO 補佐官）の「接触確認アプリCOCOAからの教訓」という文章が、5月15日付で情報処理学会・学会誌「情報処理」に掲載されました[^35]。必見です。以下、ご本人のFacebookコメントを引用します：
 
-> ……アプリを出すことは総理レベルで決まって、ベンダーも出せるといってるのだから、それで出すという結論しかありません。まだ結合テストの途中ですよ、こんな状態でリリースできませんよ、という話は何度もしましたが通りませんでした。そもそも厚生労働省に対しては技術サポートで入っただけで、何度もまずいぞと警告はしましたが、わたしにリリースを止める権限はありませんでした。（[楠氏](https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157797472061583&reply_comment_id=10157797898901583&__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&__tn__=R%5D-R)）
+> （…）アプリを出すことは総理レベルで決まって、ベンダーも出せるといってるのだから、それで出すという結論しかありません。まだ結合テストの途中ですよ、こんな状態でリリースできませんよ、という話は何度もしましたが通りませんでした。そもそも厚生労働省に対しては技術サポートで入っただけで、何度もまずいぞと警告はしましたが、わたしにリリースを止める権限はありませんでした。[^36]
 
-> 民間企業であれば、社長が粉飾を指示しようが、それができないようにするのがコーポレートガバナンスですが、役所において政務なり大臣、総理がやるといったら、それはやる訳です。総理がゴリ押ししようが、結合テストの途中の品質ではサービスをリリースできないようにするためのガバナンス機構が必要ということで、恥を忍んでこういった落ち穂拾いをしている訳ですから。（[楠氏](https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157797472061583&reply_comment_id=10157797906766583&__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&__tn__=R%5D-R)）
+> 民間企業であれば、社長が粉飾を指示しようが、それができないようにするのがコーポレートガバナンスですが、役所において政務なり大臣、総理がやるといったら、それはやる訳です。総理がゴリ押ししようが、結合テストの途中の品質ではサービスをリリースできないようにするためのガバナンス機構が必要ということで、恥を忍んでこういった落ち穂拾いをしている訳ですから。[^37]
 
-> あれだけ時間をかけて、外部有識者も入れて、どうして真相究明というよりも中途半端に感想をまとめただけのような報告書が出てきてしまうのか、このまま風化させてしまうと、また同じことが起こってしまうのではないかという危機感があります。（[楠氏](https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157799763581583&reply_comment_id=10157799795591583&__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&__tn__=R%5D-R)）
+> あれだけ時間をかけて、外部有識者も入れて、どうして真相究明というよりも中途半端に感想をまとめただけのような報告書が出てきてしまうのか、このまま風化させてしまうと、また同じことが起こってしまうのではないかという危機感があります。[^38]
 
-まさに「総理がゴリ押ししようが、結合テストの途中の品質ではサービスをリリースできないようにするためのガバナンス機構」を作るべきです。COCOAの失敗を繰り返さないための、本質的な再発防止策は、立憲主義の問題だということです。
+まさに「総理がゴリ押ししようが、結合テストの途中の品質ではサービスをリリースできないようにするためのガバナンス機構」を作るべきです。COCOAの失敗を繰り返さないための、本質的な再発防止策は、立憲主義の問題になるということです。
 
 [^1]: [令和2年5月25日 新型コロナウイルス感染症に関する安倍内閣総理大臣記者会見 令和2年 総理の演説・記者会見など ニュース 首相官邸ホームページ](https://www.kantei.go.jp/jp/98_abe/statement/2020/0525kaiken.html)
 [^2]: [新型コロナウイルス接触確認アプリ（COCOA) COVID-19 Contact-Confirming Application 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html)
@@ -272,3 +272,7 @@ COCOAプロジェクト失敗の真相究明と、本質的な再発防止策が
 [^32]: [国会会議録検索システム](https://kokkai.ndl.go.jp/)で「接触確認アプリ」か「COCOA」を含む資料を全件調べました。2021年5月5日時点で開示されていた会議録は同年4月16日分まで。4月16日といえば報告書が出た当日です。国会で本格的に取り上げられるのは、翌日以降でしょう。翌日以降の会議録についても、開示され次第、調べるつもりです。
 [^33]: [第204回国会 衆議院 予算委員会 第8号 令和3年2月10日 国会会議録検索システム](https://kokkai.ndl.go.jp/#/detail?minId=120405261X00820210210&spkNum=270&current=29)
 [^34]: [第三者「御用」委員会が後を絶たないのはなぜか(久保利英明弁護士・第三者委員会報告書格付け委員会委員長) -マル激](https://www.videonews.com/marugeki-talk/805) (2016年9月10日)
+[^35]: 楠正憲『[接触確認アプリCOCOAからの教訓](https://note.com/ipsj/n/ne9eeb88adb64)』情報処理、2021年5月15日
+[^36]: [楠正憲氏のFacebookコメント](https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157797472061583&reply_comment_id=10157797898901583&__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&__tn__=R%5D-R)、2021年5月15日
+[^37]: [楠正憲氏のFacebookコメント](https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157797472061583&reply_comment_id=10157797906766583&__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&__tn__=R%5D-R)、2021年5月15日
+[^38]: [楠正憲氏のFacebookコメント](https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157799763581583&reply_comment_id=10157799795591583&__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&__tn__=R%5D-R)、2021年5月16日
