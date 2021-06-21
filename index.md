@@ -9,6 +9,12 @@ description: インフォメーション・アーキテクト石橋秀仁のウ�
 
 [情報アーキテクト][information-architect]。[ゼロベース株式会社][zerobase]代表取締役。[World IA Day Fukuoka][wiad-fukuoka]ローカル・オーガナイザー。モットーは「[思想を実装する][philosophy]」。[アートファン][art-experience]。
 
+<ul class="contacts">
+  {% for contact in site.data.contacts %}
+    <li><a href="{{ contact.link }}"><img alt="{{ contact.name }}" src="{{ contact.thumbnail }}"><br>{{ contact.name }}</a></li>
+  {% endfor %}
+</ul>
+
 ## 略歴
 
 国立久留米工業高等専門学校制御情報工学科で制御工学・情報工学を専攻。2000年、当時日本最大級の就活コミュニティJobwebのプログラマーとなり、メーリングリストやウェブのシステムを開発。2004年、インターネットサービス開発企業[ゼロベース][zerobase]を設立。Ajaxメーリングリストを主宰し、ウェブのユーザー・インターフェイスに関する情報を発信。様々なウェブ開発プロジェクトに従事（[コマーシャライザー、ポンパレなど][works]）。2008年、マネジメントの危機を乗り越えるために[セルフマネジメント・テクノロジーZa](https://www.zerobase.jp/za/)を開発。2005年から2020年まで、ベンチャーキャピタル[GMO VenturePartners][gmo-vp]の顧問（デザインフェロー）として[スタートアップ支援][startup-consulting]。
@@ -46,14 +52,6 @@ Hide 'Like' Notifications
 : Facebookの「気が散る通知」を減らすための[Chrome拡張機能](https://chrome.google.com/webstore/detail/hide-likes-on-facebook-no/kbfakkkdllpodegeoggpfcmjabodhpca)を2013年にリリースしました。その後、Facebook自体が同等の機能を提供するようになったので、その役目を終えました。（[海外のクチコミ](https://www.tubblog.co.uk/blog/tech-reviews/hide-facebook-like-notifications/)）
 
 [すべての活動](/activity/)
-
----
-
-<ul class="contacts">
-  {% for contact in site.data.contacts %}
-    <li><a href="{{ contact.link }}"><img alt="{{ contact.name }}" src="{{ contact.thumbnail }}"><br>{{ contact.name }}</a></li>
-  {% endfor %}
-</ul>
 
 [information-architect]: /blog/2014/04/25/future-of-information-architect.html
 [philosophy]: /about/philosophy.html

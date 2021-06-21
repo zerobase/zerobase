@@ -12,7 +12,7 @@
 
 - link: https://www.instagram.com/zerobase000/
   name: Instagram
-  thumbnail: /assets/contacts/IG_Glyph_Fill.png
+  thumbnail: /assets/contacts/glyph-logo_May2016.webp
 
 - link: https://github.com/zerobase
   name: GitHub
@@ -21,6 +21,10 @@
 - link: https://www.linkedin.com/in/hideishi/
   name: LinkedIn
   thumbnail: /assets/contacts/LinkedIn-InBug-2CRev.png
+
+- link: https://8card.net/virtual_cards/QqEegsdsaYGrEF_pPC7aTg
+  name: Eight
+  thumbnail: /assets/contacts/eight_appicon.png
 
 - link: mailto:hide@hideishi.com
   name: email
