@@ -3,6 +3,7 @@ title: 弱者としての起業家を知ってください
 description: 多くの起業家は、不器用にしか生きられないので起業します。能力も、経験も、心構えもないままに独立起業して、孤独に社会と対峙します。そして多くが失敗します。
 thumbnail: /assets/blog/2011-12-15-entrepreneur/thumbnail.png
 redirect_from: "/blog/entrepreneur/"
+updated: 2021-07-05
 ---
 
 ![起業家は誤解されている](/assets/blog/2011-12-15-entrepreneur/entrepreneurs_are_misunderstod.jpg)
@@ -145,12 +146,9 @@ _「弱者」とでも呼ぶべき危うい立場にいる数百万人の「起�
 
 ぜひこちらもご覧ください→[起業家が他人資本で何度も挑戦するために](http://zerobase.jp/blog/2012/05/post_16.html)
 
-## リンク
-- [起業家は「傷」をどう乗り越えるのか: ITジャーナリスト星暁雄の"情報論"ノート](http://hoshi.air-nifty.com/diary/2012/05/post-b4b4.html)
-- [進化の本質／個性の本質](http://zerobase.jp/people/ishibashi/post_41.html) 2009年2月28日
-- [メモ：ベンチャーと中小企業の違い](http://zerobase.jp/people/ishibashi/post_66.html) 2010年3月15日
-- [起業家というマイノリティの発見、理解、包摂へ向けて](http://togetter.com/li/18605) 2010年5月4日
-- [起業の〈大きな物語〉が信じられない時代の起業・働き方](http://togetter.com/li/18010) 2010年5月2日
-- [起業してほぼ確実に成功する方法｜堀江貴文オフィシャルブログ「六本木で働いていた元社長のアメブロ」](http://ameblo.jp/takapon-jp/entry-10500476221.html) ※「そのようにしか生きられない」という個性を「強み」にした企業家の典型例かと。
+## 追記
+
+2017年に[「起業家のメンタルヘルス調査レポート」](https://zerobase.medium.com/%E8%B5%B7%E6%A5%AD%E5%AE%B6%E3%81%AE%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-%E3%81%AE%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6-fff14c69408b)を発表しました。
 
 {% include amazon_link.html asin="4062810530" %}
+{% include amazon_link.html asin="4418036016" %}

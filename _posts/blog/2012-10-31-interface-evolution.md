@@ -3,6 +3,7 @@ title: ユーザー・インターフェイスの進化の本質
 description: ユーザー・インターフェイスの進化の本質は、情報・概念の〈物質化〉である。まるで物質であるかのように、自然に、情報・概念を操作できるようにすることである。
 thumbnail: /assets/blog/2012-10-31-interface-evolution/thumbnail.png
 redirect_from: "/blog/interface-evolution/"
+published: false
 ---
 
 ![](/assets/blog/2012-10-31-interface-evolution/ui-evolution.png){:.fig-small}

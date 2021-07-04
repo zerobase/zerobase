@@ -1,4 +1,5 @@
 ---
+published: false
 title: プレインテキストは時代を超えてあなたの知的生産を支援する
 description: 文書データ形式としてのプレインテキストと、Markdownというフォーマットのメリットについて。
 thumbnail: /assets/blog/2013-12-24-markdown-is-plaintext/thumbnail.png
