@@ -72,13 +72,3 @@ defaults:
       path: "_posts/podcast"
     values:
       categories: "podcast"
-
-# Twitter
-twitter_user: zerobase
-
-# Facebook
-facebook_app_id: 422391257870402
-facebook_locale: ja_JP
-
-# Google Analytics
-google_analytics_tracking_id: UA-41591703-2
