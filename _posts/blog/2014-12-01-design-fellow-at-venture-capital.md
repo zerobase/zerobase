@@ -1,4 +1,5 @@
 ---
+updated: 2021-07-06
 title: ベンチャーキャピタルのデザインフェローという素晴らしい仕事
 description: 「ベンチャーキャピタルのデザインフェロー」という仕事が認知され、「職業」として成立し、日本の起業家生態系が一層発展することを期待します。
 thumbnail: /assets/blog/2014-12-01-design-fellow-at-venture-capital/thumbnail.png
@@ -120,11 +121,9 @@ redirect_from:
 - 奥出 直人、[デザイン思考の道具箱: イノベーションを生む会社のつくり方][8]、2014年（初版2007年）
 - 棚橋 弘季、[ひらめきを計画的に生み出す デザイン思考の仕事術][9]、2009年
 
+{% linkpreview "https://hideishi.com/blog/2015/08/03/consulting-for-startups.html" %}
 
-関連情報
------------------------------
-
-- [アーキテクトとしての私が起業家やベンチャー企業のためにできること (2015-08-03)](/blog/2015/08/03/consulting-for-startups.html)
+{% linkpreview "https://hideishi.com/blog/2020/10/14/philosophy-for-startup.html" %}
 
 [^dfellows]: 私が知る限り、日本におけるベンチャーキャピタルのデザインフェローは、Beenosのデザインフェローである[山本郁也][10]さんと、インキュベイトファンドのデザインフェローであった[藤原由翼][11]さんのお二人だけです。
 
