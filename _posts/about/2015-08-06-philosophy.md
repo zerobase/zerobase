@@ -1,10 +1,10 @@
 ---
+updated: 2021-07-06
 categories: about
 permalink: /about/philosophy.html
 title: "思想を実装する"
 description: "情報アーキテクトである私のモットーは「思想を実装する」です。私自身の開発実践において、いつも思想を大事にしています。また、思想なき乱開発を批判する立場です。そのような文章をたくさん書いてきました。"
 redirect_from: /philosophy/
-updated: 2020-10-27
 ---
 
 情報アーキテクトである私のモットーは「**思想を実装する**」です。
@@ -66,3 +66,7 @@ updated: 2020-10-27
 新型コロナウイルス感染症対策アプリが人々に信頼されるためには、どのような設計であるべきでしょうか：
 
 {% linkpreview "https://hideishi.com/blog/2020/05/26/ethical-guidelines-for-contact-tracing-apps.html" %}
+
+接触確認アプリCOCOAは、なぜ失敗したのでしょうか：
+
+{% linkpreview "https://hideishi.com/blog/2021/02/22/true-reason-why-cocoa-failed.html" %}

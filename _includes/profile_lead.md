@@ -1,0 +1,1 @@
+[情報アーキテクト](/blog/2014/04/25/future-of-information-architect.html)。[ゼロベース株式会社](https://www.zerobase.jp/)代表取締役。[World IA Day Fukuoka](/activity/2020/01/28/world-ia-day-fukuoka-2020.html)ローカル・オーガナイザー。モットーは「[思想を実装する](/about/philosophy.html)」。[アートファン](/activity/2020/01/20/art-experience.html)。福岡と東京で活動。
