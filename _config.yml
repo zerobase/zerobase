@@ -17,11 +17,11 @@ exclude: [
   ]
 
 # Site settings
-title: 石橋秀仁 (Hideto Ishibashi)
-author: 石橋秀仁 (Hideto Ishibashi)
+title: 石橋秀仁
+author: 石橋秀仁
 thumbnail: /assets/thumbnail.jpg
 email: hide@hideishi.com
-description: "an information architect / インフォメーション・アーキテクト"
+description: "情報アーキテクト"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://hideishi.com" # the base hostname & protocol for your site
 twitter_username: zerobase

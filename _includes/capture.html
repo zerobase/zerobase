@@ -1,6 +1,6 @@
 {%- capture page_title -%}
   {%- if page.url != "/" -%}
-    {%- if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %}{%- endif -%}
+    {% if page.title %}{{ page.title }}{% if page.subtitle %} {{ page.subtitle }}{% endif %}{% endif %}（{{ site.title }}）
   {%- else -%}
     {{ site.title }}
   {%- endif -%}
