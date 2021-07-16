@@ -2,7 +2,7 @@
 layout: top
 permalink: /
 title: 石橋秀仁
-description: インフォメーション・アーキテクト石橋秀仁のウェブサイト。
+description: ソフトウェア開発者／情報アーキテクト(IA)石橋秀仁のウェブサイト
 ---
 
 # <ruby><rb>石橋</rb><rt>いしばし</rt></ruby> <ruby><rb>秀仁</rb><rt>ひでと</rt></ruby>
