@@ -3,6 +3,7 @@ title: World IA Day 2015を終えて
 subtitle: IA Podcast Ep. 25
 description: World IA Day 2015で東京のローカルコーディネーターを務めた山本郁也さんをゲストに迎えました。
 thumbnail: /assets/podcast/ia_podcast_cover_300.png
+tag: "World IA Day"
 ---
 
 World IA Day 2015で東京のローカルコーディネーターを務めた山本郁也さんをゲストに迎えました。

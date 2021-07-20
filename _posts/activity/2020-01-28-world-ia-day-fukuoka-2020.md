@@ -7,6 +7,7 @@ thumbnail: /assets/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png
 date: 2020-02-22
 redirect_from:
   - /activity/2020/01/28/world-ia-day-fukuoka-2020.html
+tag: "World IA Day"
 ---
 
 ![World IA Day のロゴ](/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png)
