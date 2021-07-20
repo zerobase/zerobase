@@ -6,7 +6,7 @@ thumbnail: /assets/activity/2021-02-13-farewell-hide-like-notifs/icon.png
 updated: 2021-07-20
 ---
 
-2013年から提供してきたChrome拡張機能「[Hide 'Like' Notifications](https://chrome.google.com/webstore/detail/hide-like-notifications/kbfakkkdllpodegeoggpfcmjabodhpca)」の提供を終えました。Facebook自体が同様の機能を提供するようになったため、その役割を終えたのです。
+2013年から提供してきたChrome拡張機能「[Hide 'Like' Notifications](https://chrome.google.com/webstore/detail/hide-like-notifications/kbfakkkdllpodegeoggpfcmjabodhpca)」の提供を終えました。この製品はFacebook上の「あなたの〇〇が〇〇さんにいいね！されました」といった、あまり内容のない（いささかわずらわしい）通知を非表示にします。Facebook自体が同様の機能を提供するようになったため、その役割を終えたのです。
 
 ![](/assets/activity/2021-02-13-farewell-hide-like-notifs/icon.png){:.fig-small}
 
