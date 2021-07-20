@@ -1,6 +1,6 @@
 ---
 title: "Chrome拡張機能「Hide 'Like' Notifications」の提供を終了しました"
-description: "Facebookが自ら通知頻度を抑制する設計を導入したことで、その役割を終えました。"
+description: "2013年にデジタル・ウェルビーイングを実装した製品。Facebookが自ら通知頻度を抑制する設計を導入したことで、その役割を終えました。"
 show_description: show
 thumbnail: /assets/activity/2021-02-13-farewell-hide-like-notifs/icon.png
 updated: 2021-07-20
