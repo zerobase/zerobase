@@ -8,7 +8,8 @@
   }
   
   a {
-    text-decoration: underline $base-link-underline-color;
+    text-decoration: underline;
+    text-decoration-color: $base-link-underline-color;
   }
   
   ul {
