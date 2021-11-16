@@ -248,6 +248,8 @@ thumbnail: /assets/activity/2020-01-20-art-experience/thumbnail.png
 1. キュンチョメ
 1. グウナカヤマ
 1. 桑田卓郎
+1. KOURYOU
+1. 古郷卓司 (\*CANDY FACTORY PROJECTS)
 1. 小林恵実子
 1. さめほし
 1. 柴田謙司
