@@ -3,7 +3,7 @@ title: "World IA Day Fukuoka 2021 をオンライン開催しました"
 description: "「不要不急の外出自粛」が要請される状況になっているからこそ、「場所性」について考えるプログラムを企画しました。"
 show_description: true
 thumbnail: /assets/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png
-tag: "World IA Day"
+tags: world-ia-day
 updated: 2021-07-20
 ---
 

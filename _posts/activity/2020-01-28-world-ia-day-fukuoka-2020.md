@@ -7,7 +7,8 @@ thumbnail: /assets/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png
 date: 2020-02-22
 redirect_from:
   - /activity/2020/01/28/world-ia-day-fukuoka-2020.html
-tag: "World IA Day"
+tags: world-ia-day
+updated: 2021-11-16
 ---
 
 ![World IA Day のロゴ](/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png)
@@ -134,3 +135,5 @@ World IA Day の福岡支部 World IA Day Fukuoka を立ち上げ、 [World IA D
 イベントを通してネットワークやソフトウェアのトラブルにも見舞われましたが、なんとか無事にやり遂げることができました。参加者やボランティア・スタッフの皆様のご協力のおかげです。いいワークショップになったのではないかと思います。 World IA Day Fukuoka は来年以降も開催していきたいと考えています。どうぞお楽しみに。
 
 [ワークショップの理論編](/blog/2020/04/01/world-ia-day-fukuoka-2020.html)もあわせてご覧ください。
+
+［更新：2021-02-09］[金沢美術工芸大学でワークショップを実施しました](/activity/2021/02/09/kanazawa-bidai-workshop.html)

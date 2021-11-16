@@ -2,7 +2,7 @@
 title: "金沢美術工芸大学でワークショップを実施しました"
 description: "World IA Day Fukuoka 2020「インクルーシブなミュージアムを構想するワークショップ」再演"
 thumbnail: /assets/activity/2020-01-28-world-ia-day-fukuoka-2020/thumbnail.png
-tag: "World IA Day"
+tags: world-ia-day
 ---
 
 [金沢美術工芸大学](https://www.kanazawa-bidai.ac.jp/)で博物館情報・メディア論の講義に登壇し、「インクルーシブなミュージアムを構想するワークショップ」をファシリテートしました。
