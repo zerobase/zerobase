@@ -16,3 +16,5 @@ tags: world-ia-day
 このワークショップのツールキット（進行スライドとカード・デッキ）を下記ウェブページで公開しています。どなたでも自由に利用することができます。ワークショップ前のレクチャー（大橋正司氏による）の内容も参考にして頂ければと思います。
 
 {% linkpreview "https://hideishi.com/activity/2020/02/22/world-ia-day-fukuoka-2020.html" %}
+
+→[金沢美術工芸大学で2回目のワークショップを実施しました](/activity/2021/12/24/kanabi-workshop-2.html)

@@ -87,6 +87,9 @@ World IA Day の福岡支部 World IA Day Fukuoka を立ち上げ、 [World IA D
 
 - [ワークショップ進行用スライド（Googleスライド）](https://docs.google.com/presentation/d/1NGBQ2NgBuQp46P9v2uN2-LOnRiUfclGyPUXbTibnn3g/edit?usp=sharing)
 - [カード・デッキ（オンライン・ホワイトボードMiro用テンプレート）](/assets/activity/2020-01-28-world-ia-day-fukuoka-2020/WIAD Fukuoka 2020 Workspace (Master).rtb)
+- [カード・デッキ印刷用データ（表）WIADミュージアム・ワークショップ](https://docs.google.com/presentation/d/11dotuvCVYlEJS09tyxfXxo35J3-4tFNDm5Z0QpBEJss/edit?usp=sharing)
+- [カード・デッキ印刷用データ（裏）WIADミュージアム・ワークショップ](https://docs.google.com/presentation/d/1UtoINmH2qV-ghV3oZWWP21fTdS0dJAJPdcak5Osnrl8/edit?usp=sharing)
+
 
 {% figure caption:"World IA Day Fukuoka 2020 のワークショップで用いたMiroホワイトボードのテンプレート（※画像をクリックでPDF版へ）" %}
 [
