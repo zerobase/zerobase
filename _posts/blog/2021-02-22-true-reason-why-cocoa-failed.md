@@ -240,6 +240,28 @@ COCOAプロジェクト失敗の真相究明と、本質的な再発防止策が
 
 まさに「総理がゴリ押ししようが、結合テストの途中の品質ではサービスをリリースできないようにするためのガバナンス機構」を作るべきです。COCOAの失敗を繰り返さないための、本質的な再発防止策は、立憲主義の問題になるということです。
 
+## 追記（2022年1月20日）
+
+本文に次のように書いていました：
+
+> 甘い判定基準で通知を乱発する接触確認アプリは、緊急事態宣言を乱発する政治家と同じです。まったく合理的でない感染抑制手段によって、経済・社会活動に深刻なダメージを与えるのです。
+
+> まったくランダムでデタラメに曝露通知を送りまくるのと比較して、陽性適中率において統計的に優位な差が見いだせない限り、COCOAは有害なゴミです。
+
+英国では実際に、アプリが通知を乱発することによる社会混乱「ピンデミック」が生じました[^39]。ウイルスの流行自体よりむしろ情報によって引き起こされた社会混乱「インフォデミック」の一形態だと言えるでしょう。
+
+まさにこのような社会的混乱を引き起こさないために、接触確認アプリCOCOAのリリース前にフロリディ教授ら英国の研究者グループが倫理的指針を作って公開していたわけですが[^9]。そのお膝元ですらピンデミックのような失敗をしてしまうとは。
+
+結局、世界中のどこでも、接触確認アプリが役に立ったという強固な証拠は出ていません。各国の接触確認アプリ以前に、その基盤であるアップルおよびグーグルの曝露通知システム(Exposure Notification System)自体が役に立たなかったと結論づけてもいいのではないでしょうか。もうすぐ2年ですよ。
+
+そして現在はオミクロン狂想曲の真っ只中。週末からは「まん延防止等重点措置」（まん防）が1都12県に適用されます[^40]。日本でも何らかの「インフォデミック」や「情報公害」が発生しないか危惧しています。まあ、そんな心配をするほど普及も利用もされていないというのが実態かもしれませんが。
+
+まん防直前のタイミングで、東京都は「新型コロナウイルス感染者の濃厚接触者への連絡を、保健所からではなく、感染者本人から直接連絡をしてもらうよう通知」しました[^41]。本来なら、このような局面でこそCOCOAは真価を発揮すべきでしょう。しかし、もはやCOCOAに期待している専門家もいなくなったようです。
+
+もはやCOCOAは役に立っていない。それなのにリスクだけはある。そしてそのような課題を解決する動きもない。もしあるのだとすれば、国民への説明責任も果たされていない。いずれにせよガバナンス上の問題が放置されたまま、ズルズルと惰性で続けられている。
+
+もはやCOCOAプロジェクトを継続することに、なんら正当性はないと思います。即刻廃止すべきではないでしょうか。
+
 [^1]: [令和2年5月25日 新型コロナウイルス感染症に関する安倍内閣総理大臣記者会見 令和2年 総理の演説・記者会見など ニュース 首相官邸ホームページ](https://www.kantei.go.jp/jp/98_abe/statement/2020/0525kaiken.html)
 [^2]: [新型コロナウイルス接触確認アプリ（COCOA) COVID-19 Contact-Confirming Application 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html)
 [^3]: 2月3日にAndroid版の不具合が公表され、同18日に修正版がリリースされました：[新型コロナ 接触確認アプリ「COCOA」一部で検知や通知行われず 新型コロナウイルス NHKニュース](https://www3.nhk.or.jp/news/html/20210203/k10012847671000.html?utm_int=detail_contents_news-related_001) (2021年2月3日)、[COCOA、Androidで接触通知しない不具合を解消。1日1回起動を - Impress Watch](https://www.watch.impress.co.jp/docs/news/1307389.html) (2021年2月18日)
@@ -278,3 +300,6 @@ COCOAプロジェクト失敗の真相究明と、本質的な再発防止策が
 [^36]: [楠正憲氏のFacebookコメント](https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157797472061583&reply_comment_id=10157797898901583&__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&__tn__=R%5D-R)、2021年5月15日
 [^37]: [楠正憲氏のFacebookコメント](https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157797472061583&reply_comment_id=10157797906766583&__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&__tn__=R%5D-R)、2021年5月15日
 [^38]: [楠正憲氏のFacebookコメント](https://www.facebook.com/masanork/posts/10157797155881583?comment_id=10157799763581583&reply_comment_id=10157799795591583&__cft__%5B0%5D=AZXx8YulcwpD5_1X_3ofH9ZJf5SgFtn6Cw0MGpaSfVyAJJ5AUTJzdeuVIeMVvFDUSz0AVqxnRjjCE_M0ootbAIgRUdDmoPCI4Yi_A1ZyEuJ1-3HW748xnBxveJOpj821Dns&__tn__=R%5D-R)、2021年5月16日
+[^39]: [アプリが「ピン！」と鳴ったら自主隔離？ ロックダウン解除の英国で60万人が「出社できない」まさかの事態（井津川倫子）: J-CAST 会社ウォッチ](https://www.j-cast.com/kaisha/2021/07/30417273.html?p=all)
+[^40]: [新型コロナウイルス感染症まん延防止等重点措置に関する公示の全部を変更する公示 令和4年1月19日 新型コロナウイルス感染症対策本部長](https://corona.go.jp/emergency/pdf/kouji_20220119.pdf)
+[^41]: [濃厚接触者へは感染者本人が連絡を　東京都が通知　FNNプライムオンライン](https://www.fnn.jp/articles/-/302012)
