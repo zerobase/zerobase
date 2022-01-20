@@ -9,6 +9,8 @@ description: ソフトウェア開発者／情報アーキテクト(IA)石橋秀
 
 {% include profile_lead.md %}→[もっと詳しく](/about/me.html)
 
+{% include contacts.html %}
+
 ## ブログ
 
 {% assign posts = site.posts | where: "featured", true %}
