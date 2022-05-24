@@ -4,7 +4,14 @@ description: "本書のテーマは、良質なウェブサイトやアプリな
 thumbnail: /assets/activity/2022-02-08-designing-connected-content/cover.png
 ---
 
-[『DESIGNING CONNECTED CONTENT デジタルプロダクトの長期的な成長を支える構造化コンテンツ』](https://www.amazon.co.jp/dp/4862465196)を監訳しました。
+[『DESIGNING CONNECTED CONTENT デジタルプロダクトの長期的な成長を支える構造化コンテンツ』](https://amzn.to/3wLaDw3)を監訳しました。下記の監訳者前書きに書いた通り、「情報アーキテクチャを『時代遅れ』だと思っている人にこそ本書を手にとっていただければ幸いです」。また、これから学び始める人にとっては、
+
+- [『情報アーキテクチャ 第4版 ―見つけやすく理解しやすい情報設計』（Rosenfeld、Morville、Arango共著、2016年）](https://amzn.to/3NAxK3o)
+- [『今日からはじめる情報設計 -センスメイキングするための7ステップ』（コバート著、2015年）](https://amzn.to/3wJy1tO)
+
+と並んで、最良の入門書になるはずです。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">情報アーキテクチャ（IA）不要論に一言。表紙が白熊の本（初版1998年）がIAの古典として知られていますが、いまだにそのイメージで語られ続けられるのに辟易。だからアザートン＆ヘイン（2018）を監訳したのです。加えてコバート（2014）も代表的なポスト白熊本。これらがIAの新たな定番書です。 <a href="https://t.co/pWgXZJ95SE">pic.twitter.com/pWgXZJ95SE</a></p>&mdash; 石橋秀仁 Hideto Ishibashi (@zerobase) <a href="https://twitter.com/zerobase/status/1525130092024074240?ref_src=twsrc%5Etfw">May 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 監訳者前書き
 
