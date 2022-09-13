@@ -1,5 +1,5 @@
 # Build settings
-destination: docs
+destination: _site
 exclude: [
   Gemfile,
   Gemfile.lock,
