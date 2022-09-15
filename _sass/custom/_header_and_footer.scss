@@ -21,8 +21,10 @@
 }
 
 .site.header {
+/** Fixed header 
   position: fixed;
   z-index: 100;
+ */
   white-space: nowrap;
   overflow-x: scroll;
   padding: $base-padding/4;
