@@ -10,7 +10,7 @@ tag: world-ia-day
   <header>
     <h1 class="page title">{{ page.title }}</h1>
   </header>
-  <p><a href="https://www.worldiaday.org/">World IA Day</a>は情報アーキテクチャ(IA)のコミュニティを盛り上げるためのグローバル・イベントです。その福岡支部<a href="https://wiad-fukuoka.peatix.com/">World IA Day Fukuoka</a>を立ち上げて、ローカル・オーガナイザーを務めています。<a href="/activity/2020/02/22/world-ia-day-fukuoka-2020.html">World IA Day Fukuoka 2020</a>は、美術館の新たなサービスを発想するイベントでした。そこで設計したワークショップは、別の機会にも利用されています。</p>
+  <p><a href="https://www.worldiaday.org/">World IA Day</a>は情報アーキテクチャ(IA)のコミュニティを盛り上げるためのグローバル・イベントです。その福岡版のオーガナイザーを務めています。</p>
   <section class="main content body">
     <h2>{{ page.title }}に関するコンテンツ</h2>
     {% for _tag in site.tags %}
