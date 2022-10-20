@@ -27,8 +27,8 @@ url: "https://hideishi.com" # the base hostname & protocol for your site
 twitter_username: zerobase
 github_username:  zerobase
 google_analytics_tracking_id: UA-41591703-2
-
-## Custom settings
+facebook_app_id: 422391257870402
+facebook_locale: ja_JP
 show_facebook_comment: false
 
 # Build settings
