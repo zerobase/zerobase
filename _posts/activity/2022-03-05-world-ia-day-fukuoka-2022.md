@@ -7,7 +7,7 @@ tags: world-ia-day
 # updated: 2022-03-05
 ---
 
-[一昨年]({% link _posts/activity/2020-01-28-world-ia-day-fukuoka-2020.md %})と[昨年]({% link _posts/activity/2021-02-27-world-ia-day-fukuoka-2021.md %})に引き続き、World IA Day Fukuoka 2022を開催しました。今回は、以下の3つのトークをお届けしました。非常に良い内容になったのではないかと思います。
+[一昨年]({% link _posts/activity/2020-01-28-world-ia-day-fukuoka-2020.md %})と[昨年]({% link _posts/activity/2021-02-27-world-ia-day-fukuoka-2021.md %})に引き続き、[World IA Day Fukuoka 2022](https://www.worldiaday.org/events/fukuoka/2022)を開催しました。今回は、以下の3つのトークをお届けしました。非常に良い内容になったのではないかと思います。
 
 ## トーク1. グローバル・キーノート：Architecting A Connected World by Stephanie Akkaoui Hughes
 
