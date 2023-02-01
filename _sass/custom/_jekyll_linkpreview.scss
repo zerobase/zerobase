@@ -9,6 +9,7 @@
 .jekyll-linkpreview-wrapper-inner {
   border: 1px solid rgba(0,0,0,.1);
   padding: $base-padding;
+  max-width: 25rem;
 }
 
 .jekyll-linkpreview-content {
@@ -18,6 +19,9 @@
 
 .jekyll-linkpreview-image {
   padding: 1em;
+  img, picture {
+    width: 100%;
+  }
 }
 
 .jekyll-linkpreview-title {
