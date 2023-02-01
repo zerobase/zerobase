@@ -106,11 +106,11 @@
     }
 
     @for $i from $increment through -1 {
-      @if $double-stranded and ($v1 / $ratio) < $v2 {
+      @if $double-stranded and $v1/$ratio < $v2 {
         $value: $v2;
-        $v2: ($v2 / $ratio);
+        $v2: $v2/$ratio;
       } @else {
-        $v1: ($v1 / $ratio);
+        $v1: $v1/$ratio;
         $value: $v1;
       }
     }
