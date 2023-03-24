@@ -2,18 +2,6 @@
   name: Twitter
   thumbnail: /assets/contacts/Twitter_logo_blue.png
 
-- link: https://medium.com/@zerobase/
-  name: Medium
-  thumbnail: /assets/contacts/Medium-logo.png
-
-- link: https://www.facebook.com/ishibashi.hideto
-  name: Facebook
-  thumbnail: /assets/contacts/FB-f-Logo__blue_100.png
-
-- link: https://www.instagram.com/zerobase000/
-  name: Instagram
-  thumbnail: /assets/contacts/glyph-logo_May2016.webp
-
 - link: https://github.com/zerobase
   name: GitHub
   thumbnail: /assets/contacts/GitHub-Mark.png
@@ -25,6 +13,22 @@
 - link: https://8card.net/virtual_cards/QqEegsdsaYGrEF_pPC7aTg
   name: Eight
   thumbnail: /assets/contacts/eight_appicon.png
+
+- link: https://shirasu.io/u/zerobase
+  name: シラス
+  thumbnail: /assets/contacts/shirasu_logo.png
+
+- link: https://medium.com/@zerobase/
+  name: Medium
+  thumbnail: /assets/contacts/Medium-logo.png
+
+- link: https://www.facebook.com/ishibashi.hideto
+  name: Facebook
+  thumbnail: /assets/contacts/FB-f-Logo__blue_100.png
+
+- link: https://www.instagram.com/zerobase000/
+  name: Instagram
+  thumbnail: /assets/contacts/glyph-logo_May2016.webp
 
 - link: mailto:hide@hideishi.com
   name: email
