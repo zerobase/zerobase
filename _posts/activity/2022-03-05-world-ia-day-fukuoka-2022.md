@@ -19,7 +19,7 @@ tags: world-ia-day
 
 ## トーク3. 『Designing Connected Content』監訳者による解題　石橋秀仁
 
-『[DESIGNING CONNECTED CONTENT デジタルプロダクトの長期的な成長を支える構造化コンテンツ]({% link _posts/activity/2022-02-08-designing-connected-content.md %})』は、「一度制作されたコンテンツが、構造化され(structured)、つながり合い(connected)、あらゆる場所で表示(published everywhere)できるようになる方法」を解説する本です。
+『[DESIGNING CONNECTED CONTENT デジタルプロダクトの長期的な成長を支える構造化コンテンツ](https://www.zerobase.jp/2022/02/08/designing-connected-content.html)』は、「一度制作されたコンテンツが、構造化され(structured)、つながり合い(connected)、あらゆる場所で表示(published everywhere)できるようになる方法」を解説する本です。
 
 ## アーカイブ動画
 
