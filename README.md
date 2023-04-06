@@ -1,7 +1,7 @@
 hideishi.com
 ============
 
-<https://hideishi.com/>, a Jekyll-based website.
+<https://hideishi.com/>, a Jekyll-based website, hosted on GitHub Pages.
 
 Installation
 ------------
@@ -23,7 +23,13 @@ or you can specify `host` and `port`:
 $ bundle exec jekyll serve --watch --host 192.168.10.3 --port 4004
 ```
 
-CAUTION: You shouldn't deploy generated files since URLs in them are 'localhost.'
+CAUTION: Generated files from the 'serve' command contain 'localhost.'
+
+
+Deployment
+----------
+
+Just to push to the origin (GitHub), then it will be built and deployed on GitHub Pages by GitHub Actions.
 
 Maintenance
 ----------
