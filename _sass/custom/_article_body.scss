@@ -22,11 +22,11 @@
   
   dl {
     dt {
-      margin: $base-spacing/2 0;
+      margin: calc($base-spacing/2) 0;
     }
     
     dd {
-      margin: $base-spacing/2 0 $base-spacing 0;
+      margin: calc($base-spacing/2) 0 $base-spacing 0;
     }
   }
   
@@ -36,14 +36,14 @@
   
   .page-description {
     margin: $base-spacing 0;
-    padding: $base-spacing/2;
+    padding: calc($base-spacing/2);
     border: $base-border;
   }
   
   .big-quote {
     border: none;
     margin: 0;
-    padding: $base-spacing/2;
+    padding: calc($base-spacing/2);
     font-size: modular-scale(2);
     font-style: italic;
   }

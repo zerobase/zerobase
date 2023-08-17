@@ -20,13 +20,13 @@ article header {
   
   .meta.subtitle {
     display: block;
-    margin-top: $base-spacing/2;
+    margin-top: calc($base-spacing/2);
     font-size: modular-scale(2);
   }
 
   .meta.time {
     font-size: modular-scale(-1);
-    margin-top: $base-spacing/2;
+    margin-top: calc($base-spacing/2);
   }
 
   .meta.tags {

@@ -27,7 +27,7 @@
  */
   white-space: nowrap;
   overflow-x: scroll;
-  padding: $base-padding/4;
+  padding: calc($base-padding/4);
 
   .top_navigation {
     .vid {

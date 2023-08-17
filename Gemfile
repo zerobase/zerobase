@@ -1,14 +1,12 @@
 source 'https://rubygems.org'
 
-group :jekyll_plugins do
-  gem 'jekyll', '4.2'
+group :jekyll do
+  gem 'jekyll', '4.3.2'
   gem 'jekyll-redirect-from'
   gem 'jekyll-sitemap'
   gem 'jekyll-linkpreview'
   gem 'jekyll-figure'
-  gem 'jekyll-extlinks'
-  gem "jekyll-tidy"
-  gem "htmlbeautifier", '1.3'
+  gem 'jekyll-external-links'
   gem "webrick"
 end
 

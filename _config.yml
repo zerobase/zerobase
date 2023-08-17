@@ -38,11 +38,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-linkpreview
   - jekyll-figure
-  - jekyll-extlinks
-  - jekyll-tidy
-extlinks:
-  attributes: {target: _blank}
-  # rel_exclude: ['host1.com', 'host2.net']
+  - jekyll-external-links
 
 # Blog
 permalink: date # previously: /blog/:categories/:title/

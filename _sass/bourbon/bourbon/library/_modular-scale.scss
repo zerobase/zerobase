@@ -110,7 +110,7 @@
         $value: $v2;
         $v2: $v2/$ratio;
       } @else {
-        $v1: $v1/$ratio;
+        $v1: calc($v1/$ratio);
         $value: $v1;
       }
     }
