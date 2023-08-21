@@ -7,6 +7,7 @@ group :jekyll do
   gem 'jekyll-linkpreview'
   gem 'jekyll-figure'
   gem 'jekyll-external-links'
+  gem 'jekyll-target-blank'
   gem "webrick"
 end
 

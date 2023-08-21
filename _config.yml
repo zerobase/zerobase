@@ -39,6 +39,7 @@ plugins:
   - jekyll-linkpreview
   - jekyll-figure
   - jekyll-external-links
+  - jekyll-target-blank
 
 # Blog
 permalink: date # previously: /blog/:categories/:title/
