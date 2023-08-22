@@ -1,6 +1,7 @@
 ---
 title: "建築家の歴史と情報建築家の未来"
-description: 情報建築家（インフォメーション・アーキテクト）は、どこから来て、どこへ向かうのか。建築家の歴史を辿りつつ考えました。
+description: "ウェブサイトやアプリなどの設計を手掛ける情報建築家（インフォメーション・アーキテクト）は、どこから来て、どこへ向かうのか。建築家の歴史を辿りつつ考えました。"
+show_description: true
 thumbnail: /assets/blog/2014-04-25-future-of-information-architect/thumbnail.png
 redirect_from:
   - /blog/future-of-information-architect/
@@ -11,11 +12,6 @@ updated: 2015-01-16
 {% figure caption:"リチャード・S・ワーマンのポートレイト　撮影：Melissa Mahoney　出典：[ウィキメディア・コモンズ](http://commons.wikimedia.org/wiki/File%3ARichard_Saul_Wurman_by_Melissa_Mahoney.png)" %}
 ![](/assets/blog/2014-04-25-future-of-information-architect/ia-revisited.jpg)
 {% endfigure %}
-
-概要
--------
-
-情報建築家（インフォメーション・アーキテクト）は、どこから来て、どこへ向かうのか。建築家の歴史を辿りつつ考えました。
 
 
 建築家は、デザインの総合に取り組む、社会的に重要な職業と見なされてきた

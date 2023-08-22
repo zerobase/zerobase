@@ -1,1 +1,0 @@
-ウェブやアプリの設計者、[情報アーキテクト(IA)](/blog/2014/04/25/future-of-information-architect.html)。[ゼロベース株式会社](https://www.zerobase.jp/)代表取締役。[World IA Day Fukuoka]({% link tags/world-ia-day.md %})オーガナイザー。[『DESIGNING CONNECTED CONTENT デジタルプロダクトの長期的な成長を支える構造化コンテンツ』監訳者](https://www.zerobase.jp/2022/02/08/designing-connected-content.html)。
