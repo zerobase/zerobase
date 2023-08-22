@@ -14,7 +14,6 @@ layout: default
       <p class="meta author">{{ page.author }}</p>
       <p class="meta time">{{ page.date | date: "%Y年%-m月%-d日" }}{% if page.updated %}（{{ page.updated | date: "%Y年%-m月%-d日" }}更新）{% endif %}</p>
       {% if page.tags.size > 0 %}<div>タグ：<ul class="meta tags">{% for _tag in page.tags %}<li><a href="/tags/{{ _tag }}/">#{{ _tag }}</a></li>{% endfor %}</ul></div>{% endif %}
-      {% include share.html %}
     </header>
 
     <section class="article-body">
@@ -28,7 +27,6 @@ layout: default
     </section>
 
     <footer>
-      {% include share.html %}
     </footer>
 
   </article>

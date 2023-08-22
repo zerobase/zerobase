@@ -24,11 +24,6 @@ email: hide@hideishi.com
 description: "ソフトウェア開発者／情報アーキテクト(IA)"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://hideishi.com" # the base hostname & protocol for your site
-twitter_username: zerobase
-github_username:  zerobase
-facebook_app_id: 422391257870402
-facebook_locale: ja_JP
-show_facebook_comment: false
 
 # Build settings
 markdown: kramdown
@@ -73,3 +68,4 @@ defaults:
 external_links:
   ignored_selectors:
     - .contacts a
+    - .jekyll-linkpreview-wrapper a
