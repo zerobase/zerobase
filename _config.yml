@@ -69,3 +69,7 @@ defaults:
       path: "_posts/podcast"
     values:
       categories: "podcast"
+
+external_links:
+  ignored_selectors:
+    - .contacts a
