@@ -1,14 +1,14 @@
 source 'https://rubygems.org'
 
-group :jekyll do
-  gem 'jekyll', '4.3.2'
-  gem 'jekyll-redirect-from'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-linkpreview'
-  gem 'jekyll-figure'
-  gem 'jekyll-external-links'
-  gem 'jekyll-target-blank'
-  gem "webrick"
+group :jekyll_plugins do
+  gem 'jekyll', '~> 4.3'
+  gem 'jekyll-redirect-from', '~> 0.16'
+  gem 'jekyll-sitemap', '~> 1.4'
+  gem 'jekyll-linkpreview', '~> 0.7'
+  gem 'jekyll-figure', '~> 0.1'
+  gem 'jekyll-external-links', '~> 1.0'
+  gem 'jekyll-target-blank', '~> 2.0'
+  gem "webrick", '~> 1.8'
 end
 
 group :sass do

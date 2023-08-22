@@ -36,7 +36,7 @@ GEM
     fastimage (2.2.7)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
-    google-protobuf (3.24.0-x86_64-linux)
+    google-protobuf (3.24.1-x86_64-linux)
     http-cookie (1.0.5)
       domain_name (~> 0.5)
     http_parser.rb (0.8.0)
@@ -116,7 +116,7 @@ GEM
     safe_yaml (1.0.5)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
-    sass-embedded (1.64.2-x86_64-linux-gnu)
+    sass-embedded (1.66.1-x86_64-linux-gnu)
       google-protobuf (~> 3.23)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -137,15 +137,15 @@ PLATFORMS
 DEPENDENCIES
   bitters
   bourbon
-  jekyll (= 4.3.2)
-  jekyll-external-links
-  jekyll-figure
-  jekyll-linkpreview
-  jekyll-redirect-from
-  jekyll-sitemap
-  jekyll-target-blank
+  jekyll (~> 4.3)
+  jekyll-external-links (~> 1.0)
+  jekyll-figure (~> 0.1)
+  jekyll-linkpreview (~> 0.7)
+  jekyll-redirect-from (~> 0.16)
+  jekyll-sitemap (~> 1.4)
+  jekyll-target-blank (~> 2.0)
   neat
-  webrick
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.4.18
