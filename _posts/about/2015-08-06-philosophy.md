@@ -35,6 +35,17 @@ redirect_from: /philosophy/
 
 以下、私が書いてきた文章の一部を紹介します。
 
+## 機関誌『ゼロベース』および展覧会「クラフトとシステムの衝突」
+
+機関誌『ゼロベース』第0号（創刊準備号）では、「情報技術革命とアーツ・アンド・クラフツ運動」をテーマとして、「クラフトとシステムの衝突」をめぐる潮流をリサーチ。三百年史のダイアグラムを掲載しています。
+
+デザイン、コンピュータ、経営、思想といった諸分野を横断しつつ、産業革命から情報技術革命に至るまでの「クラフトとシステムの衝突」の歴史をまとめました。それは「つくる喜び」と「使う喜び」の両立をめぐる試行錯誤の歴史です。人間の仕事全般に関わる重要な論点であり、多くの人にとって無関係ではない問題です。
+
+本誌の内容にもとづく展覧会「クラフトとシステムの衝突」も開催しました。
+
+{% linkpreview "https://www.zerobase.jp/works/zerobase-0/" %}
+
+
 ## 自営の思想
 
 どうすれば労働者は企業に隷従することなく、企業と対等な交渉力を持ち、自由に働くことができるでしょうか。ゼロベース株式会社の創業者・経営者として、そのような問題意識、いわば「自営の思想」を、2008年から実装・運用してきました：
@@ -52,6 +63,18 @@ redirect_from: /philosophy/
 日本社会でIT導入や生産性向上を妨げているものは何でしょうか。それは単なる「ITリテラシー」とか世代論の問題といったことではありません。江戸時代以来の日本的社会契約の問題なのです：
 
 {% linkpreview "https://hideishi.com/blog/2016/12/29/japan-productivity.html" %}
+
+コンピューターのデザインにおいて、「高齢者にやさしいデザイン」ということがよく言われますが、それは本当に高齢者を尊重したデザインになっているのでしょうか：
+
+{% linkpreview "https://hideishi.com/blog/2020/03/07/cyber-anti-ageism.html" %}
+
+新型コロナウイルス感染症対策アプリ（その日本版が接触確認アプリCOCOA）が人々に信頼されるためには、どのような設計であるべきだったしょうか：
+
+{% linkpreview "https://hideishi.com/blog/2020/05/26/ethical-guidelines-for-contact-tracing-apps.html" %}
+
+接触確認アプリCOCOAは、なぜ失敗したのでしょうか：
+
+{% linkpreview "https://hideishi.com/blog/2021/02/22/true-reason-why-cocoa-failed.html" %}
 
 ## スタートアップの思想
 
@@ -81,14 +104,3 @@ redirect_from: /philosophy/
 
 {% linkpreview "https://hideishi.com/blog/2020/04/01/world-ia-day-fukuoka-2020.html" %}
 
-コンピューターのデザインにおいて、「高齢者にやさしいデザイン」ということがよく言われますが、それは本当に高齢者を尊重したデザインになっているのでしょうか：
-
-{% linkpreview "https://hideishi.com/blog/2020/03/07/cyber-anti-ageism.html" %}
-
-新型コロナウイルス感染症対策アプリ（その日本版が接触確認アプリCOCOA）が人々に信頼されるためには、どのような設計であるべきだったしょうか：
-
-{% linkpreview "https://hideishi.com/blog/2020/05/26/ethical-guidelines-for-contact-tracing-apps.html" %}
-
-接触確認アプリCOCOAは、なぜ失敗したのでしょうか：
-
-{% linkpreview "https://hideishi.com/blog/2021/02/22/true-reason-why-cocoa-failed.html" %}
