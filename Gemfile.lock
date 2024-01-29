@@ -36,6 +36,7 @@ GEM
     fastimage (2.2.7)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
+    google-protobuf (3.24.1-aarch64-linux)
     google-protobuf (3.24.1-x86_64-linux)
     http-cookie (1.0.5)
       domain_name (~> 0.5)
@@ -101,6 +102,8 @@ GEM
       bourbon (>= 4.0)
       sass (>= 3.3)
     nesty (1.0.2)
+    nokogiri (1.15.4-aarch64-linux)
+      racc (~> 1.4)
     nokogiri (1.15.4-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -116,6 +119,8 @@ GEM
     safe_yaml (1.0.5)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
+    sass-embedded (1.66.1-aarch64-linux-gnu)
+      google-protobuf (~> 3.23)
     sass-embedded (1.66.1-x86_64-linux-gnu)
       google-protobuf (~> 3.23)
     sass-listen (4.0.0)
@@ -132,6 +137,7 @@ GEM
     zlib (2.1.1)
 
 PLATFORMS
+  aarch64-linux
   x86_64-linux
 
 DEPENDENCIES
