@@ -1,7 +1,7 @@
-hideishi.com
-============
+www.hideishi.com
+================
 
-<https://hideishi.com/>, a Jekyll-based website, hosted on GitHub Pages.
+<https://www.hideishi.com/>, a Jekyll-based website, hosted on GitHub Pages.
 
 Installation
 ------------

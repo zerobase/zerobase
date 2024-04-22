@@ -23,7 +23,7 @@ thumbnail: /assets/thumbnail.jpg
 email: hide@hideishi.com
 description: "ソフトウェア開発者／情報アーキテクト(IA)"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://hideishi.com" # the base hostname & protocol for your site
+url: "https://www.hideishi.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
